@@ -133,7 +133,7 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338007" name="Storm's End Tourney Grounds">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338007" name="Storm's End Tourney Grounds">
  			<property name="House" value="Baratheon" />
  			<property name="Type" value="Location" />
  			<property name="Traits" value="Stormlands." />
