@@ -847,7 +847,7 @@
 			<property name="PlotInitiative" value="" />
 			<property name="PlotClaim" value="" />
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb043" name="Cersei's Sheme">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb043" name="Cersei's Scheme">
 			<property name="House" value="Lannister" />
 			<property name="Type" value="Plot" />
 			<property name="Traits" value="" />
