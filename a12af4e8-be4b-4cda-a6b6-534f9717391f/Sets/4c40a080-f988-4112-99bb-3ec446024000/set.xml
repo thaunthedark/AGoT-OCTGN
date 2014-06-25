@@ -133,7 +133,7 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="4c40a080-f988-4112-99bb-3ec446024007" name="Gylbert Farwind">
+ 		<card id="4c40a080-f988-4112-99bb-3ec446024007" name="Gylbert Farwynd">
  			<property name="House" value="Greyjoy" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Ironborn.Lord.Ally" />
