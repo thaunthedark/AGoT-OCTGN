@@ -243,7 +243,7 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3012" name="Thirst for Vengance">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3012" name="Thirst for Vengeance">
  			<property name="House" value="Martell" />
  			<property name="Type" value="Attachment" />
  			<property name="Traits" value="Condition." />
