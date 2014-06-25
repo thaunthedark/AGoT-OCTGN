@@ -1739,7 +1739,7 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338080" name="You Swore and Oath">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338080" name="You Swore an Oath">
  			<property name="House" value="" />
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="" />
