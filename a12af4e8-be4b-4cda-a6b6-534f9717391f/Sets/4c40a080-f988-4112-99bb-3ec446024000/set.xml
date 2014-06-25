@@ -1211,7 +1211,7 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="4c40a080-f988-4112-99bb-3ec446024056" name="Citadel">
+ 		<card id="4c40a080-f988-4112-99bb-3ec446024056" name="Citadel Custom">
  			<property name="House" value="Neutral" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Citadel" />
