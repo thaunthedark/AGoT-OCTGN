@@ -991,7 +991,7 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338046" name="Enemy of the Crown">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338046" name="Enemy to the Crown">
  			<property name="House" value="Baratheon" />
  			<property name="Type" value="Attachment" />
  			<property name="Traits" value="Condition." />
