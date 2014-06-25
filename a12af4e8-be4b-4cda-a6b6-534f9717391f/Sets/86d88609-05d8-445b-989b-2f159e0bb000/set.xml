@@ -1527,7 +1527,7 @@
 			<property name="PlotInitiative" value="" />
 			<property name="PlotClaim" value="" />
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb077" name="Margeary Tyrell">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb077" name="Margaery Tyrell">
 			<property name="House" value="Baratheon. Lannister." />
 			<property name="Type" value="Character" />
 			<property name="Traits" value="Lady. Queen. House Tyrell." />
