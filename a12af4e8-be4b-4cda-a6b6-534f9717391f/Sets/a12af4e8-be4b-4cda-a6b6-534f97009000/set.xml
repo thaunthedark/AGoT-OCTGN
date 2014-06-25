@@ -1061,7 +1061,7 @@
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Unsullied." />
- 			<property name="Text" value="Noble characters you control cannot lose icons, have their STR reduced, or be knelt by card effects." />
+ 			<property name="Text" value=" N characters you control cannot lose icons, have their STR reduced, or be knelt by card effects." />
  			<property name="Keywords" value="" />
  			<property name="Unique" value="Yes" />
  			<property name="Cost" value="4" />
