@@ -1057,7 +1057,7 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009064" name="Stalward Shield">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009064" name="Stalwart Shield">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Unsullied." />
