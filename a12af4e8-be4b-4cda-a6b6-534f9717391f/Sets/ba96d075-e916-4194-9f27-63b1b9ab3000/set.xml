@@ -529,7 +529,7 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3025" name="Merchant Widow">
+ 		<card id="ba96d075-e916-4194-9f27-63b1b9ab3025" name="Merchant's Widow">
  			<property name="House" value="Lannister" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Ally." />
