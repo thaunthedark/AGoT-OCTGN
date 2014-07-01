@@ -2157,7 +2157,7 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003099" name="War of the Five Kings">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97003099" name="War of Five Kings">
  			<property name="House" value="Neutral." />
  			<property name="Type" value="Event" />
  			<property name="Traits" value="Epic Battle." />
