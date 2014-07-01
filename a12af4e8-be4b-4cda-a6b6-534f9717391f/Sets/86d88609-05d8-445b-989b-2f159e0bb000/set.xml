@@ -147,7 +147,7 @@
 			<property name="PlotInitiative" value="" />
 			<property name="PlotClaim" value="" />
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb008" name="Fleet from Lysene">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb008" name="Fleet from Lys">
 			<property name="House" value="Baratheon" />
 			<property name="Type" value="Character" />
 			<property name="Traits" value="Army. Mercenary. Smuggler." />
