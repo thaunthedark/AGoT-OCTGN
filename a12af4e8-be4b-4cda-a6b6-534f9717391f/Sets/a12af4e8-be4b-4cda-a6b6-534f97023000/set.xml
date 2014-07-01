@@ -199,7 +199,7 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97023010" name="Gregor Clegane">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97023010" name="Ser Gregor Clegane">
  			<property name="House" value="Lannister" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Knight. House Clegane." />
