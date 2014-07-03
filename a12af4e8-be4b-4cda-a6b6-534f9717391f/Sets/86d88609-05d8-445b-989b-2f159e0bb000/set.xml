@@ -873,7 +873,7 @@
 			<property name="Traits" value="Ironborn. Lord." />
 			<property name="Text" value="Response: After you win a challenge in which Andrik the Unsmiling participated by 4 or more total STR, choose the topmost location in the losing player's discard pile and put it into play under your control." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="3" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="1" />
