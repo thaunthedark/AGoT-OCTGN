@@ -711,7 +711,7 @@
  			<property name="Traits" value="Maester" />
  			<property name="Text" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="0" />
