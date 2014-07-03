@@ -111,13 +111,13 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008606" name="*Crown of Meereen">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008606" name="Crown of Meereen">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Attachment" />
  			<property name="Traits" value="Item. Crown" />
  			<property name="Text" value="TARG unique character only. If the White Raven card is not in play it is Summer. Response: After you win a challenge in which attached character participated, choose an attachment. Take control of that attachment, and attach it to an eligible card of your choice." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -199,13 +199,13 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008610" name="*Grey Worm">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008610" name="Grey Worm">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Unsullied." />
  			<property name="Text" value="Response: after you win a challenge in which Grey Worm participated, take 1 gold token from the treasury and place it on Grey Worm. Challenges: During a challenge, discard 1 gold token from Grey Worm to choose 1 character. That character gets either -2 or +2 STR until the end of the challenge." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="4" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="1" />
@@ -353,13 +353,13 @@
  			<property name="ErrataText" value="Should have the text: (Limit 3 times a round.)" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008617" name="*Pyat Pree">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008617" name="Pyat Pree">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Ally. Qartheen." />
  			<property name="Text" value="If you win a challenge in which Pyat Pree attacked alone, instead of the normal claim effects, choose and kill a character" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="3" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="1" />
@@ -375,13 +375,13 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008618" name="*Black Hatchling">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008618" name="Black Hatchling">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Creature. Dragon." />
  			<property name="Text" value="House Targaryen only. No attachments. Deadly. If you control Drogon, attach Black Hatchling and all of its duplicates to Drogon as duplicates." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="s0" />
  			<property name="Strength" value="1" />
  			<property name="Military" value="1" />
@@ -397,13 +397,13 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008619" name="*Green Hatchling">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008619" name="Green Hatchling">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Creature. Dragon." />
  			<property name="Text" value="House Targaryen only. No attachments. If you control Rhaegal, attach Green Hatchling and all of its duplicates to Rhaegal as duplicates." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="s0" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="1" />
@@ -419,13 +419,13 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008620" name="*White Hatchling">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008620" name="White Hatchling">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Creature. Dragon." />
  			<property name="Text" value="House Targaryen only. No attachments. Stealth. If you control Viserion, attach White Hatchling and all of its duplicates to Viserion as duplicates." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="s0" />
  			<property name="Strength" value="1" />
  			<property name="Military" value="1" />
@@ -441,13 +441,13 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008621" name="*Khal Drogo">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008621" name="Khal Drogo">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Lord. Dotrhaki" />
  			<property name="Text" value="Response: After Khal Drogo is killed, search your deck for X Dothraki characters, reveal them, and put them into your hand. Then, shuffle your deck. X is Khal Drogo's STR." />
  			<property name="Keywords" value="Deadly" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="4" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="1" />
@@ -463,13 +463,13 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008622" name="*Daenerys Targaryen">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008622" name="Daenerys Targaryen">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Lady. Queen." />
  			<property name="Text" value="Renown. Dragon characters you control do not kneel to attack" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="4" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="" />
@@ -485,13 +485,13 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008623" name="*Drogon">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008623" name="Drogon">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Creature. Dragon." />
  			<property name="Text" value="House Targaryen only. No Attachments. Ambush. Stealth. Response: After you win a challenge in which Drogon participated and all of your participating characters have the Dragon trait, choose and kill 1 character whose STR is equal to or less than the number of participating characters you control. (Limit once per phase)" />
  			<property name="Keywords" value="No attachments. Ambush. Stealth" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="4" />
  			<property name="Strength" value="4" />
  			<property name="Military" value="1" />
@@ -507,13 +507,13 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008624" name="*Rhaegal">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008624" name="Rhaegal">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Creature. Dragon." />
  			<property name="Text" value="House Targaryen only. No Attachments. Ambush. Stealth. Response: After you win a challenge in which Rhaegal participated and all of your participating characters have the Dragon trait, each participating character you control claims 1 power (Limit once per phase)." />
  			<property name="Keywords" value="No attachments. Ambush. Stealth" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="4" />
  			<property name="Strength" value="4" />
  			<property name="Military" value="1" />
@@ -529,13 +529,13 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008625" name="*Viserion">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008625" name="Viserion">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Creature. Dragon." />
  			<property name="Text" value="House Targaryen only. No Attachments. Ambush. Stealth. Response: After you win a challenge in which Viserion participated and all of your participating characters have the Dragon trait, choose and discard 1 location with a cost less than the number of participating characters you control (Limit once per phase)." />
  			<property name="Keywords" value="No attachments. Ambush. Stealth" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="4" />
  			<property name="Strength" value="4" />
  			<property name="Military" value="1" />
@@ -551,13 +551,13 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008626" name="*Qarth">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008626" name="Qarth">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Location" />
  			<property name="Traits" value="The East." />
  			<property name="Text" value="Challenges: Kneel Qarth to choose 1 Dragon character you control. Until the end of the phase that character gains an Intrigue icon and Deadly." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -573,13 +573,13 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008627" name="*Yunkai">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008627" name="Yunkai">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Location" />
  			<property name="Traits" value="The East." />
  			<property name="Text" value="Challenges: Kneel Yunkai to choose 1 Dragon character you control. Until the end of the phase, that character gains Renown." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -595,7 +595,7 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008628" name="*Astapor">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008628" name="Astapor">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Location" />
  			<property name="Traits" value="The East." />
@@ -617,7 +617,7 @@
  			<property name="ErrataText" value="" />
 			<property name="Enhancement" value="" />
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008629" name="*Meereen">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008629" name="Meereen">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Location" />
  			<property name="Traits" value="The East." />
