@@ -433,7 +433,7 @@
 			<property name="Traits" value="Warship" />
 			<property name="Text" value="Any Phase: Kneel Arbor Queen to choose a charatcter. Until the end of the phase, that character gets +1 STR for each gold token in your gold pool. " />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
