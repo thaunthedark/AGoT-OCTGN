@@ -2713,7 +2713,7 @@
 			<property name="Traits" value="Mercenary. Asshai." />
 			<property name="Text" value="Response: After you win a challenge by 4 or more total STR, return Pentoshi Guildmaster from your discard pile to your hand. Then, you may pay 3 gold to put Pentoshi Guildmaster into play from your hand." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="Infinity" />
 			<property name="Cost" value="3" />
 			<property name="Strength" value="2" />
 			<property name="Military" value="1" />
