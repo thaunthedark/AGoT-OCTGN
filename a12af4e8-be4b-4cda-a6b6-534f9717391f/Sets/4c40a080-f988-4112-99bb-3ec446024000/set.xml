@@ -1509,7 +1509,7 @@
  			<property name="Military" value="" />
  			<property name="Intrigue" value="1" />
  			<property name="Power" value="1" />
- 			<property name="Crest" value="" />
+ 			<property name="Crest" value="Learned" />
  			<property name="GoldIncome" value="" />
  			<property name="Influence" value="" />
  			<property name="Initiative" value="" />
@@ -1575,7 +1575,7 @@
  			<property name="Military" value="" />
  			<property name="Intrigue" value="1" />
  			<property name="Power" value="1" />
- 			<property name="Crest" value="" />
+ 			<property name="Crest" value="Learned" />
  			<property name="GoldIncome" value="" />
  			<property name="Influence" value="" />
  			<property name="Initiative" value="" />
@@ -2433,7 +2433,7 @@
  			<property name="Military" value="" />
  			<property name="Intrigue" value="" />
  			<property name="Power" value="" />
- 			<property name="Crest" value="" />
+ 			<property name="Crest" value="War" />
  			<property name="GoldIncome" value="" />
  			<property name="Influence" value="" />
  			<property name="Initiative" value="" />
@@ -2477,7 +2477,7 @@
  			<property name="Military" value="1" />
  			<property name="Intrigue" value="1" />
  			<property name="Power" value="" />
- 			<property name="Crest" value="" />
+ 			<property name="Crest" value="Learned" />
  			<property name="GoldIncome" value="" />
  			<property name="Influence" value="" />
  			<property name="Initiative" value="" />

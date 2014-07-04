@@ -521,7 +521,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Military" value="1"/>
 			<property name="Intrigue" value="0"/>
 			<property name="Power" value="1"/>
-			<property name="Crest" value="Royal"/>
+			<property name="Crest" value="Noble"/>
 			<property name="GoldIncome" value=""/>
 			<property name="Influence" value=""/>
 			<property name="Initiative" value=""/>
