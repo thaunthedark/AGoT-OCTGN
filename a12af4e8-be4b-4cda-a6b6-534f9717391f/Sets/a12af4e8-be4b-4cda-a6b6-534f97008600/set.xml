@@ -271,7 +271,7 @@
  			<property name="Traits" value="Ally. Qartheen." />
  			<property name="Text" value="Blue-Lipped Warlock does not kneel to attack. Dominance: Return Blue-Lipped Warlock from your dead pile to your hand. Use this ability only if there are at least 3 characters in your dead-pile." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Infinity" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="1" />
  			<property name="Military" value="" />

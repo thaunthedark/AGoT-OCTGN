@@ -19,8 +19,7 @@
 			<property name="Initiative" value="" />
 			<property name="PlotGoldIncome" value="" />
 			<property name="PlotInitiative" value="" />
-			<property name="PlotClaim" value="" />
-			
+			<property name="PlotClaim" value="" />			
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb002" name="Blackwater Bay Veteran">
 			<property name="House" value="Lannister" />
@@ -34,7 +33,6 @@
 			<property name="Military" value="1" />
 			<property name="Intrigue" value="0" />
 			<property name="Power" value="1" />
-			
 			<property name="Crest" value="War" />
 			<property name="GoldIncome" value="" />
 			<property name="Influence" value="" />
@@ -55,7 +53,6 @@
 			<property name="Military" value="0" />
 			<property name="Intrigue" value="1" />
 			<property name="Power" value="1" />
-			
 			<property name="Crest" value="War" />
 			<property name="GoldIncome" value="" />
 			<property name="Influence" value="" />
@@ -76,7 +73,6 @@
 			<property name="Military" value="0" />
 			<property name="Intrigue" value="0" />
 			<property name="Power" value="1" />
-			
 			<property name="Crest" value="Holy" />
 			<property name="GoldIncome" value="" />
 			<property name="Influence" value="" />
@@ -97,7 +93,6 @@
 			<property name="Military" value="1" />
 			<property name="Intrigue" value="0" />
 			<property name="Power" value="1" />
-			
 			<property name="Crest" value="War" />
 			<property name="GoldIncome" value="" />
 			<property name="Influence" value="" />
@@ -112,13 +107,12 @@
 			<property name="Traits" value="Ironborn. Lord. Captain." />
 			<property name="Text" value="While Victarion Greyjoy is attacking, raise the claim value on your revealed plot card by 1 if you control more participating characters with Naval enhancements than the defending opponent." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="4" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="1" />
 			<property name="Intrigue" value="0" />
 			<property name="Power" value="1" />
-			
 			<property name="Crest" value="War" />
 			<property name="GoldIncome" value="" />
 			<property name="Influence" value="" />
@@ -133,7 +127,7 @@
 			<property name="Traits" value="House Tyrell" />
 			<property name="Text" value="" />
 			<property name="Keywords" value="Melee. Renown." />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="4" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="1" />
@@ -193,7 +187,7 @@
 			<property name="Traits" value="Lord. Traitor. House Manderly." />
 			<property name="Text" value="While Wyman Manderly is participating is a challenge, participating characters with STR 2 or lower do not count their STR." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="3" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="0" />
@@ -233,7 +227,7 @@
 			<property name="Traits" value="Captain. Ally." />
 			<property name="Text" value="Response : After you lose a challenge in which Areo Hotah participated in as the defender, discard the top 5 cards of your deck to choose and kill a participating character." />
 			<property name="Keywords" value="Vengeful" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="3" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="1" />
@@ -273,7 +267,7 @@
 			<property name="Traits" value="Ally" />
 			<property name="Text" value="While no opponent controls a Queen character, Missandei cannot be discarded from play" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="1" />
 			<property name="Military" value="0" />
@@ -293,7 +287,7 @@
 			<property name="Traits" value="Captain" />
 			<property name="Text" value="Response: After you win a challenge in which Captain Groleo participated by 4 or more total STR, search your deck for an attachment and add it to your hand. Then, shuffle your deck." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="4" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="0" />
@@ -413,7 +407,7 @@
 			<property name="Traits" value="Lord. Captain. House Redwyne" />
 			<property name="Text" value="Response: After you win initiative, add 2 gold tokens from the treasury to your gold pool. " />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="4" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="0" />
@@ -453,7 +447,7 @@
 			<property name="Traits" value="Warship" />
 			<property name="Text" value="Dominance: Kneel Lionstar to move up 2 gold tokens from your gold pool on Lionstar. (Any number of gold tokens instead if you won a challenge with a participating Naval attacker this round.) Any phase: Kneel Lionstar to move any number of gold tokens from it to your gold pool. " />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -493,7 +487,7 @@
 			<property name="Traits" value="Ironborn. House Harlaw" />
 			<property name="Text" value="Response: After you win an unopposed challenge in which a unique character participated, choose one: draw 1 card or discard the top 3 cards of each opponent's deck. (Limit once per phase.) " />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="3" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="0" />
@@ -513,7 +507,7 @@
 			<property name="Traits" value="Warship" />
 			<property name="Text" value="Your Holy characters gain a Military icon" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -553,7 +547,7 @@
 			<property name="Traits" value="Smuggler. Captain" />
 			<property name="Text" value="Knelt Smuggler characters you control count their STR toward dominance. " />
 			<property name="Keywords" value="Renown. Melee" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="4" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="1" />
@@ -573,7 +567,7 @@
 			<property name="Traits" value="Warship" />
 			<property name="Text" value="Response: After you win a challenge in which you have declared a Naval attacker, kneel Black Betha to attach the top card of your discard pile face-down to a unique Baratheon character as a duplicate (Limit once per round.) " />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -653,7 +647,7 @@
 			<property name="Traits" value="Lord. Knight" />
 			<property name="Text" value="Response : After Quentyn Martell is killed, claim 2 power for your House." />
 			<property name="Keywords" value="Stealth" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="3" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="1" />
@@ -673,7 +667,7 @@
 			<property name="Traits" value="Warship" />
 			<property name="Text" value="Challenges : Kneel Meadowlark to choose a challenge icon. Each character in play loses all enhancements on that icon." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -733,7 +727,7 @@
 			<property name="Traits" value="Warship" />
 			<property name="Text" value="Response: After a character enters play under your control, kneel Vhagar and kneel 1 influence to attach the topmost attachment in your discard pile to that character, if able." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -813,7 +807,7 @@
 			<property name="Traits" value="Lord. Knight" />
 			<property name="Text" value="Ser Lancel Lannister gets +1 STR for each Holy character in play." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="2" />
 			<property name="Military" value="0" />
@@ -933,7 +927,7 @@
 			<property name="Traits" value="Smuggler. Captain. Traitor" />
 			<property name="Text" value="Response: After you play a Smuggler character, pay 2 gold to choose and discard from play 1 non-limited location with printed cost 3 or lower." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="3" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="1" />
@@ -953,7 +947,7 @@
 			<property name="Traits" value="The Reach." />
 			<property name="Text" value="When Oakenshield Port enters play put 6 gold tokens from the treasury on it.  Response: After you win a challenge, discard 1 gold token from Oakenshield Port to claim 1 power for your House (discard 2 gold tokens to claim 2 power for your House instead if a Naval attacker or defender was participating in that challenge)." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -993,7 +987,7 @@
 			<property name="Traits" value="Captain. Tyroshi. Ally." />
 			<property name="Text" value="While you control at least 1 Warship, Moreo Tumitis gains renown." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="3" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="0" />
@@ -1033,7 +1027,7 @@
 			<property name="Traits" value="Warship." />
 			<property name="Text" value="Response: After an opponent declares a Naval attacker against you, kneel Titan's Daughter to choose a standing character you control and kneel it as a defender.  If you win the challenge, search you deck for a character, reveal it, and shuffle your deck.  Then, put the revealed card on top of your deck." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1113,7 +1107,7 @@
 			<property name="Traits" value="Warship." />
 			<property name="Text" value="Any Phase: Kneel Balerion to lower the cost of the next character you put into play using ambush this phase by 1.  That character claims 1 power when it comes into play and until the end of the phase, it gains a Naval enhancement on its Power icon, if able." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="1" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1899,7 +1893,7 @@
 			<property name="Traits" value="" />
 			<property name="Text" value="Any Phase: Put a character or location card from your hand into Shadows as if it had the Shadows crest.  Then, attach Guided by Quaithe to it.  (Counts as a Condition attachment with the text, 'Pay the printed gold cost of the attached card to put it into play as your Shadows action.  If Guided by Quaithe becomes unattached, return attached card to it's owners hand if it is still in Shadows.'" />
 			<property name="Keywords" value="House Targaryen only." />
-			<property name="Unique" value="" />
+			<property name="Unique" value="Yes" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />

@@ -1195,7 +1195,7 @@
  			<property name="Traits" value="Maester" />
  			<property name="Text" value="Limited Response: After you win a challenge in which Archmaester Ebrose participated, he claims 1 power for each Chain attachment he has. (Limit 1 limited response per round.)" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="4" />
  			<property name="Strength" value="4" />
  			<property name="Military" value="" />

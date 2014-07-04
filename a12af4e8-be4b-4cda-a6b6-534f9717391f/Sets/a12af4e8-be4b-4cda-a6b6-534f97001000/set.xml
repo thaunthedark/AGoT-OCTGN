@@ -3659,7 +3659,7 @@
 			<property name="Traits" value="" />
 			<property name="Text" value="Any Phase: Choose a character. Until the end of the phase, that character gets -1 STR.  Dominance: Kneel 1 influence or pay 2 gold to return Forever Burning from your dead pile to your hand." />
 			<property name="Keywords" value="House Targaryen only. DeatBaratheonound." />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="Infinity" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />

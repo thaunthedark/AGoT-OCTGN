@@ -139,7 +139,7 @@
  			<property name="Traits" value="Stormlands." />
  			<property name="Text" value="Response: After you win a challenge in which at least 1 of your participating characters has joust, kneel your House card to place the topmost character in your discard pile on top of your deck (into your hand instead if you control more unique characters than each opponent)." />
  			<property name="Keywords" value="House Baratheon only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -513,7 +513,7 @@
  			<property name="Traits" value="Ally." />
  			<property name="Text" value="If you have more than one opponent Varys gains: 'Response: After an opponent declares a challenge, put Varys into Shadows to redirect the challenge against an eligible opponent of your choice, ignoring any Title restrictions.'" />
  			<property name="Keywords" value="House Lannister only. Stealth." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="s2" />
  			<property name="Strength" value="4" />
  			<property name="Military" value="0" />
@@ -1063,7 +1063,7 @@
  			<property name="Traits" value="Iron Islands." />
  			<property name="Text" value="Response: After you win an unnopposed challenge, kneel Nagga's Hill to choose a non-unique, non-event card in the losing player's discard pile.  Put that card into play under your control. At the end of the phase, discard that card if it is still in play." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="Yes" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
