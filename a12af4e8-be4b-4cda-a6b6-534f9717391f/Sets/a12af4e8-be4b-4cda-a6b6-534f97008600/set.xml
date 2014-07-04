@@ -475,7 +475,7 @@
  			<property name="Military" value="" />
  			<property name="Intrigue" value="1" />
  			<property name="Power" value="1" />
- 			<property name="Crest" value="NOBLE" />
+ 			<property name="Crest" value="Noble" />
  			<property name="GoldIncome" value="" />
  			<property name="Influence" value="" />
  			<property name="Initiative" value="" />
