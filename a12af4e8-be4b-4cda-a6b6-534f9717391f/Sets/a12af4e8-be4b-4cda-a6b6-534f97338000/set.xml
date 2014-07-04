@@ -2115,7 +2115,7 @@
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338097" name="A United Cause">
  			<property name="House" value="Stark. Baratheon." />
- 			<property name="Type" value="Event." />
+ 			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="House Stark or House Baratheon only. Play only if you have more than 1 opponent. Dominance: Discard 1 power from your House card to (choose one): return a character with printed cost 3 or less from your dead pile to your hand, or search the top 4 cards of your deck for a card, put it into your hand and then shuffle the rest back into your deck. (Limit 1 per phase)" />
  			<property name="Keywords" value="" />

@@ -1213,7 +1213,7 @@
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3056" name="Sellsword Deserter">
  			<property name="House" value="Targaryen." />
- 			<property name="Type" value="Character." />
+ 			<property name="Type" value="Character" />
  			<property name="Traits" value="Ally. Refugee." />
  			<property name="Text" value="Characters with the Ally or Refugee trait get -1 STR.&#10;Challenges: Discard an attachment from your hand to return Sellsword Deserter from your discard pile to your hand." />
  			<property name="Keywords" value="Ambush. House Targaryen only." />
