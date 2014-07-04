@@ -555,7 +555,7 @@
 			<property name="House" value="Lannister. Baratheon." />
 			<property name="Type" value="Character" />
 			<property name="Traits" value="Lord." />
-			<property name="Text" value="Response: After a Small Council event is played, kneel 3 influence or kneel 1 N character to choose and discard from play 1 character with 1 or more power on it." />
+			<property name="Text" value="Response: After a Small Council event is played, kneel 3 influence or kneel 1 NOBLE character to choose and discard from play 1 character with 1 or more power on it." />
 			<property name="Keywords" value="Renown." />
 			<property name="Unique" value="Yes" />
 			<property name="Cost" value="2" />
@@ -1017,7 +1017,7 @@
 			<property name="House" value="Martell." />
 			<property name="Type" value="Event" />
 			<property name="Traits" value="" />
-			<property name="Text" value="Plot: Kneel 5 influence or 2 N characters to choose and reveal a new plot card. (If it is Summer, you may play Scheming on the Sand during the Challenge phase.)" />
+			<property name="Text" value="Plot: Kneel 5 influence or 2 NOBLE characters to choose and reveal a new plot card. (If it is Summer, you may play Scheming on the Sand during the Challenge phase.)" />
 			<property name="Keywords" value="House Martell only. " />
 			<property name="Unique" value="No" />
 			<property name="Cost" value="" />

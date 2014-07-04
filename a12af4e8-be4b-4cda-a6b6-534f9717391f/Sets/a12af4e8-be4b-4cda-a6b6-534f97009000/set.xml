@@ -93,7 +93,7 @@
  			<property name="House" value="Baratheon." />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Ally." />
- 			<property name="Text" value="Loyal Guard can be played from your hand as a duplicate on a N character." />
+ 			<property name="Text" value="Loyal Guard can be played from your hand as a duplicate on a NOBLE character." />
  			<property name="Keywords" value="House Baratheon only. " />
  			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
@@ -203,7 +203,7 @@
  			<property name="House" value="Targaryen." />
  			<property name="Type" value="Attachment" />
  			<property name="Traits" value="Boon." />
- 			<property name="Text" value="Attached character gains the N crest and a Power icon." />
+ 			<property name="Text" value="Attached character gains the NOBLE crest and a POWER icon." />
  			<property name="Keywords" value="House Targaryen only. " />
  			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
@@ -599,7 +599,7 @@
  			<property name="House" value="Greyjoy." />
  			<property name="Type" value="Location" />
  			<property name="Traits" value="Iron Islands." />
- 			<property name="Text" value="Response: After you win a challenge in which at least 1 N character participated, choose 1 of the following: claim 1 power for your House, add 2 gold from the treasury to your gold pool, or draw 1 card. (You may select each option once per round.)" />
+ 			<property name="Text" value="Response: After you win a challenge in which at least 1 NOBLE character participated, choose 1 of the following: claim 1 power for your House, add 2 gold from the treasury to your gold pool, or draw 1 card. (You may select each option once per round.)" />
  			<property name="Keywords" value="" />
  			<property name="Unique" value="Yes" />
  			<property name="Cost" value="3" />
@@ -1061,7 +1061,7 @@
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Unsullied." />
- 			<property name="Text" value=" N characters you control cannot lose icons, have their STR reduced, or be knelt by card effects." />
+ 			<property name="Text" value="NOBLE characters you control cannot lose icons, have their STR reduced, or be knelt by card effects." />
  			<property name="Keywords" value="" />
  			<property name="Unique" value="Yes" />
  			<property name="Cost" value="4" />
@@ -1985,7 +1985,7 @@
  			<property name="House" value="Martell." />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Army." />
- 			<property name="Text" value=" N characters you control are immune to opponent's events." />
+ 			<property name="Text" value="NOBLE characters you control are immune to opponent's events." />
  			<property name="Keywords" value="No attachments." />
  			<property name="Unique" value="No" />
  			<property name="Cost" value="3" />
@@ -2183,7 +2183,7 @@
  			<property name="House" value="Neutral." />
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="" />
- 			<property name="Text" value="When revealed, choose 1 non-N character. That character gains 1 Trait of your choice until you reveal a new plot card." />
+ 			<property name="Text" value="When revealed, choose 1 non-NOBLE character. That character gains 1 Trait of your choice until you reveal a new plot card." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
  			<property name="Unique" value="No" />
@@ -2271,7 +2271,7 @@
  			<property name="House" value="Lannister." />
  			<property name="Type" value="Attachment" />
  			<property name="Traits" value="Condition." />
- 			<property name="Text" value="Attach to a N character you control.  Response: After attached character leaves play, take 3 gold from the treasury and add it to your gold pool." />
+ 			<property name="Text" value="Attach to a NOBLE character you control.  Response: After attached character leaves play, take 3 gold from the treasury and add it to your gold pool." />
  			<property name="Keywords" value="" />
  			<property name="Unique" value="No" />
  			<property name="Cost" value="0" />

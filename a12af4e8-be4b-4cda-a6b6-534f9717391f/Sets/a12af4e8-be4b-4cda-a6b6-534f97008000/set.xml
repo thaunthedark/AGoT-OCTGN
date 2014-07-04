@@ -1127,8 +1127,8 @@
  			<property name="House" value="Greyjoy." />
  			<property name="Type" value="Attachment" />
  			<property name="Traits" value="Item. Crown." />
- 			<property name="Text" value=" Greyjoy character only. Any Phase: Kneel Driftwood Crown to give attached character one of the following crest and icon pairs until the end of the phase: War and Military ; N and Power ; or Holy and Intrigue ." />
- 			<property name="Keywords" value="" />
+ 			<property name="Text" value="Any Phase: Kneel Driftwood Crown to give attached character one of the following crest and icon pairs until the end of the phase: WAR and MILITARY ; NOBLE and POWER ; or HOLY and INTRIGUE." />
+ 			<property name="Keywords" value="Greyjoy character only." />
  			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />

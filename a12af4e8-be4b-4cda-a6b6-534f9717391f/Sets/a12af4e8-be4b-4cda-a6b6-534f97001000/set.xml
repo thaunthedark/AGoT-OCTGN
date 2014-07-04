@@ -2469,7 +2469,7 @@
 			<property name="House" value="Targaryen." />
 			<property name="Type" value="Character" />
 			<property name="Traits" value="Queensguard." />
-			<property name="Text" value="Response: Pay 2 gold to save a N character from being killed." />
+			<property name="Text" value="Response: Pay 2 gold to save a NOBLE character from being killed." />
 			<property name="Keywords" value="" />
 			<property name="Unique" value="Yes" />
 			<property name="Cost" value="3" />
@@ -3349,7 +3349,7 @@
 			<property name="House" value="Stark." />
 			<property name="Type" value="Event" />
 			<property name="Traits" value="Small Council." />
-			<property name="Text" value="Dominance: Kneel 3 influence or kneel a N character to choose and kill a non-Stark character." />
+			<property name="Text" value="Dominance: Kneel 3 influence or kneel a NOBLE character to choose and kill a non-STARK character." />
 			<property name="Keywords" value="House Stark only. " />
 			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
@@ -3503,7 +3503,7 @@
 			<property name="House" value="Lannister." />
 			<property name="Type" value="Event" />
 			<property name="Traits" value="Small Council." />
-			<property name="Text" value="Any phase: Choose and kneel a non-N character. Then, that character claims 1 power." />
+			<property name="Text" value="Any phase: Choose and kneel a non-NOBLE character. Then, that character claims 1 power." />
 			<property name="Keywords" value="House Lannister only. " />
 			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
@@ -3569,7 +3569,7 @@
 			<property name="House" value="Baratheon." />
 			<property name="Type" value="Event" />
 			<property name="Traits" value="" />
-			<property name="Text" value="Any Phase: Kneel 3 influence or kneel a N character to force an opponent to reveal a new plot card. If the newly revealed plot card has a lower income than yours, claim 1 power for your House." />
+			<property name="Text" value="Any Phase: Kneel 3 influence or kneel a NOBLE character to force an opponent to reveal a new plot card. If the newly revealed plot card has a lower income than yours, claim 1 power for your House." />
 			<property name="Keywords" value="House Baratheon only. " />
 			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
@@ -3723,7 +3723,7 @@
 			<property name="House" value="Neutral." />
 			<property name="Type" value="Event" />
 			<property name="Traits" value="" />
-			<property name="Text" value="Any Phase: Choose and stand a H , L , N , or W character." />
+			<property name="Text" value="Any Phase: Choose and stand a HOLY , LEARNED , NOBLE , or WAR character." />
 			<property name="Keywords" value="" />
 			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
@@ -4075,7 +4075,7 @@
 			<property name="House" value="Neutral." />
 			<property name="Type" value="Plot" />
 			<property name="Traits" value="" />
-			<property name="Text" value="You may have up to 2 copies of The Power of Blood in your plot deck.  N characters cannot be killed." />
+			<property name="Text" value="You may have up to 2 copies of The Power of Blood in your plot deck. NOBLE characters cannot be killed." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
 			<property name="Unique" value="No" />

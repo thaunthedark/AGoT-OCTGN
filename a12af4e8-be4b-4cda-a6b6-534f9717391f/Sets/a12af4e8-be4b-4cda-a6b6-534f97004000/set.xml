@@ -643,7 +643,7 @@
  			<property name="House" value="Greyjoy." />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Lord. Ironborn." />
- 			<property name="Text" value="Response: After a card with the Shadow crest is discarded from a player's deck, kneel 1 influence or kneel a N character to put that card into Shadows under your control. (Limit once per phase.)" />
+ 			<property name="Text" value="Response: After a card with the SHADOW crest is discarded from a player's deck, kneel 1 influence or kneel a NOBLE character to put that card into Shadows under your control. (Limit once per phase.)" />
  			<property name="Keywords" value="House Greyjoy only. Renown." />
  			<property name="Unique" value="Yes" />
  			<property name="Cost" value="4" />
@@ -885,7 +885,7 @@
  			<property name="House" value="Stark." />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Lord." />
- 			<property name="Text" value="If you have a Baratheon House card, reduce the gold penalty to play Eddard Stark by 1.  Response: Cancel a triggered effect that chooses a N character as the only target. Then, draw a card. (Limit once per phase.)" />
+ 			<property name="Text" value="If you have a Baratheon House card, reduce the gold penalty to play Eddard Stark by 1.  Response: Cancel a triggered effect that chooses a NOBLE character as the only target. Then, draw a card. (Limit once per phase.)" />
  			<property name="Keywords" value="Renown." />
  			<property name="Unique" value="Yes" />
  			<property name="Cost" value="4" />
@@ -1237,7 +1237,7 @@
  			<property name="House" value="Neutral." />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Lord. House Arryn." />
- 			<property name="Text" value="Jon Arryn cannot be saved.  Response: After Jon Arryn is killed, put a N character into play from your hand or discard pile." />
+ 			<property name="Text" value="Jon Arryn cannot be saved.  Response: After Jon Arryn is killed, put a NOBLE character into play from your hand or discard pile." />
  			<property name="Keywords" value="Renown." />
  			<property name="Unique" value="Yes" />
  			<property name="Cost" value="4" />
@@ -1325,7 +1325,7 @@
  			<property name="House" value="Stark." />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Lady." />
- 			<property name="Text" value="If there are no cards in Shadows, Sansa Stark gets +2 STR, a N crest, and gains Renown." />
+ 			<property name="Text" value="If there are no cards in Shadows, Sansa Stark gets +2 STR, a NOBLE crest, and gains Renown." />
  			<property name="Keywords" value="" />
  			<property name="Unique" value="Yes" />
  			<property name="Cost" value="2" />
@@ -1853,7 +1853,7 @@
  			<property name="House" value="Lannister." />
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
- 			<property name="Text" value="Response: After a character triggers its character ability, kneel Ser Ilyn Payne or a N to kill that character." />
+ 			<property name="Text" value="Response: After a character triggers its character ability, kneel Ser Ilyn Payne or a NOBLE to kill that character." />
  			<property name="Keywords" value="House Lannister only. " />
  			<property name="Unique" value="No" />
  			<property name="Cost" value="" />

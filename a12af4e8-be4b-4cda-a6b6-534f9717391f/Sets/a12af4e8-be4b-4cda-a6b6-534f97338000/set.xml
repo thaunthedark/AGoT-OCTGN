@@ -1699,7 +1699,7 @@
  			<property name="House" value="Neutral" />
  			<property name="Type" value="Location" />
  			<property name="Traits" value="Westeros." />
- 			<property name="Text" value="Limit 1 per deck. Marshalling: Kneel Oncea Road to lower the cost of the next character with a Noble or War crest you play this phase." />
+ 			<property name="Text" value="Limit 1 per deck. Marshalling: Kneel Oncea Road to lower the cost of the next character with a NOBLE or WAR crest you play this phase." />
  			<property name="Keywords" value="" />
  			<property name="Unique" value="No" />
  			<property name="Cost" value="0" />

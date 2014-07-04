@@ -995,7 +995,7 @@
 			<property name="House" value="Neutral." />
 			<property name="Type" value="Character" />
 			<property name="Traits" value="Ally." />
-			<property name="Text" value="Any Phase: Kneel 1 influence to give Jack of All Trades (choose one) a War , a Noble , a Learned , or a Holy crest until the end of the phase." />
+			<property name="Text" value="Any Phase: Kneel 1 influence to give Jack of All Trades (choose one) a WAR , a NOBLE , a LEARNED , or a HOLY crest until the end of the phase." />
 			<property name="Keywords" value="" />
 			<property name="Unique" value="No" />
 			<property name="Cost" value="2" />
