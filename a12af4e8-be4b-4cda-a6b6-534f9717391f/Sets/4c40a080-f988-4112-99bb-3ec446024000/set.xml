@@ -775,7 +775,7 @@
  			<property name="House" value="Neutral" />
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Maester" />
- 			<property name="Text" value="Maester" />
+ 			<property name="Text" value="" />
  			<property name="Keywords" value="" />
  			<property name="Unique" value="" />
  			<property name="Cost" value="1" />
