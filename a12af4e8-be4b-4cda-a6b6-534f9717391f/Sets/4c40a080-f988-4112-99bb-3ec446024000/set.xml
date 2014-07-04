@@ -204,7 +204,7 @@
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Challenges: Kneel 1 influence to choose a Dragon character. Until the end of the phase, that character gains stealth, renown, and deadly." />
- 			<property name="Keywords" value="House Targaryen only" />
+ 			<property name="Keywords" value="House Targaryen only." />
  			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
@@ -248,7 +248,7 @@
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: Kneel a learned character or 3 influence to cancel the effects of an event card just played. Then, you may kneel a second Learned character to attach taht event to your House card. You may play that event as if it were in your hand" />
- 			<property name="Keywords" value="House Martell only" />
+ 			<property name="Keywords" value="House Martell only." />
  			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
@@ -688,7 +688,7 @@
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="HT only. Response: After a character's STR is reduced to 2 or lower by a card effect, return that character and all attachments on it to their owner's hand." />
- 			<property name="Keywords" value="House Targaryen only" />
+ 			<property name="Keywords" value="House Targaryen only." />
  			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
@@ -952,7 +952,7 @@
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: After you win an Intrigue challenge reveal up to 3 random cards from the losing opponent's hand. You may discard those cards and replace them with an equal number of cards from the top of that player's deck." />
- 			<property name="Keywords" value="" />
+ 			<property name="Keywords" value="House Lannister only." />
  			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
@@ -996,7 +996,7 @@
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Play at the beginning of the challenges phase. Challenges: Kneel a  character to choose a player. Until the end of the phase, all players use the base claim value from that player's revealed plot card." />
- 			<property name="Keywords" value="" />
+ 			<property name="Keywords" value="House Baratheon only." />
  			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
@@ -1546,7 +1546,7 @@
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Challenges: Choose a unique TARGARYEN character. Until the end of the phase, that character does not kneel to attack or defend during POW challenges." />
- 			<property name="Keywords" value="House Targaryen only" />
+ 			<property name="Keywords" value="House Targaryen only." />
  			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
@@ -1832,7 +1832,7 @@
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Play before any challenges have been initiated this phase. Any Phase: Kneel a Learned character to have each player choose up to 3 characters. Characters not chosen cannot participate in challenges this phase." />
- 			<property name="Keywords" value="House Lannister only" />
+ 			<property name="Keywords" value="House Lannister only." />
  			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
@@ -1920,7 +1920,7 @@
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Any Phase: Pay the printed cost of 1 location in your discard pile to put it into play." />
- 			<property name="Keywords" value="House Greyjoy only" />
+ 			<property name="Keywords" value="House Greyjoy only." />
  			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
@@ -2404,7 +2404,7 @@
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Challenges: Durin the next dominance phase, treat all locations as if they were characters with STR 3 and no icons." />
- 			<property name="Keywords" value="House Targaryen only" />
+ 			<property name="Keywords" value="House Targaryen only." />
  			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
