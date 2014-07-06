@@ -8,7 +8,7 @@
  			<property name="Text" value="If it is Winter, Arya Stark gains Stealth and Deadly.  If Arya Stark is killed, put her into Shadows instead of your dead pile." />
  			<property name="Keywords" value="House Stark only. " />
  			<property name="Unique" value="Yes" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="1" />
  			<property name="Intrigue" value="0" />
@@ -96,7 +96,7 @@
  			<property name="Text" value="Response: After a card comes out of Shadows, Tyrion Lannister gets +2 STR and gains your choice of Deadly, Renown, No attachments, or Immune to Events until the end of the phase." />
  			<property name="Keywords" value="House Lannister only. Stealth." />
  			<property name="Unique" value="Yes" />
- 			<property name="Cost" value="2" />
+ 			<property name="Cost" value="s2" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="1" />
  			<property name="Intrigue" value="1" />
@@ -162,7 +162,7 @@
  			<property name="Text" value="Response: After you declare attackers during a Power challenge, put Kingswood Trail into Shadows to choose and kneel a character with a Power icon controlled by the defending player." />
  			<property name="Keywords" value="House Baratheon only. " />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -184,7 +184,7 @@
  			<property name="Text" value="Wharf Rats cannot be killed.  After Wharf Rats' controller wins a challenge, discard the top card of its controller's deck.  Response: After Wharf Rats comes out of Shadows, choose an opponent. That opponent takes control of Wharf Rats." />
  			<property name="Keywords" value="House Greyjoy only. No attachments." />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="1" />
  			<property name="Intrigue" value="0" />
@@ -250,7 +250,7 @@
  			<property name="Text" value="Response: After Ser Barristan Selmy comes out of Shadows, look at one opponent's hand. Then, name a non-plot card. No player can play that card during this phase." />
  			<property name="Keywords" value="House Targaryen only. Renown. No attachments except Weapon." />
  			<property name="Unique" value="Yes" />
- 			<property name="Cost" value="2" />
+ 			<property name="Cost" value="s2" />
  			<property name="Strength" value="4" />
  			<property name="Military" value="1" />
  			<property name="Intrigue" value="0" />
@@ -272,7 +272,7 @@
  			<property name="Text" value="Attached character gets -2 STR and is killed if its STR is 0.  Response: After Dragon Skull comes out of Shadows, attach it to an opponent's character or discard it from play." />
  			<property name="Keywords" value="House Targaryen only. " />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -338,7 +338,7 @@
  			<property name="Text" value="Response: After The Shadow of the South comes out of Shadows, choose an opponent. That opponent cannot play event cards during this phase. Then, if it is Summer, return The Shadow of the South to its owner's hand." />
  			<property name="Keywords" value="House Martell only. " />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="0" />
+ 			<property name="Cost" value="s0" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -382,7 +382,7 @@
  			<property name="Text" value="Response: After Shadow Politics comes out of Shadows, choose a player. That player may initiate an additional Intrigue challenge against an opponent of his or her choice as a standard player action this phase." />
  			<property name="Keywords" value="" />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -536,7 +536,7 @@
  			<property name="Text" value="Response: After Gold Cloaks comes out of Shadows, draw a card for each Mercenary character you control." />
  			<property name="Keywords" value="House Lannister only. No attachments except Weapon." />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="2" />
+ 			<property name="Cost" value="s2" />
  			<property name="Strength" value="4" />
  			<property name="Military" value="1" />
  			<property name="Intrigue" value="0" />
@@ -558,7 +558,7 @@
  			<property name="Text" value="Response: After A Fistful of Coppers comes out of Shadows, move 2 gold from the treasury to your gold pool." />
  			<property name="Keywords" value="House Lannister only. " />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="0" />
+ 			<property name="Cost" value="s0" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -734,7 +734,7 @@
  			<property name="Text" value="Response: After The Shadow of the East comes out of Shadows, choose and discard 1 attachment from play. Then, if it is Summer, return The Shadow of the East to its owner's hand." />
  			<property name="Keywords" value="House Targaryen only. " />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="0" />
+ 			<property name="Cost" value="s0" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -1064,7 +1064,7 @@
  			<property name="Text" value="Response: After The Iron Throne comes out of Shadows, choose an opponent. If that opponent has more cards in hand than you, discard a card at random from that player's hand.  Response: After an opponent draws a card outside of the draw phase, The Iron Throne goes into Shadows." />
  			<property name="Keywords" value="House Baratheon only. " />
  			<property name="Unique" value="Yes" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -1130,7 +1130,7 @@
  			<property name="Text" value="Response: After The Shadow of the Isles comes out of Shadows, each player must choose and discard 1 non-limited location from play that he or she controls. Then, if it is Winter, return The Shadow of the Isles to its owner's hand." />
  			<property name="Keywords" value="House Greyjoy only. " />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -1372,7 +1372,7 @@
  			<property name="Text" value="Attached character gains an Intrigue icon.  Response: After Maester Malleon's Tome comes out of Shadows, attach it to a unique character. Then, if it is Winter, look at an opponent's unused plot deck, and move a plot card from that plot deck to that player's used plot pile." />
  			<property name="Keywords" value="House Stark only. " />
  			<property name="Unique" value="Yes" />
- 			<property name="Cost" value="2" />
+ 			<property name="Cost" value="s2" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -1438,7 +1438,7 @@
  			<property name="Text" value="Response: After a card comes out of Shadows, The Queen of Thorns claims 1 power. (Limit once per phase.)" />
  			<property name="Keywords" value="House Baratheon only. " />
  			<property name="Unique" value="Yes" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="1" />
@@ -1482,7 +1482,7 @@
  			<property name="Text" value="Response: After a card comes out of Shadows, kneel The Black Cells to choose an opponent's character. Until the end of the phase, that character cannot kneel or stand." />
  			<property name="Keywords" value="House Baratheon only. " />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -1526,7 +1526,7 @@
  			<property name="Text" value="Response: After Blackwater Raiders come out of Shadows, choose a location in an opponent's discard pile. Put that location into play under your control." />
  			<property name="Keywords" value="House Greyjoy only. No attachments except Weapon." />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="2" />
+ 			<property name="Cost" value="s2" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="1" />
  			<property name="Intrigue" value="0" />
@@ -1680,7 +1680,7 @@
  			<property name="Text" value="Response: After you win a challenge in which Syrio Forel participated, put him into Shadows." />
  			<property name="Keywords" value="Stealth." />
  			<property name="Unique" value="Yes" />
- 			<property name="Cost" value="0" />
+ 			<property name="Cost" value="s0" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="1" />
  			<property name="Intrigue" value="0" />
@@ -1702,7 +1702,7 @@
  			<property name="Text" value="If The Red Keep would leave play, it goes into Shadows instead of going to its owner's hand, deck, discard, or dead pile." />
  			<property name="Keywords" value="No attachments." />
  			<property name="Unique" value="Yes" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -1812,7 +1812,7 @@
  			<property name="Text" value="Response: After Qyburn comes out of Shadows, choose a non-Army character in an opponent's dead pile. Put that character into play under your control. If that character is still in play at the end of the phase, return it to its owner's dead pile." />
  			<property name="Keywords" value="House Lannister only. Deadly." />
  			<property name="Unique" value="Yes" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="1" />
@@ -1900,7 +1900,7 @@
  			<property name="Text" value="After you win an Intrigue challenge, Small Council Chamber goes into Shadows.  Response: After Small Council Chamber comes out of Shadows, return a Small Council event from your discard pile to your hand." />
  			<property name="Keywords" value="House Baratheon only. " />
  			<property name="Unique" value="Yes" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -1966,7 +1966,7 @@
  			<property name="Text" value="Response: After King's Landing Assassin comes out of Shadows, choose a character with no attachments. Until the end of the phase, that character gets -2 STR and is killed if its STR is 0." />
  			<property name="Keywords" value="House Targaryen only. " />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="2" />
+ 			<property name="Cost" value="s2" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="1" />
  			<property name="Intrigue" value="1" />
@@ -1988,7 +1988,7 @@
  			<property name="Text" value="Response: After Shadow Prophet comes out of Shadows, you may look at 1 card in Shadows controlled by each opponent." />
  			<property name="Keywords" value="House Targaryen only. " />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="0" />
+ 			<property name="Cost" value="s0" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="1" />
@@ -2098,7 +2098,7 @@
  			<property name="Text" value="Response: After Backroom Bribery comes out of Shadows, choose an opponent. Move 1 gold from that player's gold pool to yours." />
  			<property name="Keywords" value="House Martell only. " />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="0" />
+ 			<property name="Cost" value="s0" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -2120,7 +2120,7 @@
  			<property name="Text" value="After Varys comes out of Shadows, choose and discard 1 Ally character from play." />
  			<property name="Keywords" value="Stealth." />
  			<property name="Unique" value="Yes" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="1" />
@@ -2164,7 +2164,7 @@
  			<property name="Text" value="After a card comes out of Shadows, stand King's Landing.  Any Phase: Kneel King's Landing to draw a card. Use this ability only if you control more King's Landing locations than each opponent." />
  			<property name="Keywords" value="" />
  			<property name="Unique" value="Yes" />
- 			<property name="Cost" value="2" />
+ 			<property name="Cost" value="s2" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -2252,7 +2252,7 @@
  			<property name="Text" value="Response: After a card comes out of Shadows, kneel Alchemist's Guild Hall to choose and kneel a character or location that does not have the Shadow crest." />
  			<property name="Keywords" value="House Lannister only. " />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -2362,7 +2362,7 @@
  			<property name="Text" value="Response: After you win an unopposed challenge in which Island Mercenaries participated, they claim 1 power." />
  			<property name="Keywords" value="House Greyjoy only. Renown. No attachments." />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="4" />
+ 			<property name="Cost" value="s4" />
  			<property name="Strength" value="6" />
  			<property name="Military" value="1" />
  			<property name="Intrigue" value="0" />
@@ -2406,7 +2406,7 @@
  			<property name="Text" value="Response: After a character with STR 2 or lower is killed, stand Free Cities Mercenaries." />
  			<property name="Keywords" value="House Targaryen only. Renown. No attachments." />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="4" />
+ 			<property name="Cost" value="s4" />
  			<property name="Strength" value="6" />
  			<property name="Military" value="1" />
  			<property name="Intrigue" value="0" />
@@ -2472,7 +2472,7 @@
  			<property name="Text" value="Response: After you win a challenge in which Southron Mercenaries participated, move 1 power from the losing opponent's House card to your own." />
  			<property name="Keywords" value="House Martell only. Renown. No attachments." />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="4" />
+ 			<property name="Cost" value="s4" />
  			<property name="Strength" value="6" />
  			<property name="Military" value="1" />
  			<property name="Intrigue" value="1" />
@@ -2516,7 +2516,7 @@
  			<property name="Text" value="After Venomous Blade comes out of Shadows, attach it to a character you control. Then, choose and kill an opponent's character with printed STR 2 or less.  Response: After you lose a challenge, Venomous Blade goes into Shadows." />
  			<property name="Keywords" value="House Martell only. " />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="0" />
+ 			<property name="Cost" value="s0" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -2560,7 +2560,7 @@
  			<property name="Text" value="Challenges: Bring Ser Mandon Moore out of Shadows and into play by paying the rest of his gold cost.  Response: After you win a challenge in which Ser Mandon Moore participated as the defender, choose and kill a participating character." />
  			<property name="Keywords" value="No attachments except Weapon." />
  			<property name="Unique" value="Yes" />
- 			<property name="Cost" value="2" />
+ 			<property name="Cost" value="s2" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="1" />
  			<property name="Intrigue" value="0" />
@@ -2582,7 +2582,7 @@
  			<property name="Text" value="Response: After Pyromancer's Apprentice comes out of Shadows, choose a location controlled by an opponent. That location's controller must pay 1 gold to you or discard that location from play." />
  			<property name="Keywords" value="" />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="1" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="1" />
