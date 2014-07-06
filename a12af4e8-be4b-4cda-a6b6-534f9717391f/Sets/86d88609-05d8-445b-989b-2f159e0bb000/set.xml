@@ -328,7 +328,7 @@
 			<property name="Text" value="Response: After Summer Sea Corsair comes out of Shadows, reveal 1 card from the top of your deck for each Smuggler character you control. Choose 1 revealed card and add it to your hand. Then, shuffle the rest back into your deck." />
 			<property name="Keywords" value="" />
 			<property name="Unique" value="No" />
-			<property name="Cost" value="1" />
+			<property name="Cost" value="s1" />
 			<property name="Strength" value="2" />
 			<property name="Military" value="1" />
 			<property name="Intrigue" value="1" />
