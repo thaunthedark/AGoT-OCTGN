@@ -844,7 +844,7 @@
 			<property name="Text" value="While you control more Knight characters than each other player, draw 1 additional card in the draw phase. While you control fewer Knight characters than each other player, draw 1 fewer card in the draw phase." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1064,7 +1064,7 @@
 			<property name="Text" value="At the end of the marshalling phase, discard all cards in Shadows." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1086,7 +1086,7 @@
 			<property name="Text" value="Treat all plots with a name other than Forgotten Plans as if their text box were blank during every phase except the plot phase." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1108,7 +1108,7 @@
 			<property name="Text" value="You may have up to 2 copies of The Power of Faith in your plot deck. Holy characters you control gain a Military icon and do not kneel to attack." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1130,7 +1130,7 @@
 			<property name="Text" value="Characters and locations cannot be saved." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1152,7 +1152,7 @@
 			<property name="Text" value="When revealed, place the top card of your discard pile on top of your deck." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1174,7 +1174,7 @@
 			<property name="Text" value="When revealed, you may choose to add +6 gold to your income this marshalling phase. If you do, you cannot initiate challenges this round." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1196,7 +1196,7 @@
 			<property name="Text" value="A player cannot initiate a Military challenge unless he or she has won a Power challenge that phase." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />

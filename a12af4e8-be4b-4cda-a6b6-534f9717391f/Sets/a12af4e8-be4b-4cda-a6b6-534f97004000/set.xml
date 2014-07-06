@@ -228,7 +228,7 @@
  			<property name="Text" value="Ignore the out of House gold penalty on all Greyjoy cards.  Each opponent without a Treaty agenda needs 5 fewer power (to a minimum of 10) to win the game." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -316,7 +316,7 @@
  			<property name="Text" value="Ignore the out of House gold penalty on all Martell cards.  Each opponent without a Treaty agenda needs 5 fewer power (to a minimum of 10) to win the game." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -404,7 +404,7 @@
  			<property name="Text" value="When revealed, you may put up to 2 cards with the Shadow crest into Shadows from your hand without paying any costs." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -426,7 +426,7 @@
  			<property name="Text" value="You may ignore the &quot;House X only&quot; deckbuilding restriction on any card with the Shadow crest.  Whenever you bring any card with a &quot;House X only&quot; restriction that does not match your House card out of Shadows, pay 1 additional gold.  If you do not have any cards in Shadows, you cannot claim power for unopposed challenges." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -866,7 +866,7 @@
  			<property name="Text" value="When revealed, choose and kneel up to X characters. X is the number of City plots in your used pile." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1306,7 +1306,7 @@
  			<property name="Text" value="When revealed, shuffle the top X cards of your discard pile back into your deck. X is the number of City plots in your used pile." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1724,7 +1724,7 @@
  			<property name="Text" value="If you control at least 1 Kingsguard character, claim 1 power for your House each time you successfully defend a challenge.  Each time you lose a challenge as the attacker, kneel a standing Kingsguard character you control or discard 1 power from your House." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1746,7 +1746,7 @@
  			<property name="Text" value="When revealed, you may trigger the &quot;when revealed&quot; effect of any City plot card in your used pile." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -2186,7 +2186,7 @@
  			<property name="Text" value="When revealed, look at the top X cards of any player's deck, discard one of those cards, and put the rest on top of that deck in any order. X is the number of City plots in your used pile." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -2626,7 +2626,7 @@
  			<property name="Text" value="When revealed, choose and kill a character with STR X or lower. X is the number of City plot cards in your used pile." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />

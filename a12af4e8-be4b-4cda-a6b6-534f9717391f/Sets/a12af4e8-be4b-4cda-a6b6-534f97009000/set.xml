@@ -404,7 +404,7 @@
  			<property name="Text" value="You may run any number of The North agendas. You need 2 additional power to win the game.Night's Watch characters you control gain a Military icon." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="Yes" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -426,7 +426,7 @@
  			<property name="Text" value="When revealed, claim 1 power for your House. (Claim 2 power instead if it is Winter.)" />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -844,7 +844,7 @@
  			<property name="Text" value="You may run any number of The North agendas. You need 2 additional power to win the game. Wildling characters you control gain stealth." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="Yes" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -866,7 +866,7 @@
  			<property name="Text" value="Each player cannot play or put into play more than 1 card from his or her hand until you reveal a new plot card." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1284,7 +1284,7 @@
  			<property name="Text" value="You may run any number of The North agendas. You need 2 additional power to win the game.  Night's Watch characters you control gain a Power icon." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="Yes" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1306,7 +1306,7 @@
  			<property name="Text" value="You are considered to be running one additional The North agenda." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1724,7 +1724,7 @@
  			<property name="Text" value="You may run any number of The North agendas. You need 2 additional power to win the game.  Wildling characters you control get +1 STR." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="Yes" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1746,7 +1746,7 @@
  			<property name="Text" value="At the end of the dominance phase, discard all standing characters from play (cannot be saved)." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -2164,7 +2164,7 @@
  			<property name="Text" value="You may run any number of The North agendas. You need 2 additional power to win the game.  Night's Watch characters you control gain an Intrigue icon." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="Yes" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -2186,7 +2186,7 @@
  			<property name="Text" value="When revealed, choose 1 non-NOBLE character. That character gains 1 Trait of your choice until you reveal a new plot card." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -2604,7 +2604,7 @@
  			<property name="Text" value="You may run any number of The North agendas. You need 2 additional power to win the game.  Reduce the cost of the first Wildling character you play from your hand each round by 2." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="Yes" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -2626,7 +2626,7 @@
  			<property name="Text" value="If you win dominance this round, claim 3 additional power for your House." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="House Stark only." />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />

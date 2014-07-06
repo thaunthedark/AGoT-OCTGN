@@ -51,7 +51,7 @@
  			<property name="Traits" value="The North." />
  			<property name="Text" value="Challenges: Kneel The Last River to give all participating characters without a Military icon -1 STR until the end of the challenge." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -117,7 +117,7 @@
  			<property name="Traits" value="House Tyrell." />
  			<property name="Text" value="Challenges: Kneel Highgarden Squire to choose 1 Knight character. That character gains joust until the end of the phase." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="1" />
  			<property name="Military" value="0" />
@@ -227,7 +227,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Challenges: Choose a participating character you control. Until the end of the challenge, that character gains melee. Then, each participating character controlled by an opponent gets -1 STR until the end of the phase." />
  			<property name="Keywords" value="House Targaryen only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -293,7 +293,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: After a Martell character is killed, unique Sand Snake characters you control gain renown until the end of the phase" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -337,7 +337,7 @@
  			<property name="Traits" value="Lord. Raider" />
  			<property name="Text" value="After you play Newly Made Lord from your hand, choose and discard from play a non-limited location with cost 3 or lower, if able." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="3" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="0" />
@@ -359,7 +359,7 @@
  			<property name="Traits" value="Knight. Night's Watch." />
  			<property name="Text" value="Cards you control cannot gain Traits through card effects." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="3" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="1" />
@@ -381,7 +381,7 @@
  			<property name="Traits" value="Wildling. Refugee." />
  			<property name="Text" value="Response: After Free Man leaves play, choose and stand 1 War character." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="1" />
  			<property name="Military" value="1" />
@@ -403,7 +403,7 @@
  			<property name="Traits" value="Item. Weapon." />
  			<property name="Text" value="Attached character gains joust.&#10;After you play Tourney Lance, draw 1 card" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -469,7 +469,7 @@
  			<property name="Traits" value="Knight. House Bolton." />
  			<property name="Text" value="If you control no other House Bolton characters, discard Draedfort Outrider from play." />
  			<property name="Keywords" value="Joust. Melee." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="1" />
  			<property name="Military" value="1" />
@@ -491,7 +491,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="Attach to an opponent's House Card.&#10;Attached House card gains: 'Characters you control get +2 STR during  Military challenges.'&#10;After the owner of attached House Card wins a Military challenge, claim 1 power for your House if you have more than 1 opponent." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -535,7 +535,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="Attach to an opponent's House card.&#10;If you have more than 1 opponent, after a player wins an Intrigue challenge against the owner of attached House card, kneel Whisper Campaign.  Then, the winner of the challenge draws 1 card for each card discarded for claim." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -557,7 +557,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Dominance: Pay X gold to choose and discard 1 attachment from play.  X is the printed gold cost of the attachment." />
  			<property name="Keywords" value="House Lannister only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -601,7 +601,7 @@
  			<property name="Traits" value="Weapon." />
  			<property name="Text" value="Response: After you win a Power challenge in which attached character participated, choose and discard from play 1 participating character with 1 or more power on it." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -667,7 +667,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: After you win an unopposed challenge, reveal the top 5 cards of the losing opponent's deck.  Choose and discard 2 cards (3 cards instead if it is Winter) and put the rest back on top of the deck in any order." />
  			<property name="Keywords" value="House Greyjoy only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -689,7 +689,7 @@
  			<property name="Traits" value="Dothraki. Army." />
  			<property name="Text" value="If you have more than 1 opponent, Khaleesi's Faithful gains: 'Limited Response: afer Khaleesi's Faithful is declared as a defender, move 1 power from a card controlled by the attacking player to your House card. (Limit 1 Limited Response per round.)'" />
  			<property name="Keywords" value="No attachments." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="4" />
  			<property name="Strength" value="4" />
  			<property name="Military" value="1" />
@@ -711,7 +711,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: After you declare 2 or more attackers, each with the Dothraki trait, opponents cannot declare non-Army characters as defenders during this challenge." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -821,7 +821,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Dominance: If you won every challenge in which you were the attacker or defender this round (minimum of 1), choose a non-Army character you control to claim 1 power for each opponent in the game. (Limit one per phase.)" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -997,7 +997,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="Attach to an opponent's House card.&#10;If you have more than 1 opponent, after a player wins a Power chllenge against the owner of attached House card, kneel Enemy to the Crown.  Then, the winner of the challenge stands 1 character for each power moved for claim." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1019,7 +1019,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: After Fiery Kiss comes out of Shadows, choose 1 non-Army Baratheon character in your dead pile and put it into play.  That character gains vigilant until the end of the phase.  As the end of the phase, discard the character if it is still in play." />
  			<property name="Keywords" value="House Baratheon only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="s0" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1085,7 +1085,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="Attach to an opponent's House card.&#10;If you have more than 1 opponent, after a player wins a Military challenge against the owner of attached House card, kneel The Iron Price.  Then, the winner of the challenge claims 1 power for each character killed for claim." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1151,7 +1151,7 @@
  			<property name="Traits" value="Bastard. Sand Snake." />
  			<property name="Text" value="Response: After you lose a challenge as the defender, choose a challenge icon.  Then each opponent chooses 1 standing character he or she controls with that icon, if able.  All chosen characters lose that icon until the end of the phase." />
  			<property name="Keywords" value="House Martell only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="s1" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="0" />
@@ -1261,7 +1261,7 @@
  			<property name="Traits" value="Item." />
  			<property name="Text" value="Attached character gains melee." />
  			<property name="Keywords" value="Setup." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1415,7 +1415,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: After a player plays a character with a Trait he already has in play, choose and return 1 character with that Trait to the top of its owner's deck." />
  			<property name="Keywords" value="House Lannister only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1437,7 +1437,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Marshalling: Kneel a Knight character to add 1 gold to your gold pool for each Knight character you control." />
  			<property name="Keywords" value="House Lannister only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1547,7 +1547,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: Kneel an Ironborn character to cancel the effects of an event card just played. Then, discard the top card of the event controller's deck. If a non-character card is discarded this way, shuffle Finger Dance back into your deck." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1657,7 +1657,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="House Martell only. Response: After you lose a challenge, kneel 2 influence to choose 1 participating character controllled by the winning player and return it to its owner's hand." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1740,7 +1740,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338080" name="You Swore an Oath">
- 			<property name="House" value="" />
+ 			<property name="House" value="Neutral" />
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Knight characters gain joust and do not kneel to defend." />

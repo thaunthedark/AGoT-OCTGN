@@ -7,7 +7,7 @@
  			<property name="Traits" value="Title." />
  			<property name="Text" value="Response: Save attached character from being killed, then return it to its owner's hand." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="0" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -29,7 +29,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="If there is at least 1 Dragon character in play, attached character must be chosen to satisfy Military claim, if able." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -51,7 +51,7 @@
  			<property name="Traits" value="Weapon." />
  			<property name="Text" value="Attached character gains +1 STR and War. While attached character is attacking, defending characters are killed if their STR is 0." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -73,7 +73,7 @@
  			<property name="Traits" value="Item." />
  			<property name="Text" value="Attached character gains a Military, Intrigue, and POW icon. Response: After you win a challenge in which attached character participated, look at the top 3 cards of your deck (5 if it is Summer),  put 1 into your hand, then return the others to the top of your deck, in any order." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -95,7 +95,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="Attached character cannot be saved. Response: After you lose a challenge by 4 or more total STR, until the end of the phase, attached character gets -4 STR and is killed if its STR is 0." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="0" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -139,7 +139,7 @@
  			<property name="Traits" value="Ally. Free Cities." />
  			<property name="Text" value="Any phase: Kneel True-Queen's Harbinger to lower the cost of the next Dothraki or Dragon you play or put into play by 1." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="0" />
  			<property name="Strength" value="1" />
  			<property name="Military" value="" />
@@ -161,7 +161,7 @@
  			<property name="Traits" value="Army. Mercenary." />
  			<property name="Text" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="1" />
@@ -183,7 +183,7 @@
  			<property name="Traits" value="Army. Unsullied." />
  			<property name="Text" value="Limited Response: After you declare Pike Phalanx as an attacker with at least one other character with a War crest, raise the claim value on your revealed plot card by 1 until the end of the phase (Limit 1 limited Response per round)." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="3" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="1" />
@@ -227,7 +227,7 @@
  			<property name="Traits" value="Army. Unsullied." />
  			<property name="Text" value="No Attachments. Response: After you win a POW challenge, choose and discard an attachment from play." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="4" />
  			<property name="Strength" value="4" />
  			<property name="Military" value="1" />
@@ -249,7 +249,7 @@
  			<property name="Traits" value="Army. Dothraki." />
  			<property name="Text" value="No Attachments. Renown. After Thundering Cavalry enter play, discard all characters with STR 1 or lower from play." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="7" />
  			<property name="Strength" value="6" />
  			<property name="Military" value="1" />
@@ -293,7 +293,7 @@
  			<property name="Traits" value="Ally. Qartheen." />
  			<property name="Text" value="House Targaryen only. Deadly. Response: After Warlock of Qarth comes out of Shadows, choose 1 location with printed cost equal to or lower than the number of cards in Shadows. Return that location to its owner's hand." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="s1" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="" />
@@ -315,7 +315,7 @@
  			<property name="Traits" value="Dothraki." />
  			<property name="Text" value="House Targaryen only. Challenges: During a Military challenge, kneel 1 influence to put Horseback Archers into play from your hand, knelt, as an attacker or defender. Then, at the end of that phase, if Horseback Archers is in play, return it to it's owner's hand." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="1" />
@@ -337,7 +337,7 @@
  			<property name="Traits" value="Dothraki." />
  			<property name="Text" value="Response: after a character's STR is reduced by a card effect, stand Killer of the Wounded." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="1" />
@@ -667,7 +667,7 @@
  			<property name="Traits" value="Free Cities." />
  			<property name="Text" value="Any Phase: Kneel 1 influence to put Myrish Villa into play from your hand Marshalling: Kneel Myrish Villa to lower the cost of the next TARGARYEN card you play this phase by 1 (by 2 instead if it is Summer)." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -689,7 +689,7 @@
  			<property name="Traits" value="Westeros." />
  			<property name="Text" value="Marshalling: Discard Summer Sea from play to reduce the cost of the next &gt; or TARG character you play this phase by 2." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="0" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -733,7 +733,7 @@
  			<property name="Traits" value="Free Cities." />
  			<property name="Text" value="Limited Marshalling: Kneel Eastern Fiefdoms to lower the cost of the next TARG card you play this phase by 1. [[+1 INFLUENCE]]" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -755,7 +755,7 @@
  			<property name="Traits" value="Free Cities." />
  			<property name="Text" value="Limited Marhalling: Kneel to lower the cost of the next TARG character you play this phase by 2." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -777,7 +777,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Challenges: Put a TARG character into play from your hand or discard pile with printed cost lower than your total initiative. At the end of the phase, if that character is still in play, return that character to its owner's hand." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -799,7 +799,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="House Targaryen only. Challenges: If it is Summer, kneel 2 influence to choose all participating, non-Dragon characters. Until the end of the phase, each of those characters gets -2 STR and is killed if its STR is 0." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -821,7 +821,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Dominance: Kneel 1 influence to return a TARG character from your dead pile to your hand." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -843,7 +843,7 @@
  			<property name="Traits" value="Maester." />
  			<property name="Text" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="3" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="" />
@@ -865,7 +865,7 @@
  			<property name="Traits" value="Maester." />
  			<property name="Text" value="Dominance: Kneel Initiate of the Citadel to choose a character. Return any number of attachments on that character to their owner's hands" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="1" />
  			<property name="Military" value="" />
@@ -887,7 +887,7 @@
  			<property name="Traits" value="Westeros." />
  			<property name="Text" value="Challenges: Kneel High Ground to choose and stand an in-house Army character." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -909,7 +909,7 @@
  			<property name="Traits" value="Westeros." />
  			<property name="Text" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -931,7 +931,7 @@
  			<property name="Traits" value="King's Landing." />
  			<property name="Text" value="Limit 1 per deck. River Row comes into play knelt. Marshalling: Kneel River Row to lower the cost of the next character you play this phase by 1." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="0" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -953,7 +953,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Marshalling: Choose and discard from play 1 Ally or Mercenary character, or up to 2 Refugee characters" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -975,7 +975,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Dominance: Kneel 3 influence to discard all non-Limited locations from play." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -997,7 +997,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: Cancel the effects of an event card just played that does not have a gold or an influence cost." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />

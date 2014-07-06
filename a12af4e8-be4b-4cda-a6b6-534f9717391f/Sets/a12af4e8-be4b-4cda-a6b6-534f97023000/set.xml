@@ -645,7 +645,7 @@
  			<property name="Traits" value="Lannisport." />
  			<property name="Text" value="" />
  			<property name="Keywords" value="Limited." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -689,7 +689,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Challanges: Pay X gold from your gold pool to give X participating Lannister characters +X STR until the end of the challange." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -711,7 +711,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="House Lannister only. Response: After you count income, choose an opponent and add X gold to your gold pool, where X is the number of characters that opponent controls. (Limit 1 per phase.)" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -733,7 +733,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="House Lannister only. Response: After defenders have been declared in a challenge, kneel 2 influence or pay 2 gold to change the effect of winning the challenge of that of another challenge type." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -755,7 +755,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="House Lannister only. Response: After a player claims 1 or more power for his or her House. move that power to a Lannister character." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -887,7 +887,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Any Phase: Until the end of the challange, participating characters without an Intrigue icon do not count their STR." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -959,7 +959,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="House Stark or House Lannister only. Dominance: Kneel 1 influence to choose 2 unique characters in 2 different discard piles, and put them into play, under their owners' control." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />

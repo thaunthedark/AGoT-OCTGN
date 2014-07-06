@@ -8,7 +8,7 @@
  			<property name="Text" value="If it is Summer, draw 1 additional card during the draw phase. If it is Winter, draw 1 less card (to a minimum of 1) during the draw phase." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -426,7 +426,7 @@
  			<property name="Text" value="While it is Summer, your characters get +1 STR." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -448,7 +448,7 @@
  			<property name="Text" value="If it is Winter, any opponent with as many cards in hand as you, or more, must randomly discard a card from his or her hand at the end of the draw phase. If it is Summer, any opponent with fewer cards in hand than you draws a card at the end of the draw phase, if able." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -866,7 +866,7 @@
  			<property name="Text" value="While it is Winter, opponent's characters get -1 STR." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1284,7 +1284,7 @@
  			<property name="Text" value="When revealed, search your deck for a Raven card, reveal it, and put it into your hand. Then, shuffle your deck." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1306,7 +1306,7 @@
  			<property name="Text" value="Any Phase: Pay 1 gold to give Unconventional Warfare the Military Battle, Power Struggle or Intrigue Gambit trait until the end of the phase." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1724,7 +1724,7 @@
  			<property name="Text" value="Each player cannot declare more than 1 attacker or defender in each challenge." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1746,7 +1746,7 @@
  			<property name="Text" value="Any effect that would make it Summer or Winter is considered inactive while The Raven's Song is revealed." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -2186,7 +2186,7 @@
  			<property name="Text" value="After you win a challenge and it is Summer or Winter, choose and reveal a new plot card." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />

@@ -426,7 +426,7 @@
  			<property name="Text" value="Any character with more attachments than each other character in play does not kneel to attack or defend." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -844,7 +844,7 @@
  			<property name="Text" value="If you would claim or move power to your House, you must place it on a Brotherhood character you control instead. Opponents may choose and take power from your Brotherhood characters to fulfill the claim of Power challenges initiated against you." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -866,7 +866,7 @@
  			<property name="Text" value="When revealed, put a Holy character into play from your dead pile." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1284,7 +1284,7 @@
  			<property name="Text" value="You cannot place cards during the setup phase. Other cards you control do not provide a gold bonus. Your House card gains:" />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1306,7 +1306,7 @@
  			<property name="Text" value="Knelt characters cannot be killed." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -1746,7 +1746,7 @@
  			<property name="Text" value="If you win initiative, you must choose an opponent as the first player." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -2186,7 +2186,7 @@
  			<property name="Text" value="After a player loses a challenge, that player must reveal a new plot card." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />
@@ -2626,7 +2626,7 @@
  			<property name="Text" value="When revealed, kneel all non-unique characters in play." />
  			<property name="Crest" value="" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="No" />
+ 			<property name="Unique" value="" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="0" />

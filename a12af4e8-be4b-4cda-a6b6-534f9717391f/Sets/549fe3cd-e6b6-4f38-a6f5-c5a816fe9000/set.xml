@@ -96,7 +96,7 @@
 			<property name="Traits" value=""/>
 			<property name="Text" value="Response: After you win a challenge in which you control a participating Lord or Lady character, the losing player much choose 1 location he or she controls.  Then, choose and take control of a different non-limited location under that player's control."/>
 			<property name="Keywords" value="House Baratheon only.  Prized 1."/>
-			<property name="Unique" value=""/>
+			<property name="Unique" value="No"/>
 			<property name="Cost" value=""/>
 			<property name="Strength" value=""/>
 			<property name="Military" value=""/>
@@ -140,7 +140,7 @@
 			<property name="Traits" value=""/>
 			<property name="Text" value="Response: After you win dominance, discard all locations from play.  You cannot play locations for the rest of the game."/>
 			<property name="Keywords" value="House Greyjoy only.  Prized 1."/>
-			<property name="Unique" value=""/>
+			<property name="Unique" value="No"/>
 			<property name="Cost" value=""/>
 			<property name="Strength" value=""/>
 			<property name="Military" value=""/>
@@ -250,7 +250,7 @@
 			<property name="Traits" value=""/>
 			<property name="Text" value="Response: After you lose a challenge as the defender, kneel 2 influence to choose and discard an attacking character from play.  Then, search the deck and hand of that character's controller for any number of copies of that character and discard them.  Then, shuffle the deck."/>
 			<property name="Keywords" value="House Martell only.  Prized 2."/>
-			<property name="Unique" value=""/>
+			<property name="Unique" value="No"/>
 			<property name="Cost" value=""/>
 			<property name="Strength" value=""/>
 			<property name="Military" value=""/>
@@ -294,7 +294,7 @@
 			<property name="Traits" value=""/>
 			<property name="Text" value="Response: Play after you win a Military challenge as the defender.  Immediately after the resolution of the current challenge, a Military challenge is initiated against the losing opponent with you as the attacking player and your currently defending characters as your only attacking characters."/>
 			<property name="Keywords" value=""/>
-			<property name="Unique" value=""/>
+			<property name="Unique" value="No"/>
 			<property name="Cost" value=""/>
 			<property name="Strength" value=""/>
 			<property name="Military" value=""/>
@@ -493,7 +493,7 @@
 			<property name="Traits" value=""/>
 			<property name="Text" value="Challenges: Until the end of the phase, each prized character you control gets +2 STR and gains renown."/>
 			<property name="Keywords" value="House Baratheon only."/>
-			<property name="Unique" value=""/>
+			<property name="Unique" value="No"/>
 			<property name="Cost" value=""/>
 			<property name="Strength" value=""/>
 			<property name="Military" value=""/>
@@ -537,7 +537,7 @@
 			<property name="Traits" value=""/>
 			<property name="Text" value="Response: After a player declares a Naval attacker or defender, put a Warship location into play from your hand."/>
 			<property name="Keywords" value="House Greyjoy only."/>
-			<property name="Unique" value=""/>
+			<property name="Unique" value="No"/>
 			<property name="Cost" value=""/>
 			<property name="Strength" value=""/>
 			<property name="Military" value=""/>
@@ -603,7 +603,7 @@
 			<property name="Traits" value=""/>
 			<property name="Text" value="Limited Response: After an opponent reveals a plot card, kneel a unique Lannister character to cancel the revealing of that plot and move it to its owner's used pile.  That player must choose and reveal a new plot card. (Limit 1 limited response per round.)"/>
 			<property name="Keywords" value="House Lannister only. Prized 3."/>
-			<property name="Unique" value=""/>
+			<property name="Unique" value="No"/>
 			<property name="Cost" value=""/>
 			<property name="Strength" value=""/>
 			<property name="Military" value=""/>
@@ -801,7 +801,7 @@
 			<property name="Traits" value="Item."/>
 			<property name="Text" value="Attached character gains a Power icon, and during Power challenges gains renown."/>
 			<property name="Keywords" value=""/>
-			<property name="Unique" value=""/>
+			<property name="Unique" value="No"/>
 			<property name="Cost" value=""/>
 			<property name="Strength" value=""/>
 			<property name="Military" value=""/>
@@ -1439,7 +1439,7 @@
 			<property name="Traits" value=""/>
 			<property name="Text" value="Response: After you win an unopposed challegne, search your deck for a Warship location, reveeal it, and add it to your hand. Then, shuffle your deck."/>
 			<property name="Keywords" value="House Greyjoy only."/>
-			<property name="Unique" value=""/>
+			<property name="Unique" value="No"/>
 			<property name="Cost" value=""/>
 			<property name="Strength" value=""/>
 			<property name="Military" value=""/>

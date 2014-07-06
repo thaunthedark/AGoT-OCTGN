@@ -29,7 +29,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="Attached character gains the Traitor trait and the text: 'If you do not win dominance, discard this character from play.'&#10;Response: After Turncloak comes out of Shadows during the challenges phase, attach it to an opponent's character." />
  			<property name="Keywords" value="House Greyjoy or House Stark only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="s0" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -51,7 +51,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: After you win a Military challenge, choose a character of STR 2 or less controlled by the losing player. Attach Ward to the chosen character as a Condition attachment with the text: 'Take control of attached character. If the owner of attached character wins an Intrigue or Power challenge against you, discard Ward.'" />
  			<property name="Keywords" value="House Stark or House Targaryen only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -117,7 +117,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: Discard 1 power from a Lannister character you control to cancel a triggered effect that chooses that character as its only target. Then, draw a card." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -249,7 +249,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="Attached character gainst deadly.&#10;Response: After a character dies for deadly, attached character claims 1 power." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -271,7 +271,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Challenges: Choose a Martell character. Until the end of the phase that character gainst stealth and 'Immune to triggered effects.'" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -293,7 +293,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="Attached character gets -1 STR.&#10;Response: After Harried by Dragons is played from your hand, search your deck for a card named Harried by Dragons and put it into your hand. Then, shuffle your deck." />
  			<property name="Keywords" value="House Targaryen only. Ambush." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -315,7 +315,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Challenges: Kneel 1 influence to choose a character and name a Trait. Until the end of the phase, that character gets -X STR and is killed if its STR is 0. X is the number of Targaryen characters you control with the named Trait." />
  			<property name="Keywords" value="House Targaryen only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -491,7 +491,7 @@
  			<property name="Traits" value="Fortification." />
  			<property name="Text" value="Attach to a location you control.&#10;Attached location is immune to non-plot card effects.&#10;While you are the defending player, non-unique characters lose stealth and deadly." />
  			<property name="Keywords" value="House Stark only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -579,7 +579,7 @@
  			<property name="Traits" value="Lord. Ally." />
  			<property name="Text" value="Response: After you win dominance, Dragonstone Bannerman claims 1 power." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="3" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="1" />
@@ -667,7 +667,7 @@
  			<property name="Traits" value="Bastard." />
  			<property name="Text" value="Response: After you lose a challenge as the attacker, stand Spiteful Bastard.&#10;Response: After you win a challenge as the defender, stand Spiteful Bastard." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="1" />
@@ -689,7 +689,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Any Phase: Kneel X influence to choose a non-unique Mercenary or Ally character in your dead or discard pile and put that character into play. X is the printed cost of that character." />
  			<property name="Keywords" value="House Targaryen only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -887,7 +887,7 @@
  			<property name="Traits" value="Ally." />
  			<property name="Text" value="Characters with stalwart gain stealth.&#10;Response: After you play a character with the stalwart keyword from your hand, choose and stand a Stark character." />
  			<property name="Keywords" value="Stalwart." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="1" />
  			<property name="Military" value="0" />
@@ -909,7 +909,7 @@
  			<property name="Traits" value="Ally. Wildling." />
  			<property name="Text" value="If Abel's Washerwoman is attacking and all of your participating characters have the Wildling trait, she gains: 'Response: After the defending player declares no defenders, claim 1 power for your House.'" />
  			<property name="Keywords" value="Melee." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="0" />
  			<property name="Military" value="0" />
@@ -931,7 +931,7 @@
  			<property name="Traits" value="The East." />
  			<property name="Text" value="While Yezzan's Grotesquerie is participating in a challenge, characters with a Military icon do not count their STR." />
  			<property name="Keywords" value="Infamy." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="3" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="0" />
@@ -953,7 +953,7 @@
  			<property name="Traits" value="Ally." />
  			<property name="Text" value="Response: After an opponent pays gold outside of the marshalling phase, move that gold into your gold pool." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="0" />
@@ -975,7 +975,7 @@
  			<property name="Traits" value="Wildling. Traitor." />
  			<property name="Text" value="Challenges: Before any challenges are declared, discard a card from your hand to give a Baratheon or Stark character renown until the end of the phase. (Limit 3 times per round.)" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="3" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="0" />
@@ -1019,7 +1019,7 @@
  			<property name="Traits" value="Ironborn." />
  			<property name="Text" value="If Follower of Two Gods would be killed, instead put it on the bottom of your deck.&#10;Response: After you win an unopposed challenge, Follower of Two Gods gains a Power icon until the end of the phase." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="1" />
  			<property name="Military" value="1" />
@@ -1063,7 +1063,7 @@
  			<property name="Traits" value="Ironborn. Raider." />
  			<property name="Text" value="Response: After you win an unopposed challenge in which Iron Fleet Captain participated, it claims 1 power." />
  			<property name="Keywords" value="Stealth." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="3" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="1" />
@@ -1173,7 +1173,7 @@
  			<property name="Traits" value="Ally." />
  			<property name="Text" value="Challenges: Kill Watchful Servant (cannot be saved) to choose a participating character with STR 3 or higher. Remove that character from the current challenge." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="0" />
@@ -1393,7 +1393,7 @@
  			<property name="Traits" value="The East." />
  			<property name="Text" value="Challenges: Kneel Pentoshi Manor to choose an opponent's attacking character. The controller of that character chooses to either have that character claim 1 power and remove it from the challenge, or that character gets -2 STR and loses all keywords until the end of the phase." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1415,7 +1415,7 @@
  			<property name="Traits" value="Asshai. Knight." />
  			<property name="Text" value="Response: After you win dominance, draw 1 card." />
  			<property name="Keywords" value="Renown." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="3" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="1" />
@@ -1459,7 +1459,7 @@
  			<property name="Traits" value="Ally. Traitor." />
  			<property name="Text" value="Response: After a character is killed for deadly, draw 1 card." />
  			<property name="Keywords" value="Deadly." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="1" />
  			<property name="Military" value="1" />
@@ -1503,7 +1503,7 @@
  			<property name="Traits" value="Warship." />
  			<property name="Text" value="Captured Cog counts as 4 STR during the dominance phase." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1547,7 +1547,7 @@
  			<property name="Traits" value="Ally." />
  			<property name="Text" value="Challenges: Kneel Rhoynar Emissary to choose a character. If that character is not declared as a participant in the next challenge this phase for which it is eligible, discard it from play. Any opponent may kneel 2 influence to cancel this effect." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="0" />
@@ -1613,7 +1613,7 @@
  			<property name="Traits" value="Item." />
  			<property name="Text" value="Attach to a card controlled by an opponent. Targaryen cards of the attached card's type in your hand gain ambush during the challenges phase." />
  			<property name="Keywords" value="House Targaryen only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1701,7 +1701,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Any Phase: Reveal the top 4 cards of each player's deck. Choose 1 revealed card owned by each player, and add it to its owner's hand. Shuffle all other cards back into their owner's decks." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1811,7 +1811,7 @@
  			<property name="Traits" value="Weapon." />
  			<property name="Text" value="Response: After attached character stands, kill attached character. Then, draw 1 card." />
  			<property name="Keywords" value="House Stark only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1833,7 +1833,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Dominance: If you lost dominance this phase, choose a standing unique Stark character. That character claims 2 power. (Limit 1 per round.)" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1855,7 +1855,7 @@
  			<property name="Traits" value="The East." />
  			<property name="Text" value="Limited Response: After an opponent's character is knelt by a card effect, kneel Dockside Brothel to have a unique Lannister character claim 1 power." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="0" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1877,7 +1877,7 @@
  			<property name="Traits" value="Weapon." />
  			<property name="Text" value="Attached character gets +1 STR and gains deadly.&#10;Any Phase: Pay 1 gold to return Dragonbone Dagger from your discard pile to your hand." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1899,7 +1899,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="Attach to a character with printed cost 2 or lower.&#10;Take control of attached character." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="2" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1921,7 +1921,7 @@
  			<property name="Traits" value="The North." />
  			<property name="Text" value="Any Phase: Kneel 2 influence and discard Northern Encampment from play to stand all unique Knight characters in play." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1943,7 +1943,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="Challenges: Kneel Banner Bearer to choose a Knight or Lord character you control. Attached character gains all keywords the chosen character has until the end of the phase." />
  			<property name="Keywords" value="Setup." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1965,7 +1965,7 @@
  			<property name="Traits" value="Warship." />
  			<property name="Text" value="Response: After you win an unopposed challenge, kneel Freed Galley to claim 1 power for any participating unique Greyjoy character." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -1987,7 +1987,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="Attached character cannot be declared alone as an attacker or defender." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="0" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -2075,7 +2075,7 @@
  			<property name="Traits" value="Army. Mercenary." />
  			<property name="Text" value="Response: After Company of the Cat is put into play through a card effect, draw 1 card." />
  			<property name="Keywords" value="House Targaryen only. Ambush." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="4" />
  			<property name="Strength" value="4" />
  			<property name="Military" value="1" />
@@ -2097,7 +2097,7 @@
  			<property name="Traits" value="Army. Mercenary." />
  			<property name="Text" value="Response: After a character comes into play, choose and stand a Targaryen character you control. (Limit once per phase.)" />
  			<property name="Keywords" value="House Targaryen only. Ambush." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="3" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="1" />
@@ -2119,7 +2119,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="Attached character gains renown.&#10;Attached character gets -1 STR for each gold token on it and is discarded if its STR is 0.&#10;When attached character claims 1 or more power, put 1 gold token from the treasury on that character." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="0" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -2141,7 +2141,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Dominance: After you win dominance, kneel 2 influence or kneel 1 Lord character to choose and kill a non-unique character." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -2229,7 +2229,7 @@
  			<property name="Traits" value="Creature." />
  			<property name="Text" value="Attached character gets +2 STR and cannot be bypassed by stealth." />
  			<property name="Keywords" value="Setup." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -2251,7 +2251,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: Kneel 1 influence to save a unique Stark or Greyjoy character from being killed. Then, attach Rhymes with Meek to the saved character (counts as a Condition attachment with the text 'Attached character cannot have its STR raised or lowered by card effects.')" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -2273,7 +2273,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Challenges: Kneel 1 influence to choose a participating character. Remove that character from the challenge. Then, discard 1 power from that character and 1 power from your House card." />
  			<property name="Keywords" value="House Lannister only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -2317,7 +2317,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Any Phase: Until the end of the phase, character abilities cannot be triggered." />
  			<property name="Keywords" value="House Baratheon only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -2339,7 +2339,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Any Phase: Choose and kill a character you control (cannot be saved) to choose and put into play a character in your dead pile that was killed this phase." />
  			<property name="Keywords" value="House Baratheon only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -2361,7 +2361,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="Attach to a Warship location you control. Attached location is immune to non-plot card effects.&#10;Add 3 to your total STR during any Military challenge in which you control at least 1 attacking character." />
  			<property name="Keywords" value="House Greyjoy only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -2383,7 +2383,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: After a challenge resolves in which a character did not count its STR because of intimidate, kill that character.&#10;Response: Save a Holy character from being killed. Then, that character claims 1 power." />
  			<property name="Keywords" value="House Greyjoy only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -2405,7 +2405,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="Any Phase: Kneel 2 influence or kneel 1 Warship location to choose a River plot card in any player's used plot pile. Trigger that plot's 'When revealed' effect as if you had just revealed it." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -2449,7 +2449,7 @@
  			<property name="Traits" value="Ally." />
  			<property name="Text" value="Challenges: Kneel Greenblood Merchant to choose a character. That character gains or loses an icon of your choice until the end of the phase. Any opponent may kneel 1 influence to cancel this effect." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="1" />
  			<property name="Military" value="0" />
@@ -2471,7 +2471,7 @@
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="After you play Outthought, draw 1 card.&#10;Response: After you lose a challenge, kneel attached character." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -2493,7 +2493,7 @@
  			<property name="Traits" value="Small Council." />
  			<property name="Text" value="Challenges: Choose 2 characters controlled by two different players. Until the end of the phase, the character of your choice loses all keywords and the other character gains each of those lost keywords.&#10;Response: After you lose a challenge as the attacker, choose and stand a participating character." />
  			<property name="Keywords" value="House Martell only." />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -2537,7 +2537,7 @@
  			<property name="Traits" value="The East." />
  			<property name="Text" value="Challenges: Kneel Meereenese Fighting Pit to choose and stand a Dragon character or a character with 1 or more Weapon attachments." />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="1" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
@@ -2581,7 +2581,7 @@
  			<property name="Traits" value="" />
  			<property name="Text" value="You may play this card during any response window.&#10;Response: Until the end of the phase, players cannot play any additional responses. (Cannot be canceled.)" />
  			<property name="Keywords" value="" />
- 			<property name="Unique" value="" />
+ 			<property name="Unique" value="No" />
  			<property name="Cost" value="" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />

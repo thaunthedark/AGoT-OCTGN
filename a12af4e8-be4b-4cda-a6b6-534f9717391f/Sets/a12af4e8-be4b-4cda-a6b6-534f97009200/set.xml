@@ -1174,7 +1174,7 @@
 			<property name="Text" value="At the end of the challenge phase, each player who has not won a Militarychallenge must choose and kill 1 character he or she controls." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1196,7 +1196,7 @@
 			<property name="Text" value="After you win an Intrigue challenge, choose and discard 1 attachment from play." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1218,7 +1218,7 @@
 			<property name="Text" value="All characters get -1 STR and are discarded from play (cannot be saved) if their STR is 0." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1240,7 +1240,7 @@
 			<property name="Text" value="When revealed, the opponent to your left chooses 1 Lord and 1 Lady character, if able. Then, you must choose and kill 1 of those characters. The other claims 2 power." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1262,7 +1262,7 @@
 			<property name="Text" value="When revealed, kneel all locations." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1284,7 +1284,7 @@
 			<property name="Text" value="You may play cards from other Houses without paying a gold penalty." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1306,7 +1306,7 @@
 			<property name="Text" value="Characters you control do not kneel to attack this round." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="House Martell only." />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />

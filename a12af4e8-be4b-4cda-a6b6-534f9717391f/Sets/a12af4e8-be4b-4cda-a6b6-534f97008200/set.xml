@@ -1020,7 +1020,7 @@
 			<property name="Text" value="Ignore the out of House gold penalty on all Stark cards.  Each opponent without a Treaty agenda needs 5 fewer power (to a minimum of 10) to win the game." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1042,7 +1042,7 @@
 			<property name="Text" value="You cannot claim power for your House except during a Military challenge.  Response: After you win a Military challenge, claim 2 power for your House." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="House Stark only." />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1064,7 +1064,7 @@
 			<property name="Text" value="When revealed, each player chooses and discards 1 of his or her characters from play (cannot be saved)." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1086,7 +1086,7 @@
 			<property name="Text" value="Treat all characters in play as though their printed text boxes were blank (except for Traits). Limit 1 per plot deck." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1108,7 +1108,7 @@
 			<property name="Text" value="Characters and locations are immune to events this round." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1130,7 +1130,7 @@
 			<property name="Text" value="If you lose initiative, discard your hand." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1152,7 +1152,7 @@
 			<property name="Text" value="You may initiate an additional Military challenge during the challenge phase." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1174,7 +1174,7 @@
 			<property name="Text" value="When revealed, search the top 5 cards of your deck for any number of House Tully cards, reveal them, and add them to your hand. Then, shuffle the other searched cards back into your deck." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
@@ -1196,7 +1196,7 @@
 			<property name="Text" value="Lower the cost of the first Stark character you play during the marshalling phase by 2." />
 			<property name="Crest" value="" />
 			<property name="Keywords" value="House Stark only." />
-			<property name="Unique" value="No" />
+			<property name="Unique" value="" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
