@@ -756,7 +756,7 @@
  			<property name="Text" value="Ally Any phase: Bring Jaqen H'ghar out of Shadows by paying the rest of his cost to choose 1 non-Army character in an opponent's dead pile that was killed this phase, and attach it to Jaqen H'ghar as a duplicate. Jaqen H'ghar gains the printed text, base STR, icons, traits and crests of that card. If that duplicate leaves play, retunr Jaqen H'ghar to Shadows." />
  			<property name="Keywords" value="" />
  			<property name="Unique" value="Yes" />
- 			<property name="Cost" value="2" />
+ 			<property name="Cost" value="s2" />
  			<property name="Strength" value="0" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
@@ -1328,7 +1328,7 @@
  			<property name="Text" value="Challenges: Pay the rest of Guardian Wolf's cost to bring it out of Shadows, knelt, as a participant on your side in any challenge in which you control at least 1 participating Lord or Lady character." />
  			<property name="Keywords" value="House Stark only. No attachments. Deadly." />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="2" />
  			<property name="Military" value="1" />
  			<property name="Intrigue" value="" />
