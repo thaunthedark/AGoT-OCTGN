@@ -802,7 +802,7 @@
 			<property name="Text" value="Attached character gains a Power icon, and during Power challenges gains renown."/>
 			<property name="Keywords" value=""/>
 			<property name="Unique" value="No"/>
-			<property name="Cost" value=""/>
+			<property name="Cost" value="1"/>
 			<property name="Strength" value=""/>
 			<property name="Military" value=""/>
 			<property name="Intrigue" value=""/>

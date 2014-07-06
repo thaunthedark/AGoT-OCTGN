@@ -1213,7 +1213,7 @@
 		</card>
  		<card id="4c40a080-f988-4112-99bb-3ec446024056" name="Citadel Custom">
  			<property name="House" value="Neutral" />
- 			<property name="Type" value="Character" />
+ 			<property name="Type" value="Event"/>
  			<property name="Traits" value="Citadel" />
  			<property name="Text" value="Challenges: Kneel a Maester character to choose a player. That player may initiate an additional Power challenge this phase." />
  			<property name="Keywords" value="" />
@@ -1390,11 +1390,11 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024064" name="Spidercraft">
  			<property name="House" value="Lannister" />
  			<property name="Type" value="Attachment" />
- 			<property name="Traits" value="Skill" />
+ 			<property name="Traits" value="Skill." />
  			<property name="Text" value="Attach to a character you control with an Intrigue and a POW icon. When you win a challenge in which attached character attacked alone, instead of the normal claim effects, look at the losing opponent's hand and choose and discard 1 card from that player's hand." />
  			<property name="Keywords" value="" />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="" />
+ 			<property name="Cost" value="2" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
  			<property name="Intrigue" value="" />
@@ -1940,11 +1940,11 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024089" name="Bloodrider">
  			<property name="House" value="Targaryen" />
  			<property name="Type" value="Character" />
- 			<property name="Traits" value="Ally. Dothraki" />
+ 			<property name="Traits" value="Ally. Dothraki." />
  			<property name="Text" value="Response: Kneel 2 influence and put Bloodrider into play from your hand to cancel the effects of a character ability just triggered." />
  			<property name="Keywords" value="House Targaryen only" />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="" />
+ 			<property name="Cost" value="2" />
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
  			<property name="Intrigue" value="" />
@@ -2428,7 +2428,7 @@
  			<property name="Text" value="Response: After you lose a challenge as the defender, kneel Spear Phalanx and kneel 3 influence to choose and discard 1 attacking character from play." />
  			<property name="Keywords" value="No attachments. Deadly." />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="" />
+ 			<property name="Cost" value="5"/>
  			<property name="Strength" value="" />
  			<property name="Military" value="" />
  			<property name="Intrigue" value="" />

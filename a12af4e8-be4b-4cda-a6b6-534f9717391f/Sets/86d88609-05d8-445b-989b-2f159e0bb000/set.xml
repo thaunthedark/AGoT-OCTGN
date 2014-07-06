@@ -1348,7 +1348,7 @@
 			<property name="Text" value="Challenges: If you have won a challenge by 4 or more total STR this phase, kneel and discard Shores of the Blackwater from play to choose a character in your dead pile killed this phase.  Return that character to your hand." />
 			<property name="Keywords" value="" />
 			<property name="Unique" value="No" />
-			<property name="Cost" value="" />
+			<property name="Cost" value="0"/>
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
 			<property name="Intrigue" value="" />
