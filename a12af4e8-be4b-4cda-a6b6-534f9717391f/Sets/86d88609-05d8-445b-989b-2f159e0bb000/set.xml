@@ -1582,7 +1582,7 @@
 			<property name="PlotClaim" value="" />
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb080" name="King's Landing Coup">
-			<property name="House" value="" />
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Plot" />
 			<property name="Traits" value="Power Struggle. City." />
 			<property name="Text" value="If you have no other City plots in your used pile, reveal the top card of your deck and add it to your hand every time you win a challenge as the defender." />
@@ -1932,7 +1932,7 @@
 			<property name="Enhancement" value="" />
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb096" name="Anointed by the Mother">
-			<property name="House" value="" />
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Event" />
 			<property name="Traits" value="Prayer." />
 			<property name="Text" value="Response: Kneel 2 influence or kneel a Holy character to cancel a triggered effect that would cause a player to draw 1 or more cards.  Instead, you draw that number of cards." />
@@ -1954,7 +1954,7 @@
 			<property name="Enhancement" value="" />
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb097" name="Judged by the Father">
-			<property name="House" value="" />
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Event" />
 			<property name="Traits" value="Prayer." />
 			<property name="Text" value="Any Phase: Kneel 2 influence or kneel a Holy character to choose a character with STR 3 or less in your dead pile and return it to hand." />
@@ -1976,7 +1976,7 @@
 			<property name="Enhancement" value="" />
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb098" name="Nurtured by the Crone">
-			<property name="House" value="" />
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Event" />
 			<property name="Traits" value="Prayer." />
 			<property name="Text" value="Nurtured by the Crone cannot be cancelled.&#10;&#10;Response: Kneel 2 influence or kneel a Holy character to cancel a triggered effect that chooses a unique character or location as its only target." />
@@ -2306,7 +2306,7 @@
 			<property name="Enhancement" value="" />
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb113" name="Choosing the Spear">
-			<property name="House" value="" />
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Event" />
 			<property name="Traits" value="" />
 			<property name="Text" value="Challenges: Choose and stand a Martell character.  That character gains melee until the end of the phase." />
@@ -2416,7 +2416,7 @@
 			<property name="Enhancement" value="" />
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb118" name="Blessed by the Maiden">
-			<property name="House" value="" />
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Event" />
 			<property name="Traits" value="Prayer." />
 			<property name="Text" value="Any Phase: Kneel 2 influence or kneel a Holy character to choose up to 3 cards in any player's discard and dead piles and shuffle them into his or her deck." />
@@ -2438,7 +2438,7 @@
 			<property name="Enhancement" value="" />
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb119" name="Supported by the Smith">
-			<property name="House" value="" />
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Event" />
 			<property name="Traits" value="Prayer" />
 			<property name="Text" value="Any Phase: Kneel 2 influence or kneel a Holy character to choose up to 2 locations with a total printed cost of 2 or less in your discard pile and put them into play." />
@@ -2460,7 +2460,7 @@
 			<property name="Enhancement" value="" />
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb120" name="Favored by the Warrior">
-			<property name="House" value="" />
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Event" />
 			<property name="Traits" value="Prayer." />
 			<property name="Text" value="Response: Kneel 2 influence or kneel a Holy character to save a unique character you control from being killed (any player may discard 3 power from his or her House to cancel this effect).  Then, search your deck for a copy of that character and attach it as a duplicate and shuffle your deck." />

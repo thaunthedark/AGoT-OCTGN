@@ -288,7 +288,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338014" name="A Nest of Vipers">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: After a Martell character is killed, unique Sand Snake characters you control gain renown until the end of the phase" />
@@ -354,7 +354,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338017" name="Shadow Tower Knight">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Knight. Night's Watch." />
  			<property name="Text" value="Cards you control cannot gain Traits through card effects." />
@@ -376,7 +376,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338018" name="Free Man">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Wildling. Refugee." />
  			<property name="Text" value="Response: After Free Man leaves play, choose and stand 1 War character." />
@@ -398,7 +398,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338019" name="Tourney Lance">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Attachment" />
  			<property name="Traits" value="Item. Weapon." />
  			<property name="Text" value="Attached character gains joust.&#10;After you play Tourney Lance, draw 1 card" />
@@ -420,7 +420,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338020" name="Into the Lists">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="" />
  			<property name="Text" value="When revealed, each player may choose and kneel 1 non-Army character with a Military icon he or she controls. The character with the highest STR knelt in this way claims 2 power." />
@@ -706,7 +706,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338033" name="Overwhelming Support">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: After you declare 2 or more attackers, each with the Dothraki trait, opponents cannot declare non-Army characters as defenders during this challenge." />
@@ -772,7 +772,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338036" name="Thoros of Myr">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Asshai. Brotherhood." />
  			<property name="Text" value="If you have more than 1 opponent Thoros of Myr gains: 'While Thoros of Myr is attacking, non-unique characters cannot defend alone." />
@@ -794,7 +794,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338037" name="Old Bear's Crow">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Creature. Raven." />
  			<property name="Text" value="Night's Watch characters you control without a printed Military icon gain a War crest.&#10;Night's Watch characters you control without a printed Intrigue icon cannot be bypassed by stealth.&#10;Night's Watch characters you control without a printed Power icon get +1 STR." />
@@ -816,7 +816,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338038" name="A Champion Arises">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Dominance: If you won every challenge in which you were the attacker or defender this round (minimum of 1), choose a non-Army character you control to claim 1 power for each opponent in the game. (Limit one per phase.)" />
@@ -838,7 +838,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338039" name="Flea Bottom">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Location" />
  			<property name="Traits" value="King's Landing" />
  			<property name="Text" value="Marshalling: Kneel Flea Bottom to lower the cost of the next character you play this phase by 2.  That character comes into play knelt." />
@@ -860,7 +860,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338040" name="The Grand Melee">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="Military Battle." />
  			<property name="Text" value="During challenges, total attacking STR is determined by counting the number of participating attackers and total defending STR is determined by counting the number of participating defenders." />
@@ -1212,7 +1212,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338056" name="Lyanna Stark">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Lady." />
  			<property name="Text" value="Non-unique characters get -1 STR while knelt.&#10;After Lyanna Stark is killed, stand all Lord characters in play.  Those characters gain deadly until the end of the round." />
@@ -1234,7 +1234,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338057" name="Jalabhar Xho">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Lord." />
  			<property name="Text" value="If you lose dominance by 4 or more total STR, discard all power on Jalabhar Xho.&#10;At the beginning of the dominance phase, if no opponent has won a challenge against you this round, Jalabhar Xho claims 2 power." />
@@ -1256,7 +1256,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338058" name="Champion's Favour">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Attachment" />
  			<property name="Traits" value="Item." />
  			<property name="Text" value="Attached character gains melee." />
@@ -1278,7 +1278,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338059" name="The First Snow of Winter">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="" />
  			<property name="Text" value="When the first challenge is initiated this round, return all characters with printed cost 2 or lower to their owners' hands." />
@@ -1300,7 +1300,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338060" name="Called to Court">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="Intrigue Gambit." />
  			<property name="Text" value="When revealed, each player may put an in-House character of printed cost 3 or lower into play from his or her hand. Each players must choose 1 character he or she controls and return it to its owner's hand, if able." />
@@ -1542,7 +1542,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338071" name="Finger Dance">
- 			<property name="House" value="" />
+ 			<property name="House" value="Neutral." />
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: Kneel an Ironborn character to cancel the effects of an event card just played. Then, discard the top card of the event controller's deck. If a non-character card is discarded this way, shuffle Finger Dance back into your deck." />
@@ -1674,7 +1674,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338077" name="Ghost of High Heart">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Ally. Brotherhood." />
  			<property name="Text" value="While you have no power on your House, Brotherhood characters get +1 STR. Challanges: Kneel Ghost of High Heart to look at a player's hand. Choose and discard 1 card from that hand. That player draws 1 card. (Limit once per round.)" />
@@ -1696,7 +1696,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338078" name="Ocean Road">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Location" />
  			<property name="Traits" value="Westeros." />
  			<property name="Text" value="Limit 1 per deck. Marshalling: Kneel Oncea Road to lower the cost of the next character with a NOBLE or WAR crest you play this phase." />
@@ -1718,7 +1718,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338079" name="Satin">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Character" />
  			<property name="Traits" value="Night's Watch." />
  			<property name="Text" value="Marshalling: Kneel a Night's Watch character to reveal the top card of each player's deck. Then (choose one) : each player discards that card. draws that card, or returns it to the top of his or her deck." />
@@ -1740,7 +1740,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338080" name="You Swore an Oath">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Knight characters gain joust and do not kneel to defend." />
@@ -2070,7 +2070,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338095" name="First Ranger">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Attachment" />
  			<property name="Traits" value="Title." />
  			<property name="Text" value="Unique character only. Attached character gains the Night's Watch trait. Response: After you win a challenge in which attached character participated, stand all other Night's Watch characters." />
@@ -2092,7 +2092,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338096" name="Condemned">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Attachment" />
  			<property name="Traits" value="Condition." />
  			<property name="Text" value="Attached character loses all Traits and immunities. If you win dominance, kill attached character." />
@@ -2158,7 +2158,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338100" name="I Fight to Win">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="Power Struggle." />
  			<property name="Text" value="If you have more than 1 opponent, after each player has selected a Title, you may select a second Title from the remaining Titles and use both Titles this round." />
@@ -2532,7 +2532,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338116" name="Heavy Taxes">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Attachment" />
  			<property name="Traits" value="Decree. Condition." />
  			<property name="Text" value="If you are not running an agenda, Heavy Taxes gains: &quot;Players cannot count more than 4 gold during the marshalling phase.&quot;" />
@@ -2554,7 +2554,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338117" name="Seal of the Crown">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Attachment" />
  			<property name="Traits" value="Decree. Condition." />
  			<property name="Text" value="If you are not running an agenda, Seal of the Crown gains: &quot;Players draw 1 additional card during the draw phase. After a players draws 1 or more cards through another card effect, that player must choose and discard 1 card from his or her hand.&quot;" />
@@ -2576,7 +2576,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338118" name="Isle of Faces">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Location" />
  			<property name="Traits" value="Westeros." />
  			<property name="Text" value="Unique characters you control count their STR toward dominance while knelt." />
@@ -2598,7 +2598,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338119" name="Twist of Fate">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="" />
  			<property name="Text" value="When a players wins a challenge agains you as the attacker, he or she may choose to use the claim effect of any challenge type instead of the normal claim effect. This text box cannot be blanked." />

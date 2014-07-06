@@ -376,7 +376,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97008089" name="Neutral Faction">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="House Card" />
  			<property name="Traits" value="" />
  			<property name="Text" value="You have no House affiliation. Reduce the gold penalty on out of House character cards you play from your hand or place during setup by 1." />
@@ -640,7 +640,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97008088" name="Lord of Light, Protect Us">
- 			<property name="House" value="" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Response: Kneel an Asshai character to choose a character that just triggered its ability. Cancel the effects of that ability. Then, if you control at least 3 Asshai characters, you may return the chosen character to its owner's hand." />
@@ -1278,7 +1278,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97008060" name="Knights of the Hollow Hill">
- 			<property name="House" value="Neutral" />
+ 			<property name="House" value="Neutral."/>
  			<property name="Type" value="Agenda" />
  			<property name="Traits" value="" />
  			<property name="Text" value="You cannot place cards during the setup phase. Other cards you control do not provide a gold bonus. Your House card gains:" />

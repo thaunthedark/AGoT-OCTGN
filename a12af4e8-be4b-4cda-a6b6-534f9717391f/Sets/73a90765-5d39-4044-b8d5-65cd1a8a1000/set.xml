@@ -310,7 +310,7 @@
 			<property name="Enhancement" value=""/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1015" name="Breaching the Wall">
-			<property name="House" value=""/>
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Event"/>
 			<property name="Traits" value="Siege. Tactic."/>
 		    <property name="Text" value="House Stark Only. Limited Response: After you win a Military challenge, choose and kill any number of characters with a higher STR than printed cost that are controlled by the losing opponent. (Limit 1 limited response per round.)"/>
@@ -421,7 +421,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement" value=""/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1020" name="Rally Cry">
-			<property name="House" value=""/>
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Plot"/>
 			<property name="Traits" value=""/>
 			<property name="Text" value="When revealed, choose and discard 1 character or location with cost X or lower controlled by the player with the most total cards at his or her command. X is the combined number of plots in all players' used piles."/>
@@ -1303,7 +1303,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement" value=""/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1060" name="On My Oath">
-			<property name="House" value=""/>
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Plot"/>
 			<property name="Traits" value=""/>
 			<property name="Text" value="When revealed, put a Kingsguard or Queensguard character with the Shadow crest into shadows from your dead or discard pile."/>
@@ -1502,7 +1502,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement" value=""/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1069" name="Secret Orders">
-			<property name="House" value=""/>
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Event"/>
 			<property name="Traits" value=""/>
 			<property name="Text" value="Any Phase: Choose a character. Until the end of the phase, that character's base STR is X. X is the amount of gold in it's controller's gold pool when this effect resolves."/>
@@ -1722,7 +1722,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement" value=""/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1079" name="Betrayal at the Wall">
-			<property name="House" value=""/>
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Plot"/>
 			<property name="Traits" value=""/>
 			<property name="Text" value="Increase the size of your plot deck by 1. (Limit 1 per plot deck). When revealed, choose and reveal a new plot card if you control 2 or more Night's Watch or Wildling characters. (Cannot be canceled)."/>
@@ -1744,7 +1744,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement" value=""/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1080" name="Befouled River">
-			<property name="House" value=""/>
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Plot"/>
 			<property name="Traits" value="River."/>
 			<property name="Text" value="When revealed, the player with the most cards at his or her command must choose and discard 2 cards that are under his or her command."/>
@@ -2185,7 +2185,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement" value=""/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1100" name="Redwyne Straits">
-			<property name="House" value=""/>
+			<property name="House" value="Neutral"/>
 			<property name="Type" value="Plot"/>
 			<property name="Traits" value="River."/>
 			<property name="Text" value="When revealed, the player with the fewest cards at his or her command adds 4 gold to his or her gold pool."/>

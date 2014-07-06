@@ -684,7 +684,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023032" name="The Lion's Cunning">
- 			<property name="House" value="" />
+ 			<property name="House" value="Neutral" />
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Challanges: Pay X gold from your gold pool to give X participating Lannister characters +X STR until the end of the challange." />
@@ -882,7 +882,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023041" name="The Only Game that Matters">
- 			<property name="House" value="" />
+ 			<property name="House" value="Neutral" />
  			<property name="Type" value="Event" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Any Phase: Until the end of the challange, participating characters without an Intrigue icon do not count their STR." />
@@ -1042,7 +1042,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023049" name="Frey Hospitality">
- 			<property name="House" value="" />
+ 			<property name="House" value="Neutral" />
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="Intrigue Gambit." />
  			<property name="Text" value="After a player loses an Intrigue challenge, that player must choose and kill a character under his or her control." />
@@ -1086,7 +1086,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023051" name="Breaking and Entering">
- 			<property name="House" value="" />
+ 			<property name="House" value="Neutral" />
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="Intrigue Gambit." />
  			<property name="Text" value="Any attachment or location card that would be discarder from any player's hand as part of the claim of an Intrigue challenge may be put into play by the winner of the challenge, under his or her control." />
@@ -1108,7 +1108,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023052" name="The Art of Seduction">
- 			<property name="House" value="" />
+ 			<property name="House" value="Neutral" />
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="" />
  			<property name="Text" value="When revealed, choose 1 opponent that did not reveal The Art of Seduction as his or her plot card. That opponent cannot reveal a new plt card during the plot phase next round." />
@@ -1130,7 +1130,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023053" name="Game of Thrones">
- 			<property name="House" value="" />
+ 			<property name="House" value="Neutral" />
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="" />
  			<property name="Text" value="Characters you control do not kneel to attack or defend during Intrigue challenges." />
@@ -1174,7 +1174,7 @@
 			<property name="Enhancement" value="" />
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023055" name="Shadows and Spiders">
- 			<property name="House" value="" />
+ 			<property name="House" value="Neutral" />
  			<property name="Type" value="Plot" />
  			<property name="Traits" value="Intrigue Gambit." />
  			<property name="Text" value="A player cannot declare a Military or PWR challenge unless he or she has won an Intrigue challenge that phase." />
