@@ -560,7 +560,7 @@
 			<property name="Text" value="Each character with a printed cost that is less than the number of characters in its controller's dead pile comes into play knelt."/>
 			<property name="Keywords" value="House Lannister only.  No attachments."/>
 			<property name="Unique" value="Yes"/>
-			<property name="Cost" value="S1"/>
+			<property name="Cost" value="s1"/>
 			<property name="Strength" value="3"/>
 			<property name="Military" value="1"/>
 			<property name="Intrigue" value="0"/>
