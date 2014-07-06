@@ -140,7 +140,7 @@
 			<property name="Text" value="After A Pinch of Powder comes out of Shadows, attach it to a character.  Limited Response: After you win an Intrigue or Power challenge by 3 or more STR, return the attached character to its owner's hand. Then, you may kneel 3 influence to return A Pinch of Powder to Shadows. (Limit 1 limited response per round.)" />
 			<property name="Keywords" value="" />
 			<property name="Unique" value="No" />
-			<property name="Cost" value="0" />
+			<property name="Cost" value="s0" />
 			<property name="Strength" value="" />
 			<property name="Military" value="0" />
 			<property name="Intrigue" value="0" />
