@@ -250,7 +250,7 @@
 			<property name="Text" value="Response: After Sister of Truth comes out of Shadows, choose 1 Shadow card in play. Return that card to Shadows." />
 			<property name="Keywords" value="House Baratheon only. " />
 			<property name="Unique" value="No" />
-			<property name="Cost" value="1" />
+			<property name="Cost" value="s1" />
 			<property name="Strength" value="2" />
 			<property name="Military" value="0" />
 			<property name="Intrigue" value="1" />
