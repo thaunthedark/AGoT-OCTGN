@@ -7,7 +7,7 @@
 			<property name="Traits" value="Ally." />
 			<property name="Text" value="Challenges: Kneel Little Bird to choose a character. Until the end of the phase that character gains (choose 1): an Intrigue icon, stealth, or infamy. " />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="1" />
 			<property name="Military" value="0" />
@@ -27,7 +27,7 @@
 			<property name="Traits" value="House Brax." />
 			<property name="Text" value="While Blackwater Bay Veteran has 1 or more power on it, it gains a Military Naval enhancement. " />
 			<property name="Keywords" value="Infamy." />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="2" />
 			<property name="Military" value="1" />
@@ -47,7 +47,7 @@
 			<property name="Traits" value="Army. House Redwyne." />
 			<property name="Text" value="Lower the cost to play Fleet from The Arbor by 3 if any opponent is running an agenda. Response: After Fleet from The Arbor is declared as a Naval attacker, choose another attacking character you control. Stand and remove that character from the challenge." />
 			<property name="Keywords" value="No attachments. Deadly." />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="7" />
 			<property name="Strength" value="7" />
 			<property name="Military" value="0" />
@@ -67,7 +67,7 @@
 			<property name="Traits" value="Ironborn." />
 			<property name="Text" value="Response : After you win a challenge in which Apostle of the Drowned God participated, discard the top card of the losing opponent's deck. If that card is a location, Apostle of The Drowned God claims 1 power." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="1" />
 			<property name="Military" value="0" />
@@ -87,7 +87,7 @@
 			<property name="Traits" value="Army." />
 			<property name="Text" value="Lower the cost to play Fleet from Pyke by 3 if any opponent is running an agenda. Response: After Fleet from Pyke is declared as a Naval attacker, choose another attacking character you control. Stand and remove that character from the challenge. " />
 			<property name="Keywords" value="No attachments. Deadly." />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="7" />
 			<property name="Strength" value="7" />
 			<property name="Military" value="1" />
@@ -147,7 +147,7 @@
 			<property name="Traits" value="Army. Mercenary. Smuggler." />
 			<property name="Text" value="Lower the cost to play Fleet from Lysene by 3 if any opponent is running an agenda. Response: After Fleet from Lysene is declared as a Naval attacker, choose another attacking character you control. Stand and remove that character from the challenge." />
 			<property name="Keywords" value="No attachments. Stealth." />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="7" />
 			<property name="Strength" value="7" />
 			<property name="Military" value="1" />
@@ -207,7 +207,7 @@
 			<property name="Traits" value="Army. House Manderly." />
 			<property name="Text" value=" Lower the cost to play Fleet from Wolf's Den by 3 if any opponent is running an agenda. Response: After Fleet from Wolf's Den is declared as a Naval attacker, choose another attacking character you control. Stand and remove that character from the challenge. " />
 			<property name="Keywords" value="No attachments. Renown." />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="7" />
 			<property name="Strength" value="7" />
 			<property name="Military" value="1" />
@@ -247,7 +247,7 @@
 			<property name="Traits" value="Army" />
 			<property name="Text" value=" Lower the cost to play Lady Nym's Guard by 3 if any opponent is running an agenda. Response: Discard a card from your hand to cancel a card effect just triggered that chooses 1 of your Sand Snake characters as the only target." />
 			<property name="Keywords" value="No attachments. Stealth" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="7" />
 			<property name="Strength" value="7" />
 			<property name="Military" value="1" />
@@ -307,7 +307,7 @@
 			<property name="Traits" value="Army. Mercenary." />
 			<property name="Text" value="Lower the cost to play Fleet from Volantis by 3 if any opponent is running an agenda. Response: After Fleet from Volantis is declared as a Naval attacker, choose another attacking character you control. Stand and remove that character from the challenge. " />
 			<property name="Keywords" value="No attachments. Melee." />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="7" />
 			<property name="Strength" value="7" />
 			<property name="Military" value="0" />
@@ -327,7 +327,7 @@
 			<property name="Traits" value="Ally. Smuggler." />
 			<property name="Text" value="Response: After Summer Sea Corsair comes out of Shadows, reveal 1 card from the top of your deck for each Smuggler character you control. Choose 1 revealed card and add it to your hand. Then, shuffle the rest back into your deck." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="2" />
 			<property name="Military" value="1" />
@@ -467,7 +467,7 @@
 			<property name="Traits" value="Ironborn. Raider" />
 			<property name="Text" value="" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="2" />
 			<property name="Military" value="1" />
@@ -527,7 +527,7 @@
 			<property name="Traits" value="Ally. Smuggler" />
 			<property name="Text" value="Response : After River Runner stands for vigilant it gains an Intrigue icon until the end of the phase" />
 			<property name="Keywords" value="Vigilant" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="2" />
 			<property name="Military" value="0" />
@@ -587,7 +587,7 @@
 			<property name="Traits" value="Ally. House Manderly" />
 			<property name="Text" value="Response: After you win a challenge in which Northern Sailor participated by 4 or more total STR, discard it to choose an opponent. That opponent must choose and kill a character he or she controls, if able " />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="1" />
 			<property name="Military" value="1" />
@@ -607,7 +607,7 @@
 			<property name="Traits" value="Captain. House Manderly." />
 			<property name="Text" value="Response: After you win a challenge in which White Harbor Captain participated by 4 or more total STR, claim 1 power for your House. " />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="3" />
 			<property name="Strength" value="2" />
 			<property name="Military" value="0" />
@@ -627,7 +627,7 @@
 			<property name="Traits" value="Warship" />
 			<property name="Text" value="Challenges: Kneel White Harbor Dromond to choose a character. Until the end of the phase that character gains renown and a Naval enhancement on each of its icons." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -707,7 +707,7 @@
 			<property name="Traits" value="Ally" />
 			<property name="Text" value="Response : After Pentoshi Deckland has been declared as a Naval attacker lower the cost of the next character you put into play using Ambush this phase by 1." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="1" />
 			<property name="Military" value="0" />
@@ -767,7 +767,7 @@
 			<property name="Traits" value="Epic Battle" />
 			<property name="Text" value="After the dominance phase this round there is an epic phase during which each player may initiate a single challenge of his choice. Characters with 1 or more Naval enhancements may be declared as attacker or defenders while kneeling. Instead of normal claim, the winner of each challenge may choose and take control of a location controlled by the loosing opponent. (Place this card next to your plot deck untile the end of this epic phase.) " />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -827,7 +827,7 @@
 			<property name="Traits" value="" />
 			<property name="Text" value="Response: After you win an Intrgue challenge by 4 or more total STR, the losing opponent chooses and discards 2 cards from hand. (Limit 1 per phase.)" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -887,7 +887,7 @@
 			<property name="Traits" value="" />
 			<property name="Text" value="Challenges: Kneel 2 influence or kneel a character with 1 or more Naval enhancement to turn all Warship locations you control into characters with STR equal to their printed cost, a Military icon, and a Power icon, until end of the phase." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -967,7 +967,7 @@
 			<property name="Traits" value="" />
 			<property name="Text" value="Response: After you win a Power challenge by 4 or more total STR, stand all participating unique characters you control." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1007,7 +1007,7 @@
 			<property name="Traits" value="The North." />
 			<property name="Text" value="Challenges: Kneel Swamps of the Neck to choose a participating character you control.  Stand that character, and remove it from the challenge." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1047,7 +1047,7 @@
 			<property name="Traits" value="Dorne." />
 			<property name="Text" value="Response: After an opponent kneels a location, kneel Hellholt Docks to choose and kneel a location." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1067,7 +1067,7 @@
 			<property name="Traits" value="" />
 			<property name="Text" value="Response: After you lose a challenge, discard your hand of at least 1 card to reveal the same number of cards from the top of your deck, and put them into your hand." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1087,7 +1087,7 @@
 			<property name="Traits" value="Lord. Traitor." />
 			<property name="Text" value="If you control 1 or more Dragon characters, House Targaryen Loyalist loses the Traitor trait and gains: &quot;House Targaryen Loyalist gains renown during Power challenges.&quot;" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="2" />
 			<property name="Military" value="0" />
@@ -1127,7 +1127,7 @@
 			<property name="Traits" value="" />
 			<property name="Text" value="Challenges: Choose a Targaryen character.  That character gets +2 STR until the end of the phase.  Then, attach Fire and Blood to that character (counts as a Boon attachment with the text, 'Attached character gains cannot be discarded from play')." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="0" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1207,7 +1207,7 @@
 			<property name="Traits" value="Army. House Clegane." />
 			<property name="Text" value="If you are running a character agenda or are not running an agenda, House Clegane Brigands gains: 'Response: After you win an Intrigue challenge, stand House Clegane Brigands.'" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="4" />
 			<property name="Strength" value="5" />
 			<property name="Military" value="1" />
@@ -1247,7 +1247,7 @@
 			<property name="Traits" value="Army. Raider." />
 			<property name="Text" value="If you are running a character agenda or are not running an agenda, Raiders of Orkmont gains: 'Response: After you win a Military challenge, look at the top 3 cards of the losing opponent's deck.  Discard up to 2 of those cards.  Put the remaining cards back on the top of the deck in any order.'" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="4" />
 			<property name="Strength" value="5" />
 			<property name="Military" value="1" />
@@ -1287,7 +1287,7 @@
 			<property name="Traits" value="Condition." />
 			<property name="Text" value="Attach to a non-unique non-limited location.  Take control of attached location and discard all other attachments attached to it." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1307,7 +1307,7 @@
 			<property name="Traits" value="Army. Knight. House Tyrell." />
 			<property name="Text" value="If ou are running a character agenda or are not running an agenda, Blackcrown Knights gains: 'Response: After you win a Power challenge in which Blackcrown Knights participated, discard 1 card from your hand to have Blackcrown Knights claim 2 power.'" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="4" />
 			<property name="Strength" value="5" />
 			<property name="Military" value="1" />
@@ -1347,7 +1347,7 @@
 			<property name="Traits" value="King's Landing." />
 			<property name="Text" value="Challenges: If you have won a challenge by 4 or more total STR this phase, kneel and discard Shores of the Blackwater from play to choose a character in your dead pile killed this phase.  Return that character to your hand." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1367,7 +1367,7 @@
 			<property name="Traits" value="Army. Traitor. House Karstark." />
 			<property name="Text" value="If you are running a character agenda or are not running an agenda, Riders of Karhold gains: 'Response: After you win a Military challenge, reveal the top card of your deck.  If it is a character add it to your hand, otherwise return it to the top of your deck.'" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="4" />
 			<property name="Strength" value="5" />
 			<property name="Military" value="1" />
@@ -1387,7 +1387,7 @@
 			<property name="Traits" value="House Stark only." />
 			<property name="Text" value="Any Phase: Put a Night's Watch character into play from our hand, then draw 1 card.  At the end of the phase, if that character is still in play, return it to your hand." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1407,7 +1407,7 @@
 			<property name="Traits" value="Army. House Uller." />
 			<property name="Text" value="If you are running a character agenda or are not running an agenda, Host of the Boneway gains: 'Response: After you win an Intrigue challenge, reveal the top card of your deck.  If it is an event card add it to your hand, otherwise return it to the top of your deck.'" />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="4" />
 			<property name="Strength" value="5" />
 			<property name="Military" value="1" />
@@ -1427,7 +1427,7 @@
 			<property name="Traits" value="Warship." />
 			<property name="Text" value="Response: After an opponent declares a challenge against you, kneel Greenblood Vessel to choose a character you control.  Until the end of the phase, that character gains an icon of your choice." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1447,7 +1447,7 @@
 			<property name="Traits" value="Dorne." />
 			<property name="Text" value="Response: After you lose a challenge, kneel Shores of the Summer Sea to choose 2 cards in your discard pile.  Shuffle those cards back into your deck." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="0" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1467,7 +1467,7 @@
 			<property name="Traits" value="Dothraki." />
 			<property name="Text" value="Dothraki Outrider gains renown during Power challenges." />
 			<property name="Keywords" value="Stealth." />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="3" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="1" />
@@ -1487,7 +1487,7 @@
 			<property name="Traits" value="Army. Dothraki." />
 			<property name="Text" value="If you are running a character agenda or are not running an agenda, Braided Screamers gain: 'Response: After you play a Dothraki character of cost 3 or more, search the top 5 cards of your deck for a Dothraki character.  reveal it, and add it to your hand.  Then, shuffle your deck." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="4" />
 			<property name="Strength" value="5" />
 			<property name="Military" value="1" />
@@ -1547,7 +1547,7 @@
 			<property name="Traits" value="The North." />
 			<property name="Text" value="Marshalling: Kneel and discard Blazewater Bay to lower the cost of the next card you play this phase with a Naval enhancement by 2." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="0" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1567,7 +1567,7 @@
 			<property name="Traits" value="King's Landing." />
 			<property name="Text" value="Challanges: Kneel Blackwater Rush to choose a character with a Naval enhancement.  Until the end of the phase, that character gains deadly." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="0" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1607,7 +1607,7 @@
 			<property name="Traits" value="House Redwyne." />
 			<property name="Text" value="Response: After you kneel a standing character using a card effect, add 2 gold to your gold pool from the treasury (Limit once per round)." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="3" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="1" />
@@ -1629,7 +1629,7 @@
 			<property name="Traits" value="Raider." />
 			<property name="Text" value="Response: Discard Iron Islands Brigand from play to cancel the effects of a location card just triggered." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="1" />
 			<property name="Military" value="1" />
@@ -1651,7 +1651,7 @@
 			<property name="Traits" value="Warship." />
 			<property name="Text" value="Challenges: Pay 1 gold to turn Iron Fleet Scout into a character with 2 STR, a Military icon and a Power icon, each with a Naval enhancement on it, until the end of the phase." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1673,7 +1673,7 @@
 			<property name="Traits" value="Smuggler." />
 			<property name="Text" value="Response: After you win a challenge in which Lyseni Pirate was declared as a Naval attacker or defender, it claims 1 power." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="2" />
 			<property name="Military" value="1" />
@@ -1783,7 +1783,7 @@
 			<property name="Traits" value="Ally." />
 			<property name="Text" value="Response: After you play Planky Town Orphan from your hand, reveal the top card as your next action this phase.  Otherwise, return it to the top of your deck." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="1" />
 			<property name="Military" value="0" />
@@ -1805,7 +1805,7 @@
 			<property name="Traits" value="Ally." />
 			<property name="Text" value="Challenges: Kneel 1 influence to choose 1 icon.  Until the end of the phase, Salty Dornishman gains that icon with a Naval enhancement on it." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="3" />
 			<property name="Strength" value="3" />
 			<property name="Military" value="0" />
@@ -1871,7 +1871,7 @@
 			<property name="Traits" value="" />
 			<property name="Text" value="Response: After Blood Magic Ritual comes out of Shadows, choose a non-Army character in your dead pile and put it into play.  Attach Blood Magic Ritual to it.  If Blood Magic Ritual leaves play kill attached character." />
 			<property name="Keywords" value="House Targaryen only." />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="s1" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1915,7 +1915,7 @@
 			<property name="Traits" value="Warship." />
 			<property name="Text" value="Any Phase: Kneel Dagger Lake Galley to choose a unique character you control.  That character gains a Naval enhancement on the icon of your choice until the end of the phase." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1937,7 +1937,7 @@
 			<property name="Traits" value="Prayer." />
 			<property name="Text" value="Response: Kneel 2 influence or kneel a Holy character to cancel a triggered effect that would cause a player to draw 1 or more cards.  Instead, you draw that number of cards." />
 			<property name="Keywords" value="Any House execpt Lannister." />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1959,7 +1959,7 @@
 			<property name="Traits" value="Prayer." />
 			<property name="Text" value="Any Phase: Kneel 2 influence or kneel a Holy character to choose a character with STR 3 or less in your dead pile and return it to hand." />
 			<property name="Keywords" value="Any House except Targaryen." />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -1981,7 +1981,7 @@
 			<property name="Traits" value="Prayer." />
 			<property name="Text" value="Nurtured by the Crone cannot be cancelled.&#10;&#10;Response: Kneel 2 influence or kneel a Holy character to cancel a triggered effect that chooses a unique character or location as its only target." />
 			<property name="Keywords" value="Any House execpt Martell." />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -2003,7 +2003,7 @@
 			<property name="Traits" value="Small Council." />
 			<property name="Text" value="Any Phase: Kneel 1 influence to search the top 5 cards of your deck.  Reveal 1 of those cards and add it to your hand.  Then, discard the other searched cards." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -2047,7 +2047,7 @@
 			<property name="Traits" value="Warship." />
 			<property name="Text" value="Response: After you win a challenge in which you declared 1 or more Naval attackers or defenders, kneel King's Landing Dromon to have that character claim 1 power." />
 			<property name="Keywords" value="House Lannister only." />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="0" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -2091,7 +2091,7 @@
 			<property name="Traits" value="Warship." />
 			<property name="Text" value="You may discard an event card attached to Ten Towers Longship to play it as if it was in your hand.  Then, place that event on the bottom of its owners deck. &#10; &#10;Response: After you win a challenge by 4 or more total STR, kneel Ten Towers Longship to choose an event card in the losing opponent's discard pile.  Attach that event card to Ten Towers Longship." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -2135,7 +2135,7 @@
 			<property name="Traits" value="" />
 			<property name="Text" value="Challenges: Until the end of the phase, when a player loses a challenge, he or she must choose a location he or she controls and return it to its owner's hand." />
 			<property name="Keywords" value="House Greyjoy only.  Play before any challenges have been declared this phase." />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -2157,7 +2157,7 @@
 			<property name="Traits" value="The Reach." />
 			<property name="Text" value="While you control at least 1 Captain character, your characters get +1 STR during the challenges phase." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -2223,7 +2223,7 @@
 			<property name="Traits" value="Ally. House Manderly." />
 			<property name="Text" value="House Manderly Escort gets +1 STR for each House Manderly character you control." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="1" />
 			<property name="Military" value="1" />
@@ -2245,7 +2245,7 @@
 			<property name="Traits" value="House Tully." />
 			<property name="Text" value="" />
 			<property name="Keywords" value="Melee." />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="0" />
 			<property name="Military" value="1" />
@@ -2267,7 +2267,7 @@
 			<property name="Traits" value="" />
 			<property name="Text" value="Response: After a unique non-Army character you own enters your dead pile, put that character into play knelt under your control." />
 			<property name="Keywords" value="House Stark only." />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -2289,7 +2289,7 @@
 			<property name="Traits" value="House Dayne." />
 			<property name="Text" value="" />
 			<property name="Keywords" value="Melee." />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="2" />
 			<property name="Strength" value="2" />
 			<property name="Military" value="1" />
@@ -2311,7 +2311,7 @@
 			<property name="Traits" value="" />
 			<property name="Text" value="Challenges: Choose and stand a Martell character.  That character gains melee until the end of the phase." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -2333,7 +2333,7 @@
 			<property name="Traits" value="Creature." />
 			<property name="Text" value="Any Phase: Kneel 1 influence to attach Venomous Manticore to a character (counts as a Creature attachment with the text 'Attached character gets -1 STR. Any Phase: Kneel 1 influence to attach Venomous Manticore to another eligible character')." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="1" />
 			<property name="Strength" value="1" />
 			<property name="Military" value="0" />
@@ -2377,7 +2377,7 @@
 			<property name="Traits" value="Westeros." />
 			<property name="Text" value="Response: After you win a challenge by 4 or more total STR, choose a card you control that is currently in play with the Shadow crest and return it to Shadows." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="0" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -2421,7 +2421,7 @@
 			<property name="Traits" value="Prayer." />
 			<property name="Text" value="Any Phase: Kneel 2 influence or kneel a Holy character to choose up to 3 cards in any player's discard and dead piles and shuffle them into his or her deck." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -2443,7 +2443,7 @@
 			<property name="Traits" value="Prayer" />
 			<property name="Text" value="Any Phase: Kneel 2 influence or kneel a Holy character to choose up to 2 locations with a total printed cost of 2 or less in your discard pile and put them into play." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
@@ -2465,7 +2465,7 @@
 			<property name="Traits" value="Prayer." />
 			<property name="Text" value="Response: Kneel 2 influence or kneel a Holy character to save a unique character you control from being killed (any player may discard 3 power from his or her House to cancel this effect).  Then, search your deck for a copy of that character and attach it as a duplicate and shuffle your deck." />
 			<property name="Keywords" value="" />
-			<property name="Unique" value="" />
+			<property name="Unique" value="No" />
 			<property name="Cost" value="" />
 			<property name="Strength" value="" />
 			<property name="Military" value="" />
