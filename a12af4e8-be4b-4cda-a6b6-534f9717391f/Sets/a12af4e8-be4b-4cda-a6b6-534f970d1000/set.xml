@@ -932,7 +932,7 @@
 			<property name="Text" value="" />
 			<property name="Keywords" value="Stealth. No attachments." />
 			<property name="Unique" value="No" />
-			<property name="Cost" value="0" />
+			<property name="Cost" value="s0" />
 			<property name="Strength" value="2" />
 			<property name="Military" value="1" />
 			<property name="Intrigue" value="0" />
@@ -954,7 +954,7 @@
 			<property name="Text" value="Silent Sisters gets +1 STR for each character in your dead pile." />
 			<property name="Keywords" value="" />
 			<property name="Unique" value="No" />
-			<property name="Cost" value="0" />
+			<property name="Cost" value="s0" />
 			<property name="Strength" value="1" />
 			<property name="Military" value="0" />
 			<property name="Intrigue" value="1" />
