@@ -866,7 +866,7 @@
 			<property name="Text" value="" />
 			<property name="Keywords" value="Deadly. No attachments." />
 			<property name="Unique" value="No" />
-			<property name="Cost" value="4" />
+			<property name="Cost" value="s4" />
 			<property name="Strength" value="6" />
 			<property name="Military" value="1" />
 			<property name="Intrigue" value="0" />
