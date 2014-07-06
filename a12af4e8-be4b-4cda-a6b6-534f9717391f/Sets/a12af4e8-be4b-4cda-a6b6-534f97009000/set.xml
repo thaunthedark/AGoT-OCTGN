@@ -734,7 +734,7 @@
  			<property name="Text" value="After Traitorous Crow comes out of Shadows, choose and discard 1 Night's Watch or 1 Wildling character from play." />
  			<property name="Keywords" value="No attachments." />
  			<property name="Unique" value="No" />
- 			<property name="Cost" value="1" />
+ 			<property name="Cost" value="s1" />
  			<property name="Strength" value="3" />
  			<property name="Military" value="0" />
  			<property name="Intrigue" value="0" />
