@@ -90,7 +90,7 @@
 			<property name="Enhancement"    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97008605" name="Sun Stroke">
- 			<property name="House"          value="Martell/Targaryen"/>
+ 			<property name="House"          value="Martell. Targaryen."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition."/>
  			<property name="Text"           value="Attached character cannot be saved. Response: After you lose a challenge by 4 or more total STR, until the end of the phase, attached character gets -4 STR and is killed if its STR is 0."/>
@@ -1177,15 +1177,15 @@
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
  			<property name="Military"       value=""/>
- 			<property name="Intrigue"       value="5"/>
- 			<property name="Power"          value="2"/>
- 			<property name="Crest"          value="1"/>
+ 			<property name="Intrigue"       value=""/>
+ 			<property name="Power"          value=""/>
+ 			<property name="Crest"          value=""/>
  			<property name="GoldIncome"     value=""/>
  			<property name="Influence"      value=""/>
  			<property name="Initiative"     value=""/>
- 			<property name="PlotGoldIncome" value=""/>
- 			<property name="PlotInitiative" value=""/>
- 			<property name="PlotClaim"      value=""/>
+ 			<property name="PlotGoldIncome" value="5"/>
+ 			<property name="PlotInitiative" value="5"/>
+ 			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>

@@ -1002,7 +1002,7 @@
 			<property name="PlotClaim"      value=""/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb051" name="Swamps of the Neck">
-			<property name="House"          value="Start"/>
+			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="The North."/>
 			<property name="Text"           value="Challenges: Kneel Swamps of the Neck to choose a participating character you control.  Stand that character, and remove it from the challenge."/>
@@ -1771,9 +1771,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value=""/>
-			<property name="PlotInitiative" value=""/>
-			<property name="PlotClaim"      value=""/>
+			<property name="PlotGoldIncome" value="4"/>
+			<property name="PlotInitiative" value="3"/>
+			<property name="PlotClaim"      value="1"/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>

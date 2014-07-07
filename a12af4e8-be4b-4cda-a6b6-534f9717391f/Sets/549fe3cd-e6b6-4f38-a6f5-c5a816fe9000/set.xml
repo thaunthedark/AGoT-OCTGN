@@ -1305,7 +1305,7 @@
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="X is equal to the number of different House affiliations among the characters you control. (Each character cannot contribute more than 1 House affiliation to this count.)"/>
 			<property name="Keywords"       value="Prized 1."/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>

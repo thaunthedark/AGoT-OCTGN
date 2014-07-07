@@ -640,7 +640,7 @@
 			<property name="Enhancement"    value=""/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1036" name="Bay of Ice">
-			<property name="House"          value="Stark. Lannister. Baratheon. Greyjoy. Martell. Targaryen."/>
+			<property name="House"          value="Stark. Lannister. Baratheon. Greyjoy. Targaryen. Martell."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Kingdom."/>
 			<property name="Text"           value="After a player wins initiative, that player kneels all cards named Bay of Ice, then draws a card."/>
@@ -684,7 +684,7 @@
 			<property name="Enhancement"    value=""/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1038" name="Kingdom of Shadows">
-			<property name="House"          value="Stark. Lannister. Baratheon. Greyjoy. Martell. Targaryen."/>
+			<property name="House"          value="Stark. Lannister. Baratheon. Greyjoy. Targaryen. Martell."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Kingdom."/>
 			<property name="Text"           value="After a player wins an Intrigue challenge, that player kneels all copies of Kingdom of Shadows to choose and stand a card with the Shadow crest."/>
@@ -1041,12 +1041,12 @@
 			<property name="Traits"         value="Military Battle."/>
 			<property name="Text"           value="Each player may initiate an additional Military challenge this round."/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
-			<property name="Cost"           value="3"/>
-			<property name="Strength"       value="3"/>
+			<property name="Unique"         value=""/>
+			<property name="Cost"           value=""/>
+			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
 			<property name="Intrigue"       value=""/>
-			<property name="Power"          value="1"/>
+			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
 			<property name="GoldIncome"     value="0"/>
 			<property name="Influence"      value="0"/>
@@ -1063,7 +1063,7 @@
 			<property name="Traits"         value="Military Battle."/>
 			<property name="Text"           value="You cannot declare Intrigue challenges."/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -1085,7 +1085,7 @@
 			<property name="Traits"         value="Intrigue Gambit."/>
 			<property name="Text"           value="Each player may initiate an additional Intrigue challenge this round."/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -1107,7 +1107,7 @@
 			<property name="Traits"         value="Intrigue Gambit."/>
 			<property name="Text"           value="After you win an Intrigue challenge, you may put all cards in your hand on the bottom of your deck and replace them with an equal number of cards from the top of your deck."/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -1129,7 +1129,7 @@
 			<property name="Traits"         value="Power Struggle."/>
 			<property name="Text"           value="If a King or Queen character would be killed, instead return it to its owner's hand."/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -1151,7 +1151,7 @@
 			<property name="Traits"         value="Power Struggle."/>
 			<property name="Text"           value="Each player may initiate an additional Power challenge this round."/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -1173,7 +1173,7 @@
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="You claim an additional power for winning unopposed challenges."/>
 			<property name="Keywords"       value="House Greyjoy only."/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>

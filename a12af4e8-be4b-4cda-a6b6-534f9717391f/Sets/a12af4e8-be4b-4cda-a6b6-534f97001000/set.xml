@@ -3792,7 +3792,7 @@
 			<property name="Text"           value="When revealed, choose an opponent. Then, you and that opponent must each search your decks for a character, reveal it, and put it into your hands. Then, shuffle your decks."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -3814,7 +3814,7 @@
 			<property name="Text"           value="When revealed, if you have more than one opponent, choose an opponent. You and that opponent cannot declare P challenges against one another this round."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -3836,7 +3836,7 @@
 			<property name="Text"           value="In order to initiate a M challenge, an attacker must give the defender 2 gold tokens from his or her gold pool."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -3858,7 +3858,7 @@
 			<property name="Text"           value="Characters, locations, and attachments do not provide income bonuses this round."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -3880,7 +3880,7 @@
 			<property name="Text"           value="When revealed, copy the ';when revealed'; ability of an opponent's revealed plot card."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -3902,7 +3902,7 @@
 			<property name="Text"           value="Each of your Knight characters gets +1 STR and is immune to opponent's character abilities."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -3924,7 +3924,7 @@
 			<property name="Text"           value="When revealed, each player chooses up to 3 locations. All locations not chosen are discarded from play (cannot be saved)."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -3946,7 +3946,7 @@
 			<property name="Text"           value="When revealed, choose an opponent. Then, you and that opponent must each choose and kneel a standing character."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -3968,7 +3968,7 @@
 			<property name="Text"           value="When revealed, if you have more than one opponent, choose an opponent. You and that opponent cannot declare I challenges against one another this round."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -3990,7 +3990,7 @@
 			<property name="Text"           value="Skip the taxation phase this round."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4012,7 +4012,7 @@
 			<property name="Text"           value="When revealed, each player chooses up to 3 of his or her characters. All characters not chosen are killed (cannot be saved)."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4034,7 +4034,7 @@
 			<property name="Text"           value="Characters without an I icon get -1 STR."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value="House Lannister only."/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4056,7 +4056,7 @@
 			<property name="Text"           value="The income on each opponent's revealed plot card is reduced to 0."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4078,7 +4078,7 @@
 			<property name="Text"           value="You may have up to 2 copies of The Power of Blood in your plot deck. NOBLE characters cannot be killed."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4100,7 +4100,7 @@
 			<property name="Text"           value="When revealed, choose an opponent. Then, you and that opponent must each search your decks for a location, reveal it, and put it into your hands. Then, shuffle your decks."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4122,7 +4122,7 @@
 			<property name="Text"           value="When revealed, if you have more than one opponent, choose an opponent. You and that opponent cannot declare M challenges against one another this round."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4144,7 +4144,7 @@
 			<property name="Text"           value="While you control fewer characters than any opponent, each character you control gets +2 STR."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4166,7 +4166,7 @@
 			<property name="Text"           value="In order to play an event card, a player must give an opponent one gold token from his or her gold pool."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4188,7 +4188,7 @@
 			<property name="Text"           value="At the beginning of the standing phase, choose one kneeling character or location controlled by each player. Return all chosen cards to their owner's hands."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4210,7 +4210,7 @@
 			<property name="Text"           value="You may have up to 2 copies of The Power of Arms in your plot deck.  W characters you control get +2 STR."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4232,7 +4232,7 @@
 			<property name="Text"           value="Limit 1 per plot deck. When revealed, kill all characters in play."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4254,7 +4254,7 @@
 			<property name="Text"           value="When revealed, choose an opponent. Then, that opponent must choose and kill a character he or she does not control, if able."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4276,7 +4276,7 @@
 			<property name="Text"           value="When revealed, choose an opponent. Then, you and that opponent each draw three cards."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4298,7 +4298,7 @@
 			<property name="Text"           value="Each character you control gets +1 STR for each attachment on it."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4320,7 +4320,7 @@
 			<property name="Text"           value="When revealed, choose and discard an attachment from play, if able."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value="House Targaryen only."/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4342,7 +4342,7 @@
 			<property name="Text"           value="Cannot be cancelled. When revealed, the player with the most cards in hand chooses and discards cards from his hand until he has 4 cards in hand."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4364,7 +4364,7 @@
 			<property name="Text"           value="Characters with STR 2 or lower cannot stand during the standing phase."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
@@ -4386,7 +4386,7 @@
 			<property name="Text"           value="Non-unique characters cannot be declared as defenders."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
-			<property name="Unique"         value="No"/>
+			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>

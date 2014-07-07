@@ -866,15 +866,15 @@
  			<property name="Text"           value="After you play a Chain attachment from your hand or put one into play from your Agenda, you may put another Chain attachment into play from your hand or discard pile."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
- 			<property name="Unique"         value="No"/>
+ 			<property name="Unique"         value=""/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
  			<property name="Military"       value=""/>
  			<property name="Intrigue"       value=""/>
  			<property name="Power"          value=""/>
- 			<property name="GoldIncome"     value="0"/>
- 			<property name="Influence"      value="0"/>
- 			<property name="Initiative"     value="0"/>
+ 			<property name="GoldIncome"     value=""/>
+ 			<property name="Influence"      value=""/>
+ 			<property name="Initiative"     value=""/>
  			<property name="PlotGoldIncome" value="3"/>
  			<property name="PlotInitiative" value="4"/>
  			<property name="PlotClaim"      value="1"/>

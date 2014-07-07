@@ -1293,9 +1293,9 @@
  			<property name="GoldIncome"     value=""/>
  			<property name="Influence"      value=""/>
  			<property name="Initiative"     value=""/>
- 			<property name="PlotGoldIncome" value=""/>
- 			<property name="PlotInitiative" value=""/>
- 			<property name="PlotClaim"      value=""/>
+ 			<property name="PlotGoldIncome" value="3"/>
+ 			<property name="PlotInitiative" value="1"/>
+ 			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -2163,7 +2163,7 @@
  			<property name="Traits"         value="Power Struggle."/>
  			<property name="Text"           value="If you have more than 1 opponent, after each player has selected a Title, you may select a second Title from the remaining Titles and use both Titles this round."/>
  			<property name="Keywords"       value=""/>
- 			<property name="Unique"         value="No"/>
+ 			<property name="Unique"         value=""/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
  			<property name="Military"       value=""/>
