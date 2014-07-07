@@ -14,9 +14,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value="Noble."/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -36,9 +36,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value="Noble."/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -58,9 +58,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value="Noble."/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -80,9 +80,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -102,9 +102,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -124,9 +124,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -146,9 +146,9 @@
 			<property name="Intrigue"       value="1"/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -168,9 +168,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -190,9 +190,9 @@
 			<property name="Intrigue"       value="1"/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -212,9 +212,9 @@
 			<property name="Intrigue"       value="1"/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -234,9 +234,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value="War."/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -256,9 +256,9 @@
 			<property name="Intrigue"       value="1"/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value="Shadow."/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -278,9 +278,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -300,9 +300,9 @@
 			<property name="Intrigue"       value="1"/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -322,9 +322,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value="War."/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -344,9 +344,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -366,9 +366,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -388,7 +388,7 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
+			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value="1"/>
 			<property name="Initiative"     value="1"/>
 			<property name="PlotGoldIncome" value="0"/>
@@ -410,9 +410,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value="Noble."/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -432,9 +432,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -454,9 +454,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -476,9 +476,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -498,9 +498,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -520,9 +520,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -542,9 +542,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -566,7 +566,7 @@
 			<property name="Crest"          value=""/>
 			<property name="GoldIncome"     value="1"/>
 			<property name="Influence"      value="1"/>
-			<property name="Initiative"     value="0"/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -586,9 +586,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -608,9 +608,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
+			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value="1"/>
-			<property name="Initiative"     value="0"/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -630,9 +630,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
+			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value="1"/>
-			<property name="Initiative"     value="0"/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -652,9 +652,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -674,9 +674,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -696,9 +696,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -718,9 +718,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -740,9 +740,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -762,9 +762,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -784,9 +784,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -806,9 +806,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -828,9 +828,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -850,9 +850,9 @@
 			<property name="Military"       value=""/>
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -872,9 +872,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -894,9 +894,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -916,9 +916,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -938,9 +938,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -961,8 +961,8 @@
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
 			<property name="GoldIncome"     value="1"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -983,8 +983,8 @@
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
 			<property name="GoldIncome"     value="1"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -1004,9 +1004,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -1026,9 +1026,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -1048,9 +1048,9 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="0"/>
 			<property name="PlotClaim"      value="0"/>
@@ -1070,9 +1070,9 @@
 			<property name="Military"       value=""/>
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="3"/>
 			<property name="PlotInitiative" value="9"/>
 			<property name="PlotClaim"      value="1"/>
@@ -1092,9 +1092,9 @@
 			<property name="Military"       value=""/>
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="3"/>
 			<property name="PlotInitiative" value="4"/>
 			<property name="PlotClaim"      value="1"/>
@@ -1114,9 +1114,9 @@
 			<property name="Military"       value=""/>
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="3"/>
 			<property name="PlotInitiative" value="6"/>
 			<property name="PlotClaim"      value="1"/>
@@ -1136,9 +1136,9 @@
 			<property name="Military"       value=""/>
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="3"/>
 			<property name="PlotInitiative" value="5"/>
 			<property name="PlotClaim"      value="1"/>
@@ -1158,9 +1158,9 @@
 			<property name="Military"       value=""/>
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="2"/>
 			<property name="PlotInitiative" value="2"/>
 			<property name="PlotClaim"      value="2"/>
@@ -1180,9 +1180,9 @@
 			<property name="Military"       value=""/>
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="0"/>
 			<property name="PlotInitiative" value="5"/>
 			<property name="PlotClaim"      value="2"/>
@@ -1202,9 +1202,9 @@
 			<property name="Military"       value=""/>
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
-			<property name="GoldIncome"     value="0"/>
-			<property name="Influence"      value="0"/>
-			<property name="Initiative"     value="0"/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value="4"/>
 			<property name="PlotInitiative" value="4"/>
 			<property name="PlotClaim"      value="1"/>
