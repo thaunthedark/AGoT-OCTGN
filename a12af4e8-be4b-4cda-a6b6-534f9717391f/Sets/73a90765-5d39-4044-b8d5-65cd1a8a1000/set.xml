@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="17 Kings Road" id="73a90765-5d39-4044-b8d5-65cd1a8a1000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.0.1" version="1.0">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="17-Kings Road" id="73a90765-5d39-4044-b8d5-65cd1a8a1000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.0.1" version="1.0">
 	<cards>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1001" name="Alester Florent">
 			<property name="House"          value="Baratheon."/>

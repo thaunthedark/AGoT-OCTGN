@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set name="00_Markers" id="01ecf94f-c408-4e43-8984-211fbdc25000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.0">
+<set name="00-Markers" id="01ecf94f-c408-4e43-8984-211fbdc25000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.0">
 	<markers>
 		<marker id="01ecf94f-c408-4e43-8984-211fbdc25001" name="gold"/>
 		<marker id="01ecf94f-c408-4e43-8984-211fbdc25002" name="power"/>

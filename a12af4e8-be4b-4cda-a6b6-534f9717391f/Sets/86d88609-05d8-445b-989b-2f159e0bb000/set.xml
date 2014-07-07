@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="16_Song of the Sea" id="86d88609-05d8-445b-989b-2f159e0bb000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.0.1" version="1.0">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="16-Song of the Sea" id="86d88609-05d8-445b-989b-2f159e0bb000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.0.1" version="1.0">
 	<cards>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb001" name="Little Bird">
 			<property name="House"          value="Lannister."/>

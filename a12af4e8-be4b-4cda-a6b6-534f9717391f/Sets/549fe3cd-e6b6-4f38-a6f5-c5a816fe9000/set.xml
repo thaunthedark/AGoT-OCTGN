@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="18 Conquest and Defiance" id="549fe3cd-e6b6-4f38-a6f5-c5a816fe9000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.0.1" version="1.0">
+<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="18-Conquest and Defiance" id="549fe3cd-e6b6-4f38-a6f5-c5a816fe9000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.0.1" version="1.0">
 	<cards>
 		<card id="549fe3cd-e6b6-4f38-a6f5-c5a816fe9001" name="Conquest">
 			<property name="House" 			value="Neutral."/>

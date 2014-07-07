@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set name="99_Card Testers" id="8d625b1b-6baa-4a4c-95eb-019d1ed313a7" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.0">
+<set name="99-Card Testers" id="8d625b1b-6baa-4a4c-95eb-019d1ed313a7" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.0">
 	<cards>
 		<card id="8d625b1b-6baa-4a4c-95eb-019d1ed00001" name="Test Card 001">
 			<property name="Type" value="Test Card"/>
