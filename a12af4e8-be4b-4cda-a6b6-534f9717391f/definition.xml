@@ -12,8 +12,15 @@
 	<proxygen definitionsrc="proxy/proxydef.xml">
 	</proxygen>
 	
-	<documents>
+	
+
+    <documents>
+		<document name="AGoT Faq" icon="Documents/blank.png" src="Documents/Faq.html" />
+		<document name="Keyboard Shortcuts" icon="Documents/blank.png" src="Documents/Shortcuts.html" />
+		<document name="ChangeLog" icon="Documents/blank.png" src="Documents/ChangeLog.html" />
 	</documents>
+
+
 	
 	<card back="cards/back.jpg" front="cards/front.jpg" width="63" height="88">
 		<property name="House" type="String" />
