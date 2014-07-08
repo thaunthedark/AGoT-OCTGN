@@ -404,7 +404,7 @@
  			<property name="Text"           value="You may run any number of The North agendas. You need 2 additional power to win the game.Night's Watch characters you control gain a [MIL] icon."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
- 			<property name="Unique"         value=""/>
+ 			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
  			<property name="Military"       value=""/>
@@ -844,7 +844,7 @@
  			<property name="Text"           value="You may run any number of The North agendas. You need 2 additional power to win the game. Wildling characters you control gain stealth."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
- 			<property name="Unique"         value=""/>
+ 			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
  			<property name="Military"       value=""/>
@@ -1284,7 +1284,7 @@
  			<property name="Text"           value="You may run any number of The North agendas. You need 2 additional power to win the game.  Night's Watch characters you control gain a [POW] icon."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
- 			<property name="Unique"         value=""/>
+ 			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
  			<property name="Military"       value=""/>
@@ -1724,7 +1724,7 @@
  			<property name="Text"           value="You may run any number of The North agendas. You need 2 additional power to win the game.  Wildling characters you control get +1 STR."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
- 			<property name="Unique"         value=""/>
+ 			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
  			<property name="Military"       value=""/>
@@ -2164,7 +2164,7 @@
  			<property name="Text"           value="You may run any number of The North agendas. You need 2 additional power to win the game.  Night's Watch characters you control gain an [INT] icon."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
- 			<property name="Unique"         value=""/>
+ 			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
  			<property name="Military"       value=""/>
@@ -2604,7 +2604,7 @@
  			<property name="Text"           value="You may run any number of The North agendas. You need 2 additional power to win the game.  Reduce the cost of the first Wildling character you play from your hand each round by 2."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
- 			<property name="Unique"         value=""/>
+ 			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
  			<property name="Military"       value=""/>
