@@ -445,7 +445,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Warship"/>
-			<property name="Text"           value="Dominance: Kneel Lionstar to move up 2 gold tokens from your gold pool on Lionstar. (Any number of gold tokens instead if you won a challenge with a participating Naval attacker this round.) Any phase: Kneel Lionstar to move any number of gold tokens from it to your gold pool."/>
+			<property name="Text"           value="Dominance: Kneel Lionstar to move up 2 gold tokens from your gold pool on Lionstar. (Any number of gold tokens instead if you won a challenge with a participating Naval attacker this round.) Any Phase: Kneel Lionstar to move any number of gold tokens from it to your gold pool."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>

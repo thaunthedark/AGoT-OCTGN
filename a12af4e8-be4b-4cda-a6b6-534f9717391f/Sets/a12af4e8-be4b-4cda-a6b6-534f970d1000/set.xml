@@ -599,7 +599,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Warship."/>
-			<property name="Text"           value="At the end of the Marshalling phase, kneel each Warship location you control if you do not control a [Greyjoy] character.  Challenges: Kneel Longship Iron Victory to choose a participating character. Until the end of the challenge, that character gets +2 STR. If you win the challenge, draw a card."/>
+			<property name="Text"           value="At the end of the marshalling phase, kneel each Warship location you control if you do not control a [Greyjoy] character.  Challenges: Kneel Longship Iron Victory to choose a participating character. Until the end of the challenge, that character gets +2 STR. If you win the challenge, draw a card."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>

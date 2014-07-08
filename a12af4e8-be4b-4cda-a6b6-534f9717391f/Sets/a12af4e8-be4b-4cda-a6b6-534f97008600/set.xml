@@ -137,7 +137,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally. Free Cities."/>
- 			<property name="Text"           value="Any phase: Kneel True-Queen's Harbinger to lower the cost of the next Dothraki or Dragon you play or put into play by 1."/>
+ 			<property name="Text"           value="Any Phase: Kneel True-Queen's Harbinger to lower the cost of the next Dothraki or Dragon you play or put into play by 1."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="0"/>

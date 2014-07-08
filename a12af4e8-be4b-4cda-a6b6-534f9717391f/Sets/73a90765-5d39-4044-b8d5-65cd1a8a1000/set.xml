@@ -776,7 +776,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Dothraki."/>
-			<property name="Text"           value="If it is summer, each of your characters gets +2 STR, while you control more attachments than each opponent."/>
+			<property name="Text"           value="If it is Summer, each of your characters gets +2 STR, while you control more attachments than each opponent."/>
 			<property name="Keywords"       value="House Targaryen only. Renown."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
@@ -1568,7 +1568,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Stronghold. Dorne"/>
-			<property name="Text"           value="Any phase: Discard a card from your hand to choose a character. Until the end of the phase, that character gains an icon of your choice."/>
+			<property name="Text"           value="Any Phase: Discard a card from your hand to choose a character. Until the end of the phase, that character gains an icon of your choice."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>

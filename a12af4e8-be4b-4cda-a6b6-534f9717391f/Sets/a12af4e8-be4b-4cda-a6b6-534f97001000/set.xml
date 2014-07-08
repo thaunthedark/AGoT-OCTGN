@@ -401,7 +401,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lady."/>
-			<property name="Text"           value="Any phase: Kneel 1 influence to choose a character with stealth or renown. Until the end of the phase, that character loses those keywords, and Arya Stark gains any keyword that was lost in this way."/>
+			<property name="Text"           value="Any Phase: Kneel 1 influence to choose a character with stealth or renown. Until the end of the phase, that character loses those keywords, and Arya Stark gains any keyword that was lost in this way."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -3503,7 +3503,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value="Small Council."/>
-			<property name="Text"           value="Any phase: Choose and kneel a non-[Noble] character. Then, that character claims 1 power."/>
+			<property name="Text"           value="Any Phase: Choose and kneel a non-[Noble] character. Then, that character claims 1 power."/>
 			<property name="Keywords"       value="House Lannister only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>

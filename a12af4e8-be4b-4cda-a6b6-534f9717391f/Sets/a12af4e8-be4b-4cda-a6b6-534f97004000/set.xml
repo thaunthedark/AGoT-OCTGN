@@ -995,7 +995,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. King."/>
- 			<property name="Text"           value="Any phase: Stand Robert Baratheon. Use this ability only if there are no cards in Shadows."/>
+ 			<property name="Text"           value="Any Phase: Stand Robert Baratheon. Use this ability only if there are no cards in Shadows."/>
  			<property name="Keywords"       value="Renown."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>

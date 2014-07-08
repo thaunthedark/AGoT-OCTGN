@@ -1787,8 +1787,8 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="House Stark only. Response: After you win a [MIL] challenge in which you control at least 1 participating unique character, choose and kill 1 character controlled by the losing opponent, (Limit 1 per challenge.)"/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Response: After you win a [MIL] challenge in which you control at least 1 participating unique character, choose and kill 1 character controlled by the losing opponent, (Limit 1 per challenge.)"/>
+ 			<property name="Keywords"       value="House Stark only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>

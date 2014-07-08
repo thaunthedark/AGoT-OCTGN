@@ -2271,8 +2271,8 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Weapon. House Bolton."/>
- 			<property name="Text"           value="House Bolton character only. Setup. Response: After you win a challenge in which attached character participated, kneel Bloody Scourge to choose and discard 1 kneeling character from play."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Response: After you win a challenge in which attached character participated, kneel Bloody Scourge to choose and discard 1 kneeling character from play."/>
+ 			<property name="Keywords"       value="House Bolton character only. Setup."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value=""/>

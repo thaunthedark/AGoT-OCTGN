@@ -2513,7 +2513,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Reinforcements."/>
- 			<property name="Text"           value="Any phase: Play if you have lost a [MIL] challenge this phase. Pay 1 gold to put Missing Recruit into play from your hand as a character with 3 STR, a [MIL] icon, stealth, and renown."/>
+ 			<property name="Text"           value="Any Phase: Play if you have lost a [MIL] challenge this phase. Pay 1 gold to put Missing Recruit into play from your hand as a character with 3 STR, a [MIL] icon, stealth, and renown."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2535,7 +2535,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Reinforcements."/>
- 			<property name="Text"           value="Any phase: Play if you have lost an [INT] challenge this phase. Pay 1 gold to put Spy in Their Midst into play from your hand as a character with 3 STR, a [INT] icon, stealth, and renown."/>
+ 			<property name="Text"           value="Any Phase: Play if you have lost an [INT] challenge this phase. Pay 1 gold to put Spy in Their Midst into play from your hand as a character with 3 STR, a [INT] icon, stealth, and renown."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2557,7 +2557,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Reinforcements."/>
- 			<property name="Text"           value="Any phase: Play if you have lost a [POW] challenge this phase. Pay 1 gold to put Beguiled Bodyguard into play from your hand as a character with 3 STR, a [POW] icon, stealth, and renown."/>
+ 			<property name="Text"           value="Any Phase: Play if you have lost a [POW] challenge this phase. Pay 1 gold to put Beguiled Bodyguard into play from your hand as a character with 3 STR, a [POW] icon, stealth, and renown."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2579,7 +2579,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Reinforcements."/>
- 			<property name="Text"           value="Play only if it is Winter.  Any phase: Play if you have lost a challenge this phase. Pay 1 gold to put Winter Reserves into play from your hand as an Army character with 4 STR, a [MIL] , an [INT] , a [POW] icon, and deadly."/>
+ 			<property name="Text"           value="Play only if it is Winter.  Any Phase: Play if you have lost a challenge this phase. Pay 1 gold to put Winter Reserves into play from your hand as an Army character with 4 STR, a [MIL] , an [INT] , a [POW] icon, and deadly."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2601,7 +2601,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Reinforcements."/>
- 			<property name="Text"           value="Play only if it is Summer.  Any phase: Play if you have lost a challenge this phase. Pay 1 gold to put Summer Reserves into play from your hand as an Army character with 4 STR, a [MIL] , an [INT] , a [POW] icon, and deadly."/>
+ 			<property name="Text"           value="Play only if it is Summer.  Any Phase: Play if you have lost a challenge this phase. Pay 1 gold to put Summer Reserves into play from your hand as an Army character with 4 STR, a [MIL] , an [INT] , a [POW] icon, and deadly."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2623,7 +2623,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="The East."/>
- 			<property name="Text"           value="Any phase: If it is Summer, kneel Summer Encampment to return a character you control to its owner's hand."/>
+ 			<property name="Text"           value="Any Phase: If it is Summer, kneel Summer Encampment to return a character you control to its owner's hand."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>

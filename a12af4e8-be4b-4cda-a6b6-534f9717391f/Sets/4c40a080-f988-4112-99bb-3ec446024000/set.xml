@@ -489,7 +489,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition"/>
- 			<property name="Text"           value="Condition Attach to a location. Treat attached location as if its printed text box were blank. Any phase: Kneel 1 influence to move Freezing Rain to another location."/>
+ 			<property name="Text"           value="Condition Attach to a location. Treat attached location as if its printed text box were blank. Any Phase: Kneel 1 influence to move Freezing Rain to another location."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -753,7 +753,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally"/>
- 			<property name="Text"           value="Ally Any phase: Bring Jaqen H'ghar out of Shadows by paying the rest of his cost to choose 1 non-Army character in an opponent's dead pile that was killed this phase, and attach it to Jaqen H'ghar as a duplicate. Jaqen H'ghar gains the printed text, base STR, icons, traits and crests of that card. If that duplicate leaves play, retunr Jaqen H'ghar to Shadows."/>
+ 			<property name="Text"           value="Ally Any Phase: Bring Jaqen H'ghar out of Shadows by paying the rest of his cost to choose 1 non-Army character in an opponent's dead pile that was killed this phase, and attach it to Jaqen H'ghar as a duplicate. Jaqen H'ghar gains the printed text, base STR, icons, traits and crests of that card. If that duplicate leaves play, retunr Jaqen H'ghar to Shadows."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="s2"/>

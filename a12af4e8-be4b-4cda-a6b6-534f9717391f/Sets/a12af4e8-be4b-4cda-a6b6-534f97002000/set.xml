@@ -511,7 +511,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Small Council."/>
- 			<property name="Text"           value="Any phase: Each player that does not control a King or Queen character must choose a challenge type. Until the end of the phase, that player may only initiate challenges of that type."/>
+ 			<property name="Text"           value="Any Phase: Each player that does not control a King or Queen character must choose a challenge type. Until the end of the phase, that player may only initiate challenges of that type."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -1391,7 +1391,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bastard."/>
- 			<property name="Text"           value="Any phase: Kneel The Bastard of Godsgrace to give a [Martell] character +2 STR until the end of the phase. If you trigger this effect during the epic phase, draw a card."/>
+ 			<property name="Text"           value="Any Phase: Kneel The Bastard of Godsgrace to give a [Martell] character +2 STR until the end of the phase. If you trigger this effect during the epic phase, draw a card."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -1919,7 +1919,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Any phase: Return an Army character you control to your hand to put an Army character with a lower printed STR into play from your hand. At the end of the phase, return that character to your hand if it is still in play."/>
+ 			<property name="Text"           value="Any Phase: Return an Army character you control to your hand to put an Army character with a lower printed STR into play from your hand. At the end of the phase, return that character to your hand if it is still in play."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2095,7 +2095,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="King's Landing."/>
- 			<property name="Text"           value="Any phase: Kneel Mustering Yard and kneel 2 influence to choose an Army or Bannerman card in your discard pile. Return that card to your hand."/>
+ 			<property name="Text"           value="Any Phase: Kneel Mustering Yard and kneel 2 influence to choose an Army or Bannerman card in your discard pile. Return that card to your hand."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -2161,7 +2161,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Dorne."/>
- 			<property name="Text"           value="Any phase: Discard Observation Point from play to look at an opponent's hand, or at the top card of any deck."/>
+ 			<property name="Text"           value="Any Phase: Discard Observation Point from play to look at an opponent's hand, or at the top card of any deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="0"/>
@@ -2359,7 +2359,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Any phase: Choose and stand a non-unique location. Then, stand all [Greyjoy] characters with Banner attachments attached."/>
+ 			<property name="Text"           value="Any Phase: Choose and stand a non-unique location. Then, stand all [Greyjoy] characters with Banner attachments attached."/>
  			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2381,7 +2381,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Any phase: Choose and stand or kneel an attachment. Then, stand all Targareyn characters with Banner attachments attached."/>
+ 			<property name="Text"           value="Any Phase: Choose and stand or kneel an attachment. Then, stand all Targareyn characters with Banner attachments attached."/>
  			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2579,7 +2579,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bannerman."/>
- 			<property name="Text"           value="Response: After a character with ambush enters play, attach Banner for the Dragon to that character, if able. (Counts as a Banner attachment with the text: 'Any phase: Discard Banner for the Dragon from play to return attached character to its owner's hand.')"/>
+ 			<property name="Text"           value="Response: After a character with ambush enters play, attach Banner for the Dragon to that character, if able. (Counts as a Banner attachment with the text: 'Any Phase: Discard Banner for the Dragon from play to return attached character to its owner's hand.')"/>
  			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
