@@ -94,7 +94,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Skill."/>
  			<property name="Text"           value="Attach to your House card. If if is Summer, when you declare a challenge type, your opponent must declare defenders before you declare attackers. The opportunity for your opponent to declare defenders after you declare attackers is lost."/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value=""/>
@@ -203,8 +203,8 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Traitor."/>
- 			<property name="Text"           value="After you play Scavengers of the Sea from your hand, choose a player with a Greyjoy or a Martell House card. Discard a card at random from that player's hand."/>
- 			<property name="Keywords"       value="House Greyjoy only. "/>
+ 			<property name="Text"           value="After you play Scavengers of the Sea from your hand, choose a player with a [Greyjoy] or a [Martell] House card. Discard a card at random from that player's hand."/>
+ 			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value="4"/>
@@ -291,7 +291,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Maester."/>
- 			<property name="Text"           value="Response: If it is Summer, kneel Maester of the Sun and discard a card from your hand to save a Martell character from being killed or discarded from play."/>
+ 			<property name="Text"           value="Response: If it is Summer, kneel Maester of the Sun and discard a card from your hand to save a [Martell] character from being killed or discarded from play."/>
  			<property name="Keywords"       value="Vengeful."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -379,7 +379,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Westeros."/>
- 			<property name="Text"           value="Marshalling: If it is Summer, kneel Summer Port to reduce the cost of the next Baratheon character you play this phase by 1."/>
+ 			<property name="Text"           value="Marshalling: If it is Summer, kneel Summer Port to reduce the cost of the next [Baratheon] character you play this phase by 1."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="0"/>
@@ -489,7 +489,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item."/>
- 			<property name="Text"           value="After you win a Military challenge in which attached character participated and it is Winter, choose and discard a location from play."/>
+ 			<property name="Text"           value="After you win a [MIL] challenge in which attached character participated and it is Winter, choose and discard a location from play."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -533,7 +533,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally."/>
- 			<property name="Text"           value="If it is Winter, Ranger of Winter gains stealth, an Intrigue icon, and does not kneel to defend."/>
+ 			<property name="Text"           value="If it is Winter, Ranger of Winter gains stealth, an [INT] icon, and does not kneel to defend."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -555,7 +555,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="House Tully. Maester."/>
- 			<property name="Text"           value="Response: If it is not Summer, kneel Maester Vyman to cancel a triggered effect that chooses a Stark character as the only target."/>
+ 			<property name="Text"           value="Response: If it is not Summer, kneel Maester Vyman to cancel a triggered effect that chooses a [Stark] character as the only target."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -577,8 +577,8 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Traitor."/>
- 			<property name="Text"           value="After you play Scavengers of King's Landing from your hand, choose a player with a lannister or a Stark House card. Discard a card at random from that player's hand."/>
- 			<property name="Keywords"       value="House Lannister only. "/>
+ 			<property name="Text"           value="After you play Scavengers of King's Landing from your hand, choose a player with a lannister or a [Stark] House card. Discard a card at random from that player's hand."/>
+ 			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value="3"/>
@@ -621,7 +621,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Conscriptor."/>
- 			<property name="Text"           value="If it is Winter, Ice Fisherman gains a Power icon and: ';Marshalling: Kneel Ice Fisherman to take 1 gold token from any opponent's gold pool, and add it to your gold pool.';"/>
+ 			<property name="Text"           value="If it is Winter, Ice Fisherman gains a [POW] icon and: 'Marshalling: Kneel Ice Fisherman to take 1 gold token from any opponent's gold pool, and add it to your gold pool.';"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -644,7 +644,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally."/>
  			<property name="Text"           value="If it is Winter and Valyrian Spirit is killed, shuffle any player's dead and discard piles back into his or her deck."/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
  			<property name="Strength"       value="3"/>
@@ -797,7 +797,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="The North."/>
- 			<property name="Text"           value="If it is Winter, your Baratheon characters gain the Night's Watch trait and do not kneel to defend."/>
+ 			<property name="Text"           value="If it is Winter, your [Baratheon] characters gain the Night's Watch trait and do not kneel to defend."/>
  			<property name="Keywords"       value="No attachments."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
@@ -841,7 +841,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Warship."/>
- 			<property name="Text"           value="If you reveal a plot card and it is Summer, kneel all Greyjoy Warship locations you control. Any Phase: If it is Winter, kneel Winter Armada to choose an attacking Greyjoy character. Until the end of the phase, that character gets +4 STR and gains renown."/>
+ 			<property name="Text"           value="If you reveal a plot card and it is Summer, kneel all [Greyjoy] Warship locations you control. Any Phase: If it is Winter, kneel Winter Armada to choose an attacking [Greyjoy] character. Until the end of the phase, that character gets +4 STR and gains renown."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -1039,7 +1039,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. Ward."/>
- 			<property name="Text"           value="If you are playing a Stark House card, reduce the gold penalty to play Theon Greyjoy by 1. Response: After you win a challenge in which Theon Greyjoy participated, choose a Stark or Greyjoy character. If it is Summer, stand that character. If it is Winter, kill that character."/>
+ 			<property name="Text"           value="If you are playing a [Stark] House card, reduce the gold penalty to play Theon Greyjoy by 1. Response: After you win a challenge in which Theon Greyjoy participated, choose a [Stark] or [Greyjoy] character. If it is Summer, stand that character. If it is Winter, kill that character."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -1083,8 +1083,8 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Traitor."/>
- 			<property name="Text"           value="After you play Southron Scavengers from your hand, choose a player with a Martell or Greyjoy House card. Discard a card at random from that player's hand."/>
- 			<property name="Keywords"       value="House Martell only. "/>
+ 			<property name="Text"           value="After you play Southron Scavengers from your hand, choose a player with a [Martell] or [Greyjoy] House card. Discard a card at random from that player's hand."/>
+ 			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value="3"/>
@@ -1128,7 +1128,7 @@
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="If it is Winter, Secret Hideout gains Stalwart when you play it from your hand. Any Phase: Until the end of the phase, players draw cards from the bottoms of their decks."/>
- 			<property name="Keywords"       value="House Stark only. "/>
+ 			<property name="Keywords"       value="House Stark only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1150,7 +1150,7 @@
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Any Phase: If there is at least 1 Military Battle plot card revealed, pay 1 gold or kneel a [War] character to choose and kneel a character or location. Then, discard 1 power from the target."/>
- 			<property name="Keywords"       value="House Lannister only. "/>
+ 			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1171,7 +1171,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Challenges: Kneel 2 influence to choose a unique Baratheon character. Until the end of the phase, that character gains vigilant."/>
+ 			<property name="Text"           value="Challenges: Kneel 2 influence to choose a unique [Baratheon] character. Until the end of the phase, that character gains vigilant."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -1237,8 +1237,8 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Challenges: Each player must choose and kneel a character with an Intrigue icon he or she controls, if able. Then, the player who knelt the character with the highest STR may choose and return a character to its owner's hand."/>
- 			<property name="Keywords"       value="House Martell only. "/>
+ 			<property name="Text"           value="Challenges: Each player must choose and kneel a character with an [INT] icon he or she controls, if able. Then, the player who knelt the character with the highest STR may choose and return a character to its owner's hand."/>
+ 			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1347,8 +1347,8 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Traitor."/>
- 			<property name="Text"           value="After you play Northern Scavengers from your hand, choose a player with a Stark or a lannister House card. Discard a card at random from that player's hand."/>
- 			<property name="Keywords"       value="House Stark only. "/>
+ 			<property name="Text"           value="After you play Northern Scavengers from your hand, choose a player with a [Stark] or a lannister House card. Discard a card at random from that player's hand."/>
+ 			<property name="Keywords"       value="House Stark only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value="3"/>
@@ -1391,7 +1391,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. King."/>
- 			<property name="Text"           value="If Renly Baratheon is the only King in play, he gains: ';After you win a Power challenge and there is at least 1 Power Struggle plot card revealed, draw a card.';"/>
+ 			<property name="Text"           value="If Renly Baratheon is the only King in play, he gains: ';After you win a [POW] challenge and there is at least 1 Power Struggle plot card revealed, draw a card.';"/>
  			<property name="Keywords"       value="Renown."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -1457,7 +1457,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Limited Response: After you reveal an Intrigue Gambit plot card, kneel a character with an Intrigue icon to kneel all characters with a Military icon. (Limit 1 Limited Response per round.)"/>
+ 			<property name="Text"           value="Limited Response: After you reveal an Intrigue Gambit plot card, kneel a character with an [INT] icon to kneel all characters with a [MIL] icon. (Limit 1 Limited Response per round.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -1479,7 +1479,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Limited Response: After you reveal a Power Struggle plot card, kneel a character with a Power icon to kneel all characters with an Intrigue icon. (Limit 1 Limited Response per round.)"/>
+ 			<property name="Text"           value="Limited Response: After you reveal a Power Struggle plot card, kneel a character with a [POW] icon to kneel all characters with an [INT] icon. (Limit 1 Limited Response per round.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -1501,7 +1501,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Limited Response: After you reveal a Military Battle plot card, kneel a character with a Military icon to kneel all characters with a Power icon. (Limit 1 Limited Response per round.)"/>
+ 			<property name="Text"           value="Limited Response: After you reveal a Military Battle plot card, kneel a character with a [MIL] icon to kneel all characters with a [POW] icon. (Limit 1 Limited Response per round.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -1523,8 +1523,8 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Winterfell."/>
- 			<property name="Text"           value="Response: After an opponent wins a Military challenge against you, kneel and discard Winterfell Rookery from play (cannot be saved) and pay 1 gold to reveal a new plot card."/>
- 			<property name="Keywords"       value="House Stark only. "/>
+ 			<property name="Text"           value="Response: After an opponent wins a [MIL] challenge against you, kneel and discard Winterfell Rookery from play (cannot be saved) and pay 1 gold to reveal a new plot card."/>
+ 			<property name="Keywords"       value="House Stark only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -1545,8 +1545,8 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Lannisport."/>
- 			<property name="Text"           value="Response: After an opponent wins an Intrigue challenge against you, kneel and discard Lannisport Rookery from play (cannot be saved) and pay 1 gold to reveal a new plot card."/>
- 			<property name="Keywords"       value="House Lannister only. "/>
+ 			<property name="Text"           value="Response: After an opponent wins an [INT] challenge against you, kneel and discard Lannisport Rookery from play (cannot be saved) and pay 1 gold to reveal a new plot card."/>
+ 			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -1567,8 +1567,8 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Dragonstone."/>
- 			<property name="Text"           value="Response: After an opponent wins a Power challenge against you, kneel and discard Dragonstone Rookery from play (cannot be saved) and pay 1 gold to reveal a new plot card."/>
- 			<property name="Keywords"       value="House Baratheon only. "/>
+ 			<property name="Text"           value="Response: After an opponent wins a [POW] challenge against you, kneel and discard Dragonstone Rookery from play (cannot be saved) and pay 1 gold to reveal a new plot card."/>
+ 			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -1589,8 +1589,8 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Iron Islands."/>
- 			<property name="Text"           value="Response: After you win a Military challenge by 4 or more total STR, kneel and discard Island Rookery from play (cannot be saved) and pay 1 gold to reveal a new plot card."/>
- 			<property name="Keywords"       value="House Greyjoy only. "/>
+ 			<property name="Text"           value="Response: After you win a [MIL] challenge by 4 or more total STR, kneel and discard Island Rookery from play (cannot be saved) and pay 1 gold to reveal a new plot card."/>
+ 			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -1611,8 +1611,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="The East."/>
- 			<property name="Text"           value="Response: After you win a Power challenge by 4 or more total STR, kneel and discard Qartheen Rookery from play (cannot be saved) and pay 1 gold to reveal a new plot card."/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Text"           value="Response: After you win a [POW] challenge by 4 or more total STR, kneel and discard Qartheen Rookery from play (cannot be saved) and pay 1 gold to reveal a new plot card."/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -1633,8 +1633,8 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Dorne."/>
- 			<property name="Text"           value="Response: After you win an Intrigue challenge by 4 or more total STR, kneel and discard Rookery of Sunspear from play (cannot be saved) and pay 1 gold to reveal a new plot card."/>
- 			<property name="Keywords"       value="House Martell only. "/>
+ 			<property name="Text"           value="Response: After you win an [INT] challenge by 4 or more total STR, kneel and discard Rookery of Sunspear from play (cannot be saved) and pay 1 gold to reveal a new plot card."/>
+ 			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -1897,7 +1897,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Knight."/>
- 			<property name="Text"           value="During Power challenges, Arena Knight gains renown."/>
+ 			<property name="Text"           value="During [POW] challenges, Arena Knight gains renown."/>
  			<property name="Keywords"       value="Vigilant."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="4"/>
@@ -1985,8 +1985,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Traitor."/>
- 			<property name="Text"           value="After you play Dragonstone Scavenger from your hand, choose a player with a Targareyn or a Baratheon House card. Discard a card at random from that player's hand."/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Text"           value="After you play Dragonstone Scavenger from your hand, choose a player with a Targareyn or a [Baratheon] House card. Discard a card at random from that player's hand."/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value="3"/>
@@ -2051,7 +2051,7 @@
  			<property name="House"          value="Stark. Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally. Traitor."/>
- 			<property name="Text"           value="If it is Winter, Bandit of Winter gains: ';After this card is played from your hand, discard a Stark or Greyjoy location from play.';"/>
+ 			<property name="Text"           value="If it is Winter, Bandit of Winter gains: ';After this card is played from your hand, discard a [Stark] or [Greyjoy] location from play.';"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -2073,7 +2073,7 @@
  			<property name="House"          value="Lannister. Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally. Traitor."/>
- 			<property name="Text"           value="If it is not Summer or Winter, River Bandit gains: ';After this card is played from your hand, discard a Baratheon or lannister location from play.';"/>
+ 			<property name="Text"           value="If it is not Summer or Winter, River Bandit gains: ';After this card is played from your hand, discard a [Baratheon] or [Lannister] location from play.';"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -2095,7 +2095,7 @@
  			<property name="House"          value="Martell. Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally. Traitor."/>
- 			<property name="Text"           value="If it is Summer, Bandit of Summer gains: ';After this card is played from your hand, discard a Targareyn or Martell location from play.';"/>
+ 			<property name="Text"           value="If it is Summer, Bandit of Summer gains: ';After this card is played from your hand, discard a [Targaryen] or [Martell] location from play.';"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -2139,7 +2139,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Wildling. Refugee."/>
- 			<property name="Text"           value="If it is Winter, discard Gilly from play. If it is Summer, Gilly gains +2 STR, a Power icon, and ';After you win a challenge in which Gilly participated, draw a card.';"/>
+ 			<property name="Text"           value="If it is Winter, discard Gilly from play. If it is Summer, Gilly gains +2 STR, a [POW] icon, and ';After you win a challenge in which Gilly participated, draw a card.';"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="0"/>
@@ -2293,7 +2293,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Army."/>
- 			<property name="Text"           value="Response: After a Reinforcements event card is played, choose and kneel a character without an Intrigue icon."/>
+ 			<property name="Text"           value="Response: After a Reinforcements event card is played, choose and kneel a character without an [INT] icon."/>
  			<property name="Keywords"       value="No attachments except Weapon."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="4"/>
@@ -2359,8 +2359,8 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Traitor."/>
- 			<property name="Text"           value="After you play Stormland Scavengers from your hand, choose a player with a Baratheon or a Targareyn House card. Discard a card at random from that player's hand."/>
- 			<property name="Keywords"       value="House Baratheon only. "/>
+ 			<property name="Text"           value="After you play Stormland Scavengers from your hand, choose a player with a [Baratheon] or a Targareyn House card. Discard a card at random from that player's hand."/>
+ 			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value="3"/>
@@ -2513,7 +2513,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Reinforcements."/>
- 			<property name="Text"           value="Any phase: Play if you have lost a Military challenge this phase. Pay 1 gold to put Missing Recruit into play from your hand as a character with 3 STR, a Military icon, stealth, and renown."/>
+ 			<property name="Text"           value="Any phase: Play if you have lost a [MIL] challenge this phase. Pay 1 gold to put Missing Recruit into play from your hand as a character with 3 STR, a [MIL] icon, stealth, and renown."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2535,7 +2535,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Reinforcements."/>
- 			<property name="Text"           value="Any phase: Play if you have lost an Intrigue challenge this phase. Pay 1 gold to put Spy in Their Midst into play from your hand as a character with 3 STR, a Intrigue icon, stealth, and renown."/>
+ 			<property name="Text"           value="Any phase: Play if you have lost an [INT] challenge this phase. Pay 1 gold to put Spy in Their Midst into play from your hand as a character with 3 STR, a [INT] icon, stealth, and renown."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2557,7 +2557,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Reinforcements."/>
- 			<property name="Text"           value="Any phase: Play if you have lost a Power challenge this phase. Pay 1 gold to put Beguiled Bodyguard into play from your hand as a character with 3 STR, a Power icon, stealth, and renown."/>
+ 			<property name="Text"           value="Any phase: Play if you have lost a [POW] challenge this phase. Pay 1 gold to put Beguiled Bodyguard into play from your hand as a character with 3 STR, a [POW] icon, stealth, and renown."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2579,7 +2579,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Reinforcements."/>
- 			<property name="Text"           value="Play only if it is Winter.  Any phase: Play if you have lost a challenge this phase. Pay 1 gold to put Winter Reserves into play from your hand as an Army character with 4 STR, a Military , an Intrigue , a Power icon, and deadly."/>
+ 			<property name="Text"           value="Play only if it is Winter.  Any phase: Play if you have lost a challenge this phase. Pay 1 gold to put Winter Reserves into play from your hand as an Army character with 4 STR, a [MIL] , an [INT] , a [POW] icon, and deadly."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2601,7 +2601,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Reinforcements."/>
- 			<property name="Text"           value="Play only if it is Summer.  Any phase: Play if you have lost a challenge this phase. Pay 1 gold to put Summer Reserves into play from your hand as an Army character with 4 STR, a Military , an Intrigue , a Power icon, and deadly."/>
+ 			<property name="Text"           value="Play only if it is Summer.  Any phase: Play if you have lost a challenge this phase. Pay 1 gold to put Summer Reserves into play from your hand as an Army character with 4 STR, a [MIL] , an [INT] , a [POW] icon, and deadly."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>

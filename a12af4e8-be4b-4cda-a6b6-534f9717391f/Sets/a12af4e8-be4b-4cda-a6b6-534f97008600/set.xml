@@ -27,7 +27,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition."/>
- 			<property name="Text"           value="If there is at least 1 Dragon character in play, attached character must be chosen to satisfy Military claim, if able."/>
+ 			<property name="Text"           value="If there is at least 1 Dragon character in play, attached character must be chosen to satisfy [MIL] claim, if able."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -71,7 +71,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item."/>
- 			<property name="Text"           value="Attached character gains a Military, Intrigue, and POW icon. Response: After you win a challenge in which attached character participated, look at the top 3 cards of your deck (5 if it is Summer),  put 1 into your hand, then return the others to the top of your deck, in any order."/>
+ 			<property name="Text"           value="Attached character gains a [MIL], [INT], and [POW] icon. Response: After you win a challenge in which attached character participated, look at the top 3 cards of your deck (5 if it is Summer),  put 1 into your hand, then return the others to the top of your deck, in any order."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -291,8 +291,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally. Qartheen."/>
- 			<property name="Text"           value="House Targaryen only. Deadly. Response: After Warlock of Qarth comes out of Shadows, choose 1 location with printed cost equal to or lower than the number of cards in Shadows. Return that location to its owner's hand."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Response: After Warlock of Qarth comes out of Shadows, choose 1 location with printed cost equal to or lower than the number of cards in Shadows. Return that location to its owner's hand."/>
+ 			<property name="Keywords"       value="House Targaryen only. Deadly."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s1"/>
  			<property name="Strength"       value="2"/>
@@ -313,8 +313,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Dothraki."/>
- 			<property name="Text"           value="House Targaryen only. Challenges: During a Military challenge, kneel 1 influence to put Horseback Archers into play from your hand, knelt, as an attacker or defender. Then, at the end of that phase, if Horseback Archers is in play, return it to it's owner's hand."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Challenges: During a [MIL] challenge, kneel 1 influence to put Horseback Archers into play from your hand, knelt, as an attacker or defender. Then, at the end of that phase, if Horseback Archers is in play, return it to it's owner's hand."/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value="3"/>
@@ -379,8 +379,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Creature. Dragon."/>
- 			<property name="Text"           value="House Targaryen only. No attachments. Deadly. If you control Drogon, attach Black Hatchling and all of its duplicates to Drogon as duplicates."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="If you control Drogon, attach Black Hatchling and all of its duplicates to Drogon as duplicates."/>
+ 			<property name="Keywords"       value="House Targaryen only. No attachments. Deadly."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="s0"/>
  			<property name="Strength"       value="1"/>
@@ -401,8 +401,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Creature. Dragon."/>
- 			<property name="Text"           value="House Targaryen only. No attachments. If you control Rhaegal, attach Green Hatchling and all of its duplicates to Rhaegal as duplicates."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="If you control Rhaegal, attach Green Hatchling and all of its duplicates to Rhaegal as duplicates."/>
+ 			<property name="Keywords"       value="House Targaryen only. No attachments."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="s0"/>
  			<property name="Strength"       value="2"/>
@@ -423,8 +423,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Creature. Dragon."/>
- 			<property name="Text"           value="House Targaryen only. No attachments. Stealth. If you control Viserion, attach White Hatchling and all of its duplicates to Viserion as duplicates."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="If you control Viserion, attach White Hatchling and all of its duplicates to Viserion as duplicates."/>
+ 			<property name="Keywords"       value="House Targaryen only. No attachments. Stealth."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="s0"/>
  			<property name="Strength"       value="1"/>
@@ -489,8 +489,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Creature. Dragon."/>
- 			<property name="Text"           value="House Targaryen only. No Attachments. Ambush. Stealth. Response: After you win a challenge in which Drogon participated and all of your participating characters have the Dragon trait, choose and kill 1 character whose STR is equal to or less than the number of participating characters you control. (Limit once per phase)"/>
- 			<property name="Keywords"       value="No attachments. Ambush. Stealth"/>
+ 			<property name="Text"           value="Response: After you win a challenge in which Drogon participated and all of your participating characters have the Dragon trait, choose and kill 1 character whose STR is equal to or less than the number of participating characters you control. (Limit once per phase)"/>
+ 			<property name="Keywords"       value="House Targaryen only. No attachments. Ambush. Stealth"/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
  			<property name="Strength"       value="4"/>
@@ -511,8 +511,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Creature. Dragon."/>
- 			<property name="Text"           value="House Targaryen only. No Attachments. Ambush. Stealth. Response: After you win a challenge in which Rhaegal participated and all of your participating characters have the Dragon trait, each participating character you control claims 1 power (Limit once per phase)."/>
- 			<property name="Keywords"       value="No attachments. Ambush. Stealth"/>
+ 			<property name="Text"           value="Response: After you win a challenge in which Rhaegal participated and all of your participating characters have the Dragon trait, each participating character you control claims 1 power (Limit once per phase)."/>
+ 			<property name="Keywords"       value="House Targaryen only. No attachments. Ambush. Stealth"/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
  			<property name="Strength"       value="4"/>
@@ -533,8 +533,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Creature. Dragon."/>
- 			<property name="Text"           value="House Targaryen only. No Attachments. Ambush. Stealth. Response: After you win a challenge in which Viserion participated and all of your participating characters have the Dragon trait, choose and discard 1 location with a cost less than the number of participating characters you control (Limit once per phase)."/>
- 			<property name="Keywords"       value="No attachments. Ambush. Stealth"/>
+ 			<property name="Text"           value="Response: After you win a challenge in which Viserion participated and all of your participating characters have the Dragon trait, choose and discard 1 location with a cost less than the number of participating characters you control (Limit once per phase)."/>
+ 			<property name="Keywords"       value="House Targaryen only. No attachments. Ambush. Stealth"/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
  			<property name="Strength"       value="4"/>
@@ -555,7 +555,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="The East."/>
- 			<property name="Text"           value="Challenges: Kneel Qarth to choose 1 Dragon character you control. Until the end of the phase that character gains an Intrigue icon and Deadly."/>
+ 			<property name="Text"           value="Challenges: Kneel Qarth to choose 1 Dragon character you control. Until the end of the phase that character gains an [INT] icon and Deadly."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -643,8 +643,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="The East."/>
- 			<property name="Text"           value="House Targaryen only. Challenges: Kneel Plaza of Pride to give an attacking TARGARYEN Army character you control either Stealth or Deadly until the end of the phase."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Challenges: Kneel Plaza of Pride to give an attacking TARGARYEN Army character you control either Stealth or Deadly until the end of the phase."/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value=""/>
@@ -797,8 +797,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="House Targaryen only. Challenges: If it is Summer, kneel 2 influence to choose all participating, non-Dragon characters. Until the end of the phase, each of those characters gets -2 STR and is killed if its STR is 0."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Challenges: If it is Summer, kneel 2 influence to choose all participating, non-Dragon characters. Until the end of the phase, each of those characters gets -2 STR and is killed if its STR is 0."/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1039,8 +1039,8 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Agenda"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Before drawing your setup hand, name Military or Intrigue challenge. You cannot initiate challenges of that type. You may initiate 2 POW challenges each challenge phase"/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Before drawing your setup hand, name [MIL] or [INT] challenge. You cannot initiate challenges of that type. You may initiate 2 POW challenges each challenge phase"/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value=""/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1171,7 +1171,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Players cannot initiate Military challenges unless they control an Army character"/>
+ 			<property name="Text"           value="Players cannot initiate [MIL] challenges unless they control an Army character"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value=""/>
  			<property name="Cost"           value=""/>

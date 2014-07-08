@@ -27,8 +27,8 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Creature. Direwolf."/>
-			<property name="Text"           value=" Stark character only.  Any Phase: Kneel Grey Wind to choose and kill 1 character with STR 1 or lower. (STR 2 or lower if attached character is Robb Stark.)"/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="Any Phase: Kneel Grey Wind to choose and kill 1 character with STR 1 or lower. (STR 2 or lower if attached character is Robb Stark.)"/>
+			<property name="Keywords"       value="Stark character only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
 			<property name="Strength"       value=""/>
@@ -49,8 +49,8 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Creature. Direwolf."/>
-			<property name="Text"           value=" Stark character only.  After you win a challenge in which attached character participated, stand Shaggydog.  Challenges: Kneel a Direwolf card to choose 1 attacking character. Until the end of the phase, that character gets -2 STR."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="After you win a challenge in which attached character participated, stand Shaggydog.  Challenges: Kneel a Direwolf card to choose 1 attacking character. Until the end of the phase, that character gets -2 STR."/>
+			<property name="Keywords"       value="Stark character only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
 			<property name="Strength"       value=""/>
@@ -72,7 +72,7 @@
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Condition."/>
 			<property name="Text"           value="Attach to a non-limited location or attachment.  Treat attached card as though its printed text box were blank."/>
-			<property name="Keywords"       value="House Stark only. "/>
+			<property name="Keywords"       value="House Stark only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
 			<property name="Strength"       value=""/>
@@ -137,8 +137,8 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lady. House Tully."/>
-			<property name="Text"           value="Challenges: Put Catelyn Stark into play from your hand, knelt as a defender during an Intrigue or Power challenge initiated against you. At the end of the phase, if Catelyn Stark is still in play, return her to your hand."/>
-			<property name="Keywords"       value="House Stark only. "/>
+			<property name="Text"           value="Challenges: Put Catelyn Stark into play from your hand, knelt as a defender during an [INT] or [POW] challenge initiated against you. At the end of the phase, if Catelyn Stark is still in play, return her to your hand."/>
+			<property name="Keywords"       value="House Stark only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
 			<property name="Strength"       value="3"/>
@@ -203,7 +203,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord."/>
-			<property name="Text"           value="After you lose an Intrigue challenge, kill Bran Stark (cannot be saved).  Response: After you win an Intrigue challenge as the defender, Bran Stark claims 5 power."/>
+			<property name="Text"           value="After you lose an [INT] challenge, kill Bran Stark (cannot be saved).  Response: After you win an [INT] challenge as the defender, Bran Stark claims 5 power."/>
 			<property name="Keywords"       value="House Stark only. No attachments except Direwolf."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -379,7 +379,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="House Tully."/>
-			<property name="Text"           value="Guard at Riverrun gets +1 STR while defending.  At the end of the challenge phase, if no opponent has won a Military challenge against you this round, draw a card."/>
+			<property name="Text"           value="Guard at Riverrun gets +1 STR while defending.  At the end of the challenge phase, if no opponent has won a [MIL] challenge against you this round, draw a card."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
@@ -467,7 +467,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Knight. House Tully."/>
-			<property name="Text"           value="While The Blackfish has 3 or more power, your House Tully characters do not kneel to attack.  Response: After you win a Military challenge as the attacker, draw 1 card."/>
+			<property name="Text"           value="While The Blackfish has 3 or more power, your House Tully characters do not kneel to attack.  Response: After you win a [MIL] challenge as the attacker, draw 1 card."/>
 			<property name="Keywords"       value="House Stark only. Renown."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
@@ -489,7 +489,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Westeros."/>
-			<property name="Text"           value="Response: After you win a challenge as the defender, claim 1 power for your House. (2 power instead if it was a Military challenge.)"/>
+			<property name="Text"           value="Response: After you win a challenge as the defender, claim 1 power for your House. (2 power instead if it was a [MIL] challenge.)"/>
 			<property name="Keywords"       value="No attachments."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
@@ -621,7 +621,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Winterfell."/>
-			<property name="Text"           value="Marshalling: Kneel Godswood to lower the cost of the next Stark character you play this phase by 2."/>
+			<property name="Text"           value="Marshalling: Kneel Godswood to lower the cost of the next [Stark] character you play this phase by 2."/>
 			<property name="Keywords"       value="Limited."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
@@ -665,7 +665,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Winterfell."/>
-			<property name="Text"           value="Marshalling: Kneel Northern Fiefdoms to lower the cost of the next Stark card you play this phase by 1."/>
+			<property name="Text"           value="Marshalling: Kneel Northern Fiefdoms to lower the cost of the next [Stark] card you play this phase by 1."/>
 			<property name="Keywords"       value="Limited."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
@@ -687,7 +687,7 @@
 			<property name="House"          value="Stark. Baratheon."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Westeros."/>
-			<property name="Text"           value="Marshalling: Discard Narrow Sea from play to reduce the cost of the next Stark or Baratheon character you play this phase by 2. "/>
+			<property name="Text"           value="Marshalling: Discard Narrow Sea from play to reduce the cost of the next [Stark] or [Baratheon] character you play this phase by 2."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="0"/>
@@ -710,7 +710,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Response: After you win a challenge as the defender, choose and kill 1 attacking character (cannot be saved)."/>
-			<property name="Keywords"       value="House Stark only. "/>
+			<property name="Keywords"       value="House Stark only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -731,8 +731,8 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: Save a location from being discarded. Then, attach They Shall Not Cross to a Stark character (counts as a Boon attachment with the text &quot;Attached character gets +2 STR.&quot;)"/>
-			<property name="Keywords"       value="House Stark only. "/>
+			<property name="Text"           value="Response: Save a location from being discarded. Then, attach They Shall Not Cross to a [Stark] character (counts as a Boon attachment with the text &quot;Attached character gets +2 STR.&quot;)"/>
+			<property name="Keywords"       value="House Stark only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -775,7 +775,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: Cancel the effects of an event card just played if one of your Stark characters is chosen as the only target."/>
+			<property name="Text"           value="Response: Cancel the effects of an event card just played if one of your [Stark] characters is chosen as the only target."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -797,7 +797,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Challenges: Choose 1 of your participating Stark characters to get +2 STR until the end of the challenge.  Response: After you win a Military challenge by 4 or more total STR, return Endless Endurance from your discard pile to your hand."/>
+			<property name="Text"           value="Challenges: Choose 1 of your participating [Stark] characters to get +2 STR until the end of the challenge.  Response: After you win a [MIL] challenge by 4 or more total STR, return Endless Endurance from your discard pile to your hand."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Infinity"/>
 			<property name="Cost"           value=""/>
@@ -841,7 +841,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Night's Watch."/>
-			<property name="Text"           value="Response: After you win a Military challenge by 4 or more total STR, choose and kill 1 non-unique character with printed STR 3 or less controlled by the losing opponent."/>
+			<property name="Text"           value="Response: After you win a [MIL] challenge by 4 or more total STR, choose and kill 1 non-unique character with printed STR 3 or less controlled by the losing opponent."/>
 			<property name="Keywords"       value="Renown. No attachments."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -929,7 +929,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Westeros."/>
-			<property name="Text"           value="Your Army characters do not kneel to attack during Military challenges."/>
+			<property name="Text"           value="Your Army characters do not kneel to attack during [MIL] challenges."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="3"/>
@@ -951,7 +951,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="King's Landing."/>
-			<property name="Text"           value="Limit 1 per deck.  Marshalling: Kneel Street of Steel to lower the cost of the next character with a Military icon you play this phase by 1."/>
+			<property name="Text"           value="Limit 1 per deck.  Marshalling: Kneel Street of Steel to lower the cost of the next character with a [MIL] icon you play this phase by 1."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="0"/>
@@ -995,7 +995,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: After you win a Military challenge in which you have at least 1 participating [War] character, choose and kill 1 character controlled by the losing opponent.  Limit 1 per challenge."/>
+			<property name="Text"           value="Response: After you win a [MIL] challenge in which you have at least 1 participating [War] character, choose and kill 1 character controlled by the losing opponent.  Limit 1 per challenge."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -1017,7 +1017,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Agenda"/>
 			<property name="Traits"         value="Treaty."/>
-			<property name="Text"           value="Ignore the out of House gold penalty on all Stark cards.  Each opponent without a Treaty agenda needs 5 fewer power (to a minimum of 10) to win the game."/>
+			<property name="Text"           value="Ignore the out of House gold penalty on all Stark cards. Each opponent without a Treaty agenda needs 5 fewer power (to a minimum of 10) to win the game."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value=""/>
@@ -1039,7 +1039,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Agenda"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="You cannot claim power for your House except during a Military challenge.  Response: After you win a Military challenge, claim 2 power for your House."/>
+			<property name="Text"           value="You cannot claim power for your House except during a [MIL] challenge.  Response: After you win a [MIL] challenge, claim 2 power for your House."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value="House Stark only."/>
 			<property name="Unique"         value=""/>
@@ -1149,7 +1149,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="You may initiate an additional Military challenge during the challenge phase."/>
+			<property name="Text"           value="You may initiate an additional [MIL] challenge during the challenge phase."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value=""/>
@@ -1193,7 +1193,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Lower the cost of the first Stark character you play during the marshalling phase by 2."/>
+			<property name="Text"           value="Lower the cost of the first [Stark] character you play during the marshalling phase by 2."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value="House Stark only."/>
 			<property name="Unique"         value=""/>

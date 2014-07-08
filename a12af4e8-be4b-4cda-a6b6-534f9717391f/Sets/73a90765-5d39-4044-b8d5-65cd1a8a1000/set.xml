@@ -49,7 +49,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value="Siege. Tactic."/>
-			<property name="Text"           value="Any Phase: Put a Baratheon character into play from your hand. At the end of the phase, if that character is still in play, discard it."/>
+			<property name="Text"           value="Any Phase: Put a [Baratheon] character into play from your hand. At the end of the phase, if that character is still in play, discard it."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -115,7 +115,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Siege. Item."/>
-		    <property name="Text"           value="Attach to a location. While attached location is knelt, its controller cannot declare defenders during Military challenges."/>
+		    <property name="Text"           value="Attach to a location. While attached location is knelt, its controller cannot declare defenders during [MIL] challenges."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
@@ -137,7 +137,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Bannerman. Lord."/>
-			<property name="Text"           value="Any Phase: Discard a card from your hand to choose a character. Until the end of the phase, that character gets +3 STR during Intrigue challenges for each Bannerman character you control."/>
+			<property name="Text"           value="Any Phase: Discard a card from your hand to choose a character. Until the end of the phase, that character gets +3 STR during [INT] challenges for each Bannerman character you control."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -313,8 +313,8 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value="Siege. Tactic."/>
-		    <property name="Text"           value="House Stark Only. Limited Response: After you win a Military challenge, choose and kill any number of characters with a higher STR than printed cost that are controlled by the losing opponent. (Limit 1 limited response per round.)"/>
-			<property name="Keywords"       value=""/>
+		    <property name="Text"           value="Limited Response: After you win a [MIL] challenge, choose and kill any number of characters with a higher STR than printed cost that are controlled by the losing opponent. (Limit 1 limited response per round.)"/>
+			<property name="Keywords"       value="House Stark only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -402,8 +402,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Baratheon. Greyjoy."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value="Siege. Tactic."/>
-		    <property name="Text"           value="House Baratheon or Greyjoy only. Dominance: Kneel 3 influence or pay 3 gold to discard all kneeling characters from play."/>
-			<property name="Keywords"       value=""/>
+		    <property name="Text"           value="Dominance: Kneel 3 influence or pay 3 gold to discard all kneeling characters from play."/>
+			<property name="Keywords"       value="House Baratheon or Greyjoy only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -512,8 +512,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Ironborn."/>
-			<property name="Text"           value="House Greyjoy only.&#10;If it is Winter, each of your characters get +2 STR while you control more locations than each opponent."/>
-			<property name="Keywords"       value="Renown."/>
+			<property name="Text"           value="If it is Winter, each of your characters get +2 STR while you control more locations than each opponent."/>
+			<property name="Keywords"       value="House Greyjoy only. Renown."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
 			<property name="Strength"       value="3"/>
@@ -600,8 +600,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="King. Lord."/>
-			<property name="Text"           value="House Lannister only.&#10;Any Phase: If it is Summer, kneel Tommen Baratheon to look at the top 4 cards of your deck. Switch any 1 of those cards with a card in your hand, if able. Then, put the remaining cards on top of your deck in any order."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="Any Phase: If it is Summer, kneel Tommen Baratheon to look at the top 4 cards of your deck. Switch any 1 of those cards with a card in your hand, if able. Then, put the remaining cards on top of your deck in any order."/>
+			<property name="Keywords"       value="House Lannister only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
 			<property name="Strength"       value="1"/>
@@ -644,8 +644,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lady. Bastard."/>
-			<property name="Text"           value="House Martell only.&#10;While it is Summer, Ellaria Sand gains: 'Response: After an opponent plays or puts a character into play, Ellaria Sand claims 2 power if that player controls more characters than you. (Limit 3 times per phase.)'"/>
-			<property name="Keywords"       value="Stealth."/>
+			<property name="Text"           value="While it is Summer, Ellaria Sand gains: 'Response: After an opponent plays or puts a character into play, Ellaria Sand claims 2 power if that player controls more characters than you. (Limit 3 times per phase.)'"/>
+			<property name="Keywords"       value="House Martell only. Stealth."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
 			<property name="Strength"       value="3"/>
@@ -666,8 +666,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Bannerman. Ally."/>
-			<property name="Text"           value="House Martell only.&#10;Any Phase: If it is Summer, discard Operyn's Shield Bearer (cannot be saved) to cancel the next 3 effects triggered by a single opponent (of your choice) this round."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="Any Phase: If it is Summer, discard Operyn's Shield Bearer (cannot be saved) to cancel the next 3 effects triggered by a single opponent (of your choice) this round."/>
+			<property name="Keywords"       value="House Martell only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
 			<property name="Strength"       value="2"/>
@@ -688,8 +688,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="House Martell only. &#10;Response: After you have lost your third challenge in the same phase, bring The Long Plan out of shadows by paying the rest of its gold cost. Then, claim 3 power for your House (Limit 1 per phase.)"/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="Response: After you have lost your third challenge in the same phase, bring The Long Plan out of shadows by paying the rest of its gold cost. Then, claim 3 power for your House (Limit 1 per phase.)"/>
+			<property name="Keywords"       value="House Martell only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="s1"/>
 			<property name="Strength"       value=""/>
@@ -732,8 +732,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Stronghold."/>
-			<property name="Text"           value="House Stark only.&#10;Challenges: If it is Winter, kneel Winterfell to increase the claim of the current challenge by 1."/>
-			<property name="Keywords"       value="No attachments."/>
+			<property name="Text"           value="Challenges: If it is Winter, kneel Winterfell to increase the claim of the current challenge by 1."/>
+			<property name="Keywords"       value="House Stark only. No attachments."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
 			<property name="Strength"       value=""/>
@@ -776,8 +776,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Dothraki."/>
-			<property name="Text"           value="House Targaryen only. &#10; If it is summer, each of your characters gets +2 STR, while you control more attachments than each opponent."/>
-			<property name="Keywords"       value="Renown."/>
+			<property name="Text"           value="If it is summer, each of your characters gets +2 STR, while you control more attachments than each opponent."/>
+			<property name="Keywords"       value="House Targaryen only. Renown."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
 			<property name="Strength"       value="3"/>
@@ -953,7 +953,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Warship."/>
 			<property name="Text"           value="After you win an unopposed challenge, return Longship Grey Ghost to shadows.&#10;Response: After Longship Grey Ghost comes out of shadows, choose a character. That character cannot defend this phase."/>
-			<property name="Keywords"       value="House Greyjoy Only."/>
+			<property name="Keywords"       value="House Greyjoy only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="s0"/>
 			<property name="Strength"       value=""/>
@@ -1546,7 +1546,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="House Dayne."/>
-			<property name="Text"           value="Response: After you lose a challenge, put Dayne Spearman into shadows to choose a character. That character loses a Military, an Intrigue, and a Power icon until the end of the phase."/>
+			<property name="Text"           value="Response: After you lose a challenge, put Dayne Spearman into shadows to choose a character. That character loses a [MIL], an [INT], and a [POW] icon until the end of the phase."/>
 			<property name="Keywords"       value="House Martell only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="s1"/>
@@ -1612,7 +1612,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Night's Watch. Ally."/>
-			<property name="Text"           value="If it is not Summer, Yoren can defend Intrigue challenges declared against you, even while kneeling."/>
+			<property name="Text"           value="If it is not Summer, Yoren can defend [INT] challenges declared against you, even while kneeling."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
@@ -1656,7 +1656,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Challenges: During a Power challenge, kneel 2 of your Targaryen characters to kill all attacking characters. Limit 1 per challenge."/>
+			<property name="Text"           value="Challenges: During a [POW] challenge, kneel 2 of your [Targaryen] characters to kill all attacking characters. Limit 1 per challenge."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -1788,8 +1788,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="House Baratheon only. Any Phase: Stand any number of characters with combined printed cost 3 or lower."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="Any Phase: Stand any number of characters with combined printed cost 3 or lower."/>
+			<property name="Keywords"       value="House Baratheon only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -1854,8 +1854,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="House Greyjoy only. Any Phase: Choose and kneel any number of locations with combined printed cost 3 or lower."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="Any Phase: Choose and kneel any number of locations with combined printed cost 3 or lower."/>
+			<property name="Keywords"       value="House Greyjoy only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -1920,8 +1920,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="House Lannister only. Any Phase: Kneel any number of characters with combined printed cost 3 or lower."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="Any Phase: Kneel any number of characters with combined printed cost 3 or lower."/>
+			<property name="Keywords"       value="House Lannister only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -1986,8 +1986,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="House Martell only. Any Phase: Choose any number of influence providing cards with combined printed cost 3 or lower. Kneel all chosen cards or stand all chosen cards."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="Any Phase: Choose any number of influence providing cards with combined printed cost 3 or lower. Kneel all chosen cards or stand all chosen cards."/>
+			<property name="Keywords"       value="House Martell only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -2030,7 +2030,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Brotherhood."/>
-			<property name="Text"           value="While any opponent's House card has more power than your House card, Harwin gains, 'Response: After you win a Military challenge, search your deck for a card, shuffle your deck, and then put that card on top of your deck.'"/>
+			<property name="Text"           value="While any opponent's House card has more power than your House card, Harwin gains, 'Response: After you win a [MIL] challenge, search your deck for a card, shuffle your deck, and then put that card on top of your deck.'"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -2052,8 +2052,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Stronghold. Stormlands."/>
-			<property name="Text"           value="House Targaryen only. While any opponent's House card has more power than your House card, raise the claim value on your revealed plot card by 1 during Power challenges."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="While any opponent's House card has more power than your House card, raise the claim value on your revealed plot card by 1 during [POW] challenges."/>
+			<property name="Keywords"       value="House Targaryen only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
 			<property name="Strength"       value=""/>
@@ -2074,7 +2074,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Favor."/>
-			<property name="Text"           value="Attach to a character you control. Attached character gets +3 STR, gains the Bannerman trait, and gains a Military, an Intrigue, and a Power icon. After you lose a Power challenge, discard attached character from play. (Cannot be saved.)"/>
+			<property name="Text"           value="Attach to a character you control. Attached character gets +3 STR, gains the Bannerman trait, and gains a [MIL], an [INT], and a [POW] icon. After you lose a [POW] challenge, discard attached character from play. (Cannot be saved.)"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="0"/>
@@ -2140,8 +2140,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Agenda"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="House Baratheon only. You draw 1 less card during the draw phase (to a minimum of 1). Your Baratheon characters with printed cost 2 or higher gain renown."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="You draw 1 less card during the draw phase (to a minimum of 1). Your Baratheon characters with printed cost 2 or higher gain renown."/>
+			<property name="Keywords"       value="House Baratheon only."/>
 			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -2162,8 +2162,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Agenda"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="House Greyjoy only. After a challenge resolves, the player who counted the lowest total STR must choose and kill a participating character he or she controls."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="After a challenge resolves, the player who counted the lowest total STR must choose and kill a participating character he or she controls."/>
+			<property name="Keywords"       value="House Greyjoy only."/>
 			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -2382,7 +2382,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Challenges: During an INT challenge, kneel 2 of your Lannister characters to kill all attacking characters.  Limit 1 per challenge."/>
+			<property name="Text"           value="Challenges: During an INT challenge, kneel 2 of your [Lannister] characters to kill all attacking characters.  Limit 1 per challenge."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -2514,7 +2514,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Favor."/>
-			<property name="Text"           value="Attach to a Stark character you control.  Limit 1 per character.  While the attached character is attacking alone, increase the claim value on your revealed plot card by 2.  If you win the challenge, discard attached character from play (cannot be saved)."/>
+			<property name="Text"           value="Attach to a [Stark] character you control.  Limit 1 per character.  While the attached character is attacking alone, increase the claim value on your revealed plot card by 2.  If you win the challenge, discard attached character from play (cannot be saved)."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>

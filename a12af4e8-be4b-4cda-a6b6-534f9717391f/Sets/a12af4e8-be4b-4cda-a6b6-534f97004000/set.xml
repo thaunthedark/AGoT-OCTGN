@@ -5,8 +5,8 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lady."/>
- 			<property name="Text"           value="If it is Winter, Arya Stark gains Stealth and Deadly.  If Arya Stark is killed, put her into Shadows instead of your dead pile."/>
- 			<property name="Keywords"       value="House Stark only. "/>
+ 			<property name="Text"           value="If it is Winter, Arya Stark gains Stealth and Deadly. If Arya Stark is killed, put her into Shadows instead of your dead pile."/>
+ 			<property name="Keywords"       value="House Stark only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="s1"/>
  			<property name="Strength"       value="2"/>
@@ -71,7 +71,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Challenges: Choose a kneeling Stark character. Until the end of the phase, that character is eligible, while kneeling, to be declared as a defender for any challenge in which it could normally participate."/>
+ 			<property name="Text"           value="Challenges: Choose a kneeling [Stark] character. Until the end of the phase, that character is eligible, while kneeling, to be declared as a defender for any challenge in which it could normally participate."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -159,8 +159,8 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="King's Landing."/>
- 			<property name="Text"           value="Response: After you declare attackers during a Power challenge, put Kingswood Trail into Shadows to choose and kneel a character with a [POW] icon controlled by the defending player."/>
- 			<property name="Keywords"       value="House Baratheon only. "/>
+ 			<property name="Text"           value="Response: After you declare attackers during a [POW] challenge, put Kingswood Trail into Shadows to choose and kneel a character with a [POW] icon controlled by the defending player."/>
+ 			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s1"/>
  			<property name="Strength"       value=""/>
@@ -225,7 +225,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Agenda"/>
  			<property name="Traits"         value="Treaty."/>
- 			<property name="Text"           value="Ignore the out of House gold penalty on all Greyjoy cards.  Each opponent without a Treaty agenda needs 5 fewer power (to a minimum of 10) to win the game."/>
+ 			<property name="Text"           value="Ignore the out of House gold penalty on all [Greyjoy] cards.  Each opponent without a Treaty agenda needs 5 fewer power (to a minimum of 10) to win the game."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value=""/>
@@ -270,7 +270,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item."/>
  			<property name="Text"           value="Attached character gets -2 STR and is killed if its STR is 0.  Response: After Dragon Skull comes out of Shadows, attach it to an opponent's character or discard it from play."/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s1"/>
  			<property name="Strength"       value=""/>
@@ -313,7 +313,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Agenda"/>
  			<property name="Traits"         value="Treaty."/>
- 			<property name="Text"           value="Ignore the out of House gold penalty on all Martell cards.  Each opponent without a Treaty agenda needs 5 fewer power (to a minimum of 10) to win the game."/>
+ 			<property name="Text"           value="Ignore the out of House gold penalty on all [Martell] cards.  Each opponent without a Treaty agenda needs 5 fewer power (to a minimum of 10) to win the game."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value=""/>
@@ -336,7 +336,7 @@
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Small Council."/>
  			<property name="Text"           value="Response: After The Shadow of the South comes out of Shadows, choose an opponent. That opponent cannot play event cards during this phase. Then, if it is Summer, return The Shadow of the South to its owner's hand."/>
- 			<property name="Keywords"       value="House Martell only. "/>
+ 			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s0"/>
  			<property name="Strength"       value=""/>
@@ -379,7 +379,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Small Council."/>
- 			<property name="Text"           value="Response: After Shadow Politics comes out of Shadows, choose a player. That player may initiate an additional Intrigue challenge against an opponent of his or her choice as a standard player action this phase."/>
+ 			<property name="Text"           value="Response: After Shadow Politics comes out of Shadows, choose a player. That player may initiate an additional [INT] challenge against an opponent of his or her choice as a standard player action this phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s1"/>
@@ -445,7 +445,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lady."/>
- 			<property name="Text"           value="If it is Winter and you have at least 1 card in Shadows, opponents cannot declare Intrigue challenges against you."/>
+ 			<property name="Text"           value="If it is Winter and you have at least 1 card in Shadows, opponents cannot declare [INT] challenges against you."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -511,7 +511,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lady. Queen."/>
- 			<property name="Text"           value="Response: After you win an Intrigue challenge in which Cersei Lannister participated, choose and kneel up to X non-Army characters. X is the number of cards you control in Shadows."/>
+ 			<property name="Text"           value="Response: After you win an [INT] challenge in which Cersei Lannister participated, choose and kneel up to X non-Army characters. X is the number of cards you control in Shadows."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -556,7 +556,7 @@
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Response: After A Fistful of Coppers comes out of Shadows, move 2 gold from the treasury to your gold pool."/>
- 			<property name="Keywords"       value="House Lannister only. "/>
+ 			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s0"/>
  			<property name="Strength"       value=""/>
@@ -665,7 +665,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Any Phase: Kneel a Greyjoy Lord character to choose and kneel X locations. X is the STR of the knelt character."/>
+ 			<property name="Text"           value="Any Phase: Kneel a [Greyjoy] Lord character to choose and kneel X locations. X is the STR of the knelt character."/>
  			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -709,7 +709,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Poison."/>
- 			<property name="Text"           value="Attached character gains an Intrigue icon and Deadly.  Response: After an opponent's character is killed during an Intrigue challenge, discard Tears of Lys to draw a card."/>
+ 			<property name="Text"           value="Attached character gains an [INT] icon and Deadly.  Response: After an opponent's character is killed during an [INT] challenge, discard Tears of Lys to draw a card."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -732,7 +732,7 @@
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Small Council."/>
  			<property name="Text"           value="Response: After The Shadow of the East comes out of Shadows, choose and discard 1 attachment from play. Then, if it is Summer, return The Shadow of the East to its owner's hand."/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s0"/>
  			<property name="Strength"       value=""/>
@@ -775,7 +775,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="The South."/>
- 			<property name="Text"           value="Challenges: Kneel Lost Oasis to choose a Martell character. Until the end of the phase, that character gains Stealth and &quot;after this character bypasses a character by using Stealth, kneel that character.&quot;"/>
+ 			<property name="Text"           value="Challenges: Kneel Lost Oasis to choose a [Martell] character. Until the end of the phase, that character gains Stealth and &quot;after this character bypasses a character by using Stealth, kneel that character.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -819,7 +819,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Small Council."/>
- 			<property name="Text"           value="Response: After you win an Intrigue challenge, choose a location controlled by the losing opponent. If that location has the [Shadow] crest, return it to Shadows. Otherwise, discard it from play."/>
+ 			<property name="Text"           value="Response: After you win an [INT] challenge, choose a location controlled by the losing opponent. If that location has the [Shadow] crest, return it to Shadows. Otherwise, discard it from play."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -885,7 +885,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord."/>
- 			<property name="Text"           value="If you have a Baratheon House card, reduce the gold penalty to play Eddard Stark by 1.  Response: Cancel a triggered effect that chooses a [Noble] character as the only target. Then, draw a card. (Limit once per phase.)"/>
+ 			<property name="Text"           value="If you have a [Baratheon] House card, reduce the gold penalty to play Eddard Stark by 1. Response: Cancel a triggered effect that chooses a [Noble] character as the only target. Then, draw a card. (Limit once per phase.)"/>
  			<property name="Keywords"       value="Renown."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
@@ -908,7 +908,7 @@
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="King's Landing."/>
  			<property name="Text"           value="If it is Winter, move 1 gold from the treasury to your gold pool each time a card comes out of Shadows."/>
- 			<property name="Keywords"       value="House Stark only. "/>
+ 			<property name="Keywords"       value="House Stark only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value=""/>
@@ -974,7 +974,7 @@
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="King's Landing."/>
  			<property name="Text"           value="Response: After a card comes out of Shadows, look at the top card of your deck. Then, place that card on the top of your deck or on the bottom of your deck."/>
- 			<property name="Keywords"       value="House Lannister only. "/>
+ 			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -995,7 +995,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. King."/>
- 			<property name="Text"           value="Any phase: Stand Robert Baratheon. Use this ability only if there are no cards in Shadows. "/>
+ 			<property name="Text"           value="Any phase: Stand Robert Baratheon. Use this ability only if there are no cards in Shadows."/>
  			<property name="Keywords"       value="Renown."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
@@ -1018,7 +1018,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally."/>
  			<property name="Text"           value="Response: After you play a Lord or Lady character from your hand, put Royal Entourage into play from your hand or discard pile."/>
- 			<property name="Keywords"       value="House Baratheon only. "/>
+ 			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
  			<property name="Strength"       value="3"/>
@@ -1039,7 +1039,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Creature. Warhorse."/>
- 			<property name="Text"           value="Attached character gains Renown.  Challenges: Unattach Jousting Steed. Then, it becomes a STR 2 character with a Military and a Power icon and &quot;while Jousting Steed is attacking alone, no more than 1 character can be declared as a defender.&quot; At the end of the phase, return Jousting Steed to its owner's hand if it is still in play."/>
+ 			<property name="Text"           value="Attached character gains Renown.  Challenges: Unattach Jousting Steed. Then, it becomes a STR 2 character with a [MIL] and a [POW] icon and &quot;while Jousting Steed is attacking alone, no more than 1 character can be declared as a defender.&quot; At the end of the phase, return Jousting Steed to its owner's hand if it is still in play."/>
  			<property name="Keywords"       value="Knight character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -1062,7 +1062,7 @@
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="King's Landing."/>
  			<property name="Text"           value="Response: After The Iron Throne comes out of Shadows, choose an opponent. If that opponent has more cards in hand than you, discard a card at random from that player's hand.  Response: After an opponent draws a card outside of the draw phase, The Iron Throne goes into Shadows."/>
- 			<property name="Keywords"       value="House Baratheon only. "/>
+ 			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="s1"/>
  			<property name="Strength"       value=""/>
@@ -1083,7 +1083,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally."/>
- 			<property name="Text"           value="Response: After you win an Intrigue challenge in which Seaside Urchin participated, discard the top card of the losing opponent's deck. If that card is an attachment or an event card, Seaside Urchin claims 1 power."/>
+ 			<property name="Text"           value="Response: After you win an [INT] challenge in which Seaside Urchin participated, discard the top card of the losing opponent's deck. If that card is an attachment or an event card, Seaside Urchin claims 1 power."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -1105,7 +1105,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally."/>
- 			<property name="Text"           value="Response: After you win a Military challenge in which Harbor Thug participated, discard the top card of the losing opponent's deck. If that card is a character, Harbor Thug claims 1 power."/>
+ 			<property name="Text"           value="Response: After you win a [MIL] challenge in which Harbor Thug participated, discard the top card of the losing opponent's deck. If that card is a character, Harbor Thug claims 1 power."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -1128,7 +1128,7 @@
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Small Council."/>
  			<property name="Text"           value="Response: After The Shadow of the Isles comes out of Shadows, each player must choose and discard 1 non-limited location from play that he or she controls. Then, if it is Winter, return The Shadow of the Isles to its owner's hand."/>
- 			<property name="Keywords"       value="House Greyjoy only. "/>
+ 			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s1"/>
  			<property name="Strength"       value=""/>
@@ -1215,7 +1215,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Response: After you win an Intrigue challenge, the losing opponent must choose and discard one card in Shadows that he or she controls."/>
+ 			<property name="Text"           value="Response: After you win an [INT] challenge, the losing opponent must choose and discard one card in Shadows that he or she controls."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -1369,8 +1369,8 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item."/>
- 			<property name="Text"           value="Attached character gains an Intrigue icon.  Response: After Maester Malleon's Tome comes out of Shadows, attach it to a unique character. Then, if it is Winter, look at an opponent's unused plot deck, and move a plot card from that plot deck to that player's used plot pile."/>
- 			<property name="Keywords"       value="House Stark only. "/>
+ 			<property name="Text"           value="Attached character gains an [INT] icon.  Response: After Maester Malleon's Tome comes out of Shadows, attach it to a unique character. Then, if it is Winter, look at an opponent's unused plot deck, and move a plot card from that plot deck to that player's used plot pile."/>
+ 			<property name="Keywords"       value="House Stark only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="s2"/>
  			<property name="Strength"       value=""/>
@@ -1436,7 +1436,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="House Tyrell. Lady."/>
  			<property name="Text"           value="Response: After a card comes out of Shadows, The Queen of Thorns claims 1 power. (Limit once per phase.)"/>
- 			<property name="Keywords"       value="House Baratheon only. "/>
+ 			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="s1"/>
  			<property name="Strength"       value="3"/>
@@ -1480,7 +1480,7 @@
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="King's Landing."/>
  			<property name="Text"           value="Response: After a card comes out of Shadows, kneel The Black Cells to choose an opponent's character. Until the end of the phase, that character cannot kneel or stand."/>
- 			<property name="Keywords"       value="House Baratheon only. "/>
+ 			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s1"/>
  			<property name="Strength"       value=""/>
@@ -1589,7 +1589,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bastard."/>
- 			<property name="Text"           value="HT characters you control gain a [War] crest."/>
+ 			<property name="Text"           value="[Targaryen] characters you control gain a [War] crest."/>
  			<property name="Keywords"       value="Renown."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
@@ -1612,7 +1612,7 @@
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="King's Landing."/>
  			<property name="Text"           value="If you have at least 1 card in Shadows, any characters controlled by opponents who do not have more cards in Shadows than you do get -1 STR."/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
  			<property name="Strength"       value=""/>
@@ -1634,7 +1634,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord."/>
  			<property name="Text"           value="If you are not running an Agenda, The Red Viper gains: &quot;Response: After The Red Viper is killed, kill all characters in play.&quot;"/>
- 			<property name="Keywords"       value="House Martell only. "/>
+ 			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="5"/>
  			<property name="Strength"       value="4"/>
@@ -1655,8 +1655,8 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Response: After you lose a challenge by 4 or more total STR as the defender, all characters controlled by the attacker lose a Military , an Intrigue , and a Power icon until the end of the phase."/>
- 			<property name="Keywords"       value="House Martell only. "/>
+ 			<property name="Text"           value="Response: After you lose a challenge by 4 or more total STR as the defender, all characters controlled by the attacker lose a [MIL] , an [INT] , and a [POW] icon until the end of the phase."/>
+ 			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1854,7 +1854,7 @@
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Response: After a character triggers its character ability, kneel Ser Ilyn Payne or a [Noble] to kill that character."/>
- 			<property name="Keywords"       value="House Lannister only. "/>
+ 			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1897,8 +1897,8 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="King's Landing."/>
- 			<property name="Text"           value="After you win an Intrigue challenge, Small Council Chamber goes into Shadows.  Response: After Small Council Chamber comes out of Shadows, return a Small Council event from your discard pile to your hand."/>
- 			<property name="Keywords"       value="House Baratheon only. "/>
+ 			<property name="Text"           value="After you win an [INT] challenge, Small Council Chamber goes into Shadows.  Response: After Small Council Chamber comes out of Shadows, return a Small Council event from your discard pile to your hand."/>
+ 			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="s1"/>
  			<property name="Strength"       value=""/>
@@ -1919,7 +1919,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ironborn."/>
- 			<property name="Text"           value="Ancient Mariner gets -3 STR during Military challenges."/>
+ 			<property name="Text"           value="Ancient Mariner gets -3 STR during [MIL] challenges."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -1942,7 +1942,7 @@
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Challenges: Kneel 1 influence to choose and stand a kneeling character. Until the end of the phase, that character cannot be declared as an attacker or defender."/>
- 			<property name="Keywords"       value="House Greyjoy only. "/>
+ 			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1964,7 +1964,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally."/>
  			<property name="Text"           value="Response: After King's Landing Assassin comes out of Shadows, choose a character with no attachments. Until the end of the phase, that character gets -2 STR and is killed if its STR is 0."/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s2"/>
  			<property name="Strength"       value="2"/>
@@ -1986,7 +1986,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Asshai."/>
  			<property name="Text"           value="Response: After Shadow Prophet comes out of Shadows, you may look at 1 card in Shadows controlled by each opponent."/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s0"/>
  			<property name="Strength"       value="3"/>
@@ -2030,7 +2030,7 @@
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Dominance: Choose a character without attachments. Until the end of the phase, that character gets -X STR and is killed if its STR is 0. X is the number of cards currently in Shadows."/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -2051,7 +2051,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally."/>
- 			<property name="Text"           value="Response: After you win a Power challenge in which Dornish Diplomat participated, choose and stand a character controlled by an opponent. Then, choose and stand a character you control."/>
+ 			<property name="Text"           value="Response: After you win a [POW] challenge in which Dornish Diplomat participated, choose and stand a character controlled by an opponent. Then, choose and stand a character you control."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -2073,7 +2073,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Weapon."/>
- 			<property name="Text"           value="Any Phase: Kneel The Broken Spear to choose attached character. Until the end of the phase, that character either gains or loses a Military icon."/>
+ 			<property name="Text"           value="Any Phase: Kneel The Broken Spear to choose attached character. Until the end of the phase, that character either gains or loses a [MIL] icon."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -2096,7 +2096,7 @@
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Response: After Backroom Bribery comes out of Shadows, choose an opponent. Move 1 gold from that player's gold pool to yours."/>
- 			<property name="Keywords"       value="House Martell only. "/>
+ 			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s0"/>
  			<property name="Strength"       value=""/>
@@ -2227,7 +2227,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Weapon."/>
- 			<property name="Text"           value="Northern Steel cannot be discarded from play while attached to a Stark character.  Any Phase: Kneel Northern Steel to give attached character either +3 STR or deadly until the end of the phase."/>
+ 			<property name="Text"           value="Northern Steel cannot be discarded from play while attached to a [Stark] character.  Any Phase: Kneel Northern Steel to give attached character either +3 STR or deadly until the end of the phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -2250,7 +2250,7 @@
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="King's Landing."/>
  			<property name="Text"           value="Response: After a card comes out of Shadows, kneel Alchemist's Guild Hall to choose and kneel a character or location that does not have the [Shadow] crest."/>
- 			<property name="Keywords"       value="House Lannister only. "/>
+ 			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s1"/>
  			<property name="Strength"       value=""/>
@@ -2271,7 +2271,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Siege."/>
- 			<property name="Text"           value="Attach to a location. Kneel that location. If you lose a Military challenge, discard Tyrion's Chain from play.  Response: After attached location is knelt, kneel all locations controlled by the attached location's controller."/>
+ 			<property name="Text"           value="Attach to a location. Kneel that location. If you lose a [MIL] challenge, discard Tyrion's Chain from play.  Response: After attached location is knelt, kneel all locations controlled by the attached location's controller."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -2315,7 +2315,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Warship."/>
- 			<property name="Text"           value="If it is Summer or Winter, kneel King Robert's Hammer.  Any Phase: Kneel King Robert's Hammer to choose and stand a Baratheon character."/>
+ 			<property name="Text"           value="If it is Summer or Winter, kneel King Robert's Hammer.  Any Phase: Kneel King Robert's Hammer to choose and stand a [Baratheon] character."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -2337,8 +2337,8 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Westeros."/>
- 			<property name="Text"           value="Response: After you win a Power challenge, kneel Blackwater Bay to choose a card with the [Shadow] crest in your discard pile, and place that card in Shadows."/>
- 			<property name="Keywords"       value="House Baratheon only. "/>
+ 			<property name="Text"           value="Response: After you win a [POW] challenge, kneel Blackwater Bay to choose a card with the [Shadow] crest in your discard pile, and place that card in Shadows."/>
+ 			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -2382,7 +2382,7 @@
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Response: Cancel an effect that would save a card from being killed or discarded from play. Then, draw a card."/>
- 			<property name="Keywords"       value="House Greyjoy only. "/>
+ 			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -2425,7 +2425,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item."/>
- 			<property name="Text"           value="If you have at least 1 gold in your gold pool, attached character does not kneel to attack or defend during Military challenges."/>
+ 			<property name="Text"           value="If you have at least 1 gold in your gold pool, attached character does not kneel to attack or defend during [MIL] challenges."/>
  			<property name="Keywords"       value="W character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -2491,7 +2491,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally. Mercenary."/>
- 			<property name="Text"           value="Challenges: Kneel Veteran Spearman to choose an opponent's character. Until the end of the phase, that character cannot be chosen to die as the result of Military challenge claim."/>
+ 			<property name="Text"           value="Challenges: Kneel Veteran Spearman to choose an opponent's character. Until the end of the phase, that character cannot be chosen to die as the result of [MIL] challenge claim."/>
  			<property name="Keywords"       value="No attachments except Weapon."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -2514,7 +2514,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Weapon."/>
  			<property name="Text"           value="After Venomous Blade comes out of Shadows, attach it to a character you control. Then, choose and kill an opponent's character with printed STR 2 or less.  Response: After you lose a challenge, Venomous Blade goes into Shadows."/>
- 			<property name="Keywords"       value="House Martell only. "/>
+ 			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s0"/>
  			<property name="Strength"       value=""/>
@@ -2535,8 +2535,8 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Any Phase: Choose a character. Until the end of the phase, that character gains a Military icon, a [War] crest, and +3 STR."/>
- 			<property name="Keywords"       value="House Martell only. "/>
+ 			<property name="Text"           value="Any Phase: Choose a character. Until the end of the phase, that character gains a [MIL] icon, a [War] crest, and +3 STR."/>
+ 			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -2601,7 +2601,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Epic Battle."/>
- 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase during which each player may initiate a single Military challenge. In addition to the normal claim effect, the winner of each challenge chooses and returns a King's Landing location from his or her discard pile to his or her hand, if able. (Place this card next to your plot deck until the end of this epic phase, then discard it.)"/>
+ 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase during which each player may initiate a single [MIL] challenge. In addition to the normal claim effect, the winner of each challenge chooses and returns a King's Landing location from his or her discard pile to his or her hand, if able. (Place this card next to your plot deck until the end of this epic phase, then discard it.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>

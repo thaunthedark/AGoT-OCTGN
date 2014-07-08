@@ -5,7 +5,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally."/>
- 			<property name="Text"           value="If The Kindly Man would be killed, instead attach him to your House card as your only agenda with the text: 'Response: After you win an Intrigue or Power challenge, choose a non-unique character in any dead or discard pile and put it into play under your control. At the end of the phase, discard that character if it is still in play. (Limit once per phase.)'"/>
+ 			<property name="Text"           value="If The Kindly Man would be killed, instead attach him to your House card as your only agenda with the text: 'Response: After you win an [INT] or [POW] challenge, choose a non-unique character in any dead or discard pile and put it into play under your control. At the end of the phase, discard that character if it is still in play. (Limit once per phase.)'"/>
  			<property name="Keywords"       value="House Stark only. Deadly."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -49,7 +49,7 @@
  			<property name="House"          value="Stark. Targaryen."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Response: After you win a Military challenge, choose a character of STR 2 or less controlled by the losing player. Attach Ward to the chosen character as a Condition attachment with the text: 'Take control of attached character. If the owner of attached character wins an Intrigue or Power challenge against you, discard Ward.'"/>
+ 			<property name="Text"           value="Response: After you win a [MIL] challenge, choose a character of STR 2 or less controlled by the losing player. Attach Ward to the chosen character as a Condition attachment with the text: 'Take control of attached character. If the owner of attached character wins an [INT] or [POW] challenge against you, discard Ward.'"/>
  			<property name="Keywords"       value="House Stark or House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -93,7 +93,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. Knight."/>
- 			<property name="Text"           value="If Ser Kevan Lannister would be killed, instead attach him to your House Card as you only agenda with the text: 'Response: After you win an Intrigue challenge as the attacker, choose and kneel a character.'"/>
+ 			<property name="Text"           value="If Ser Kevan Lannister would be killed, instead attach him to your House Card as you only agenda with the text: 'Response: After you win an [INT] challenge as the attacker, choose and kneel a character.'"/>
  			<property name="Keywords"       value="House Lannister only. Stealth."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -115,7 +115,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Response: Discard 1 power from a Lannister character you control to cancel a triggered effect that chooses that character as its only target. Then, draw a card."/>
+ 			<property name="Text"           value="Response: Discard 1 power from a [Lannister] character you control to cancel a triggered effect that chooses that character as its only target. Then, draw a card."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -181,7 +181,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="House Tyrell. Lord. Ally."/>
- 			<property name="Text"           value="While Willas Tyrell is participating in a challenge against an opponent running an agenda, he gains renown.&#10;While WIllas Tyrell is participating in a challenge, participating Lannister and Martell characters do not count their STR."/>
+ 			<property name="Text"           value="While Willas Tyrell is participating in a challenge against an opponent running an agenda, he gains renown.&#10;While WIllas Tyrell is participating in a challenge, participating [Lannister] and [Martell] characters do not count their STR."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -203,7 +203,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ironborn."/>
- 			<property name="Text"           value="If Aeron Damphair would be killed, instead attach him to your House card as your only agenda with the text: 'Response: After a Greyjoy character is saved, draw 2 cards.'"/>
+ 			<property name="Text"           value="If Aeron Damphair would be killed, instead attach him to your House card as your only agenda with the text: 'Response: After a [Greyjoy] character is saved, draw 2 cards.'"/>
  			<property name="Keywords"       value="House Greyjoy only. Stealth."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -269,7 +269,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Challenges: Choose a Martell character. Until the end of the phase that character gainst stealth and 'Immune to triggered effects.'"/>
+ 			<property name="Text"           value="Challenges: Choose a [Martell] character. Until the end of the phase that character gainst stealth and 'Immune to triggered effects.'"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -313,7 +313,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Challenges: Kneel 1 influence to choose a character and name a Trait. Until the end of the phase, that character gets -X STR and is killed if its STR is 0. X is the number of Targaryen characters you control with the named Trait."/>
+ 			<property name="Text"           value="Challenges: Kneel 1 influence to choose a character and name a Trait. Until the end of the phase, that character gets -X STR and is killed if its STR is 0. X is the number of [Targaryen] characters you control with the named Trait."/>
  			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -357,7 +357,7 @@
  			<property name="House"          value="Stark. Lannister. Baratheon. Greyjoy. Targaryen. Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Free Cities. Kingdom."/>
- 			<property name="Text"           value="Lower the cost of the first out-of-House Greyjoy card you play each round by 1.&#10;Lower the cost of the first Mercenary character you play each round by 1."/>
+ 			<property name="Text"           value="Lower the cost of the first out-of-House [Greyjoy] card you play each round by 1.&#10;Lower the cost of the first Mercenary character you play each round by 1."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -467,7 +467,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord."/>
- 			<property name="Text"           value="Challenges: Kneel a Direwolf to stand Bran Stark. Then, Bran Stark gains (choose 1): a Military icon, stealth, or deadly until the end of phase."/>
+ 			<property name="Text"           value="Challenges: Kneel a Direwolf to stand Bran Stark. Then, Bran Stark gains (choose 1): a [MIL] icon, stealth, or deadly until the end of phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -555,7 +555,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lady."/>
- 			<property name="Text"           value="If Shireen Baratheon would be killed, instead attach her to your House Card as your only agenda with the text: 'Response: After you win a Power challenge, choose a character you control with renown. Until the end of the phase, when that character claims power for renown, it claims 1 additional power.'"/>
+ 			<property name="Text"           value="If Shireen Baratheon would be killed, instead attach her to your House Card as your only agenda with the text: 'Response: After you win a [POW] challenge, choose a character you control with renown. Until the end of the phase, when that character claims power for renown, it claims 1 additional power.'"/>
  			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -621,7 +621,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Asshai."/>
- 			<property name="Text"           value="Response: Kneel Moqorro to save a unique Greyjoy character from being killed or discarded. That character gets +2 STR and gains intimidate until the end of the phase. "/>
+ 			<property name="Text"           value="Response: Kneel Moqorro to save a unique [Greyjoy] character from being killed or discarded. That character gets +2 STR and gains intimidate until the end of the phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -643,7 +643,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. Knight."/>
- 			<property name="Text"           value="If Quentyn Martell would be killed, instead attach Quentyn Martell to your House card as your only agenda with the text: 'Unique Martell characters you control gaint vengeful. Response: After 1 or more characters stand for vengeful, draw 1 card.'"/>
+ 			<property name="Text"           value="If Quentyn Martell would be killed, instead attach Quentyn Martell to your House card as your only agenda with the text: 'Unique [Martell] characters you control gaint vengeful. Response: After 1 or more characters stand for vengeful, draw 1 card.'"/>
  			<property name="Keywords"       value="House Martell only. Stealth."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -731,7 +731,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Queensguard."/>
- 			<property name="Text"           value="Strong Belwas gets -1 STR for each gold token on him and is killed if his STR is 0.&#10;Response: Place 1 gold token from the treasury on Strong Belwas to save another unique Targaryen character from being killed or discarded from play. (Limit once per phase.)"/>
+ 			<property name="Text"           value="Strong Belwas gets -1 STR for each gold token on him and is killed if his STR is 0.&#10;Response: Place 1 gold token from the treasury on Strong Belwas to save another unique [Targaryen] character from being killed or discarded from play. (Limit once per phase.)"/>
  			<property name="Keywords"       value="No attachments except Boon."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -753,7 +753,7 @@
  			<property name="House"          value="Stark. Lannister. Greyjoy. Baratheon. Targaryen. Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Free Cities. Kingdom."/>
- 			<property name="Text"           value="Lower the cost of the first out-of-House Stark card you play each round by 1.&#10;Lower the cost of the first Lady character you play each round by 1."/>
+ 			<property name="Text"           value="Lower the cost of the first out-of-House [Stark] card you play each round by 1.&#10;Lower the cost of the first Lady character you play each round by 1."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -775,7 +775,7 @@
  			<property name="House"          value="Stark. Lannister. Baratheon. Greyjoy. Targaryen. Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Free Cities. Kingdom."/>
- 			<property name="Text"           value="Lower the cost of the first out-of-House Martell card you play each round by 1.&#10;Lower the cost of the first Lord character you play each round by 1."/>
+ 			<property name="Text"           value="Lower the cost of the first out-of-House [Martell] card you play each round by 1.&#10;Lower the cost of the first Lord character you play each round by 1."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -885,7 +885,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally."/>
- 			<property name="Text"           value="Characters with stalwart gain stealth.&#10;Response: After you play a character with the stalwart keyword from your hand, choose and stand a Stark character."/>
+ 			<property name="Text"           value="Characters with stalwart gain stealth.&#10;Response: After you play a character with the stalwart keyword from your hand, choose and stand a [Stark] character."/>
  			<property name="Keywords"       value="Stalwart."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -929,7 +929,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="The East."/>
- 			<property name="Text"           value="While Yezzan's Grotesquerie is participating in a challenge, characters with a Military icon do not count their STR."/>
+ 			<property name="Text"           value="While Yezzan's Grotesquerie is participating in a challenge, characters with a [MIL] icon do not count their STR."/>
  			<property name="Keywords"       value="Infamy."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -973,7 +973,7 @@
  			<property name="House"          value="Stark. Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Wildling. Traitor."/>
- 			<property name="Text"           value="Challenges: Before any challenges are declared, discard a card from your hand to give a Baratheon or Stark character renown until the end of the phase. (Limit 3 times per round.)"/>
+ 			<property name="Text"           value="Challenges: Before any challenges are declared, discard a card from your hand to give a [Baratheon] or [Stark] character renown until the end of the phase. (Limit 3 times per round.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -995,7 +995,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Asshai. Army."/>
- 			<property name="Text"           value="Lower the cost to play The Red Queen's Faithful by 1 for each unique Baratheon character you control.&#10;Response: After you win a challenge in which The Red Queen's Faithful participated, choose a player. Move up to 3 power from his or her House card to a character he or she controls."/>
+ 			<property name="Text"           value="Lower the cost to play The Red Queen's Faithful by 1 for each unique [Baratheon] character you control.&#10;Response: After you win a challenge in which The Red Queen's Faithful participated, choose a player. Move up to 3 power from his or her House card to a character he or she controls."/>
  			<property name="Keywords"       value="No attachments."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="7"/>
@@ -1017,7 +1017,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ironborn."/>
- 			<property name="Text"           value="If Follower of Two Gods would be killed, instead put it on the bottom of your deck.&#10;Response: After you win an unopposed challenge, Follower of Two Gods gains a Power icon until the end of the phase."/>
+ 			<property name="Text"           value="If Follower of Two Gods would be killed, instead put it on the bottom of your deck.&#10;Response: After you win an unopposed challenge, Follower of Two Gods gains a [POW] icon until the end of the phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -1083,7 +1083,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Army. Raider."/>
- 			<property name="Text"           value="Lower the cost to play Victarion's Reavers by 1 for each unique Greyjoy character you control.&#10;If you win a challenge in which Victarion's Reavers attacked alone, instead of the normal claim effects, the losing player chooses and discards X locations he or she controls from play. X is the printed claim on your revealed plot card."/>
+ 			<property name="Text"           value="Lower the cost to play Victarion's Reavers by 1 for each unique  [Greyjoy] character you control.&#10;If you win a challenge in which Victarion's Reavers attacked alone, instead of the normal claim effects, the losing player chooses and discards X locations he or she controls from play. X is the printed claim on your revealed plot card."/>
  			<property name="Keywords"       value="No attachments."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="7"/>
@@ -1149,7 +1149,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. Knight."/>
- 			<property name="Text"           value="If you are running a non-character agenda, treat Ser Gerris Drinkwater's printed text box as if it were blank.&#10;Response: After Ser Gerris Drinkwater is knelt as a defender, choose and stand another Martell character."/>
+ 			<property name="Text"           value="If you are running a non-character agenda, treat Ser Gerris Drinkwater's printed text box as if it were blank.&#10;Response: After Ser Gerris Drinkwater is knelt as a defender, choose and stand another [Martell] character."/>
  			<property name="Keywords"       value="Stealth. Renown."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -1237,8 +1237,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Knight. Lord."/>
- 			<property name="Text"           value="If Griff would be killed, instead attach him to your House card as your only agenda with the text: 'If you do not control more attachments that each opponent, unattach Griff and return him to play. Response: After a Targaryen attachment you control is discarded from play, kneel 1 influence to return it to your hand.'"/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="If Griff would be killed, instead attach him to your House card as your only agenda with the text: 'If you do not control more attachments that each opponent, unattach Griff and return him to play. Response: After a [Targaryen] attachment you control is discarded from play, kneel 1 influence to return it to your hand.'"/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
  			<property name="Strength"       value="3"/>
@@ -1252,14 +1252,14 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: House Targaryen only.  If Griff would be killed, instead attach him to your House Card as your only agenda with the text: 'If you control fewer attachments than each opponent, unattach Griff and return him to play.' Response: After a Targaryen attachment you control is discarded from play, kneel 1 influenece to return it to your hand instead."/>
+ 			<property name="ErrataText"     value="Should read: House Targaryen only.  If Griff would be killed, instead attach him to your House Card as your only agenda with the text: 'If you control fewer attachments than each opponent, unattach Griff and return him to play.' Response: After a [Targaryen] attachment you control is discarded from play, kneel 1 influenece to return it to your hand instead."/>
 			<property name="Enhancement"    value=""/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3058" name="Pentos">
  			<property name="House"          value="Stark. Lannister. Baratheon. Greyjoy. Targaryen. Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Free Cities. Kingdom."/>
- 			<property name="Text"           value="Lower the cost of the first out-of-House Targaryen card you play each round by 1. Lower the cost of the first Army character you play each round by 1."/>
+ 			<property name="Text"           value="Lower the cost of the first out-of-House [Targaryen] card you play each round by 1. Lower the cost of the first Army character you play each round by 1."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -1325,7 +1325,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lady. House Mormont."/>
- 			<property name="Text"           value="If you are not running and Agenda, Maege Mormont gains: 'Response: After you win a challenge in which Maege Mormont participated, return her to her owner's hand to search your deck for a Stark location. Put that location into play knelt and shuffle your deck.'"/>
+ 			<property name="Text"           value="If you are not running and Agenda, Maege Mormont gains: 'Response: After you win a challenge in which Maege Mormont participated, return her to her owner's hand to search your deck for a [Stark] location. Put that location into play knelt and shuffle your deck.'"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -1567,7 +1567,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Army. Mercenary."/>
- 			<property name="Text"           value="Lower the cost to play The Windblown by 1 for each unique Martell character you control.&#10;While The Windblown is attacking, characters with fewer than 2 icons do not count their STR."/>
+ 			<property name="Text"           value="Lower the cost to play The Windblown by 1 for each unique [Martell] character you control.&#10;While The Windblown is attacking, characters with fewer than 2 icons do not count their STR."/>
  			<property name="Keywords"       value="No attachments."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="7"/>
@@ -1589,7 +1589,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Army. Mercenary."/>
- 			<property name="Text"           value="Lower the cost to play The Golden Company by 1 for each unique Targaryen character you control.&#10;Response: After you win a challenge in which The Golden Company participated as an attacker, return 1 random card from your discard pile to your hand."/>
+ 			<property name="Text"           value="Lower the cost to play The Golden Company by 1 for each unique [Targaryen] character you control.&#10;Response: After you win a challenge in which The Golden Company participated as an attacker, return 1 random card from your discard pile to your hand."/>
  			<property name="Keywords"       value="Renown. No attachments."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="7"/>
@@ -1611,7 +1611,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item."/>
- 			<property name="Text"           value="Attach to a card controlled by an opponent. Targaryen cards of the attached card's type in your hand gain ambush during the challenges phase."/>
+ 			<property name="Text"           value="Attach to a card controlled by an opponent. [Targaryen] cards of the attached card's type in your hand gain ambush during the challenges phase."/>
  			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -1633,7 +1633,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="The East."/>
- 			<property name="Text"           value="Marshalling: Kneel Great Pyramid of Meereen to lower the cost of the next Targaryen character you play this phase by 2."/>
+ 			<property name="Text"           value="Marshalling: Kneel Great Pyramid of Meereen to lower the cost of the next [Targaryen] character you play this phase by 2."/>
  			<property name="Keywords"       value="Limited."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -1655,7 +1655,7 @@
  			<property name="House"          value="Stark. Lannister. Baratheon. Greyjoy. Targaryen. Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Free Cities. Kingdom."/>
- 			<property name="Text"           value="Lower the cost of the first out-of-House Baratheon card you play each round by 1.&#10;Lower the cost of the first Knight character you play each round by 1."/>
+ 			<property name="Text"           value="Lower the cost of the first out-of-House [Baratheon] card you play each round by 1.&#10;Lower the cost of the first Knight character you play each round by 1."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -1677,7 +1677,7 @@
  			<property name="House"          value="Stark. Lannister. Baratheon. Greyjoy. Targaryen. Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Free Cities. Kingdom."/>
- 			<property name="Text"           value="Lower the cost of the first out-of-House Lannister card you play each round by 1.&#10;Lower the cost of the first Ally character you play each round by 1."/>
+ 			<property name="Text"           value="Lower the cost of the first out-of-House [Lannister] card you play each round by 1.&#10;Lower the cost of the first Ally character you play each round by 1."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -1743,7 +1743,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Unique characters you control get +1 STR and a Military, and Intrigue, and a Power icon during the first challenge initiated this round."/>
+ 			<property name="Text"           value="Unique characters you control get +1 STR and a [MIL], and [INT], and a [POW] icon during the first challenge initiated this round."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value=""/>
  			<property name="Cost"           value=""/>
@@ -1765,7 +1765,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lady."/>
- 			<property name="Text"           value="Response: After a unique Stark character is killed, discard Arya Stark from play (cannot be saved) to choose and kill a character with STR 3 or less."/>
+ 			<property name="Text"           value="Response: After a unique [Stark] character is killed, discard Arya Stark from play (cannot be saved) to choose and kill a character with STR 3 or less."/>
  			<property name="Keywords"       value="Deadly."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -1831,7 +1831,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Dominance: If you lost dominance this phase, choose a standing unique Stark character. That character claims 2 power. (Limit 1 per round.)"/>
+ 			<property name="Text"           value="Dominance: If you lost dominance this phase, choose a standing unique [Stark] character. That character claims 2 power. (Limit 1 per round.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -1853,7 +1853,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="The East."/>
- 			<property name="Text"           value="Limited Response: After an opponent's character is knelt by a card effect, kneel Dockside Brothel to have a unique Lannister character claim 1 power."/>
+ 			<property name="Text"           value="Limited Response: After an opponent's character is knelt by a card effect, kneel Dockside Brothel to have a unique [Lannister] character claim 1 power."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="0"/>
@@ -1963,7 +1963,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Warship."/>
- 			<property name="Text"           value="Response: After you win an unopposed challenge, kneel Freed Galley to claim 1 power for any participating unique Greyjoy character."/>
+ 			<property name="Text"           value="Response: After you win an unopposed challenge, kneel Freed Galley to claim 1 power for any participating unique  [Greyjoy] character."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -2029,7 +2029,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="The East."/>
- 			<property name="Text"           value="Challenges: Kneel Qhoyne to choose a character. Until the end of the phase, that character loses a Power icon. If that character has no Power icon, it instead gets -1 STR until the end of the phase."/>
+ 			<property name="Text"           value="Challenges: Kneel Qhoyne to choose a character. Until the end of the phase, that character loses a [POW] icon. If that character has no [POW] icon, it instead gets -1 STR until the end of the phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -2095,7 +2095,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Army. Mercenary."/>
- 			<property name="Text"           value="Response: After a character comes into play, choose and stand a Targaryen character you control. (Limit once per phase.)"/>
+ 			<property name="Text"           value="Response: After a character comes into play, choose and stand a [Targaryen] character you control. (Limit once per phase.)"/>
  			<property name="Keywords"       value="House Targaryen only. Ambush."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -2249,7 +2249,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Response: Kneel 1 influence to save a unique Stark or Greyjoy character from being killed. Then, attach Rhymes with Meek to the saved character (counts as a Condition attachment with the text 'Attached character cannot have its STR raised or lowered by card effects.')"/>
+ 			<property name="Text"           value="Response: Kneel 1 influence to save a unique [Stark] or [Greyjoy] character from being killed. Then, attach Rhymes with Meek to the saved character (counts as a Condition attachment with the text 'Attached character cannot have its STR raised or lowered by card effects.')"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2293,7 +2293,7 @@
  			<property name="House"          value="Lannister. Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Army. Mercenary. Traitor."/>
- 			<property name="Text"           value="Lower the cost to play The Second Sons by 1 for each unique Lannister or Targaryen character you control.&#10;Response: After a player draws a card through a card effect during the challenges phase, choose a character. That character gets =1 STR until the end of the phase."/>
+ 			<property name="Text"           value="Lower the cost to play The Second Sons by 1 for each unique [Lannister] or [Targaryen] character you control.&#10;Response: After a player draws a card through a card effect during the challenges phase, choose a character. That character gets =1 STR until the end of the phase."/>
  			<property name="Keywords"       value="Stealth."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="7"/>
@@ -2359,7 +2359,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition."/>
- 			<property name="Text"           value="Attach to a Warship location you control. Attached location is immune to non-plot card effects.&#10;Add 3 to your total STR during any Military challenge in which you control at least 1 attacking character."/>
+ 			<property name="Text"           value="Attach to a Warship location you control. Attached location is immune to non-plot card effects.&#10;Add 3 to your total STR during any [MIL] challenge in which you control at least 1 attacking character."/>
  			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -2425,7 +2425,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Mercenary."/>
- 			<property name="Text"           value="You may spend gold tokens on Martell characters you control as if they are in your gold pool.&#10;Response: After you kneel Old Bill Bone as an attacker or defender, discard the top card of your deck. If that card is not a character, place 1 gold token from the treasury on Old Bill Bone."/>
+ 			<property name="Text"           value="You may spend gold tokens on [Martell] characters you control as if they are in your gold pool.&#10;Response: After you kneel Old Bill Bone as an attacker or defender, discard the top card of your deck. If that card is not a character, place 1 gold token from the treasury on Old Bill Bone."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>

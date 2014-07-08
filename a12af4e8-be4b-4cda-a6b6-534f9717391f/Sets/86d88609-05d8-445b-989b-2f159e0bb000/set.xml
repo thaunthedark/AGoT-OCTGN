@@ -5,7 +5,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Ally."/>
-			<property name="Text"           value="Challenges: Kneel Little Bird to choose a character. Until the end of the phase that character gains (choose 1): an Intrigue icon, stealth, or infamy. "/>
+			<property name="Text"           value="Challenges: Kneel Little Bird to choose a character. Until the end of the phase that character gains (choose 1): an [INT] icon, stealth, or infamy."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
@@ -25,7 +25,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="House Brax."/>
-			<property name="Text"           value="While Blackwater Bay Veteran has 1 or more power on it, it gains a Military Naval enhancement. "/>
+			<property name="Text"           value="While Blackwater Bay Veteran has 1 or more power on it, it gains a [MIL] [Naval] enhancement."/>
 			<property name="Keywords"       value="Infamy."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
@@ -85,7 +85,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army."/>
-			<property name="Text"           value="Lower the cost to play Fleet from Pyke by 3 if any opponent is running an agenda. Response: After Fleet from Pyke is declared as a Naval attacker, choose another attacking character you control. Stand and remove that character from the challenge. "/>
+			<property name="Text"           value="Lower the cost to play Fleet from Pyke by 3 if any opponent is running an agenda. Response: After Fleet from Pyke is declared as a Naval attacker, choose another attacking character you control. Stand and remove that character from the challenge."/>
 			<property name="Keywords"       value="No attachments. Deadly."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="7"/>
@@ -165,8 +165,8 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="House Baratheon only. You may play Baratheon characters out of your discard pile during the marshalling phase as if they were in your hand"/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="You may play [Baratheon] characters out of your discard pile during the marshalling phase as if they were in your hand"/>
+			<property name="Keywords"       value="House Baratheon only."/>
 			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -205,7 +205,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. House Manderly."/>
-			<property name="Text"           value=" Lower the cost to play Fleet from Wolf's Den by 3 if any opponent is running an agenda. Response: After Fleet from Wolf's Den is declared as a Naval attacker, choose another attacking character you control. Stand and remove that character from the challenge. "/>
+			<property name="Text"           value=" Lower the cost to play Fleet from Wolf's Den by 3 if any opponent is running an agenda. Response: After Fleet from Wolf's Den is declared as a Naval attacker, choose another attacking character you control. Stand and remove that character from the challenge."/>
 			<property name="Keywords"       value="No attachments. Renown."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="7"/>
@@ -305,7 +305,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. Mercenary."/>
-			<property name="Text"           value="Lower the cost to play Fleet from Volantis by 3 if any opponent is running an agenda. Response: After Fleet from Volantis is declared as a Naval attacker, choose another attacking character you control. Stand and remove that character from the challenge. "/>
+			<property name="Text"           value="Lower the cost to play Fleet from Volantis by 3 if any opponent is running an agenda. Response: After Fleet from Volantis is declared as a Naval attacker, choose another attacking character you control. Stand and remove that character from the challenge."/>
 			<property name="Keywords"       value="No attachments. Melee."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="7"/>
@@ -405,7 +405,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Captain. House Redwyne"/>
-			<property name="Text"           value="Response: After you win initiative, add 2 gold tokens from the treasury to your gold pool. "/>
+			<property name="Text"           value="Response: After you win initiative, add 2 gold tokens from the treasury to your gold pool."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
@@ -425,7 +425,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Warship"/>
-			<property name="Text"           value="Any Phase: Kneel Arbor Queen to choose a charatcter. Until the end of the phase, that character gets +1 STR for each gold token in your gold pool. "/>
+			<property name="Text"           value="Any Phase: Kneel Arbor Queen to choose a charatcter. Until the end of the phase, that character gets +1 STR for each gold token in your gold pool."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
@@ -445,7 +445,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Warship"/>
-			<property name="Text"           value="Dominance: Kneel Lionstar to move up 2 gold tokens from your gold pool on Lionstar. (Any number of gold tokens instead if you won a challenge with a participating Naval attacker this round.) Any phase: Kneel Lionstar to move any number of gold tokens from it to your gold pool. "/>
+			<property name="Text"           value="Dominance: Kneel Lionstar to move up 2 gold tokens from your gold pool on Lionstar. (Any number of gold tokens instead if you won a challenge with a participating Naval attacker this round.) Any phase: Kneel Lionstar to move any number of gold tokens from it to your gold pool."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
@@ -505,7 +505,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Warship"/>
-			<property name="Text"           value="Your [Holy] characters gain a Military icon"/>
+			<property name="Text"           value="Your [Holy] characters gain a [MIL] icon"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -525,7 +525,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Ally. Smuggler"/>
-			<property name="Text"           value="Response : After River Runner stands for vigilant it gains an Intrigue icon until the end of the phase"/>
+			<property name="Text"           value="Response : After River Runner stands for vigilant it gains an [INT] icon until the end of the phase"/>
 			<property name="Keywords"       value="Vigilant"/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
@@ -545,7 +545,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Smuggler. Captain"/>
-			<property name="Text"           value="Knelt Smuggler characters you control count their STR toward dominance. "/>
+			<property name="Text"           value="Knelt Smuggler characters you control count their STR toward dominance."/>
 			<property name="Keywords"       value="Renown. Melee"/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
@@ -565,7 +565,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Warship"/>
-			<property name="Text"           value="Response: After you win a challenge in which you have declared a Naval attacker, kneel Black Betha to attach the top card of your discard pile face-down to a unique Baratheon character as a duplicate (Limit once per round.) "/>
+			<property name="Text"           value="Response: After you win a challenge in which you have declared a Naval attacker, kneel Black Betha to attach the top card of your discard pile face-down to a unique [Baratheon] character as a duplicate (Limit once per round.) "/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
@@ -605,7 +605,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Captain. House Manderly."/>
-			<property name="Text"           value="Response: After you win a challenge in which White Harbor Captain participated by 4 or more total STR, claim 1 power for your House. "/>
+			<property name="Text"           value="Response: After you win a challenge in which White Harbor Captain participated by 4 or more total STR, claim 1 power for your House."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="3"/>
@@ -645,7 +645,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Knight"/>
-			<property name="Text"           value="Response : After Quentyn Martell is killed, claim 2 power for your House."/>
+			<property name="Text"           value="Response: After Quentyn Martell is killed, claim 2 power for your House."/>
 			<property name="Keywords"       value="Stealth"/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -685,8 +685,8 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="House Martell only. only. When revealed, name a phase. Opponents cannot play event cards during that phase this round."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="When revealed, name a phase. Opponents cannot play event cards during that phase this round."/>
+			<property name="Keywords"       value="House Martell only."/>
 			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -745,8 +745,8 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="House Targaryen only. During Power challenges your Army characters gain renown."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="During [POW] challenges your Army characters gain renown."/>
+			<property name="Keywords"       value="House Targaryen only."/>
 			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -885,7 +885,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Challenges: Kneel 2 influence or kneel a character with 1 or more Naval enhancement to turn all Warship locations you control into characters with STR equal to their printed cost, a Military icon, and a Power icon, until end of the phase."/>
+			<property name="Text"           value="Challenges: Kneel 2 influence or kneel a character with 1 or more Naval enhancement to turn all Warship locations you control into characters with STR equal to their printed cost, a [MIL] icon, and a [POW] icon, until end of the phase."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -965,7 +965,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: After you win a Power challenge by 4 or more total STR, stand all participating unique characters you control."/>
+			<property name="Text"           value="Response: After you win a [POW] challenge by 4 or more total STR, stand all participating unique characters you control."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -1085,7 +1085,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Traitor."/>
-			<property name="Text"           value="If you control 1 or more Dragon characters, House Targaryen Loyalist loses the Traitor trait and gains: &quot;House Targaryen Loyalist gains renown during Power challenges.&quot;"/>
+			<property name="Text"           value="If you control 1 or more Dragon characters, House Targaryen Loyalist loses the Traitor trait and gains: &quot;House Targaryen Loyalist gains renown during [POW] challenges.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
@@ -1105,7 +1105,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Warship."/>
-			<property name="Text"           value="Any Phase: Kneel Balerion to lower the cost of the next character you put into play using ambush this phase by 1.  That character claims 1 power when it comes into play and until the end of the phase, it gains a Naval enhancement on its Power icon, if able."/>
+			<property name="Text"           value="Any Phase: Kneel Balerion to lower the cost of the next character you put into play using ambush this phase by 1.  That character claims 1 power when it comes into play and until the end of the phase, it gains a [Naval] enhancement on its [POW] icon, if able."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -1125,7 +1125,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Challenges: Choose a Targaryen character.  That character gets +2 STR until the end of the phase.  Then, attach Fire and Blood to that character (counts as a Boon attachment with the text, 'Attached character gains cannot be discarded from play')."/>
+			<property name="Text"           value="Challenges: Choose a [Targaryen] character.  That character gets +2 STR until the end of the phase.  Then, attach Fire and Blood to that character (counts as a Boon attachment with the text, 'Attached character gains cannot be discarded from play')."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -1145,7 +1145,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Military Battle. City."/>
-			<property name="Text"           value="If you have no other City plots in your used pile, raise the claim value on your revealed plot card by 1 during Military challenges."/>
+			<property name="Text"           value="If you have no other City plots in your used pile, raise the claim value on your revealed plot card by 1 during [MIL] challenges."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
@@ -1205,7 +1205,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. House Clegane."/>
-			<property name="Text"           value="If you are running a character agenda or are not running an agenda, House Clegane Brigands gains: 'Response: After you win an Intrigue challenge, stand House Clegane Brigands.'"/>
+			<property name="Text"           value="If you are running a character agenda or are not running an agenda, House Clegane Brigands gains: 'Response: After you win an [INT] challenge, stand House Clegane Brigands.'"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="4"/>
@@ -1245,7 +1245,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. Raider."/>
-			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Raiders of Orkmont gains: 'Response: After you win a Military challenge, look at the top 3 cards of the losing opponent's deck.  Discard up to 2 of those cards.  Put the remaining cards back on the top of the deck in any order.'"/>
+			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Raiders of Orkmont gains: 'Response: After you win a [MIL] challenge, look at the top 3 cards of the losing opponent's deck.  Discard up to 2 of those cards.  Put the remaining cards back on the top of the deck in any order.'"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="4"/>
@@ -1305,7 +1305,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. Knight. House Tyrell."/>
-			<property name="Text"           value="If ou are running a character agenda or are not running an agenda, Blackcrown Knights gains: 'Response: After you win a Power challenge in which Blackcrown Knights participated, discard 1 card from your hand to have Blackcrown Knights claim 2 power.'"/>
+			<property name="Text"           value="If ou are running a character agenda or are not running an agenda, Blackcrown Knights gains: 'Response: After you win a [POW] challenge in which Blackcrown Knights participated, discard 1 card from your hand to have Blackcrown Knights claim 2 power.'"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="4"/>
@@ -1325,7 +1325,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Captain."/>
-			<property name="Text"           value="Response: After Dale Seaworth enters play or leaves play, choose and return 1 Baratheon card from your discard pile to your hand."/>
+			<property name="Text"           value="Response: After Dale Seaworth enters play or leaves play, choose and return 1 [Baratheon] card from your discard pile to your hand."/>
 			<property name="Keywords"       value="Joust."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -1365,7 +1365,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. Traitor. House Karstark."/>
-			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Riders of Karhold gains: 'Response: After you win a Military challenge, reveal the top card of your deck.  If it is a character add it to your hand, otherwise return it to the top of your deck.'"/>
+			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Riders of Karhold gains: 'Response: After you win a [MIL] challenge, reveal the top card of your deck.  If it is a character add it to your hand, otherwise return it to the top of your deck.'"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="4"/>
@@ -1384,9 +1384,9 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb070" name="Passing the Wall">
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Event"/>
-			<property name="Traits"         value="House Stark only."/>
+			<property name="Traits"         value=""/>
 			<property name="Text"           value="Any Phase: Put a Night's Watch character into play from our hand, then draw 1 card.  At the end of the phase, if that character is still in play, return it to your hand."/>
-			<property name="Keywords"       value=""/>
+			<property name="Keywords"       value="House Stark only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -1405,7 +1405,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. House Uller."/>
-			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Host of the Boneway gains: 'Response: After you win an Intrigue challenge, reveal the top card of your deck.  If it is an event card add it to your hand, otherwise return it to the top of your deck.'"/>
+			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Host of the Boneway gains: 'Response: After you win an [INT] challenge, reveal the top card of your deck.  If it is an event card add it to your hand, otherwise return it to the top of your deck.'"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="4"/>
@@ -1465,7 +1465,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Dothraki."/>
-			<property name="Text"           value="Dothraki Outrider gains renown during Power challenges."/>
+			<property name="Text"           value="Dothraki Outrider gains renown during [POW] challenges."/>
 			<property name="Keywords"       value="Stealth."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="3"/>
@@ -1649,7 +1649,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Warship."/>
-			<property name="Text"           value="Challenges: Pay 1 gold to turn Iron Fleet Scout into a character with 2 STR, a Military icon and a Power icon, each with a Naval enhancement on it, until the end of the phase."/>
+			<property name="Text"           value="Challenges: Pay 1 gold to turn Iron Fleet Scout into a character with 2 STR, a [MIL] icon and a [POW] icon, each with a [Naval] enhancement on it, until the end of the phase."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
@@ -1759,8 +1759,8 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="House Stark only.&#10;During Intrigue challenges against you, your characters with a Military icon gain an Intrigue icon."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="During [INT] challenges against you, your characters with a [MIL] icon gain an [INT] icon."/>
+			<property name="Keywords"       value="House Stark only."/>
 			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -2134,7 +2134,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Challenges: Until the end of the phase, when a player loses a challenge, he or she must choose a location he or she controls and return it to its owner's hand."/>
-			<property name="Keywords"       value="House Greyjoy only.  Play before any challenges have been declared this phase."/>
+			<property name="Keywords"       value="House Greyjoy only. Play before any challenges have been declared this phase."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -2199,7 +2199,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Warship."/>
-			<property name="Text"           value="Any Phase: Kneel Fury and discard 2 cards from your hand to choose and stand a Baratheon character without attachments.  Then draw 1 card. (Draw 2 cards instead if you have won a challenge by 4 or more STR this round.)"/>
+			<property name="Text"           value="Any Phase: Kneel Fury and discard 2 cards from your hand to choose and stand a [Baratheon] character without attachments.  Then draw 1 card. (Draw 2 cards instead if you have won a challenge by 4 or more STR this round.)"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -2309,7 +2309,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Challenges: Choose and stand a Martell character.  That character gains melee until the end of the phase."/>
+			<property name="Text"           value="Challenges: Choose and stand a [Martell] character.  That character gains melee until the end of the phase."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>

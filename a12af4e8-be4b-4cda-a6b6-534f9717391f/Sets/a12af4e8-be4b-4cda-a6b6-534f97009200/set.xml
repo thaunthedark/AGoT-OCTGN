@@ -71,7 +71,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Title."/>
-			<property name="Text"           value="After you play Court Advisor, draw 1 card.  Attached character gains an Intrigue icon."/>
+			<property name="Text"           value="After you play Court Advisor, draw 1 card.  Attached character gains an [INT] icon."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
@@ -93,7 +93,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Skill."/>
-			<property name="Text"           value="Attached character gains a Power icon.  While any revealed plot card has the Power Struggle trait, attached character gets +4 STR."/>
+			<property name="Text"           value="Attached character gains a [POW] icon.  While any revealed plot card has the Power Struggle trait, attached character gets +4 STR."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="0"/>
@@ -137,7 +137,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Item. Weapon."/>
-			<property name="Text"           value="After A Pinch of Powder comes out of Shadows, attach it to a character.  Limited Response: After you win an Intrigue or Power challenge by 3 or more STR, return the attached character to its owner's hand. Then, you may kneel 3 influence to return A Pinch of Powder to Shadows. (Limit 1 limited response per round.)"/>
+			<property name="Text"           value="After A Pinch of Powder comes out of Shadows, attach it to a character.  Limited Response: After you win an [INT] or [POW] challenge by 3 or more STR, return the attached character to its owner's hand. Then, you may kneel 3 influence to return A Pinch of Powder to Shadows. (Limit 1 limited response per round.)"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="s0"/>
@@ -218,7 +218,7 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
-			<property name="ErrataText"     value="When an attacker is fulfilling the claim of a lost Power challenge because of Doran Martell's effect, the attacker must move the power from his or her House card to the defending player's House card."/>
+			<property name="ErrataText"     value="When an attacker is fulfilling the claim of a lost [POW] challenge because of Doran Martell's effect, the attacker must move the power from his or her House card to the defending player's House card."/>
 			<property name="Enhancement"    value=""/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009211" name="Darkstar">
@@ -467,7 +467,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Ally."/>
-			<property name="Text"           value="Any Phase: Discard Orphan of the Greenblood from play (cannot be saved) to choose 1 character. Until the end of the phase, that character loses a Military, an Intrigue , and a Power icon."/>
+			<property name="Text"           value="Any Phase: Discard Orphan of the Greenblood from play (cannot be saved) to choose 1 character. Until the end of the phase, that character loses a [MIL], an [INT], and a [POW] icon."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="0"/>
@@ -511,7 +511,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. House Dayne."/>
-			<property name="Text"           value="If House Dayne Reserves is discarded from your hand for the claim of an Intrigue challenge, put it into play instead of your discard pile.  Any Phase: Kneel 1 influence to return House Dayne Reserves to its owner's hand."/>
+			<property name="Text"           value="If House Dayne Reserves is discarded from your hand for the claim of an [INT] challenge, put it into play instead of your discard pile.  Any Phase: Kneel 1 influence to return House Dayne Reserves to its owner's hand."/>
 			<property name="Keywords"       value="House Martell only. No attachments."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="8"/>
@@ -709,7 +709,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Knight."/>
-			<property name="Text"           value="Former Champion gets -2 STR for each power on him.  While Former Champion has 3 or less STR, he gains a Power icon and deadly.  While Former Champion has 1 or less STR, he gains an Intrigue icon and stealth."/>
+			<property name="Text"           value="Former Champion gets -2 STR for each power on him.  While Former Champion has 3 or less STR, he gains a [POW] icon and deadly.  While Former Champion has 1 or less STR, he gains an [INT] icon and stealth."/>
 			<property name="Keywords"       value="Renown."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="3"/>
@@ -731,7 +731,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Dorne."/>
-			<property name="Text"           value="Marshalling: Kneel Dornish Fiefdoms to lower the cost of the next HM card you play this phase by 1."/>
+			<property name="Text"           value="Marshalling: Kneel Dornish Fiefdoms to lower the cost of the next [Martell] card you play this phase by 1."/>
 			<property name="Keywords"       value="Limited."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
@@ -775,7 +775,7 @@
 			<property name="House"          value="Martell. Targaryen."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Westeros."/>
-			<property name="Text"           value="Marshalling: Discard Summer Sea from play to reduce the cost of the next HT or HM character you play this phase by 2."/>
+			<property name="Text"           value="Marshalling: Discard Summer Sea from play to reduce the cost of the next [Targaryen] or [Martell] character you play this phase by 2."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="0"/>
@@ -797,7 +797,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Dorne."/>
-			<property name="Text"           value="Marshalling: Kneel Palace Fountains to reduce the cost of the next HM card you play this phase by 1."/>
+			<property name="Text"           value="Marshalling: Kneel Palace Fountains to reduce the cost of the next [Martell] card you play this phase by 1."/>
 			<property name="Keywords"       value="Limited."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="0"/>
@@ -863,7 +863,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Dorne."/>
-			<property name="Text"           value="Characters without an Intrigue icon cannot declare stealth."/>
+			<property name="Text"           value="Characters without an [INT] icon cannot declare stealth."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
@@ -907,7 +907,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Dorne."/>
-			<property name="Text"           value="Characters without a Power icon cannot claim power for renown."/>
+			<property name="Text"           value="Characters without a [POW] icon cannot claim power for renown."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
@@ -929,7 +929,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: After 1 of your HM characters is killed, choose and kill 1 character with equal or lower STR. (Limit 1 per phase.)"/>
+			<property name="Text"           value="Response: After 1 of your [Martell] characters is killed, choose and kill 1 character with equal or lower STR. (Limit 1 per phase.)"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -951,8 +951,8 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: Cancel the effects of a response without an influence cost. Then, attach He Calls It Thinking to a HM character (counts as a Boon attachment with the text &quot;Attached character gets +2 STR.&quot;)."/>
-			<property name="Keywords"       value="House Martell only. "/>
+			<property name="Text"           value="Response: Cancel the effects of a response without an influence cost. Then, attach He Calls It Thinking to a [Martell] character (counts as a Boon attachment with the text &quot;Attached character gets +2 STR.&quot;)."/>
+			<property name="Keywords"       value="House Martell only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -973,8 +973,8 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Challenges: Kneel 1 influence to choose 1 character. Until the end of the phase, that character loses a Military, an Intrigue , and a Power icon."/>
-			<property name="Keywords"       value="House Martell only. "/>
+			<property name="Text"           value="Challenges: Kneel 1 influence to choose 1 character. Until the end of the phase, that character loses a [MIL], an [INT], and a [POW] icon."/>
+			<property name="Keywords"       value="House Martell only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -996,7 +996,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Response: After you lose dominance, kneel 2 influence to return all standing characters to their owner's hands."/>
-			<property name="Keywords"       value="House Martell only. "/>
+			<property name="Keywords"       value="House Martell only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -1018,7 +1018,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Plot: Kneel 5 influence or 2 [Noble] characters to choose and reveal a new plot card. (If it is Summer, you may play Scheming on the Sand during the Challenge phase.)"/>
-			<property name="Keywords"       value="House Martell only. "/>
+			<property name="Keywords"       value="House Martell only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -1040,7 +1040,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Response: After you lose a challenge as the defender, kneel 2 influence to cancel the claim effect of that challenge. Then, choose an opponent to satisfy the claim of that challenge as if he or she had lost the challenge as the defender."/>
-			<property name="Keywords"       value="House Martell only. "/>
+			<property name="Keywords"       value="House Martell only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -1083,7 +1083,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: After you win an Intrigue challenge by 4 or more total STR, choose a challenge type. Until the end of the phase, the losing opponent cannot attack or defend during that challenge type. Limit 1 per phase."/>
+			<property name="Text"           value="Response: After you win an [INT] challenge by 4 or more total STR, choose a challenge type. Until the end of the phase, the losing opponent cannot attack or defend during that challenge type. Limit 1 per phase."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -1149,7 +1149,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: After a Military challenge resolves, kneel 1 influence to have the losing player choose 1 participating character and put that character on top of its owner's deck."/>
+			<property name="Text"           value="Response: After a [MIL] challenge resolves, kneel 1 influence to have the losing player choose 1 participating character and put that character on top of its owner's deck."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -1193,7 +1193,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Intrigue Gambit."/>
-			<property name="Text"           value="After you win an Intrigue challenge, choose and discard 1 attachment from play."/>
+			<property name="Text"           value="After you win an [INT] challenge, choose and discard 1 attachment from play."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value=""/>

@@ -5,7 +5,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="House Tully"/>
- 			<property name="Text"           value="Response: After Lucas Blackwood is killed, you may initiate a Military challenge against an opponent of your choice as your next player action this phase"/>
+ 			<property name="Text"           value="Response: After Lucas Blackwood is killed, you may initiate a [MIL] challenge against an opponent of your choice as your next player action this phase"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -116,7 +116,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Condition"/>
  			<property name="Text"           value="Response: After you win a POW challenge in which attached character partecipated, kneel Lucky Bones and discard the top 2 cards of your deck to draw 1 card. (Draw 2 cards instead if attached character is Ser Davos Seaworth.)"/>
- 			<property name="Keywords"       value="House Baratheon character only"/>
+ 			<property name="Keywords"       value="House Baratheon character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -181,7 +181,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lady. Queen."/>
- 			<property name="Text"           value="House Targaryen characters you control get +1 STR"/>
+ 			<property name="Text"           value="House [Targaryen] characters you control get +1 STR"/>
  			<property name="Keywords"       value="Renown"/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
@@ -511,7 +511,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Maester"/>
- 			<property name="Text"           value="Maester Reesponse: After a player wins an Intrigue challenge, pay 1 gold to have Maester Creylen claim 1 power."/>
+ 			<property name="Text"           value="Maester Reesponse: After a player wins an [INT] challenge, pay 1 gold to have Maester Creylen claim 1 power."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -687,7 +687,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="HT only. Response: After a character's STR is reduced to 2 or lower by a card effect, return that character and all attachments on it to their owner's hand."/>
+ 			<property name="Text"           value="[Targaryen] only. Response: After a character's STR is reduced to 2 or lower by a card effect, return that character and all attachments on it to their owner's hand."/>
  			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -731,7 +731,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Challenges: Return a Martell [Noble] character you own and control to your hand to choose an opponent's character. Return that character to its owner's hand"/>
+ 			<property name="Text"           value="Challenges: Return a [Martell] [Noble] character you own and control to your hand to choose an opponent's character. Return that character to its owner's hand"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -929,7 +929,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lady"/>
- 			<property name="Text"           value="Response: After you lose an Intrigue challenge as the attacker, you may initiate an additional challenge this phase."/>
+ 			<property name="Text"           value="Response: After you lose an [INT] challenge as the attacker, you may initiate an additional challenge this phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -951,7 +951,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Response: After you win an Intrigue challenge reveal up to 3 random cards from the losing opponent's hand. You may discard those cards and replace them with an equal number of cards from the top of that player's deck."/>
+ 			<property name="Text"           value="Response: After you win an [INT] challenge reveal up to 3 random cards from the losing opponent's hand. You may discard those cards and replace them with an equal number of cards from the top of that player's deck."/>
  			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -995,7 +995,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Play at the beginning of the challenges phase. Challenges: Kneel a  character to choose a player. Until the end of the phase, all players use the base claim value from that player's revealed plot card."/>
+ 			<property name="Text"           value="Play at the beginning of the challenges phase. Challenges: Kneel a [Learned] character to choose a player. Until the end of the phase, all players use the base claim value from that player's revealed plot card."/>
  			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -1215,7 +1215,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Citadel"/>
- 			<property name="Text"           value="Challenges: Kneel a Maester character to choose a player. That player may initiate an additional Power challenge this phase."/>
+ 			<property name="Text"           value="Challenges: Kneel a Maester character to choose a player. That player may initiate an additional [POW] challenge this phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -1369,7 +1369,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally"/>
- 			<property name="Text"           value="Response: After you win an Intrigue challenge in which The Regent's Spy participated, look at the top card of the losing opponent's deck."/>
+ 			<property name="Text"           value="Response: After you win an [INT] challenge in which The Regent's Spy participated, look at the top card of the losing opponent's deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -1391,7 +1391,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Skill."/>
- 			<property name="Text"           value="Attach to a character you control with an Intrigue and a POW icon. When you win a challenge in which attached character attacked alone, instead of the normal claim effects, look at the losing opponent's hand and choose and discard 1 card from that player's hand."/>
+ 			<property name="Text"           value="Attach to a character you control with an [INT] and a [POW] icon. When you win a challenge in which attached character attacked alone, instead of the normal claim effects, look at the losing opponent's hand and choose and discard 1 card from that player's hand."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -1942,7 +1942,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally. Dothraki."/>
  			<property name="Text"           value="Response: Kneel 2 influence and put Bloodrider into play from your hand to cancel the effects of a character ability just triggered."/>
- 			<property name="Keywords"       value="House Targaryen only"/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value=""/>
@@ -2139,8 +2139,8 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Chain."/>
- 			<property name="Text"           value="Response: After attached character kneels, choose 1 character. Until the end of the phase, that character gets +2 STR and gains a Military icon. (Limit once per phase.)"/>
- 			<property name="Keywords"       value="Setup. Maester character only. "/>
+ 			<property name="Text"           value="Response: After attached character kneels, choose 1 character. Until the end of the phase, that character gets +2 STR and gains a [MIL] icon. (Limit once per phase.)"/>
+ 			<property name="Keywords"       value="Setup. Maester character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -2161,8 +2161,8 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Chain."/>
- 			<property name="Text"           value="Response: After attached character kneels, choose 1 character. Until the end of the phase, that character either gains or loses an Intrigue icon. (Limit once per phase.)"/>
- 			<property name="Keywords"       value="Setup. Maester character only. "/>
+ 			<property name="Text"           value="Response: After attached character kneels, choose 1 character. Until the end of the phase, that character either gains or loses an [INT] icon. (Limit once per phase.)"/>
+ 			<property name="Keywords"       value="Setup. Maester character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>

@@ -49,7 +49,7 @@
 			<property name="House" 			value="Baratheon."/>
 			<property name="Type" 			value="Character"/>
 			<property name="Traits" 		value="Smuggler. Ally."/>
-			<property name="Text" 			value="Response: After you win a Power challenge in which Seasoned Smuggler participated, choose and stand a prized card."/>
+			<property name="Text" 			value="Response: After you win a [POW] challenge in which Seasoned Smuggler participated, choose and stand a prized card."/>
 			<property name="Keywords" 		value="Prized 1."/>
 			<property name="Unique" 		value="No"/>
 			<property name="Cost" 			value="1"/>
@@ -94,7 +94,7 @@
 			<property name="Type" 			value="Event"/>
 			<property name="Traits" 		value=""/>
 			<property name="Text" 			value="Response: After you win a challenge in which you control a participating Lord or Lady character, the losing player much choose 1 location he or she controls.  Then, choose and take control of a different non-limited location under that player's control."/>
-			<property name="Keywords" 		value="House Baratheon only.  Prized 1."/>
+			<property name="Keywords" 		value="House Baratheon only. Prized 1."/>
 			<property name="Unique" 		value="No"/>
 			<property name="Cost" 			value=""/>
 			<property name="Strength" 		value=""/>
@@ -138,7 +138,7 @@
 			<property name="Type" 			value="Event"/>
 			<property name="Traits" 		value=""/>
 			<property name="Text" 			value="Response: After you win dominance, discard all locations from play.  You cannot play locations for the rest of the game."/>
-			<property name="Keywords" 		value="House Greyjoy only.  Prized 1."/>
+			<property name="Keywords" 		value="House Greyjoy only. Prized 1."/>
 			<property name="Unique" 		value="No"/>
 			<property name="Cost" 			value=""/>
 			<property name="Strength" 		value=""/>
@@ -159,7 +159,7 @@
 			<property name="House" 			value="Lannister."/>
 			<property name="Type" 			value="Character"/>
 			<property name="Traits" 		value="Army. House Frey."/>
-			<property name="Text" 			value="Frey Armsmen gets +2 STR during Military challenges for each House Frey chracter you control."/>
+			<property name="Text" 			value="Frey Armsmen gets +2 STR during [MIL] challenges for each House Frey chracter you control."/>
 			<property name="Keywords" 		value="No attachments."/>
 			<property name="Unique" 		value="No"/>
 			<property name="Cost" 			value="3"/>
@@ -269,7 +269,7 @@
 			<property name="House" 			value="Stark."/>
 			<property name="Type" 			value="Character"/>
 			<property name="Traits" 		value="Lady. House Tully."/>
-			<property name="Text"           value="Response: After Cately Stark leaves play, choose a non-Army Stark character in your dead pile and put that character into play."/>
+			<property name="Text"           value="Response: After Cately Stark leaves play, choose a non-Army [Stark] character in your dead pile and put that character into play."/>
 			<property name="Keywords"       value="Prized 2.&#10;Immune to character abilities."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -291,7 +291,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: Play after you win a Military challenge as the defender.  Immediately after the resolution of the current challenge, a Military challenge is initiated against the losing opponent with you as the attacking player and your currently defending characters as your only attacking characters."/>
+			<property name="Text"           value="Response: Play after you win a [MIL] challenge as the defender.  Immediately after the resolution of the current challenge, a [MIL] challenge is initiated against the losing opponent with you as the attacking player and your currently defending characters as your only attacking characters."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -467,7 +467,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Bannerman."/>
-			<property name="Text"           value="If you control a Stark character, Rider from Storm's End gets +1 STR.&#10;&#10;If you control a Lannister character, Rider from Storm's End gains stealth."/>
+			<property name="Text"           value="If you control a [Stark] character, Rider from Storm's End gets +1 STR.&#10;&#10;If you control a [Lannister] character, Rider from Storm's End gains stealth."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
@@ -556,7 +556,7 @@
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Kingsguard. Knight."/>
 			<property name="Text"           value="Each character with a printed cost that is less than the number of characters in its controller's dead pile comes into play knelt."/>
-			<property name="Keywords"       value="House Lannister only.  No attachments."/>
+			<property name="Keywords"       value="House Lannister only. No attachments."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="s1"/>
 			<property name="Strength"       value="3"/>
@@ -577,7 +577,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Bannerman. House Frey."/>
-			<property name="Text"           value="If you control a Start character, Frey Emissary gets +1 STR.&#10;&#10;If you control a Baratheon character, Frey Emissary gains renown."/>
+			<property name="Text"           value="If you control a Start character, Frey Emissary gets +1 STR.&#10;&#10;If you control a [Baratheon] character, Frey Emissary gains renown."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
@@ -599,7 +599,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Limited Response: After an opponent reveals a plot card, kneel a unique Lannister character to cancel the revealing of that plot and move it to its owner's used pile.  That player must choose and reveal a new plot card. (Limit 1 limited response per round.)"/>
+			<property name="Text"           value="Limited Response: After an opponent reveals a plot card, kneel a unique [Lannister] character to cancel the revealing of that plot and move it to its owner's used pile.  That player must choose and reveal a new plot card. (Limit 1 limited response per round.)"/>
 			<property name="Keywords"       value="House Lannister only. Prized 3."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -665,7 +665,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="House Dayne. Ally."/>
-			<property name="Text"           value="Response: After you lose a challenge, put Desert Raider into play from your dead pile.  Then choose a character and either an Intrigue or Power icon.  Until the end of the phase, the chosen character loses that icon and Desert Raider gains it."/>
+			<property name="Text"           value="Response: After you lose a challenge, put Desert Raider into play from your dead pile.  Then choose a character and either an [INT] or [POW] icon.  Until the end of the phase, the chosen character loses that icon and Desert Raider gains it."/>
 			<property name="Keywords"       value="House Martell only.  Prized 1."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
@@ -731,7 +731,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Item. Weapon."/>
-			<property name="Text"           value="Unique Stark character only.&#10;&#10;While attached character is participating in a challenge, opponents cannot trigger effects."/>
+			<property name="Text"           value="Unique [Stark] character only.&#10;&#10;While attached character is participating in a challenge, opponents cannot trigger effects."/>
 			<property name="Keywords"       value="Prized 2."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
@@ -797,7 +797,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Item."/>
-			<property name="Text"           value="Attached character gains a Power icon, and during Power challenges gains renown."/>
+			<property name="Text"           value="Attached character gains a [POW] icon, and during [POW] challenges gains renown."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
@@ -951,7 +951,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Warship."/>
-			<property name="Text"           value="Challenges: Discard a card from your hand to turn Iron Islands Marines into an Army character with 3 STR, deadly, a Military icon, and a Power icon until the end of the phase."/>
+			<property name="Text"           value="Challenges: Discard a card from your hand to turn Iron Islands Marines into an Army character with 3 STR, deadly, a [MIL] icon, and a [POW] icon until the end of the phase."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
@@ -995,7 +995,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="House Payne. Squire."/>
-			<property name="Text"           value="Tyrion Lannister gains a Military icon.&#10;&#10;Each card discarded from an opponent's hand reduces his or her draw cap by 1 (to a minimum of 0) until the end of the round."/>
+			<property name="Text"           value="Tyrion Lannister gains a [MIL] icon.&#10;&#10;Each card discarded from an opponent's hand reduces his or her draw cap by 1 (to a minimum of 0) until the end of the round."/>
 			<property name="Keywords"       value="Prized 1."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -1039,7 +1039,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Challenges: Choose a character. Until the end of the phase, that character gains a Military icon and does not kneel to attack or defend during Military challenges."/>
+			<property name="Text"           value="Challenges: Choose a character. Until the end of the phase, that character gains a [MIL] icon and does not kneel to attack or defend during [MIL] challenges."/>
 			<property name="Keywords"       value="House Lannister only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -1325,7 +1325,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord."/>
-			<property name="Text"           value="Marshalling: Kneel a Baratheon character to lower the cost of the next character you play this phase by X, where X is the number of prized cards you control. (Limit once per round.) "/>
+			<property name="Text"           value="Marshalling: Kneel a [Baratheon] character to lower the cost of the next character you play this phase by X, where X is the number of prized cards you control. (Limit once per round.) "/>
 			<property name="Keywords"       value="Prized 1."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -1458,7 +1458,7 @@
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord."/>
 			<property name="Text"           value="If you win a challenge in which Tyrion Lannister attacked alone, instead of the normal claim effects, reveal a card from the loosing opponent's hand at random. You may put that card into play under your control, if able. Otherwise, discard it."/>
-			<property name="Keywords"       value="Prized 2. Stealth. "/>
+			<property name="Keywords"       value="Prized 2. Stealth."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
 			<property name="Strength"       value="3"/>
@@ -1501,7 +1501,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Title."/>
-			<property name="Text"           value="Attach to your House card.&#10;&#10;Response: After you play a prized card, kneel attached House card to choose and kneel a character. Discard all power on that character. "/>
+			<property name="Text"           value="Attach to your House card.&#10;&#10;Response: After you play a prized card, kneel attached House card to choose and kneel a character. Discard all power on that character."/>
 			<property name="Keywords"       value="Prized 3."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -1589,7 +1589,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Knight. House Tully."/>
-			<property name="Text"           value="While The Blackfish is attacking, each character that dies for Military claim gains 'prized 1.'"/>
+			<property name="Text"           value="While The Blackfish is attacking, each character that dies for [MIL] claim gains 'prized 1.'"/>
 			<property name="Keywords"       value="Prized 2. Renown."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
@@ -1677,7 +1677,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Title."/>
-			<property name="Text"           value="Attach to your House card.&#10;&#10;Response: After you play a prized card, kneel attached House card to choose a character. That character gains deadly and 'Does not kneel to attack or defend during Power challenges' until the end of the round."/>
+			<property name="Text"           value="Attach to your House card.&#10;&#10;Response: After you play a prized card, kneel attached House card to choose a character. That character gains deadly and 'Does not kneel to attack or defend during [POW] challenges' until the end of the round."/>
 			<property name="Keywords"       value="Prized 2."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
@@ -1721,7 +1721,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Title."/>
-			<property name="Text"           value=" Attach to the Neutral Faction House card.&#10;&#10;Response: After a neutral character you own leaves play, kneel attached House card to attach that character facedown to The Brave Companions instead.&#10;&#10;Marshalling: Kneel attached House card to return an attached facedown character to your hand. "/>
+			<property name="Text"           value=" Attach to the Neutral Faction House card.&#10;&#10;Response: After a neutral character you own leaves play, kneel attached House card to attach that character facedown to The Brave Companions instead.&#10;&#10;Marshalling: Kneel attached House card to return an attached facedown character to your hand."/>
 			<property name="Keywords"       value="Prized 1."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>

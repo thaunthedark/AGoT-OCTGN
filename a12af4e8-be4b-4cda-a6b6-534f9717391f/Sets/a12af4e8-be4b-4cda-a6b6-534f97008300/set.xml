@@ -5,7 +5,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. King."/>
-			<property name="Text"           value="If Robert Baratheon is the only Baratheon  King character in play, he gains: &quot;You may initiate an additional Power challenge during the challenge phase.&quot;"/>
+			<property name="Text"           value="If Robert Baratheon is the only Baratheon  King character in play, he gains: &quot;You may initiate an additional [POW] challenge during the challenge phase.&quot;"/>
 			<property name="Keywords"       value="Renown."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="5"/>
@@ -159,7 +159,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Knight."/>
-			<property name="Text"           value="During Power challenges, Ser Cortnay Penrose gets +2 STR and gains vigilant."/>
+			<property name="Text"           value="During [POW] challenges, Ser Cortnay Penrose gets +2 STR and gains vigilant."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -248,7 +248,7 @@
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Asshai. Ally."/>
 			<property name="Text"           value="Response: After Sister of Truth comes out of Shadows, choose 1 [Shadow] card in play. Return that card to Shadows."/>
-			<property name="Keywords"       value="House Baratheon only. "/>
+			<property name="Keywords"       value="House Baratheon only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="s1"/>
 			<property name="Strength"       value="2"/>
@@ -357,7 +357,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Ally."/>
-			<property name="Text"           value="Response: After you win a Power challenge by 4 or more total STR, return Lost Captain from your discard pile or dead pile to your hand."/>
+			<property name="Text"           value="Response: After you win a [POW] challenge by 4 or more total STR, return Lost Captain from your discard pile or dead pile to your hand."/>
 			<property name="Keywords"       value="Stealth."/>
 			<property name="Unique"         value="Infinity"/>
 			<property name="Cost"           value="3"/>
@@ -424,7 +424,7 @@
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Ally."/>
 			<property name="Text"           value=""/>
-			<property name="Keywords"       value="House Baratheon only. "/>
+			<property name="Keywords"       value="House Baratheon only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="0"/>
 			<property name="Strength"       value="1"/>
@@ -511,7 +511,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Kingdom."/>
-			<property name="Text"           value="Your revealed plot card gains the Power Struggle trait. If it has the printed Power Struggle trait, raise your claim value by 1 during Power challenges."/>
+			<property name="Text"           value="Your revealed plot card gains the Power Struggle trait. If it has the printed Power Struggle trait, raise your claim value by 1 during [POW] challenges."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -621,7 +621,7 @@
 			<property name="House"          value="Stark. Baratheon."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Westeros."/>
-			<property name="Text"           value="Marshalling: Discard Narrow Sea from play to reduce the cost of the next Stark or Baratheon  character you play this phase by 2."/>
+			<property name="Text"           value="Marshalling: Discard Narrow Sea from play to reduce the cost of the next [Stark] or Baratheon  character you play this phase by 2."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="0"/>
@@ -665,7 +665,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Westeros."/>
-			<property name="Text"           value="Challenges: During a Power challenge, kneel Smuggler's Cove to choose 1 participating character. Until the end of the phase, that character gets +2 STR and gains stealth."/>
+			<property name="Text"           value="Challenges: During a [POW] challenge, kneel Smuggler's Cove to choose 1 participating character. Until the end of the phase, that character gets +2 STR and gains stealth."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
@@ -775,7 +775,7 @@
 			<property name="House"          value="Stark. Baratheon."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Challenges: Choose 1 character with a Military and a Power icon that is attacking alone. For the duration of the challenge, that character gets +2 STR. If you win the challenge, instead of the normal claim effects, choose a non-unique location controlled by the losing opponent. Take control of that location."/>
+			<property name="Text"           value="Challenges: Choose 1 character with a [MIL] and a [POW] icon that is attacking alone. For the duration of the challenge, that character gets +2 STR. If you win the challenge, instead of the normal claim effects, choose a non-unique location controlled by the losing opponent. Take control of that location."/>
 			<property name="Keywords"       value="House Stark or House Baratheon only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -797,8 +797,8 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: After you win dominance or after you win a Power challenge, reveal the top 5 cards of an opponent's deck, discard 1 of the cards, and put the rest on the top of the deck in any order."/>
-			<property name="Keywords"       value="House Baratheon only. "/>
+			<property name="Text"           value="Response: After you win dominance or after you win a [POW] challenge, reveal the top 5 cards of an opponent's deck, discard 1 of the cards, and put the rest on the top of the deck in any order."/>
+			<property name="Keywords"       value="House Baratheon only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -820,7 +820,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Any Phase: Kneel 3 influence to choose 1 Knight or 1 Army character in your discard or dead pile. Put that character into play."/>
-			<property name="Keywords"       value="House Baratheon only. "/>
+			<property name="Keywords"       value="House Baratheon only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -1017,7 +1017,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: After you win a Power challenge by 4 or more total STR, claim 2 power for your House. Limit 1 per challenge."/>
+			<property name="Text"           value="Response: After you win a [POW] challenge by 4 or more total STR, claim 2 power for your House. Limit 1 per challenge."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -1105,7 +1105,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="You may have up to 2 copies of The Power of Faith in your plot deck. [Holy] characters you control gain a Military icon and do not kneel to attack."/>
+			<property name="Text"           value="You may have up to 2 copies of The Power of Faith in your plot deck. [Holy] characters you control gain a [MIL] icon and do not kneel to attack."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value=""/>
@@ -1193,7 +1193,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="Power Struggle."/>
-			<property name="Text"           value="A player cannot initiate a Military challenge unless he or she has won a Power challenge that phase."/>
+			<property name="Text"           value="A player cannot initiate a [MIL] challenge unless he or she has won a [POW] challenge that phase."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value=""/>

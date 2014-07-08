@@ -5,7 +5,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Army."/>
- 			<property name="Text"           value="Lower the cost to play King Robb's Host by 4 if you control a King or Queen character. King Robb's Host does not kneel to attack during Military challenges."/>
+ 			<property name="Text"           value="Lower the cost to play King Robb's Host by 4 if you control a King or Queen character. King Robb's Host does not kneel to attack during [MIL] challenges."/>
  			<property name="Keywords"       value="No attachments except Siege."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="8"/>
@@ -71,7 +71,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Army."/>
- 			<property name="Text"           value="Lower the cost to play King Robert's Host by 4 if you control a King or Queen character. While King Robert's Host is standing, opponents cannot initiate Power challenges against you."/>
+ 			<property name="Text"           value="Lower the cost to play King Robert's Host by 4 if you control a King or Queen character. While King Robert's Host is standing, opponents cannot initiate [POW] challenges against you."/>
  			<property name="Keywords"       value="No attachments except Siege."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="8"/>
@@ -159,7 +159,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Maester."/>
- 			<property name="Text"           value="Each Maester character in play gains a Military icon."/>
+ 			<property name="Text"           value="Each Maester character in play gains a [MIL] icon."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -203,7 +203,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Limited Response: After you reveal a Military Battle plot card, choose and kill a character without a Military icon. (Limit 1 Limited Response per round.)"/>
+ 			<property name="Text"           value="Limited Response: After you reveal a Military Battle plot card, choose and kill a character without a [MIL] icon. (Limit 1 Limited Response per round.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -248,7 +248,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Weapon."/>
  			<property name="Text"           value="Limited Response: After attached character leaves play, choose and kill a character without attachments. (Limit 1 Limited Response per round.)"/>
- 			<property name="Keywords"       value="HS character only."/>
+ 			<property name="Keywords"       value="[Stark] character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -445,8 +445,8 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Iron Islands."/>
- 			<property name="Text"           value="While you control only Greyjoy characters and locations, you may play the top card of one opponent's discard pile as though it were in your hand (Limit once per round)."/>
- 			<property name="Keywords"       value="House Greyjoy only. "/>
+ 			<property name="Text"           value="While you control only [Greyjoy] characters and locations, you may play the top card of one opponent's discard pile as though it were in your hand (Limit once per round)."/>
+ 			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="5"/>
  			<property name="Strength"       value=""/>
@@ -533,7 +533,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="Military Battle."/>
- 			<property name="Text"           value="After you win a Military challenge against an opponent with a lannister or a Greyjoy House card, choose and kill a character controlled by that opponent."/>
+ 			<property name="Text"           value="After you win a [MIL] challenge against an opponent with a lannister or a [Greyjoy] House card, choose and kill a character controlled by that opponent."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value="House Stark only."/>
  			<property name="Unique"         value=""/>
@@ -555,7 +555,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="Intrigue Gambit."/>
- 			<property name="Text"           value="After you win an Intrigue challenge against an opponent with a Martell or a Stark House card, choose and kneel a character controlled by that opponent. Discard all attachments and power on that character."/>
+ 			<property name="Text"           value="After you win an [INT] challenge against an opponent with a [Martell] or a [Stark] House card, choose and kneel a character controlled by that opponent. Discard all attachments and power on that character."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value=""/>
@@ -577,7 +577,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="Power Struggle."/>
- 			<property name="Text"           value="After you win a Power challenge against an opponent with a Targareyn or a Martell House card, choose a character controlled by that opponent. Take control of that character."/>
+ 			<property name="Text"           value="After you win a [POW] challenge against an opponent with a Targareyn or a [Martell] House card, choose a character controlled by that opponent. Take control of that character."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value=""/>
@@ -599,7 +599,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="Military Battle."/>
- 			<property name="Text"           value="After you win a Military challenge against an opponent with a Stark or a Targareyn House card, choose and discard from play a character controlled by that opponent."/>
+ 			<property name="Text"           value="After you win a [MIL] challenge against an opponent with a [Stark] or a Targareyn House card, choose and discard from play a character controlled by that opponent."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value=""/>
@@ -621,7 +621,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="Power Struggle."/>
- 			<property name="Text"           value="After you win a Power challenge against an opponent with a Baratheon or a Greyjoy House card, choose a character controlled by that opponent, and reduce its STR to 0 until the end of the round."/>
+ 			<property name="Text"           value="After you win a [POW] challenge against an opponent with a [Baratheon] or a [Greyjoy] House card, choose a character controlled by that opponent, and reduce its STR to 0 until the end of the round."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value=""/>
@@ -643,7 +643,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="Intrigue Gambit."/>
- 			<property name="Text"           value="After you win an Intrigue challenge against an opponent with a lannister or a Baratheon House card, choose a character controlled by that opponent, and return it to its owner's hand."/>
+ 			<property name="Text"           value="After you win an [INT] challenge against an opponent with a lannister or a [Baratheon] House card, choose a character controlled by that opponent, and return it to its owner's hand."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value=""/>
@@ -665,8 +665,8 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="The North. House Mormont."/>
- 			<property name="Text"           value="Dominance: Kneel Bear Island to choose and kill a non-HS character without attachments. Use this ability only if every card you control has the Stark affiliation."/>
- 			<property name="Keywords"       value="House Stark only. "/>
+ 			<property name="Text"           value="Dominance: Kneel Bear Island to choose and kill a non-[Stark] character without attachments. Use this ability only if every card you control has the [Stark] affiliation."/>
+ 			<property name="Keywords"       value="House Stark only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
  			<property name="Strength"       value=""/>
@@ -731,7 +731,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Knight."/>
- 			<property name="Text"           value="While there is no other card named King's Champion in play, it gains a Power icon and cannot be discarded from play."/>
+ 			<property name="Text"           value="While there is no other card named King's Champion in play, it gains a [POW] icon and cannot be discarded from play."/>
  			<property name="Keywords"       value="No attachments except Weapon."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -885,7 +885,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Creature. Direwolf."/>
- 			<property name="Text"           value="While every character you control has the Stark affiliation, Feral Pack gains: 'All Direwolf characters gain deadly, and all non-Direwolf characters lose deadly.'"/>
+ 			<property name="Text"           value="While every character you control has the [Stark] affiliation, Feral Pack gains: 'All Direwolf characters gain deadly, and all non-Direwolf characters lose deadly.'"/>
  			<property name="Keywords"       value="No attachments."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -907,7 +907,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ironborn."/>
- 			<property name="Text"           value="Limited Response: After you win a Military or Power challenge in which First Mate is participating, put a Warship location from your hand or discard pile into play. (Limit 1 Limited Response per round.)"/>
+ 			<property name="Text"           value="Limited Response: After you win a [MIL] or [POW] challenge in which First Mate is participating, put a Warship location from your hand or discard pile into play. (Limit 1 Limited Response per round.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -951,8 +951,8 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Play only if you have at least 1 Military Battle plot card in your used pile.  Challenges: Stand a Stark character you control to have an opponent name a card type. Search your deck for a card of a different type, reveal it, and put it into your hand."/>
- 			<property name="Keywords"       value="House Stark only. "/>
+ 			<property name="Text"           value="Play only if you have at least 1 Military Battle plot card in your used pile.  Challenges: Stand a [Stark] character you control to have an opponent name a card type. Search your deck for a card of a different type, reveal it, and put it into your hand."/>
+ 			<property name="Keywords"       value="House Stark only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -973,8 +973,8 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Play only if you have at least 1 Intrigue Gambit plot card in your used pile.  Response: After you win an Intrigue challenge, stand a lannister character you control to choose and kneel a character without an Intrigue icon."/>
- 			<property name="Keywords"       value="House Lannister only. "/>
+ 			<property name="Text"           value="Play only if you have at least 1 Intrigue Gambit plot card in your used pile.  Response: After you win an [INT] challenge, stand a lannister character you control to choose and kneel a character without an [INT] icon."/>
+ 			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -995,8 +995,8 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Play only if you have at least 1 Power Struggle plot card in your used pile. Challenges: Stand a Baratheon character you control to return a Baratheon character with a lower printed STR from your discard pile to your hand."/>
- 			<property name="Keywords"       value="House Baratheon only. "/>
+ 			<property name="Text"           value="Play only if you have at least 1 Power Struggle plot card in your used pile. Challenges: Stand a [Baratheon] character you control to return a [Baratheon] character with a lower printed STR from your discard pile to your hand."/>
+ 			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1017,8 +1017,8 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Play only if you have at least 1 Military Battle plot card in your used pile.  Response: Stand a Greyjoy character you control to cancel a triggered effect."/>
- 			<property name="Keywords"       value="House Greyjoy only. "/>
+ 			<property name="Text"           value="Play only if you have at least 1 Military Battle plot card in your used pile. Response: Stand a [Greyjoy] character you control to cancel a triggered effect."/>
+ 			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1040,7 +1040,7 @@
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Play only if you have at least 1 Power Struggle plot card in your used pile. Challenges: Stand a Targareyn character you control to put a Targareyn character with a printed cost of 3 or lower into play from your dead pile."/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1083,8 +1083,8 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Play only if you have at least 1 Intrigue Gambit plot card in your used pile. Response: After you lose a challenge, stand a Martell character you control to choose a character. Until the end of the phase, that character loses a Military , an Intrigue , and a Power icon."/>
- 			<property name="Keywords"       value="House Martell only. "/>
+ 			<property name="Text"           value="Play only if you have at least 1 Intrigue Gambit plot card in your used pile. Response: After you lose a challenge, stand a [Martell] character you control to choose a character. Until the end of the phase, that character loses a [MIL] , an [INT] , and a [POW] icon."/>
+ 			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1105,7 +1105,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Herald."/>
- 			<property name="Text"           value="Response: After you play Wolf Herald from your hand, search your deck for a Stark character, reveal it, and shuffle your deck. Then, put the revealed card on top of your deck."/>
+ 			<property name="Text"           value="Response: After you play Wolf Herald from your hand, search your deck for a [Stark] character, reveal it, and shuffle your deck. Then, put the revealed card on top of your deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -1171,7 +1171,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Herald."/>
- 			<property name="Text"           value="Response: After you play Herald of the Stag from your hand, search your deck for a Baratheon character, reveal it, and shuffle your deck. Then, put the revealed card on top of your deck."/>
+ 			<property name="Text"           value="Response: After you play Herald of the Stag from your hand, search your deck for a [Baratheon] character, reveal it, and shuffle your deck. Then, put the revealed card on top of your deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -1193,7 +1193,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Herald."/>
- 			<property name="Text"           value="Response: After you play Herald of the Sea from your hand, search your deck for a Greyjoy character, reveal it, and shuffle your deck. Then, put the revealed card on top of your deck."/>
+ 			<property name="Text"           value="Response: After you play Herald of the Sea from your hand, search your deck for a [Greyjoy] character, reveal it, and shuffle your deck. Then, put the revealed card on top of your deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -1237,7 +1237,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Herald."/>
- 			<property name="Text"           value="Response: After you play Herald of the Sun from your hand, search your deck for a Martell character, reveal it, and shuffle your deck. Then, put the revealed card on top of your deck."/>
+ 			<property name="Text"           value="Response: After you play Herald of the Sun from your hand, search your deck for a [Martell] character, reveal it, and shuffle your deck. Then, put the revealed card on top of your deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -1325,7 +1325,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lady. House Mormont."/>
- 			<property name="Text"           value="While there is at least 1 Military Battle plot card revealed, Dacey Mormont gains an Intrigue icon and does not kneel to defend."/>
+ 			<property name="Text"           value="While there is at least 1 Military Battle plot card revealed, Dacey Mormont gains an [INT] icon and does not kneel to defend."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -1370,7 +1370,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Knight. Queensguard."/>
  			<property name="Text"           value="If you control Ser Barristan Selmy, discard Arstan Whitebeard from play (cannot be saved). During the epic phase, Queen and Queensguard characters get +5 STR, and Arstan Whitebeard gains renown."/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
  			<property name="Strength"       value="4"/>
@@ -1391,7 +1391,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bastard."/>
- 			<property name="Text"           value="Any phase: Kneel The Bastard of Godsgrace to give a Martell character +2 STR until the end of the phase. If you trigger this effect during the epic phase, draw a card."/>
+ 			<property name="Text"           value="Any phase: Kneel The Bastard of Godsgrace to give a [Martell] character +2 STR until the end of the phase. If you trigger this effect during the epic phase, draw a card."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -1413,8 +1413,8 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Epic Battle."/>
- 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase during which each player may initiate a single Military challenge with normal claim. The winner of each challenge may choose and kill a character without a Military icon controlled by the losing opponent. (Place this card next to your plot deck until the end of this epic phase.)"/>
- 			<property name="Keywords"       value="House Stark only. "/>
+ 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase during which each player may initiate a single [MIL] challenge with normal claim. The winner of each challenge may choose and kill a character without a [MIL] icon controlled by the losing opponent. (Place this card next to your plot deck until the end of this epic phase.)"/>
+ 			<property name="Keywords"       value="House Stark only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1435,8 +1435,8 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Epic Battle."/>
- 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase during which each player may initiate a single Intrigue challenge with normal claim. The winner of each challenge may put into play an in-House character or location from his or her hand. (Place this card next to your plot deck until the end of this epic phase.)"/>
- 			<property name="Keywords"       value="House Lannister only. "/>
+ 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase during which each player may initiate a single [INT] challenge with normal claim. The winner of each challenge may put into play an in-House character or location from his or her hand. (Place this card next to your plot deck until the end of this epic phase.)"/>
+ 			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1457,8 +1457,8 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Epic Battle."/>
- 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase during which each player may initiate a single Power challenge with normal claim. The winner of each challenge may draw three cards. (Place this card next to your plot deck until the end of this epic phase.)"/>
- 			<property name="Keywords"       value="House Baratheon only. "/>
+ 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase during which each player may initiate a single [POW] challenge with normal claim. The winner of each challenge may draw three cards. (Place this card next to your plot deck until the end of this epic phase.)"/>
+ 			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1479,8 +1479,8 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Epic Battle."/>
- 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase during which each player may initiate a single Military challenge with normal claim. The winner of each challenge may choose and discard from play a location controlled by the losing player. (Place this card next to your plot deck until the end of this epic phase.)"/>
- 			<property name="Keywords"       value="House Greyjoy only. "/>
+ 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase during which each player may initiate a single [MIL] challenge with normal claim. The winner of each challenge may choose and discard from play a location controlled by the losing player. (Place this card next to your plot deck until the end of this epic phase.)"/>
+ 			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1501,8 +1501,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Epic Battle."/>
- 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase during which each player may initiate a single Power challenge with normal claim. The winner of each challenge may choose and discard any number of attachments from play. (Place this card next to your plot deck until the end of this epic phase.)"/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase during which each player may initiate a single [POW] challenge with normal claim. The winner of each challenge may choose and discard any number of attachments from play. (Place this card next to your plot deck until the end of this epic phase.)"/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1523,8 +1523,8 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Epic Battle."/>
- 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase during which each player may initiate a single Intrigue challenge with normal claim. The winner of each challenge may choose to have all players skip the standing phase this round. (Place this card next to your plot deck until the end of this epic phase.)"/>
- 			<property name="Keywords"       value="House Martell only. "/>
+ 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase during which each player may initiate a single [INT] challenge with normal claim. The winner of each challenge may choose to have all players skip the standing phase this round. (Place this card next to your plot deck until the end of this epic phase.)"/>
+ 			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1568,7 +1568,7 @@
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Westeros. House Brax."/>
  			<property name="Text"           value="Response: After you win a challenge as the defender, choose and kneel a character controlled by the losing opponent. If you trigger this response during the epic phase, draw a card."/>
- 			<property name="Keywords"       value="House Lannister only. "/>
+ 			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value=""/>
@@ -1677,7 +1677,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Free Cities."/>
- 			<property name="Text"           value="Response: After you lose an Intrigue challenge as the defender, discard a card at random from the attacking player's hand. (Discard 2 cards at random from the attacking player's hand if you trigger this response during the epic phase.)"/>
+ 			<property name="Text"           value="Response: After you lose an [INT] challenge as the defender, discard a card at random from the attacking player's hand. (Discard 2 cards at random from the attacking player's hand if you trigger this response during the epic phase.)"/>
  			<property name="Keywords"       value="House Martell only. No attachments."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -2051,7 +2051,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition."/>
- 			<property name="Text"           value="Attached character gains infamy, stealth, and an Intrigue icon.  Attached character gets +1 STR for each power on it."/>
+ 			<property name="Text"           value="Attached character gains infamy, stealth, and an [INT] icon.  Attached character gets +1 STR for each power on it."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -2117,7 +2117,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Siege. Condition."/>
- 			<property name="Text"           value="Attach to an opponent's location. Kneel that location.  Limited Response: After you win a Power challenge by 4 or more total STR, kneel Martial Law to claim 2 power for your House. (Limit 1 Limited Response per round.)"/>
+ 			<property name="Text"           value="Attach to an opponent's location. Kneel that location.  Limited Response: After you win a [POW] challenge by 4 or more total STR, kneel Martial Law to claim 2 power for your House. (Limit 1 Limited Response per round.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -2205,7 +2205,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Captain."/>
- 			<property name="Text"           value="Marshalling: You may attach any Stark character from your hand to Jory Cassel as a duplicate if he has no other duplicates attached."/>
+ 			<property name="Text"           value="Marshalling: You may attach any [Stark] character from your hand to Jory Cassel as a duplicate if he has no other duplicates attached."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -2227,7 +2227,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Winterfell. Stronghold."/>
- 			<property name="Text"           value="Marshalling: Kneel Gates of Winterfell to reveal the top card of your deck. If that card is a Stark character, put it into play knelt. Otherwise, discard it."/>
+ 			<property name="Text"           value="Marshalling: Kneel Gates of Winterfell to reveal the top card of your deck. If that card is a [Stark] character, put it into play knelt. Otherwise, discard it."/>
  			<property name="Keywords"       value="No attachments."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -2272,7 +2272,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Captain. House Botley."/>
  			<property name="Text"           value="If you do not control a Warship location, kneel Fishwhiskers."/>
- 			<property name="Keywords"       value="House Greyjoy only. "/>
+ 			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value="3"/>
@@ -2293,8 +2293,8 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Challenges: Each defending character gets +2 STR until the end of the challenge. Then, stand all Stark characters with Banner attachments attached."/>
- 			<property name="Keywords"       value="House Stark only. "/>
+ 			<property name="Text"           value="Challenges: Each defending character gets +2 STR until the end of the challenge. Then, stand all [Stark] characters with Banner attachments attached."/>
+ 			<property name="Keywords"       value="House Stark only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -2316,7 +2316,7 @@
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Marshalling: Choose two characters. Move an attachment from one of those characters to the other. You may take control of the attachment when it is moved."/>
- 			<property name="Keywords"       value="House Lannister only. "/>
+ 			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -2337,8 +2337,8 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Challenges: Choose one participating character on each side during an Intrigue or a Power challenge. Remove all other characters from the challenge. Then, stand all Baratheon characters with Banner attachments attached."/>
- 			<property name="Keywords"       value="House Baratheon only. "/>
+ 			<property name="Text"           value="Challenges: Choose one participating character on each side during an [INT] or a [POW] challenge. Remove all other characters from the challenge. Then, stand all [Baratheon] characters with Banner attachments attached."/>
+ 			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -2359,8 +2359,8 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Any phase: Choose and stand a non-unique location. Then, stand all Greyjoy characters with Banner attachments attached."/>
- 			<property name="Keywords"       value="House Greyjoy only. "/>
+ 			<property name="Text"           value="Any phase: Choose and stand a non-unique location. Then, stand all [Greyjoy] characters with Banner attachments attached."/>
+ 			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -2382,7 +2382,7 @@
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Any phase: Choose and stand or kneel an attachment. Then, stand all Targareyn characters with Banner attachments attached."/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -2403,8 +2403,8 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Challenges: Choose a character. Until the end of the phase, that character loses an icon of your choice. Then, stand all Martell characters with Banner attachments attached."/>
- 			<property name="Keywords"       value="House Martell only. "/>
+ 			<property name="Text"           value="Challenges: Choose a character. Until the end of the phase, that character loses an icon of your choice. Then, stand all [Martell] characters with Banner attachments attached."/>
+ 			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -2425,7 +2425,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bannerman."/>
- 			<property name="Text"           value="Response: After you win a Military challenge, you may attach Banner for the North (from play or from your hand) to a Stark character as a Banner attachment with the text: 'Attached character gains stalwart.'"/>
+ 			<property name="Text"           value="Response: After you win a [MIL] challenge, you may attach Banner for the North (from play or from your hand) to a [Stark] character as a Banner attachment with the text: 'Attached character gains stalwart.'"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -2447,7 +2447,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Siege."/>
- 			<property name="Text"           value="Attach to an opponent's location. Kneel that location.  Response: After you win a Military challenge, kneel Campfire Lights to search your deck for a Bannerman character, reveal it, and put it into your hand. Then shuffle your deck."/>
+ 			<property name="Text"           value="Attach to an opponent's location. Kneel that location.  Response: After you win a [MIL] challenge, kneel Campfire Lights to search your deck for a Bannerman character, reveal it, and put it into your hand. Then shuffle your deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -2491,7 +2491,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bannerman."/>
- 			<property name="Text"           value="Response: After you win a Power challenge, you may attach Banner for the Storm (from play or from your hand) to a Baratheon character as a Banner attachment with the text: 'Attached character gains vigilant.'"/>
+ 			<property name="Text"           value="Response: After you win a [POW] challenge, you may attach Banner for the Storm (from play or from your hand) to a [Baratheon] character as a Banner attachment with the text: 'Attached character gains vigilant.'"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -2535,7 +2535,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bannerman."/>
- 			<property name="Text"           value="Response: After you win a Military challenge, you may attach Banner for the Kraken (from play or from your hand) to a Greyjoy character as a Banner attachment with the text: 'Attached character gains Intimidate.'"/>
+ 			<property name="Text"           value="Response: After you win a [MIL] challenge, you may attach Banner for the Kraken (from play or from your hand) to a [Greyjoy] character as a Banner attachment with the text: 'Attached character gains Intimidate.'"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -2580,7 +2580,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bannerman."/>
  			<property name="Text"           value="Response: After a character with ambush enters play, attach Banner for the Dragon to that character, if able. (Counts as a Banner attachment with the text: 'Any phase: Discard Banner for the Dragon from play to return attached character to its owner's hand.')"/>
- 			<property name="Keywords"       value="House Targaryen only. "/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value="2"/>
@@ -2601,7 +2601,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bannerman."/>
- 			<property name="Text"           value="Response: After you win an Intrigue challenge, you may attach Banner for the South (from play or from your hand) to a Martell character as a Banner attachment with the text: 'Attached character gains vengeful.'"/>
+ 			<property name="Text"           value="Response: After you win an [INT] challenge, you may attach Banner for the South (from play or from your hand) to a [Martell] character as a Banner attachment with the text: 'Attached character gains vengeful.'"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
