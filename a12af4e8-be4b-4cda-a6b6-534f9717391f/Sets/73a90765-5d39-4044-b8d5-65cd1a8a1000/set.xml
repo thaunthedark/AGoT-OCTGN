@@ -556,7 +556,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Ironborn."/>
-			<property name="Text"           value="If you control more locations than each opponent, Damphair's Drowned gets +1 STR and gains an INT icon with a NAVAL enhancement."/>
+			<property name="Text"           value="If you control more locations than each opponent, Damphair's Drowned gets +1 STR and gains an [INT] icon with a NAVAL enhancement."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
@@ -578,7 +578,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army."/>
-			<property name="Text"           value="Response: After you win a MIL challenge in which King's Landing Guard participated, discard 1 card at random from the losing player's hand."/>
+			<property name="Text"           value="Response: After you win a [MIL] challenge in which King's Landing Guard participated, discard 1 card at random from the losing player's hand."/>
 			<property name="Keywords"       value="No attachments."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="4"/>
@@ -798,7 +798,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="The East."/>
-			<property name="Text"           value="Response: If it is Summer, after you win a POW challenge, kneel Slaver's Bay to put a non-unique character from any opponent's discard pile into play under your control."/>
+			<property name="Text"           value="Response: If it is Summer, after you win a [POW] challenge, kneel Slaver's Bay to put a non-unique character from any opponent's discard pile into play under your control."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -2382,7 +2382,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Challenges: During an INT challenge, kneel 2 of your [Lannister] characters to kill all attacking characters.  Limit 1 per challenge."/>
+			<property name="Text"           value="Challenges: During an [INT] challenge, kneel 2 of your [Lannister] characters to kill all attacking characters.  Limit 1 per challenge."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
