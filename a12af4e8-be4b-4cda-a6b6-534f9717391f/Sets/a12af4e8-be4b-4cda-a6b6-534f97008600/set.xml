@@ -49,7 +49,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Weapon."/>
- 			<property name="Text"           value="Attached character gains +1 STR and War. While attached character is attacking, defending characters are killed if their STR is 0."/>
+ 			<property name="Text"           value="Attached character gains +1 STR and [War] crest. While attached character is attacking, defending characters are killed if their STR is 0."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -181,7 +181,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Army. Unsullied."/>
- 			<property name="Text"           value="Limited Response: After you declare Pike Phalanx as an attacker with at least one other character with a War crest, raise the claim value on your revealed plot card by 1 until the end of the phase (Limit 1 limited Response per round)."/>
+ 			<property name="Text"           value="Limited Response: After you declare Pike Phalanx as an attacker with at least one other character with a [War] crest, raise the claim value on your revealed plot card by 1 until the end of the phase (Limit 1 limited Response per round)."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>

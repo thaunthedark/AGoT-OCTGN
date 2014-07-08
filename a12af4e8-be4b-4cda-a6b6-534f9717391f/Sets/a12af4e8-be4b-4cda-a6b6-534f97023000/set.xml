@@ -1017,7 +1017,7 @@
  			<property name="House"          value="Targaryen. Lannister."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Boon."/>
- 			<property name="Text"           value="After Rich Lands and a Keep comes into play, draw 1 card. Attached character gains a NOBLE crest."/>
+ 			<property name="Text"           value="After Rich Lands and a Keep comes into play, draw 1 card. Attached character gains a [Noble] crest."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>

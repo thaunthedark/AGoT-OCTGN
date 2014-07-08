@@ -2381,7 +2381,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Response: After a challenge resolves in which a character did not count its STR because of intimidate, kill that character.&#10;Response: Save a Holy character from being killed. Then, that character claims 1 power."/>
+ 			<property name="Text"           value="Response: After a challenge resolves in which a character did not count its STR because of intimidate, kill that character.&#10;Response: Save a [Holy] character from being killed. Then, that character claims 1 power."/>
  			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>

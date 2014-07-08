@@ -17,9 +17,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -39,9 +39,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -61,9 +61,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -83,9 +83,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -105,9 +105,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -115,7 +115,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Ironborn."/>
-			<property name="Text"           value="If Aeron Damphair would be killed, instead search your deck for a non-unique Holy character with cost 3 or lower, put it into play, shuffle your deck and put Aeron Damphair on the bottom of your deck."/>
+			<property name="Text"           value="If Aeron Damphair would be killed, instead search your deck for a non-unique [Holy] character with cost 3 or lower, put it into play, shuffle your deck and put Aeron Damphair on the bottom of your deck."/>
 			<property name="Keywords"       value="Stealth."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -127,9 +127,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -137,7 +137,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Maester."/>
-			<property name="Text"           value="Response: Kneel Maester Wendamyr to save a Greyjoy character from being killed or discarded. Then, you may kneel 2 influence or kneel a Learned character to stand that character."/>
+			<property name="Text"           value="Response: Kneel Maester Wendamyr to save a Greyjoy character from being killed or discarded. Then, you may kneel 2 influence or kneel a [Learned] character to stand that character."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -149,9 +149,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -171,9 +171,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -193,9 +193,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -215,9 +215,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -225,7 +225,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Ironborn."/>
-			<property name="Text"           value="Challenges: Discard the top card of your deck to give a Holy character +1 STR until the end of the phase. (Limit twice per phase.)"/>
+			<property name="Text"           value="Challenges: Discard the top card of your deck to give a [Holy] character +1 STR until the end of the phase. (Limit twice per phase.)"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="3"/>
@@ -237,9 +237,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -259,9 +259,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -281,9 +281,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -303,9 +303,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -325,9 +325,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -347,9 +347,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -369,9 +369,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -391,9 +391,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -413,9 +413,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -435,9 +435,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -457,9 +457,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -479,9 +479,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -501,9 +501,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value="1"/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -523,9 +523,9 @@
 			<property name="GoldIncome"     value="1"/>
 			<property name="Influence"      value="1"/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -545,9 +545,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value="1"/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -567,9 +567,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -589,9 +589,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -611,9 +611,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -633,9 +633,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -655,9 +655,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value="1"/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -677,9 +677,9 @@
 			<property name="GoldIncome"     value="1"/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -687,7 +687,7 @@
 			<property name="House"          value="Stark. Lannister. Baratheon. Greyjoy. Targaryen. Martell."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Kingdom."/>
-			<property name="Text"           value="After a player wins an Intrigue challenge, that player kneels all copies of Kingdom of Shadows to choose and stand a card with the Shadow crest."/>
+			<property name="Text"           value="After a player wins an Intrigue challenge, that player kneels all copies of Kingdom of Shadows to choose and stand a card with the [Shadow] crest."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
@@ -699,9 +699,9 @@
 			<property name="GoldIncome"     value="1"/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -721,9 +721,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -743,9 +743,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -765,9 +765,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -787,9 +787,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -809,9 +809,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -819,7 +819,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: After you win a Military challenge in which you control at least 1 attacking War character, choose and discard from play up to 2 non-limited locations controlled by the losing opponent. (Limit 1 per round.)"/>
+			<property name="Text"           value="Response: After you win a Military challenge in which you control at least 1 attacking [War] character, choose and discard from play up to 2 non-limited locations controlled by the losing opponent. (Limit 1 per round.)"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -831,9 +831,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -841,7 +841,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Any Phase: Kneel 3 influence or kneel a Holy character to look at an opponent's hand. Then, discard 1 non-limited card from that hand."/>
+			<property name="Text"           value="Any Phase: Kneel 3 influence or kneel a [Holy] character to look at an opponent's hand. Then, discard 1 non-limited card from that hand."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -853,9 +853,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -875,9 +875,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -885,7 +885,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: After you win an unopposed challenge, kneel 4 influence or kneel a War character to claim 3 power for your House. (Limit 1 per phase.)"/>
+			<property name="Text"           value="Response: After you win an unopposed challenge, kneel 4 influence or kneel a [War] character to claim 3 power for your House. (Limit 1 per phase.)"/>
 			<property name="Keywords"       value="House Greyjoy only. "/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -897,9 +897,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -919,9 +919,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value="1"/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -941,9 +941,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -963,9 +963,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -973,7 +973,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. House Tarly."/>
-			<property name="Text"           value=" War characters you control get +1 STR."/>
+			<property name="Text"           value=" [War] characters you control get +1 STR."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -985,9 +985,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -995,7 +995,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Ally."/>
-			<property name="Text"           value="Any Phase: Kneel 1 influence to give Jack of All Trades (choose one) a WAR , a NOBLE , a LEARNED , or a HOLY crest until the end of the phase."/>
+			<property name="Text"           value="Any Phase: Kneel 1 influence to give Jack of All Trades (choose one) a [War] , a [Noble] , a [Learned] , or a [Holy] crest until the end of the phase."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
@@ -1007,9 +1007,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>
@@ -1029,9 +1029,9 @@
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>
 			<property name="Initiative"     value=""/>
-			<property name="PlotGoldIncome" value="0"/>
-			<property name="PlotInitiative" value="0"/>
-			<property name="PlotClaim"      value="0"/>
+			<property name="PlotGoldIncome" value=""/>
+			<property name="PlotInitiative" value=""/>
+			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 		</card>

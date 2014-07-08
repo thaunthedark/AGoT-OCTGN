@@ -688,7 +688,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="House Martell only. &#10;Response: After you have lost your third challenge in the same phase, bring The Long Plan out of Shadows by paying the rest of its gold cost. Then, claim 3 power for your House (Limit 1 per phase.)"/>
+			<property name="Text"           value="House Martell only. &#10;Response: After you have lost your third challenge in the same phase, bring The Long Plan out of shadows by paying the rest of its gold cost. Then, claim 3 power for your House (Limit 1 per phase.)"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="s1"/>
@@ -908,7 +908,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lady. Asshai."/>
-			<property name="Text"           value="Holy characters in your dead pile count their STR for dominance.&#10;Response: After you win dominance, choose a Holy character in your dead pile and put it into play."/>
+			<property name="Text"           value="[Holy] characters in your dead pile count their STR for dominance.&#10;Response: After you win dominance, choose a [Holy] character in your dead pile and put it into play."/>
 			<property name="Keywords"       value="Renown."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
@@ -1304,7 +1304,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="When revealed, put a Kingsguard or Queensguard character with the Shadow crest into shadows from your dead or discard pile."/>
+			<property name="Text"           value="When revealed, put a Kingsguard or Queensguard character with the [Shadow] crest into shadows from your dead or discard pile."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>

@@ -27,7 +27,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Westeros"/>
- 			<property name="Text"           value="Response: After you play a unique card from your hand, kneel Widow's Watch or kneel a Learned character to search your deck for a copy of a card, reveal it, and add it to your hand. Then, shuffle your deck."/>
+ 			<property name="Text"           value="Response: After you play a unique card from your hand, kneel Widow's Watch or kneel a [Learned] character to search your deck for a copy of a card, reveal it, and add it to your hand. Then, shuffle your deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -137,7 +137,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ironborn. Lord. Ally"/>
- 			<property name="Text"           value="The cost to play non-NOBLE cards cannot be reduced"/>
+ 			<property name="Text"           value="The cost to play non-[Noble] cards cannot be reduced"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -247,7 +247,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Response: Kneel a learned character or 3 influence to cancel the effects of an event card just played. Then, you may kneel a second Learned character to attach taht event to your House card. You may play that event as if it were in your hand"/>
+ 			<property name="Text"           value="Response: Kneel a [Learned] character or 3 influence to cancel the effects of an event card just played. Then, you may kneel a second [Learned] character to attach taht event to your House card. You may play that event as if it were in your hand"/>
  			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -665,7 +665,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Asshai. Ally"/>
- 			<property name="Text"           value="Asshai, Ally Response: After you win an Intrigue challenge in which Shadow Seer participated, put a Shadow card with the  into Shadows from your hand."/>
+ 			<property name="Text"           value="Asshai, Ally Response: After you win an [INT] challenge in which Shadow Seer participated, put a card with the [Shadow] crest into Shadows from your hand."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -731,7 +731,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Challenges: Return a Martell NOBLE character you own and control to your hand to choose an opponent's character. Return that character to its owner's hand"/>
+ 			<property name="Text"           value="Challenges: Return a Martell [Noble] character you own and control to your hand to choose an opponent's character. Return that character to its owner's hand"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -1017,7 +1017,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Storm's End"/>
- 			<property name="Text"           value="Response: After a character claims power for renown, kneel Tower library to give a Learned character you control renown until the end of the phase."/>
+ 			<property name="Text"           value="Response: After a character claims power for renown, kneel Tower library to give a [Learned] character you control renown until the end of the phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -1435,7 +1435,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Any Phase: Until the end of the phase, each of your Asshai characters gets +1 STR and gains the Learned crest."/>
+ 			<property name="Text"           value="Any Phase: Until the end of the phase, each of your Asshai characters gets +1 STR and gains the [Learned] crest."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -1743,7 +1743,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Response: Kneel a Learned character to cancel the 'when revealed' effects of a plot card just revealed."/>
+ 			<property name="Text"           value="Response: Kneel a [Learned] character to cancel the 'when revealed' effects of a plot card just revealed."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value=""/>
  			<property name="Cost"           value=""/>
@@ -1831,7 +1831,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Play before any challenges have been initiated this phase. Any Phase: Kneel a Learned character to have each player choose up to 3 characters. Characters not chosen cannot participate in challenges this phase."/>
+ 			<property name="Text"           value="Play before any challenges have been initiated this phase. Any Phase: Kneel a [Learned] character to have each player choose up to 3 characters. Characters not chosen cannot participate in challenges this phase."/>
  			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -1963,7 +1963,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="The East."/>
- 			<property name="Text"           value="Response: After a character's STR is lowered by a card effect, kneel a Learned character to give that character -1 STR until the end of the phase."/>
+ 			<property name="Text"           value="Response: After a character's STR is lowered by a card effect, kneel a [Learned] character to give that character -1 STR until the end of the phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -2315,7 +2315,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Westeros"/>
- 			<property name="Text"           value="Response: Kneel a Learned character to copy a triggered effect that returns a character from your discard or dead pile to your hand, deck, shadows area, or play."/>
+ 			<property name="Text"           value="Response: Kneel a [Learned] character to copy a triggered effect that returns a character from your discard or dead pile to your hand, deck, shadows area, or play."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -2447,7 +2447,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Any Phase: Kneel a Learned character to stand Advisor's Chambers"/>
+ 			<property name="Text"           value="Any Phase: Kneel a [Learned] character to stand Advisor's Chambers"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -2469,7 +2469,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally"/>
- 			<property name="Text"           value="If you control a WAR character, Faceless Man gets +2 STR. If you control a SHADOW character Faceless Man gains stealth. If you control a HOLY character Faceless Man gains deadly. If you control a NOBLE character, Faceless Man gains a POWER icon."/>
+ 			<property name="Text"           value="If you control a [War] character, Faceless Man gets +2 STR. If you control a [Shadow] character Faceless Man gains stealth. If you control a [Holy] character Faceless Man gains deadly. If you control a [Noble] character, Faceless Man gains a [POW] icon."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -2601,7 +2601,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Learned characters you control do not kneel to attack or defend during IntrigueRIGUE challenges. Raise your claim value by 1 during IntrigueRIGUE challenges you initiate"/>
+ 			<property name="Text"           value="[Learned] characters you control do not kneel to attack or defend during [INT] challenges. Raise your claim value by 1 during IntrigueRIGUE challenges you initiate"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value=""/>
  			<property name="Cost"           value=""/>

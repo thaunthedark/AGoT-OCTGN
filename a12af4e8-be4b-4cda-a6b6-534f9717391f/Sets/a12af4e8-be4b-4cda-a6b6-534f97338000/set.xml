@@ -181,7 +181,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Weapon."/>
- 			<property name="Text"           value="Attached character gains a War crest.&#10;Response: After a challenge in which attached character participated resolves, choose and kill a non-unique participating character."/>
+ 			<property name="Text"           value="Attached character gains a [War] crest.&#10;Response: After a challenge in which attached character participated resolves, choose and kill a non-unique participating character."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -379,7 +379,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Wildling. Refugee."/>
- 			<property name="Text"           value="Response: After Free Man leaves play, choose and stand 1 War character."/>
+ 			<property name="Text"           value="Response: After Free Man leaves play, choose and stand 1 [War] character."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -797,7 +797,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Creature. Raven."/>
- 			<property name="Text"           value="Night's Watch characters you control without a printed Military icon gain a War crest.&#10;Night's Watch characters you control without a printed Intrigue icon cannot be bypassed by stealth.&#10;Night's Watch characters you control without a printed Power icon get +1 STR."/>
+ 			<property name="Text"           value="Night's Watch characters you control without a printed Military icon gain a [War] crest.&#10;Night's Watch characters you control without a printed Intrigue icon cannot be bypassed by stealth.&#10;Night's Watch characters you control without a printed Power icon get +1 STR."/>
  			<property name="Keywords"       value="No attachments."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -1109,7 +1109,7 @@
  			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
- 			<property name="Strength"       value="0"/>
+ 			<property name="Strength"       value=""/>
  			<property name="Military"       value=""/>
  			<property name="Intrigue"       value=""/>
  			<property name="Power"          value=""/>
@@ -1699,7 +1699,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Westeros."/>
- 			<property name="Text"           value="Limit 1 per deck. Marshalling: Kneel Oncea Road to lower the cost of the next character with a NOBLE or WAR crest you play this phase."/>
+ 			<property name="Text"           value="Limit 1 per deck. Marshalling: Kneel Oncea Road to lower the cost of the next character with a [Noble] or [War] crest you play this phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="0"/>

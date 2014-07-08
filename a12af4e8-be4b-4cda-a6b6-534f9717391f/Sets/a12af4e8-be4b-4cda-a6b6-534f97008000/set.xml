@@ -401,7 +401,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Raven."/>
- 			<property name="Text"           value="Challenges: Kneel a Maester or a Learned character to choose and discard 1 attachment from play. Then, if you have no power on your House, draw 1 card."/>
+ 			<property name="Text"           value="Challenges: Kneel a Maester or a [Learned] character to choose and discard 1 attachment from play. Then, if you have no power on your House, draw 1 card."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -577,7 +577,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Asshai."/>
- 			<property name="Text"           value="If you control at least 3 other Asshai characters, Intolerant Priest gains +1 STR, a Holy crest, and a Military icon."/>
+ 			<property name="Text"           value="If you control at least 3 other Asshai characters, Intolerant Priest gains +1 STR, a [Holy] crest, and a Military icon."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -599,7 +599,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition."/>
- 			<property name="Text"           value="Attached character gains a Holy crest and the Asshai trait. If attached character has a printed Holy crest, it gets +1 STR and gains Vigilant."/>
+ 			<property name="Text"           value="Attached character gains a [Holy] crest and the Asshai trait. If attached character has a printed [Holy] crest, it gets +1 STR and gains Vigilant."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -621,7 +621,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Storm's End."/>
- 			<property name="Text"           value="Response: After you win an Intrigue challenge in which at least 1 Holy character participated, kneel Altar of Fire to look at the losing opponent's hand. Choose and discard 1 card from that hand."/>
+ 			<property name="Text"           value="Response: After you win an Intrigue challenge in which at least 1 [Holy] character participated, kneel Altar of Fire to look at the losing opponent's hand. Choose and discard 1 card from that hand."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -863,7 +863,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="When revealed, put a Holy character into play from your dead pile."/>
+ 			<property name="Text"           value="When revealed, put a [Holy] character into play from your dead pile."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value=""/>
@@ -1127,7 +1127,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Crown."/>
- 			<property name="Text"           value="Any Phase: Kneel Driftwood Crown to give attached character one of the following crest and icon pairs until the end of the phase: WAR and MILITARY ; NOBLE and POWER ; or HOLY and INTRIGUE."/>
+ 			<property name="Text"           value="Any Phase: Kneel Driftwood Crown to give attached character one of the following crest and icon pairs until the end of the phase: [War] and [Military] ; [Noble] and [Power] ; or [Holy] and [Intrigue]."/>
  			<property name="Keywords"       value="Greyjoy character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -2381,7 +2381,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Brotherhood. Knight."/>
- 			<property name="Text"           value="Any Phase: Kneel a Holy character to put Knight of Summerhall into play from your dead pile."/>
+ 			<property name="Text"           value="Any Phase: Kneel a [Holy] character to put Knight of Summerhall into play from your dead pile."/>
  			<property name="Keywords"       value="No attachments except Weapon."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
