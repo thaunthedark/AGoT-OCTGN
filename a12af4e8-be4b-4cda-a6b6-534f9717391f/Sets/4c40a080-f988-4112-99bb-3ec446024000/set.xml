@@ -115,7 +115,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Condition"/>
- 			<property name="Text"           value="Response: After you win a POW challenge in which attached character partecipated, kneel Lucky Bones and discard the top 2 cards of your deck to draw 1 card. (Draw 2 cards instead if attached character is Ser Davos Seaworth.)"/>
+ 			<property name="Text"           value="Response: After you win a [POW]challenge in which attached character partecipated, kneel Lucky Bones and discard the top 2 cards of your deck to draw 1 card. (Draw 2 cards instead if attached character is Ser Davos Seaworth.)"/>
  			<property name="Keywords"       value="House Baratheon character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -1545,7 +1545,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Challenges: Choose a unique TARGARYEN character. Until the end of the phase, that character does not kneel to attack or defend during POW challenges."/>
+ 			<property name="Text"           value="Challenges: Choose a unique TARGARYEN character. Until the end of the phase, that character does not kneel to attack or defend during [POW]challenges."/>
  			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>

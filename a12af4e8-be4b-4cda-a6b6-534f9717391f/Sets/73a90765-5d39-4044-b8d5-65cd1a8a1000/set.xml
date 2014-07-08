@@ -798,7 +798,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="The East."/>
-			<property name="Text"           value="Response: If it is Summer, after you win a POW challenge, kneel Slaver's Bay to put a non-unique character from any opponent's discard pile into play under your control."/>
+			<property name="Text"           value="Response: If it is Summer, after you win a [POW]challenge, kneel Slaver's Bay to put a non-unique character from any opponent's discard pile into play under your control."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>

@@ -225,7 +225,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Army. Unsullied."/>
- 			<property name="Text"           value="No Attachments. Response: After you win a POW challenge, choose and discard an attachment from play."/>
+ 			<property name="Text"           value="No Attachments. Response: After you win a [POW]challenge, choose and discard an attachment from play."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="4"/>
@@ -1039,7 +1039,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Agenda"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Before drawing your setup hand, name [MIL] or [INT] challenge. You cannot initiate challenges of that type. You may initiate 2 POW challenges each challenge phase"/>
+ 			<property name="Text"           value="Before drawing your setup hand, name [MIL] or [INT] challenge. You cannot initiate challenges of that type. You may initiate 2 [POW]challenges each challenge phase"/>
  			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value=""/>
  			<property name="Cost"           value=""/>
