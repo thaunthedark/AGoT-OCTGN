@@ -446,7 +446,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. Dotrhaki"/>
  			<property name="Text"           value="Response: After Khal Drogo is killed, search your deck for X Dothraki characters, reveal them, and put them into your hand. Then, shuffle your deck. X is Khal Drogo's STR."/>
- 			<property name="Keywords"       value="Deadly"/>
+ 			<property name="Keywords"       value="Deadly."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
  			<property name="Strength"       value="3"/>
@@ -490,7 +490,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Creature. Dragon."/>
  			<property name="Text"           value="Response: After you win a challenge in which Drogon participated and all of your participating characters have the Dragon trait, choose and kill 1 character whose STR is equal to or less than the number of participating characters you control. (Limit once per phase)"/>
- 			<property name="Keywords"       value="House Targaryen only. No attachments. Ambush. Stealth"/>
+ 			<property name="Keywords"       value="House Targaryen only. No attachments. Ambush. Stealth."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
  			<property name="Strength"       value="4"/>
@@ -512,7 +512,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Creature. Dragon."/>
  			<property name="Text"           value="Response: After you win a challenge in which Rhaegal participated and all of your participating characters have the Dragon trait, each participating character you control claims 1 power (Limit once per phase)."/>
- 			<property name="Keywords"       value="House Targaryen only. No attachments. Ambush. Stealth"/>
+ 			<property name="Keywords"       value="House Targaryen only. No attachments. Ambush. Stealth."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
  			<property name="Strength"       value="4"/>
@@ -534,7 +534,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Creature. Dragon."/>
  			<property name="Text"           value="Response: After you win a challenge in which Viserion participated and all of your participating characters have the Dragon trait, choose and discard 1 location with a cost less than the number of participating characters you control (Limit once per phase)."/>
- 			<property name="Keywords"       value="House Targaryen only. No attachments. Ambush. Stealth"/>
+ 			<property name="Keywords"       value="House Targaryen only. No attachments. Ambush. Stealth."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
  			<property name="Strength"       value="4"/>

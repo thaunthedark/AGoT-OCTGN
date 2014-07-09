@@ -226,7 +226,7 @@
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Captain. Ally."/>
 			<property name="Text"           value="Response : After you lose a challenge in which Areo Hotah participated in as the defender, discard the top 5 cards of your deck to choose and kill a participating character."/>
-			<property name="Keywords"       value="Vengeful"/>
+			<property name="Keywords"       value="Vengeful."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
 			<property name="Strength"       value="3"/>
@@ -246,7 +246,7 @@
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army."/>
 			<property name="Text"           value=" Lower the cost to play Lady Nym's Guard by 3 if any opponent is running an agenda. Response: Discard a card from your hand to cancel a card effect just triggered that chooses 1 of your Sand Snake characters as the only target."/>
-			<property name="Keywords"       value="No attachments. Stealth"/>
+			<property name="Keywords"       value="No attachments. Stealth."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="7"/>
 			<property name="Strength"       value="7"/>
@@ -526,7 +526,7 @@
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Ally. Smuggler."/>
 			<property name="Text"           value="Response : After River Runner stands for vigilant it gains an [INT] icon until the end of the phase"/>
-			<property name="Keywords"       value="Vigilant"/>
+			<property name="Keywords"       value="Vigilant."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
 			<property name="Strength"       value="2"/>
@@ -646,7 +646,7 @@
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Knight."/>
 			<property name="Text"           value="Response: After Quentyn Martell is killed, claim 2 power for your House."/>
-			<property name="Keywords"       value="Stealth"/>
+			<property name="Keywords"       value="Stealth."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
 			<property name="Strength"       value="3"/>
@@ -1936,7 +1936,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value="Prayer."/>
 			<property name="Text"           value="Response: Kneel 2 influence or kneel a [Holy] character to cancel a triggered effect that would cause a player to draw 1 or more cards.  Instead, you draw that number of cards."/>
-			<property name="Keywords"       value="Any House execpt Lannister."/>
+			<property name="Keywords"       value="Any House except Lannister."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -1980,7 +1980,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value="Prayer."/>
 			<property name="Text"           value="Nurtured by the Crone cannot be cancelled.&#10;&#10;Response: Kneel 2 influence or kneel a [Holy] character to cancel a triggered effect that chooses a unique character or location as its only target."/>
-			<property name="Keywords"       value="Any House execpt Martell."/>
+			<property name="Keywords"       value="Any House except Martell."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -2133,8 +2133,8 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Challenges: Until the end of the phase, when a player loses a challenge, he or she must choose a location he or she controls and return it to its owner's hand."/>
-			<property name="Keywords"       value="House Greyjoy only. Play before any challenges have been declared this phase."/>
+			<property name="Text"           value="Play before any challenges have been declared this phase. Challenges: Until the end of the phase, when a player loses a challenge, he or she must choose a location he or she controls and return it to its owner's hand."/>
+			<property name="Keywords"       value="House Greyjoy only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>

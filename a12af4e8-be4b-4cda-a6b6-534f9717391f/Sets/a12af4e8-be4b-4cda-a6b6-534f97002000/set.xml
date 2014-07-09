@@ -1282,7 +1282,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ironborn. The East."/>
  			<property name="Text"           value=""/>
- 			<property name="Keywords"       value="Ambush. Intimidate."/>
+ 			<property name="Keywords"       value="House Targaryen or House Greyjoy only. Ambush. Intimidate."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="4"/>
  			<property name="Strength"       value="3"/>

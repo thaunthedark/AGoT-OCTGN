@@ -28,7 +28,7 @@
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Stronghold."/>
 			<property name="Text"           value="Response: After a card is discarded from a player's hand, kneel Brightwater Keep to return that card to its owner's hand."/>
-			<property name="Keywords"       value="No attachments"/>
+			<property name="Keywords"       value="No attachments."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
 			<property name="Strength"       value=""/>
@@ -94,7 +94,7 @@
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Stronghold."/>
 			<property name="Text"           value="The player with the most total cards at his or her command at the beginning of the draw phase draws 1 less card (to a minimum of 1) when he or she draws cards for that phase."/>
-			<property name="Keywords"       value="No Attachments"/>
+			<property name="Keywords"       value="No attachments."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
 			<property name="Strength"       value=""/>
@@ -931,7 +931,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Bannerman. Lord."/>
 			<property name="Text"           value="Discard Greydon Goodbrother from play (cannot be saved) if you control fewer locations than any opponent."/>
-			<property name="Keywords"       value="Renown"/>
+			<property name="Keywords"       value="Renown."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="0"/>
 			<property name="Strength"       value="2"/>
@@ -1591,7 +1591,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Bastard. Night's Watch. Wildling."/>
 			<property name="Text"           value="Your Wildling characters get +1 STR. Your Night's Watch characters gain 'immune to events'."/>
-			<property name="Keywords"       value="Deadly"/>
+			<property name="Keywords"       value="Deadly."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
 			<property name="Strength"       value="2"/>
@@ -1679,7 +1679,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Night's Watch."/>
 			<property name="Text"           value="When Eastwatch Envoy gains an icon, it also gains a Naval enhancement with that icon."/>
-			<property name="Keywords"       value="Stealth"/>
+			<property name="Keywords"       value="Stealth."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
 			<property name="Strength"       value="3"/>
@@ -1767,7 +1767,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Bannerman. House Florent."/>
 			<property name="Text"           value="Brightwater Man-at-Arms does not kneel to attack or defend. At the end of the dominance phase, discard Brightwater Man-at-Arms from play."/>
-			<property name="Keywords"       value="Deadly"/>
+			<property name="Keywords"       value="Deadly."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
 			<property name="Strength"       value="4"/>
@@ -1833,7 +1833,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Iron Islands. Stronghold."/>
 			<property name="Text"           value="Power on Pyke counts towards your victory total. Any Phase: Kneel Pyke to move 1 power from your House card to Pyke."/>
-			<property name="Keywords"       value="No attachments. Immune to events and character abilities"/>
+			<property name="Keywords"       value="No attachments. Immune to events and character abilities."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="0"/>
 			<property name="Strength"       value=""/>
@@ -1964,8 +1964,8 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Favor."/>
-			<property name="Text"           value="Discard attached character from play (cannot be saved) when you kneel Doran's Favor to pay an influence cost."/>
-			<property name="Keywords"       value="Setup. Attach to a character you control."/>
+			<property name="Text"           value="Attach to a character you control. Discard attached character from play (cannot be saved) when you kneel Doran's Favor to pay an influence cost."/>
+			<property name="Keywords"       value="Setup."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="0"/>
 			<property name="Strength"       value=""/>
@@ -2229,7 +2229,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="House Tyrell. Lord."/>
 			<property name="Text"           value="If it is not Summer, reduce the amount of power required for each player to win the game by 1 for each power on Mace Tyrell."/>
-			<property name="Keywords"       value="Renown"/>
+			<property name="Keywords"       value="Renown."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
 			<property name="Strength"       value="3"/>
@@ -2360,7 +2360,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Favor."/>
-			<property name="Text"           value="Attach to a character you control.  Any Phase: Discard attached character from play to add 4 gold tokens to your gold pool from the treasury."/>
+			<property name="Text"           value="Attach to a character you control. Any Phase: Discard attached character from play to add 4 gold tokens to your gold pool from the treasury."/>
 			<property name="Keywords"       value="Setup."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="0"/>

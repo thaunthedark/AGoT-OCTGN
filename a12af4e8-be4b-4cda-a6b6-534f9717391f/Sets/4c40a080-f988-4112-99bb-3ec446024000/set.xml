@@ -534,7 +534,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Army. Clansman."/>
  			<property name="Text"           value="Challenges: Discard 1 card from your hand to choose 1 character participating in the same challenge with Black Ears. If you have fewer cards in hand than each opponent, remove that character from the challenge.(Limit once per challenge)."/>
- 			<property name="Keywords"       value="Deadly"/>
+ 			<property name="Keywords"       value="Deadly."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
  			<property name="Strength"       value="4"/>
@@ -1128,7 +1128,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Skill."/>
  			<property name="Text"           value="Marshalling: Kneel Dragon Lore and kneel attached character to reduce the next Dragon character you play this phase to 0."/>
- 			<property name="Keywords"       value="Maester character only."/>
+ 			<property name="Keywords"       value="House Targaryen only. Maester character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -1634,7 +1634,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Creature. Raven."/>
  			<property name="Text"           value="Marshalling: Kneel Oldtown Raven to reduce the cost of the next Maester character or Chain attachment you play this phase by 1. Ignore all gold penalties while playing that card."/>
- 			<property name="Keywords"       value="No attachments"/>
+ 			<property name="Keywords"       value="No attachments."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value="1"/>
@@ -1810,7 +1810,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally. House Payne."/>
  			<property name="Text"           value=""/>
- 			<property name="Keywords"       value="Deadly"/>
+ 			<property name="Keywords"       value="Deadly."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value="2"/>
@@ -1854,7 +1854,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Knight."/>
  			<property name="Text"           value="Marshalling: Kneel Ser Jon Fossoway to take X gold from the treasury and add it to your gold pool. X is the number of power on Ser Jon Fossoway."/>
- 			<property name="Keywords"       value="Renown"/>
+ 			<property name="Keywords"       value="Renown."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
  			<property name="Strength"       value="2"/>
@@ -1898,7 +1898,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ironborn. Raider. Ally."/>
  			<property name="Text"           value="Any Phase: Discard the top card of your deck to give Iron Fleed Raiders -2 STR until the end of the phase. Only opponents can trigger this effect."/>
- 			<property name="Keywords"       value="No attachments"/>
+ 			<property name="Keywords"       value="No attachments."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value="5"/>
@@ -2008,7 +2008,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition."/>
  			<property name="Text"           value="Response: After you lose a challenge reveal the top card of your deck, then add it to your hand."/>
- 			<property name="Keywords"       value="Unique Martell Character only."/>
+ 			<property name="Keywords"       value="Unique [Martell] character only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value=""/>

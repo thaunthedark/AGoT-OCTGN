@@ -1150,7 +1150,7 @@
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Item. Weapon."/>
 			<property name="Text"           value="Challenges: While attached character is participating in a challenge, discard Ice to choose and kill up to X characters. X is the number of prized card you control."/>
-			<property name="Keywords"       value="Prized 2. Unique Stark character only."/>
+			<property name="Keywords"       value="Prized 2. Unique [Stark] character only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
 			<property name="Strength"       value=""/>

@@ -28,7 +28,7 @@
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lady. House Reed."/>
  			<property name="Text"           value="Response: After a [Stark] character leaves play, put Meera Reed into Shadows.&#10;Any Phase: Bring Meera Reed out of Shadows and into play by paying the rest of her gold cost. Then choose 1 non-plot card (2 instead if it is Winter) and treat its printed text box as if it were blank until end of the phase."/>
- 			<property name="Keywords"       value=" House Stark only. Stealth."/>
+ 			<property name="Keywords"       value="House Stark only. Stealth."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="s1"/>
  			<property name="Strength"       value="2"/>
@@ -2513,8 +2513,8 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Weapon."/>
- 			<property name="Text"           value="Response: After you win a challenge in which attached character participated, kneel Poisoned Spear to choose and kill a character with no icons."/>
- 			<property name="Keywords"       value="Attached character gains joust."/>
+ 			<property name="Text"           value="Attached character gains joust. Response: After you win a challenge in which attached character participated, kneel Poisoned Spear to choose and kill a character with no icons."/>
+ 			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
