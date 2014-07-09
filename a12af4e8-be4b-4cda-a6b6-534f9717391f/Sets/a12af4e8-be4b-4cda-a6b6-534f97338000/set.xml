@@ -644,7 +644,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Title."/>
  			<property name="Text"           value="Attached character gains renown.&#10;Response: After you win a challenge in which attached character participated, choose and discard 1 kneeling location from play."/>
- 			<property name="Keywords"       value="Unique Greyjoy character only."/>
+ 			<property name="Keywords"       value="Unique [Greyjoy] character only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -2073,8 +2073,8 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Title."/>
- 			<property name="Text"           value="Unique character only. Attached character gains the Night's Watch trait. Response: After you win a challenge in which attached character participated, stand all other Night's Watch characters."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Attached character gains the Night's Watch trait. Response: After you win a challenge in which attached character participated, stand all other Night's Watch characters."/>
+ 			<property name="Keywords"       value="Unique character only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -2228,7 +2228,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Creature. Warhorse."/>
  			<property name="Text"           value=" If you win a [MIL] challenge in which attached character attacked alone, instead of the normal claim effects, choose and kill 1 character controlled by the losing opponent."/>
- 			<property name="Keywords"       value="House Stark character only"/>
+ 			<property name="Keywords"       value="[Stark] character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -2272,7 +2272,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Creature. Warhorse."/>
  			<property name="Text"           value="If you win an [INT] challenge in which attached character attacked alone, instead of the normal claim effects, look at the losing opponent's hand. Choose and return 1 card from that hand to the top or bottom of its owner's deck."/>
- 			<property name="Keywords"       value="House Lannister character only."/>
+ 			<property name="Keywords"       value="[Lannister] character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -2316,7 +2316,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Creature. Warhorse."/>
  			<property name="Text"           value="If you win a [POW] challenge in which attached character attacked alone, instead of the normal claim effects, choose 1 character in your discard pile and return it to your hand."/>
- 			<property name="Keywords"       value="House Baratheon character only."/>
+ 			<property name="Keywords"       value="[Baratheon] character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -2382,7 +2382,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Creature. Warhorse."/>
  			<property name="Text"           value="If you win a [MIL] challenge in which attached character attacked alone, instead of the normal claim effects, choose 1 location in the losing player's discard pile. Put that location into play under your control."/>
- 			<property name="Keywords"       value="House Greyjoy character only."/>
+ 			<property name="Keywords"       value="[Greyjoy] character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -2448,7 +2448,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Creature. Warhorse."/>
  			<property name="Text"           value="If you win a [POW] challenge in which attached character attacked alone, instead of the normal claim effects, return the top card of your discard pile to your hand."/>
- 			<property name="Keywords"       value="House Targaryen character only."/>
+ 			<property name="Keywords"       value="[Targaryen] character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -2492,7 +2492,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Creature. Warhorse."/>
  			<property name="Text"           value="If you win an [INT] challenge in which attached character attacked alone, instead of the normal claim effects, choose 1 character controlled by the losing opponent and return it to its owner's hand."/>
- 			<property name="Keywords"       value="House Martell character only."/>
+ 			<property name="Keywords"       value="[Martell] character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>

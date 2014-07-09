@@ -2426,7 +2426,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item."/>
  			<property name="Text"           value="If you have at least 1 gold in your gold pool, attached character does not kneel to attack or defend during [MIL] challenges."/>
- 			<property name="Keywords"       value="W character only."/>
+ 			<property name="Keywords"       value="[War] character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>

@@ -116,7 +116,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Condition"/>
  			<property name="Text"           value="Response: After you win a [POW] challenge in which attached character partecipated, kneel Lucky Bones and discard the top 2 cards of your deck to draw 1 card. (Draw 2 cards instead if attached character is Ser Davos Seaworth.)"/>
- 			<property name="Keywords"       value="House Baratheon character only."/>
+ 			<property name="Keywords"       value="[Baratheon] character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -160,7 +160,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition"/>
  			<property name="Text"           value="Response: After 1 or more cards are discarded from an opponent's deck, stand attached character."/>
- 			<property name="Keywords"       value="Ironborn character only"/>
+ 			<property name="Keywords"       value="Ironborn character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -599,8 +599,8 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition"/>
- 			<property name="Text"           value="Condition Asshai character only. Attached character gets +1 STR for each card in Shadows. Challenges: Discard a card from your Shadows area to give attached character deadly until the end of the phase."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Attached character gets +1 STR for each card in Shadows. Challenges: Discard a card from your Shadows area to give attached character deadly until the end of the phase."/>
+ 			<property name="Keywords"       value="Asshai character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="0"/>
  			<property name="Strength"       value=""/>
@@ -1171,8 +1171,8 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item"/>
- 			<property name="Text"           value="Sand Snake character only. Attached character is immune to opponent's non-plot card effects."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Attached character is immune to opponent's non-plot card effects."/>
+ 			<property name="Keywords"       value="Sand Snake character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -2008,7 +2008,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition"/>
  			<property name="Text"           value="Response: After you lose a challenge reveal the top card of your deck, then add it to your hand."/>
- 			<property name="Keywords"       value="Unique Martell Character only"/>
+ 			<property name="Keywords"       value="Unique Martell Character only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value=""/>

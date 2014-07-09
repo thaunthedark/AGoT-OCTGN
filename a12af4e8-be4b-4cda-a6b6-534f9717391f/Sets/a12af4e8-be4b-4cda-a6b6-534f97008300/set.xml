@@ -445,8 +445,8 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Item."/>
-			<property name="Text"           value="Asshai character only. Vigilant. Attached character is immune to opponent's events. Response: After a card is discarded from an opponent's hand, kneel Ruby of R'hllor to draw 1 card."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="Attached character is immune to opponent's events. Response: After a card is discarded from an opponent's hand, kneel Ruby of R'hllor to draw 1 card."/>
+			<property name="Keywords"       value="Asshai character only. Vigilant."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
 			<property name="Strength"       value=""/>
@@ -489,8 +489,8 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Item. Crown."/>
-			<property name="Text"           value="Unique Baratheon  character only. Setup. If Crown of Azor Ahai is standing and White Raven is not in play, it is Summer. If Crown of Azor Ahai is knelt and Black Raven is not in play, it is Winter. Any Phase: Kneel Crown of Azor Ahai."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="If Crown of Azor Ahai is standing and White Raven is not in play, it is Summer. If Crown of Azor Ahai is knelt and Black Raven is not in play, it is Winter. Any Phase: Kneel Crown of Azor Ahai."/>
+			<property name="Keywords"       value="Unique [Baratheon] character only. Setup."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
 			<property name="Strength"       value=""/>

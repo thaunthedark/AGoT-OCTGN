@@ -5,8 +5,8 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Item. Crown."/>
-			<property name="Text"           value="Stark unique character only.  Attached character gets +2 STR and is immune to opponent's events and character abilities.  If the Black Raven card is not in play, it is Winter."/>
-			<property name="Keywords"       value=""/>
+			<property name="Text"           value="Attached character gets +2 STR and is immune to opponent's events and character abilities.  If the Black Raven card is not in play, it is Winter."/>
+			<property name="Keywords"       value="[Stark] unique character only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
 			<property name="Strength"       value=""/>
@@ -28,7 +28,7 @@
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Creature. Direwolf."/>
 			<property name="Text"           value="Any Phase: Kneel Grey Wind to choose and kill 1 character with STR 1 or lower. (STR 2 or lower if attached character is Robb Stark.)"/>
-			<property name="Keywords"       value="Stark character only."/>
+			<property name="Keywords"       value="[Stark] character only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
 			<property name="Strength"       value=""/>
@@ -50,7 +50,7 @@
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Creature. Direwolf."/>
 			<property name="Text"           value="After you win a challenge in which attached character participated, stand Shaggydog.  Challenges: Kneel a Direwolf card to choose 1 attacking character. Until the end of the phase, that character gets -2 STR."/>
-			<property name="Keywords"       value="Stark character only."/>
+			<property name="Keywords"       value="[Stark] character only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
 			<property name="Strength"       value=""/>

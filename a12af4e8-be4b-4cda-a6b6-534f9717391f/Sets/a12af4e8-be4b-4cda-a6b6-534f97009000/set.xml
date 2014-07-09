@@ -204,7 +204,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Boon."/>
  			<property name="Text"           value="Attached character gains the [Noble] crest and a [POW] icon."/>
- 			<property name="Keywords"       value="House Targaryen only."/>
+ 			<property name="Keywords"       value="[Targaryen] character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -379,8 +379,8 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item."/>
- 			<property name="Text"           value="Wildling character only. Any Phase: Kneel Wildling Mead to stand attached character."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Any Phase: Kneel Wildling Mead to stand attached character."/>
+ 			<property name="Keywords"       value="Wildling character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value=""/>

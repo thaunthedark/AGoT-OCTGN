@@ -270,7 +270,7 @@
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Item. Weapon."/>
 			<property name="Text"           value="Challenges: While attached character is participating in a challenge, kneel and discard Ice from play (cannot be saved) to choose and kill another participating character."/>
-			<property name="Keywords"       value="Stark character only."/>
+			<property name="Keywords"       value="[Stark] character only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
 			<property name="Strength"       value=""/>
@@ -292,7 +292,7 @@
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Creature. Direwolf."/>
 			<property name="Text"           value="Response: Kneel Nymeria to save attached character from being killed.  If attached character is Arya Stark, she also gets +1 STR and gains stealth."/>
-			<property name="Keywords"       value="Stark character only."/>
+			<property name="Keywords"       value="[Stark] character only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
 			<property name="Strength"       value=""/>
@@ -314,7 +314,7 @@
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Creature. Direwolf."/>
 			<property name="Text"           value="Attached character gets +2 STR and gains a [MIL] icon.  If attached character is Bran Stark, he gains stealth."/>
-			<property name="Keywords"       value="Stark character only."/>
+			<property name="Keywords"       value="[Stark] character only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
 			<property name="Strength"       value=""/>
@@ -1612,7 +1612,7 @@
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Item. Weapon."/>
 			<property name="Text"           value="Response: Kneel Lightbringer to save attached character from being killed."/>
-			<property name="Keywords"       value="Vigilant. Baratheon character only."/>
+			<property name="Keywords"       value="[Baratheon] character only. Vigilant."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
 			<property name="Strength"       value=""/>

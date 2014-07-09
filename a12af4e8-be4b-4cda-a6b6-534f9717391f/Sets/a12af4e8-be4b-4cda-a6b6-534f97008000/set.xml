@@ -995,8 +995,8 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Skill."/>
- 			<property name="Text"           value="Clansman character only. Any Phase: Kneel attached character to choose a player. That player draws 1 card."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Any Phase: Kneel attached character to choose a player. That player draws 1 card."/>
+ 			<property name="Keywords"       value="Clansman character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -1083,8 +1083,8 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Condition."/>
- 			<property name="Text"           value="Asshai character only. Setup. Attached character gains deadly."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Attached character gains deadly."/>
+ 			<property name="Keywords"       value="Asshai character only. Setup."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="0"/>
  			<property name="Strength"       value=""/>
@@ -1128,7 +1128,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Crown."/>
  			<property name="Text"           value="Any Phase: Kneel Driftwood Crown to give attached character one of the following crest and icon pairs until the end of the phase: [War] and [Military] ; [Noble] and [Power] ; or [Holy] and [Intrigue]."/>
- 			<property name="Keywords"       value="Greyjoy character only."/>
+ 			<property name="Keywords"       value="[Greyjoy] character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -1523,8 +1523,8 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item."/>
- 			<property name="Text"           value="Unique character only. Attached character gets +4 STR. Any Phase: Kneel Horn of Dragons to take control of a Dragon character until the end of the phase."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Attached character gets +4 STR. Any Phase: Kneel Horn of Dragons to take control of a Dragon character until the end of the phase."/>
+ 			<property name="Keywords"       value="Unique character only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value=""/>
@@ -1831,8 +1831,8 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Title."/>
- 			<property name="Text"           value="Clansman character only. Any Phase: Discard 1 card from your hand to stand or kneel attached character."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Any Phase: Discard 1 card from your hand to stand or kneel attached character."/>
+ 			<property name="Keywords"       value="Clansman character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -2052,7 +2052,7 @@
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition."/>
  			<property name="Text"           value="Attached character gains the Sand Snake trait and 'Sand Snake characters you control get +1 STR'"/>
- 			<property name="Keywords"       value="Martell character only."/>
+ 			<property name="Keywords"       value="[Martell] character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -2403,8 +2403,8 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition."/>
- 			<property name="Text"           value="Asshai character only. Response: After attached character is killed, search your deck for another Asshai character of equal or lower printed cost and put it into play. Then, shuffle your deck."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Response: After attached character is killed, search your deck for another Asshai character of equal or lower printed cost and put it into play. Then, shuffle your deck."/>
+ 			<property name="Keywords"       value="Asshai character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>

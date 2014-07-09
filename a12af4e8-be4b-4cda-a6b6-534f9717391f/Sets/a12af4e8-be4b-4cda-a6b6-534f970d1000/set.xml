@@ -446,7 +446,7 @@
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Condition."/>
 			<property name="Text"           value="Attached character gains stealth.  Response: After you win an unopposed challenge, stand attached character."/>
-			<property name="Keywords"       value="Greyjoy character only."/>
+			<property name="Keywords"       value="[Greyjoy] character only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
 			<property name="Strength"       value=""/>
