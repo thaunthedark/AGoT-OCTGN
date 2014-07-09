@@ -1434,7 +1434,7 @@
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3066" name="The Nightfort">
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="The North"/>
+ 			<property name="Traits"         value="The North."/>
  			<property name="Text"           value="Challenges: Kneel The Nightfort to choose a Knight or Night's Watch character. Until the end of the phase, that character gains melee."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>

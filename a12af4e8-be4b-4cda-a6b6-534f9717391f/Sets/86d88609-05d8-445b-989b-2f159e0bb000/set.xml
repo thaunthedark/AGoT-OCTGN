@@ -124,7 +124,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb007" name="Lady Olenna's Guard">
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="House Tyrell"/>
+			<property name="Traits"         value="House Tyrell."/>
 			<property name="Text"           value=""/>
 			<property name="Keywords"       value="Melee. Renown."/>
 			<property name="Unique"         value="Yes"/>
@@ -244,7 +244,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb013" name="Lady Nym's Guard">
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Army"/>
+			<property name="Traits"         value="Army."/>
 			<property name="Text"           value=" Lower the cost to play Lady Nym's Guard by 3 if any opponent is running an agenda. Response: Discard a card from your hand to cancel a card effect just triggered that chooses 1 of your Sand Snake characters as the only target."/>
 			<property name="Keywords"       value="No attachments. Stealth"/>
 			<property name="Unique"         value="No"/>
@@ -264,7 +264,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb014" name="Missandei">
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Ally"/>
+			<property name="Traits"         value="Ally."/>
 			<property name="Text"           value="While no opponent controls a Queen character, Missandei cannot be discarded from play"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
@@ -284,7 +284,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb015" name="Captain Groleo">
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Captain"/>
+			<property name="Traits"         value="Captain."/>
 			<property name="Text"           value="Response: After you win a challenge in which Captain Groleo participated by 4 or more total STR, search your deck for an attachment and add it to your hand. Then, shuffle your deck."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
@@ -384,7 +384,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb020" name="Crossing the Ruby Ford">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
-			<property name="Traits"         value="River"/>
+			<property name="Traits"         value="River."/>
 			<property name="Text"           value="When revealed, each opponent must discard 1 power from a card he or she controls, if able. Then, if this your revealed plot card, trigger the 'when revealed' effect on the top River plot card in your used pile."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value=""/>
@@ -404,7 +404,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb021" name="Paxter Redwyne">
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Lord. Captain. House Redwyne"/>
+			<property name="Traits"         value="Lord. Captain. House Redwyne."/>
 			<property name="Text"           value="Response: After you win initiative, add 2 gold tokens from the treasury to your gold pool."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
@@ -424,7 +424,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb022" name="Arbor Queen">
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Location"/>
-			<property name="Traits"         value="Warship"/>
+			<property name="Traits"         value="Warship."/>
 			<property name="Text"           value="Any Phase: Kneel Arbor Queen to choose a charatcter. Until the end of the phase, that character gets +1 STR for each gold token in your gold pool."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
@@ -444,7 +444,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb023" name="Lionstar">
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Location"/>
-			<property name="Traits"         value="Warship"/>
+			<property name="Traits"         value="Warship."/>
 			<property name="Text"           value="Dominance: Kneel Lionstar to move up 2 gold tokens from your gold pool on Lionstar. (Any number of gold tokens instead if you won a challenge with a participating Naval attacker this round.) Any Phase: Kneel Lionstar to move any number of gold tokens from it to your gold pool."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
@@ -464,7 +464,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb024" name="Ironborn Marauder">
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Ironborn. Raider"/>
+			<property name="Traits"         value="Ironborn. Raider."/>
 			<property name="Text"           value=""/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
@@ -484,7 +484,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb025" name="The Reader">
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Ironborn. House Harlaw"/>
+			<property name="Traits"         value="Ironborn. House Harlaw."/>
 			<property name="Text"           value="Response: After you win an unopposed challenge in which a unique character participated, choose one: draw 1 card or discard the top 3 cards of each opponent's deck. (Limit once per phase.) "/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
@@ -504,7 +504,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb026" name="Longship Golden Storm">
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Location"/>
-			<property name="Traits"         value="Warship"/>
+			<property name="Traits"         value="Warship."/>
 			<property name="Text"           value="Your [Holy] characters gain a [MIL] icon"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
@@ -524,7 +524,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb027" name="River Runner">
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Ally. Smuggler"/>
+			<property name="Traits"         value="Ally. Smuggler."/>
 			<property name="Text"           value="Response : After River Runner stands for vigilant it gains an [INT] icon until the end of the phase"/>
 			<property name="Keywords"       value="Vigilant"/>
 			<property name="Unique"         value="No"/>
@@ -544,9 +544,9 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb028" name="Ser Davos Seaworth">
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Smuggler. Captain"/>
+			<property name="Traits"         value="Smuggler. Captain."/>
 			<property name="Text"           value="Knelt Smuggler characters you control count their STR toward dominance."/>
-			<property name="Keywords"       value="Renown. Melee"/>
+			<property name="Keywords"       value="Renown. Melee."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
 			<property name="Strength"       value="3"/>
@@ -564,7 +564,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb029" name="Black Betha">
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Location"/>
-			<property name="Traits"         value="Warship"/>
+			<property name="Traits"         value="Warship."/>
 			<property name="Text"           value="Response: After you win a challenge in which you have declared a Naval attacker, kneel Black Betha to attach the top card of your discard pile face-down to a unique [Baratheon] character as a duplicate (Limit once per round.) "/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
@@ -584,7 +584,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb030" name="Northern Sailor">
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Ally. House Manderly"/>
+			<property name="Traits"         value="Ally. House Manderly."/>
 			<property name="Text"           value="Response: After you win a challenge in which Northern Sailor participated by 4 or more total STR, discard it to choose an opponent. That opponent must choose and kill a character he or she controls, if able "/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
@@ -624,7 +624,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb032" name="White Arbor Dromon">
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Location"/>
-			<property name="Traits"         value="Warship"/>
+			<property name="Traits"         value="Warship."/>
 			<property name="Text"           value="Challenges: Kneel White Harbor Dromond to choose a character. Until the end of the phase that character gains renown and a Naval enhancement on each of its icons."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
@@ -644,7 +644,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb033" name="Quentyn Martell">
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Lord. Knight"/>
+			<property name="Traits"         value="Lord. Knight."/>
 			<property name="Text"           value="Response: After Quentyn Martell is killed, claim 2 power for your House."/>
 			<property name="Keywords"       value="Stealth"/>
 			<property name="Unique"         value="Yes"/>
@@ -664,7 +664,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb034" name="Meadowlark">
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Location"/>
-			<property name="Traits"         value="Warship"/>
+			<property name="Traits"         value="Warship."/>
 			<property name="Text"           value="Challenges : Kneel Meadowlark to choose a challenge icon. Each character in play loses all enhancements on that icon."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
@@ -704,7 +704,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb036" name="Pentoshi Deckland">
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Ally"/>
+			<property name="Traits"         value="Ally."/>
 			<property name="Text"           value="Response : After Pentoshi Deckland has been declared as a Naval attacker lower the cost of the next character you put into play using Ambush this phase by 1."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
@@ -724,7 +724,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb037" name="Vhagar">
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Location"/>
-			<property name="Traits"         value="Warship"/>
+			<property name="Traits"         value="Warship."/>
 			<property name="Text"           value="Response: After a character enters play under your control, kneel Vhagar and kneel 1 influence to attach the topmost attachment in your discard pile to that character, if able."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
@@ -764,7 +764,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb039" name="Battle for the Shield Islands">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
-			<property name="Traits"         value="Epic Battle"/>
+			<property name="Traits"         value="Epic Battle."/>
 			<property name="Text"           value="After the dominance phase this round there is an epic phase during which each player may initiate a single challenge of his choice. Characters with 1 or more Naval enhancements may be declared as attacker or defenders while kneeling. Instead of normal claim, the winner of each challenge may choose and take control of a location controlled by the loosing opponent. (Place this card next to your plot deck untile the end of this epic phase.) "/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
@@ -804,7 +804,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb041" name="Ser Lancel Lannister">
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Lord. Knight"/>
+			<property name="Traits"         value="Lord. Knight."/>
 			<property name="Text"           value="Ser Lancel Lannister gets +1 STR for each [Holy] character in play."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
@@ -2440,7 +2440,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb119" name="Supported by the Smith">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
-			<property name="Traits"         value="Prayer"/>
+			<property name="Traits"         value="Prayer."/>
 			<property name="Text"           value="Any Phase: Kneel 2 influence or kneel a [Holy] character to choose up to 2 locations with a total printed cost of 2 or less in your discard pile and put them into play."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>

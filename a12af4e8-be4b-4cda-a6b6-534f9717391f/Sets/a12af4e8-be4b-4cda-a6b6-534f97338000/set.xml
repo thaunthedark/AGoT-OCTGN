@@ -334,7 +334,7 @@
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338016" name="Newly Made Lord">
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Lord. Raider"/>
+ 			<property name="Traits"         value="Lord. Raider."/>
  			<property name="Text"           value="After you play Newly Made Lord from your hand, choose and discard from play a non-limited location with cost 3 or lower, if able."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -840,7 +840,7 @@
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338039" name="Flea Bottom">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="King's Landing"/>
+ 			<property name="Traits"         value="King's Landing."/>
  			<property name="Text"           value="Marshalling: Kneel Flea Bottom to lower the cost of the next character you play this phase by 2.  That character comes into play knelt."/>
  			<property name="Keywords"       value="No attachments."/>
  			<property name="Unique"         value="Yes"/>

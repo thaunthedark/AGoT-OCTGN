@@ -312,7 +312,7 @@
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023015" name="Doubting Septa">
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Septon"/>
+ 			<property name="Traits"         value="Septon."/>
  			<property name="Text"           value="If Doubting Septa would be killed, instead put it on the bottom of your deck and draw 1 card."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>

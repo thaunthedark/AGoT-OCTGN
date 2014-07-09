@@ -4,7 +4,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024001" name="Lucas Blackwood">
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="House Tully"/>
+ 			<property name="Traits"         value="House Tully."/>
  			<property name="Text"           value="Response: After Lucas Blackwood is killed, you may initiate a [MIL] challenge against an opponent of your choice as your next player action this phase"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -26,7 +26,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024002" name="Widow's Watch">
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="Westeros"/>
+ 			<property name="Traits"         value="Westeros."/>
  			<property name="Text"           value="Response: After you play a unique card from your hand, kneel Widow's Watch or kneel a [Learned] character to search your deck for a copy of a card, reveal it, and add it to your hand. Then, shuffle your deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -48,9 +48,9 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024003" name="Daven Lannister">
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Knight.Lord"/>
+ 			<property name="Traits"         value="Knight. Lord."/>
  			<property name="Text"           value="Response: After you win dominance by 4 or more total STR, pay X gold to claim X power for Daven Lannister. X is the number of power currently on Daven Lannister. (Limit once per game)"/>
- 			<property name="Keywords"       value="Infamy"/>
+ 			<property name="Keywords"       value="Infamy."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
  			<property name="Strength"       value="3"/>
@@ -70,7 +70,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024004" name="Deep Den">
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="Westeros"/>
+ 			<property name="Traits"         value="Westeros."/>
  			<property name="Text"           value="Response: After the challenges phase begins and you are the first player, kneel Deep Den to choose a new first player."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -92,7 +92,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024005" name="The Laughing Storm">
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Knight"/>
+ 			<property name="Traits"         value="Knight."/>
  			<property name="Text"           value="While The Laughing Storm is standing, cards cannot be discarded from your hand."/>
  			<property name="Keywords"       value="House Baratheon only. Deadly."/>
  			<property name="Unique"         value="Yes"/>
@@ -114,7 +114,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024006" name="Lucky Bones">
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Attachment"/>
- 			<property name="Traits"         value="Item. Condition"/>
+ 			<property name="Traits"         value="Item. Condition."/>
  			<property name="Text"           value="Response: After you win a [POW] challenge in which attached character partecipated, kneel Lucky Bones and discard the top 2 cards of your deck to draw 1 card. (Draw 2 cards instead if attached character is Ser Davos Seaworth.)"/>
  			<property name="Keywords"       value="[Baratheon] character only."/>
  			<property name="Unique"         value="No"/>
@@ -136,7 +136,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024007" name="Gylbert Farwynd">
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Ironborn. Lord. Ally"/>
+ 			<property name="Traits"         value="Ironborn. Lord. Ally."/>
  			<property name="Text"           value="The cost to play non-[Noble] cards cannot be reduced"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -158,7 +158,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024008" name="Support of Saltcliffe">
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Attachment"/>
- 			<property name="Traits"         value="Condition"/>
+ 			<property name="Traits"         value="Condition."/>
  			<property name="Text"           value="Response: After 1 or more cards are discarded from an opponent's deck, stand attached character."/>
  			<property name="Keywords"       value="Ironborn character only."/>
  			<property name="Unique"         value="No"/>
@@ -181,8 +181,8 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lady. Queen."/>
- 			<property name="Text"           value="House [Targaryen] characters you control get +1 STR"/>
- 			<property name="Keywords"       value="Renown"/>
+ 			<property name="Text"           value="[Targaryen] characters you control get +1 STR"/>
+ 			<property name="Keywords"       value="Renown."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
  			<property name="Strength"       value="3"/>
@@ -268,7 +268,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024013" name="Oldtown Advisor">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Maester. House Hightower"/>
+ 			<property name="Traits"         value="Maester. House Hightower."/>
  			<property name="Text"           value="If Oldtown Advisor has at least 2 Chain attachments attached, it gains: 'Response: Kneel Oldtown Advisor to cancel the effects of an event card just played'"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -290,7 +290,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024014" name="Leyton Hightower">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="House Hightower"/>
+ 			<property name="Traits"         value="House Hightower."/>
  			<property name="Text"           value="Leyton Hightower cannot be saved. Maester characters you control gain: 'immune to opponents' events and attachments'"/>
  			<property name="Keywords"       value="No attachments. Renown."/>
  			<property name="Unique"         value="Yes"/>
@@ -312,7 +312,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024015" name="Beware of the Sphinx">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
- 			<property name="Traits"         value="Citadel"/>
+ 			<property name="Traits"         value="Citadel."/>
  			<property name="Text"           value="Challenges: Choose a participating Maester character. Until the end of the challenge, that character gets +1 STR for each Chain attachment it has. If you win the challenge, draw 2 cards."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -334,7 +334,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024016" name="The Citadel of Oldtown">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="Oldtown"/>
+ 			<property name="Traits"         value="Oldtown."/>
  			<property name="Text"           value="Response: Kneel The Citadel of Oldtown to save a Maester character from being killed or discarded from play, then return that character and all of its Chain attachments to their owners' hands."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -356,9 +356,9 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024017" name="Copper Link">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Attachment"/>
- 			<property name="Traits"         value="Item. Chain"/>
+ 			<property name="Traits"         value="Item. Chain."/>
  			<property name="Text"           value="Response: After attached character kneels, choose 1 card in play. Until the end of the phase, that card gains 1 Trait of your choice. (Limit once per phase)."/>
- 			<property name="Keywords"       value="Setup. Maester character only"/>
+ 			<property name="Keywords"       value="Setup. Maester character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -378,7 +378,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024018" name="Apprentice Collar">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Attachment"/>
- 			<property name="Traits"         value="Item. Chain"/>
+ 			<property name="Traits"         value="Item. Chain."/>
  			<property name="Text"           value="Attached character gains the Maester trait and gets +1 STR for each Chain attachment it has."/>
  			<property name="Keywords"       value="Setup."/>
  			<property name="Unique"         value="No"/>
@@ -422,8 +422,8 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024020" name="At the Gates">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
- 			<property name="Traits"         value="City"/>
- 			<property name="Text"           value="When reveealed, if you have no City plot cards in your used pile, search your deck for a Maester character of printed cost 3 or lower, and put it into play. Then, shuffle your deck."/>
+ 			<property name="Traits"         value="City."/>
+ 			<property name="Text"           value="When revealed, if you have no City plot cards in your used pile, search your deck for a Maester character of printed cost 3 or lower, and put it into play. Then, shuffle your deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value=""/>
  			<property name="Cost"           value=""/>
@@ -444,8 +444,8 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024021" name="Maester Luwin">
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Maester"/>
- 			<property name="Text"           value="Maester Response: After you win a challenge in which Maester Luwin participated, search the top 5 cards of your deck for an event card, reveal it, and add it to your hand. Shuffle the other cards back into your deck."/>
+ 			<property name="Traits"         value="Maester."/>
+ 			<property name="Text"           value="Response: After you win a challenge in which Maester Luwin participated, search the top 5 cards of your deck for an event card, reveal it, and add it to your hand. Shuffle the other cards back into your deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -466,9 +466,9 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024022" name="Riders of the Red Fork">
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Army. House Tully"/>
- 			<property name="Text"           value="Army, House Tully Immune to opponents' events. While Riders of the Red Fork is in your deck, it meets the criteria to be found by any search effect."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Traits"         value="Army. House Tully."/>
+ 			<property name="Text"           value="While Riders of the Red Fork is in your deck, it meets the criteria to be found by any search effect."/>
+ 			<property name="Keywords"       value="Immune to opponents' events."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
  			<property name="Strength"       value="3"/>
@@ -488,8 +488,8 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024023" name="Freezing Rain">
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Attachment"/>
- 			<property name="Traits"         value="Condition"/>
- 			<property name="Text"           value="Condition Attach to a location. Treat attached location as if its printed text box were blank. Any Phase: Kneel 1 influence to move Freezing Rain to another location."/>
+ 			<property name="Traits"         value="Condition."/>
+ 			<property name="Text"           value="Attach to a location. Treat attached location as if its printed text box were blank. Any Phase: Kneel 1 influence to move Freezing Rain to another location."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -510,8 +510,8 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024024" name="Maester Creylen">
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Maester"/>
- 			<property name="Text"           value="Maester Reesponse: After a player wins an [INT] challenge, pay 1 gold to have Maester Creylen claim 1 power."/>
+ 			<property name="Traits"         value="Maester."/>
+ 			<property name="Text"           value="Response: After a player wins an [INT] challenge, pay 1 gold to have Maester Creylen claim 1 power."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -532,8 +532,8 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024025" name="Black Ears">
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Army. Clansman"/>
- 			<property name="Text"           value="Army, Clansman Deadly. Challenges: Discard 1 card from your hand to choose 1 character participating in the same challenge with Black Ears. If you have fewer cards in hand than each opponent, remove that character from the challenge.(Limit once per challenge)."/>
+ 			<property name="Traits"         value="Army. Clansman."/>
+ 			<property name="Text"           value="Challenges: Discard 1 card from your hand to choose 1 character participating in the same challenge with Black Ears. If you have fewer cards in hand than each opponent, remove that character from the challenge.(Limit once per challenge)."/>
  			<property name="Keywords"       value="Deadly"/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
@@ -554,8 +554,8 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024026" name="The Inn of the Kneeling Man">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="Westeros. Brotherhood"/>
- 			<property name="Text"           value="Westeros, Brotherhood Response: After a character with STR 2 or lower is knelt, kneel The Inn of the Kneeling Man to stand that character. Use this effect only if it is Summer or Winter. (Limit once per phase.)"/>
+ 			<property name="Traits"         value="Westeros. Brotherhood."/>
+ 			<property name="Text"           value="Response: After a character with STR 2 or lower is knelt, kneel The Inn of the Kneeling Man to stand that character. Use this effect only if it is Summer or Winter. (Limit once per phase.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -576,8 +576,8 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024027" name="Shireen Baratheon">
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Lady"/>
- 			<property name="Text"           value="Lady Any Phase: kneel Shireen Baratheon to choose a character. Until the end of the phase, that character cannot claim power."/>
+ 			<property name="Traits"         value="Lady."/>
+ 			<property name="Text"           value="Any Phase: kneel Shireen Baratheon to choose a character. Until the end of the phase, that character cannot claim power."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -598,7 +598,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024028" name="Cleansing Light">
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Attachment"/>
- 			<property name="Traits"         value="Condition"/>
+ 			<property name="Traits"         value="Condition."/>
  			<property name="Text"           value="Attached character gets +1 STR for each card in Shadows. Challenges: Discard a card from your Shadows area to give attached character deadly until the end of the phase."/>
  			<property name="Keywords"       value="Asshai character only."/>
  			<property name="Unique"         value="No"/>
@@ -620,9 +620,9 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024029" name="Kingsmoot Hopeful">
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Ironborn. Lord"/>
- 			<property name="Text"           value="Ironborn, Lord Limited."/>
- 			<property name="Keywords"       value="Limited"/>
+ 			<property name="Traits"         value="Ironborn. Lord."/>
+ 			<property name="Text"           value=""/>
+ 			<property name="Keywords"       value="Limited."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value="3"/>
@@ -642,8 +642,8 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024030" name="Burned and Pillaged">
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Attachment"/>
- 			<property name="Traits"         value="Condition"/>
- 			<property name="Text"           value="Condition Limited. Attach to a location. Attached location gains: "/>
+ 			<property name="Traits"         value="Condition."/>
+ 			<property name="Text"           value="Attach to a location. Attached location gains: "/>
  			<property name="Keywords"       value="Limited"/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -664,8 +664,8 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024031" name="Shadow Seer">
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Asshai. Ally"/>
- 			<property name="Text"           value="Asshai, Ally Response: After you win an [INT] challenge in which Shadow Seer participated, put a card with the [Shadow] crest into Shadows from your hand."/>
+ 			<property name="Traits"         value="Asshai. Ally."/>
+ 			<property name="Text"           value="Response: After you win an [INT] challenge in which Shadow Seer participated, put a card with the [Shadow] crest into Shadows from your hand."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -687,7 +687,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="[Targaryen] only. Response: After a character's STR is reduced to 2 or lower by a card effect, return that character and all attachments on it to their owner's hand."/>
+ 			<property name="Text"           value="Response: After a character's STR is reduced to 2 or lower by a card effect, return that character and all attachments on it to their owner's hand."/>
  			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -708,7 +708,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024033" name="Maester Kedry">
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Maester"/>
+ 			<property name="Traits"         value="Maester."/>
  			<property name="Text"           value=""/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -752,8 +752,8 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024035" name="Jaqen H'ghar">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Ally"/>
- 			<property name="Text"           value="Ally Any Phase: Bring Jaqen H'ghar out of Shadows by paying the rest of his cost to choose 1 non-Army character in an opponent's dead pile that was killed this phase, and attach it to Jaqen H'ghar as a duplicate. Jaqen H'ghar gains the printed text, base STR, icons, traits and crests of that card. If that duplicate leaves play, retunr Jaqen H'ghar to Shadows."/>
+ 			<property name="Traits"         value="Ally."/>
+ 			<property name="Text"           value="Any Phase: Bring Jaqen H'ghar out of Shadows by paying the rest of his cost to choose 1 non-Army character in an opponent's dead pile that was killed this phase, and attach it to Jaqen H'ghar as a duplicate. Jaqen H'ghar gains the printed text, base STR, icons, traits and crests of that card. If that duplicate leaves play, retunr Jaqen H'ghar to Shadows."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="s2"/>
@@ -774,7 +774,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024036" name="Oldtown Scholar">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Maester"/>
+ 			<property name="Traits"         value="Maester."/>
  			<property name="Text"           value=""/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -796,8 +796,8 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024037" name="Called by the Citadel">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
- 			<property name="Traits"         value="Citadel"/>
- 			<property name="Text"           value="Citadel Any Phase: Return a Maester character you control and all Chain attachments on that character to their owner's hand. Then, draw 1 card."/>
+ 			<property name="Traits"         value="Citadel."/>
+ 			<property name="Text"           value="Any Phase: Return a Maester character you control and all Chain attachments on that character to their owner's hand. Then, draw 1 card."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -818,9 +818,9 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024038" name="Pale Steel Link">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Attachment"/>
- 			<property name="Traits"         value="Item. Chain"/>
- 			<property name="Text"           value="Item, Chain Setup. Maester character only. Response: After attached character kneels, put a character or attachment card of printed cost 1 or lower into play from your hand. (Limit once per phase.)"/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Traits"         value="Item. Chain."/>
+ 			<property name="Text"           value="Response: After attached character kneels, put a character or attachment card of printed cost 1 or lower into play from your hand. (Limit once per phase.)"/>
+ 			<property name="Keywords"       value="Setup. Maester character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -840,9 +840,9 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024039" name="Bronze Link">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Attachment"/>
- 			<property name="Traits"         value="Item. Chain"/>
- 			<property name="Text"           value="Item, Chain Setup. Maester character only. Response: After attached character kneels, return the topmost attachment card from your discard pile to your hand. (Limit once per phase.)"/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Traits"         value="Item. Chain."/>
+ 			<property name="Text"           value="Response: After attached character kneels, return the topmost attachment card from your discard pile to your hand. (Limit once per phase.)"/>
+ 			<property name="Keywords"       value="Setup. Maester character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -884,9 +884,9 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024041" name="Galbart Glover">
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="House Glover"/>
- 			<property name="Text"           value="Immune to opponents' events. While resolving any effect that would allow you to search your deck, you may instead search your discard pile."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Traits"         value="House Glover."/>
+ 			<property name="Text"           value="While resolving any effect that would allow you to search your deck, you may instead search your discard pile."/>
+ 			<property name="Keywords"       value="Immune to opponents' events."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
  			<property name="Strength"       value="3"/>
@@ -906,7 +906,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024042" name="Karhold Rookery">
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="Westeros"/>
+ 			<property name="Traits"         value="Westeros."/>
  			<property name="Text"           value="When you search the top X cards of your deck, search 1 additional card."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -928,7 +928,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024043" name="Lady Genna">
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Lady"/>
+ 			<property name="Traits"         value="Lady."/>
  			<property name="Text"           value="Response: After you lose an [INT] challenge as the attacker, you may initiate an additional challenge this phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -972,7 +972,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024045" name="Maester Lomys">
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Maester. House Tyrell"/>
+ 			<property name="Traits"         value="Maester. House Tyrell."/>
  			<property name="Text"           value="Any Phase: Kneel Maester Lomys and discard 1 power each from any number of characters you control to have each of those characters gain 'cannot be killed' until the end of the phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -1016,7 +1016,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024047" name="Tower Library">
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="Storm's End"/>
+ 			<property name="Traits"         value="Storm's End."/>
  			<property name="Text"           value="Response: After a character claims power for renown, kneel Tower library to give a [Learned] character you control renown until the end of the phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -1038,7 +1038,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024048" name="Maester Murenmure">
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Maester. House Goodbrother"/>
+ 			<property name="Traits"         value="Maester. House Goodbrother."/>
  			<property name="Text"           value="During the marshalling phase, Maester Murenmure gains: 'Response: Kneel Maester Murenmure to cancel a triggered effect.'"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -1060,7 +1060,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024049" name="Longship Black Wind">
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="Warship"/>
+ 			<property name="Traits"         value="Warship."/>
  			<property name="Text"           value="Challenges: Kneel Longship Black Wind to choose an attacking character. Until the end of the challenge, that character gains deadly. If a character dies for deadly curing this challenge, draw 1 card."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -1104,7 +1104,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024051" name="Magister Illyrio">
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Lord"/>
+ 			<property name="Traits"         value="Lord."/>
  			<property name="Text"           value="You may play attachments from opponents' discard piles as if they were in your hand."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -1126,9 +1126,9 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024052" name="Dragon Lore">
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Attachment"/>
- 			<property name="Traits"         value="Skill"/>
- 			<property name="Text"           value="Maester character only. Marshalling: Kneel Dragon Lore and kneel attached character to reduce the next Dragon character you play this phase to 0."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Traits"         value="Skill."/>
+ 			<property name="Text"           value="Marshalling: Kneel Dragon Lore and kneel attached character to reduce the next Dragon character you play this phase to 0."/>
+ 			<property name="Keywords"       value="Maester character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -1148,7 +1148,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024053" name="Hellholt Engineer">
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Ally"/>
+ 			<property name="Traits"         value="Ally."/>
  			<property name="Text"           value="Response: After an opponent kneels a location, choose and stand a location you control."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -1170,7 +1170,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024054" name="Snakeskin Veil">
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Attachment"/>
- 			<property name="Traits"         value="Item"/>
+ 			<property name="Traits"         value="Item."/>
  			<property name="Text"           value="Attached character is immune to opponent's non-plot card effects."/>
  			<property name="Keywords"       value="Sand Snake character only."/>
  			<property name="Unique"         value="No"/>
@@ -1192,7 +1192,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024055" name="Archmaester Ebrose">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Maester"/>
+ 			<property name="Traits"         value="Maester."/>
  			<property name="Text"           value="Limited Response: After you win a challenge in which Archmaester Ebrose participated, he claims 1 power for each Chain attachment he has. (Limit 1 limited response per round.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -1214,7 +1214,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024056" name="Citadel Custom">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
- 			<property name="Traits"         value="Citadel"/>
+ 			<property name="Traits"         value="Citadel."/>
  			<property name="Text"           value="Challenges: Kneel a Maester character to choose a player. That player may initiate an additional [POW] challenge this phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -1259,8 +1259,8 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Chain."/>
- 			<property name="Text"           value="Setup. Maester character only. Response: After attached character kneels, choose and discard 1 non-Chain attachment from play. (Limit once per phase)"/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Response: After attached character kneels, choose and discard 1 non-Chain attachment from play. (Limit once per phase)"/>
+ 			<property name="Keywords"       value="Setup. Maester character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
@@ -1281,8 +1281,8 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Chain."/>
- 			<property name="Text"           value="Setup. Maester character only. Any Phase: Kneel attached character to choose a character. Until the end of the phase, that character gets -X STR. X is the number of Chain attachments on attached character (Limit once per phase)."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Text"           value="Any Phase: Kneel attached character to choose a character. Until the end of the phase, that character gets -X STR. X is the number of Chain attachments on attached character (Limit once per phase)."/>
+ 			<property name="Keywords"       value="Setup. Maester character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value=""/>
@@ -1368,7 +1368,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024063" name="The Regent's Spy">
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Ally"/>
+ 			<property name="Traits"         value="Ally."/>
  			<property name="Text"           value="Response: After you win an [INT] challenge in which The Regent's Spy participated, look at the top card of the losing opponent's deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -1412,7 +1412,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024065" name="Stormlands Bastard">
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Lord. Bastard. Ally"/>
+ 			<property name="Traits"         value="Lord. Bastard. Ally."/>
  			<property name="Text"           value="Challenges: Kneel Stormlands Bastard to choose a unique BARATHEON character. Until the end of the challenge, that character gains renown."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -1456,7 +1456,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024067" name="Baelor Blacktyde">
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Ironborn. House Blacktyde"/>
+ 			<property name="Traits"         value="Ironborn. House Blacktyde."/>
  			<property name="Text"           value="Opponents cannot play copies of event cards that are in their discard pile."/>
  			<property name="Keywords"       value="Stealth."/>
  			<property name="Unique"         value="Yes"/>
@@ -1478,7 +1478,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024068" name="Training Vessel">
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="Warship"/>
+ 			<property name="Traits"         value="Warship."/>
  			<property name="Text"           value="Challenges: Kneel Training Vessel to choose an attacking Raider character. Until the end of the challenge, that character gets +2 STR. If you win the challenge, discard the top card of the losing opponent's deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -1500,7 +1500,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024069" name="Linked Advisor">
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Maester"/>
+ 			<property name="Traits"         value="Maester."/>
  			<property name="Text"           value="Linked Advisor gets +1 STR for each attachment it has."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -1522,7 +1522,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024070" name="Plaza of Purification">
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="The East"/>
+ 			<property name="Traits"         value="The East."/>
  			<property name="Text"           value="During the marshalling phase, you may pay any amount of the gold cost of Army characters using influence instead."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -1566,7 +1566,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024072" name="Informed Acolyte">
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Maester"/>
+ 			<property name="Traits"         value="Maester."/>
  			<property name="Text"           value="Response: After an opponent draws 1 or more cards outside the draw phase, kneel Informed Acolyte to draw that many cards."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -1588,7 +1588,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024073" name="Streets of Hellholt">
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="Dorne"/>
+ 			<property name="Traits"         value="Dorne."/>
  			<property name="Text"           value="Response: After an opponent triggers a cost reducing effect, kneel Streets of Hellholt to reduce the cost of the next MARTELL card you play this phase by 1."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -1632,7 +1632,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024075" name="Oldtown Raven">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Creature. Raven"/>
+ 			<property name="Traits"         value="Creature. Raven."/>
  			<property name="Text"           value="Marshalling: Kneel Oldtown Raven to reduce the cost of the next Maester character or Chain attachment you play this phase by 1. Ignore all gold penalties while playing that card."/>
  			<property name="Keywords"       value="No attachments"/>
  			<property name="Unique"         value="No"/>
@@ -1654,7 +1654,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024076" name="The Isle of Ravens">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="Oldtown"/>
+ 			<property name="Traits"         value="Oldtown."/>
  			<property name="Text"           value="Response: After a Chain attachment leaves play, kneel The Isle of Ravens to return that card to its owner's hand instead."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -1764,7 +1764,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024081" name="Rickon Stark">
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Lord"/>
+ 			<property name="Traits"         value="Lord."/>
  			<property name="Text"           value="Response: After an effect allows you to search your deck, kneel Rickon Stark to copy that effect. (Limit once per phase)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -1786,7 +1786,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024082" name="Lonely Hills">
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="Westeros"/>
+ 			<property name="Traits"         value="Westeros."/>
  			<property name="Text"           value="Response: After you win a challenge, raise the claim value on your revealed plot card by 1 for the next challenge of the same type you initiate this phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -1874,7 +1874,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024086" name="Dragonstone Watchtower">
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="Dragonstone"/>
+ 			<property name="Traits"         value="Dragonstone."/>
  			<property name="Text"           value="Any Phase: Kneel Dragonstone Watchtower and name a card. If an opponent plays or reveals that card this phase, claim 1 power for your house. If that card is not played or revealed stand Dragonstone Watchtower at the end of the phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -2006,7 +2006,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024092" name="Oberyn's Guile">
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Attachment"/>
- 			<property name="Traits"         value="Condition"/>
+ 			<property name="Traits"         value="Condition."/>
  			<property name="Text"           value="Response: After you lose a challenge reveal the top card of your deck, then add it to your hand."/>
  			<property name="Keywords"       value="Unique Martell Character only."/>
  			<property name="Unique"         value="Yes"/>
@@ -2028,9 +2028,9 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024093" name="The Mad Mouse">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Fugitive"/>
+ 			<property name="Traits"         value="Fugitive."/>
  			<property name="Text"           value="Response: After you play The Mad Mouse from your hand, choose an opponent's character. If that character dies before the end of the next challenge phase and The Mad Mouse is still in play. The Mad Mouse claims 3 power"/>
- 			<property name="Keywords"       value="Deadly"/>
+ 			<property name="Keywords"       value="Deadly."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
  			<property name="Strength"       value="3"/>
@@ -2050,7 +2050,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024094" name="Archmaester Marwyn">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Maester"/>
+ 			<property name="Traits"         value="Maester."/>
  			<property name="Text"           value="Response: After Archmaester Marwyn is killed, resolve the 'when revealed' effect of any plot card in any player's used pile."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -2072,7 +2072,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024095" name="Citadel Law">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
- 			<property name="Traits"         value="Citadel"/>
+ 			<property name="Traits"         value="Citadel."/>
  			<property name="Text"           value="Plot: Kneel a Maester character to choose a player. That player must choose and reveal a new plot card."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -2094,7 +2094,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024096" name="We Light the Way">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
- 			<property name="Traits"         value="Citadel"/>
+ 			<property name="Traits"         value="Citadel."/>
  			<property name="Text"           value="Play before any challenges have been declared this phase. Any Phase: Kneel a Maester character to choose a challenge type. Until the end of the phase, your Maester characters do not kneel to attack or defend during challenges of that type."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -2116,8 +2116,8 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024097" name="The Archmaester's Wrath">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
- 			<property name="Traits"         value="Citadel"/>
- 			<property name="Text"           value=" Dominance: Kneel X Maester characters to have each player choose and discard X characters he or she controls from play"/>
+ 			<property name="Traits"         value="Citadel."/>
+ 			<property name="Text"           value="Dominance: Kneel X Maester characters to have each player choose and discard X characters he or she controls from play"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2226,8 +2226,8 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024102" name="Ser Brynden's Guile">
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Event"/>
- 			<property name="Traits"         value="House Tully"/>
- 			<property name="Text"           value="Challenges: Choose a STARK character to get +1 STR until the end of the challenge. Then, search the top 4 cards of your deck for a House Tully card, reveal it, and add it to your hand. Shuffle the others cards back into your deck."/>
+ 			<property name="Traits"         value="House Tully."/>
+ 			<property name="Text"           value="Challenges: Choose a [Stark] character to get +1 STR until the end of the challenge. Then, search the top 4 cards of your deck for a House Tully card, reveal it, and add it to your hand. Shuffle the others cards back into your deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2270,7 +2270,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024104" name="Slander and Lies">
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Attachment"/>
- 			<property name="Traits"         value="Condition"/>
+ 			<property name="Traits"         value="Condition."/>
  			<property name="Text"           value="Attach to an opponent's character. You may spend power counters on attached character as if they were gold tokens in your gold pool."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -2292,9 +2292,9 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024105" name="Rotten Bastard">
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Bastard"/>
+ 			<property name="Traits"         value="Bastard."/>
  			<property name="Text"           value="Each player's draw cap is reduced from 3 additional cards per round to 2 addditional cards per round."/>
- 			<property name="Keywords"       value="House Baratheon only"/>
+ 			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
  			<property name="Strength"       value="1"/>
@@ -2314,7 +2314,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024106" name="Maester's Tower">
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="Westeros"/>
+ 			<property name="Traits"         value="Westeros."/>
  			<property name="Text"           value="Response: Kneel a [Learned] character to copy a triggered effect that returns a character from your discard or dead pile to your hand, deck, shadows area, or play."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -2336,7 +2336,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024107" name="Famished Deckhand">
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Ironborn. Ally"/>
+ 			<property name="Traits"         value="Ironborn. Ally."/>
  			<property name="Text"           value="Any player who controls more characters than each other player counts 3 fewer gold during the marshalling phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -2358,7 +2358,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024108" name="The Iron Cliffs">
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Location"/>
- 			<property name="Traits"         value="Iron Islands"/>
+ 			<property name="Traits"         value="Iron Islands."/>
  			<property name="Text"           value="After The Iron Cliffs comes into play, place 2 gold tokens from the treasury on it. Response: Discard 1 gold token from The Iron Cliffs to save a GREYJOY character from being killed."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -2468,7 +2468,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024113" name="Faceless Man">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Ally"/>
+ 			<property name="Traits"         value="Ally."/>
  			<property name="Text"           value="If you control a [War] character, Faceless Man gets +2 STR. If you control a [Shadow] character Faceless Man gains stealth. If you control a [Holy] character Faceless Man gains deadly. If you control a [Noble] character, Faceless Man gains a [POW] icon."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -2490,7 +2490,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024114" name="Prolific Statesman">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Ally"/>
+ 			<property name="Traits"         value="Ally."/>
  			<property name="Text"           value="Prolific Statesman gains the crests printed on every other character you control."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -2512,7 +2512,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024115" name="Ser Gerold Hightower">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Knigh. Kingsguard."/>
+ 			<property name="Traits"         value="Knight. Kingsguard."/>
  			<property name="Text"           value="Response: Kneel a Kingsguard character to save a King or Queen character from being killed or discarded from play."/>
  			<property name="Keywords"       value="No attachments except weapon. Renown."/>
  			<property name="Unique"         value="Yes"/>
@@ -2534,7 +2534,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024116" name="Citadel Politics">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
- 			<property name="Traits"         value="Citadel"/>
+ 			<property name="Traits"         value="Citadel."/>
  			<property name="Text"           value="Challenges: Kneel a Maester character to choose a player. That player may initiate an additional IntrigueRIGUE challenge this phase. (Limit 1 per phase.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>

@@ -906,7 +906,7 @@
 		<card id="549fe3cd-e6b6-4f38-a6f5-c5a816fe9042" name="Heartsbane">
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Attachment"/>
-			<property name="Traits"         value="Item. Weapon"/>
+			<property name="Traits"         value="Item. Weapon."/>
 			<property name="Text"           value="Attached character gets +1 STR.&#10;&#10;Response: After you win a challenge in wich attached character participated, kneel Heartsbane to stand attached character."/>
 			<property name="Keywords"       value="Prized 1."/>
 			<property name="Unique"         value="Yes"/>
@@ -1236,7 +1236,7 @@
 		<card id="549fe3cd-e6b6-4f38-a6f5-c5a816fe9057" name="Septon Utt">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Septon. Mercenary"/>
+			<property name="Traits"         value="Septon. Mercenary."/>
 			<property name="Text"           value="Response: After Septon Utt enters or leave play, draw 1 card if you are running the Neutral Faction House card."/>
 			<property name="Keywords"       value="Prized 1. Stealth."/>
 			<property name="Unique"         value="Yes"/>
