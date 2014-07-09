@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="17-Kings Road" id="73a90765-5d39-4044-b8d5-65cd1a8a1000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.0.1" version="1.0">
+<set name="17-Kings Road" id="73a90765-5d39-4044-b8d5-65cd1a8a1000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.0.1" version="1.0">
 	<cards>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1001" name="Alester Florent">
 			<property name="House"          value="Baratheon."/>
@@ -1255,6 +1255,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1058" name="Ser Arys Oakheart">
 			<property name="House"          value="Neutral."/>
@@ -1343,6 +1344,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Melee."/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1062" name="Stannis Baratheon">
 			<property name="House"          value="Baratheon."/>
@@ -2311,6 +2313,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1106" name="Euron's Favor">
 			<property name="House"          value="Greyjoy."/>

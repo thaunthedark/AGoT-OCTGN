@@ -28,6 +28,8 @@
 			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value=""/>
+			<property name="CardNumber"	    value=""/>
 		</card>
 		<card id="a13af4e8-be4b-4cda-a6b6-534f97338093" name="House Baratheon">
 			<property name="House"          value="Baratheon."/>

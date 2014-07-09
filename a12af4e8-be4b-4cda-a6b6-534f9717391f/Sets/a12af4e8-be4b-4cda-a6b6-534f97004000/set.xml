@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
- <set name="10-King's Landing" id="a12af4e8-be4b-4cda-a6b6-534f97004000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.1">
+<set name="10-King's Landing" id="a12af4e8-be4b-4cda-a6b6-534f97004000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.1">
  	<cards>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97004001" name="Arya Stark">
  			<property name="House"          value="Stark."/>
@@ -704,6 +704,7 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97004033" name="Tears of Lys">
  			<property name="House"          value="Targaryen."/>
@@ -1716,6 +1717,7 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97004079" name="The White Book">
  			<property name="House"          value="Neutral."/>
@@ -2530,6 +2532,7 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97004116" name="Rumors of War">
  			<property name="House"          value="Martell."/>
@@ -2618,6 +2621,7 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Melee."/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97004120" name="City of Soldiers">
  			<property name="House"          value="Neutral."/>

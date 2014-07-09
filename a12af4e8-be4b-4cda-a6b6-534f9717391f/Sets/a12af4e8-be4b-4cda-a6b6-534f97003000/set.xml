@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
- <set name="09-A Time of Ravens" id="a12af4e8-be4b-4cda-a6b6-534f97003000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.1">
+<set name="09-A Time of Ravens" id="a12af4e8-be4b-4cda-a6b6-534f97003000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.1">
  	<cards>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97003001" name="Kings of Summer">
  			<property name="House"          value="Neutral."/>
@@ -1254,6 +1254,7 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97003058" name="Den of the Wolf">
  			<property name="House"          value="Neutral."/>
@@ -2134,6 +2135,7 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97003098" name="Gilly">
  			<property name="House"          value="Neutral."/>
@@ -2178,6 +2180,7 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value="Should read: '...a single challenge of his or her choice...'"/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Melee."/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97003100" name="The Tides of War">
  			<property name="House"          value="Neutral."/>
@@ -2266,6 +2269,7 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Melee."/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97003104" name="Northern Infantry">
  			<property name="House"          value="Stark."/>

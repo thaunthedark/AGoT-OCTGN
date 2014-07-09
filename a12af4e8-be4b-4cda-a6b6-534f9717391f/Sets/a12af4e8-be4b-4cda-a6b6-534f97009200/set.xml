@@ -176,6 +176,7 @@
 			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Melee."/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009209" name="Arianne Martell">
 			<property name="House"          value="Martell."/>
@@ -484,6 +485,7 @@
 			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009223" name="The Viper's Bannermen">
 			<property name="House"          value="Martell."/>
@@ -506,6 +508,7 @@
 			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust. Melee."/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009224" name="House Dayne Reserves">
 			<property name="House"          value="Martell."/>
@@ -1122,6 +1125,7 @@
 			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Melee."/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009252" name="The Dragon's Tail">
 			<property name="House"          value="Neutral."/>

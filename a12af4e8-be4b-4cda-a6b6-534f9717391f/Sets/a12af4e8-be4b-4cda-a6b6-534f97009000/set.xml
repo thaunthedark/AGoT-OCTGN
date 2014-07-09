@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
- <set name="11-Defenders of the North" id="a12af4e8-be4b-4cda-a6b6-534f97009000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.1">
+<set name="11-Defenders of the North" id="a12af4e8-be4b-4cda-a6b6-534f97009000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.1">
  	<cards>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97009036" name="Wolves of the North">
  			<property name="House"          value="Stark."/>
@@ -880,6 +880,7 @@
  			<property name="PlotClaim"      value="2"/>
  			<property name="ErrataText"     value="Playing or putting a card into Shadows from your hand does count against the limitation set by Fear of Winter.  Bringing a card out of Shadows does not count against this card's limitation.  Replacement effects that put a card into play from a player's hand (such as those on PotS Darkstar and PotS House Dayne Reserves) also count against the limitation set by this card."/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust. Melee."/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97009051" name="Jon Snow">
  			<property name="House"          value="Stark."/>
@@ -1100,6 +1101,7 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97009050" name="House Dayne Squire">
  			<property name="House"          value="Martell."/>
@@ -2464,6 +2466,7 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97009107" name="Old Bear Mormont">
  			<property name="House"          value="Neutral."/>
@@ -2574,6 +2577,7 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust. Melee."/> 
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97009106" name="Nightmares in the North">
  			<property name="House"          value="Neutral."/>

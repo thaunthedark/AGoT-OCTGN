@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<set xmlns:noNamespaceSchemaLocation="CardSet.xsd" name="16-Song of the Sea" id="86d88609-05d8-445b-989b-2f159e0bb000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.0.1" version="1.0">
+<set name="16-Song of the Sea" id="86d88609-05d8-445b-989b-2f159e0bb000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="2.0.1" version="1.0">
 	<cards>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb001" name="Little Bird">
 			<property name="House"          value="Lannister."/>
@@ -180,6 +180,7 @@
 			<property name="PlotGoldIncome" value="4"/>
 			<property name="PlotInitiative" value="2"/>
 			<property name="PlotClaim"      value="1"/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb010" name="Wyman Manderly">
 			<property name="House"          value="Stark."/>
@@ -780,6 +781,7 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
+			<property name="Restricted"     value="Melee."/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb040" name="Naval Superiority">
 			<property name="House"          value="Neutral."/>
@@ -1180,6 +1182,7 @@
 			<property name="PlotGoldIncome" value="3"/>
 			<property name="PlotInitiative" value="2"/>
 			<property name="PlotClaim"      value="2"/>
+			<property name="Restricted"     value="Joust."/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb060" name="The Long Voyage">
 			<property name="House"          value="Neutral."/>

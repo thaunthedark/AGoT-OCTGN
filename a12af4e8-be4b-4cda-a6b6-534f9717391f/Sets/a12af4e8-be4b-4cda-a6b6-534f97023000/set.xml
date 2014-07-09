@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
- <set name="07-Lions of the Rock" id="a12af4e8-be4b-4cda-a6b6-534f97023000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.0">
+<set name="07-Lions of the Rock" id="a12af4e8-be4b-4cda-a6b6-534f97023000" gameId="a12af4e8-be4b-4cda-a6b6-534f9717391f" gameVersion="3.1.0" version="3.0">
  	<cards>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023001" name="Widow's Wail">
  			<property name="House"          value="Lannister."/>
@@ -1144,6 +1144,7 @@
  			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Melee."/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023053" name="Game of Thrones">
  			<property name="House"          value="Neutral."/>
