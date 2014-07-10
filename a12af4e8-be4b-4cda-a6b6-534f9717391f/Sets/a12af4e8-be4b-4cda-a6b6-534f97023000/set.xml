@@ -22,6 +22,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023002" name="Vat of Wildfire">
  			<property name="House"          value="Lannister."/>
@@ -44,6 +46,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023003" name="Increased Levy">
  			<property name="House"          value="Lannister."/>
@@ -66,6 +70,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023004" name="Joffrey Baratheon">
  			<property name="House"          value="Lannister."/>
@@ -88,6 +94,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023005" name="Ser Jaime Lannister">
  			<property name="House"          value="Lannister."/>
@@ -110,6 +118,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023006" name="Cersei Lannister">
  			<property name="House"          value="Lannister."/>
@@ -132,6 +142,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023007" name="Tyrion Lannister">
  			<property name="House"          value="Lannister."/>
@@ -154,6 +166,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023008" name="Bronn">
  			<property name="House"          value="Lannister."/>
@@ -176,6 +190,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023009" name="Tywin Lannister">
  			<property name="House"          value="Lannister."/>
@@ -198,6 +214,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023010" name="Ser Gregor Clegane">
  			<property name="House"          value="Lannister."/>
@@ -220,6 +238,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023011" name="Ser Amory Lorch">
  			<property name="House"          value="Lannister."/>
@@ -242,6 +262,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023012" name="Ser Kevan Lannister">
  			<property name="House"          value="Lannister."/>
@@ -264,6 +286,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023013" name="Myrcella Lannister">
  			<property name="House"          value="Lannister."/>
@@ -286,6 +310,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023014" name="Ser Addam Marbrand">
  			<property name="House"          value="Lannister."/>
@@ -308,6 +334,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023015" name="Doubting Septa">
  			<property name="House"          value="Lannister."/>
@@ -330,6 +358,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value="Should have the trait: Septon"/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023016" name="Lord Tyrion's Host">
  			<property name="House"          value="Lannister."/>
@@ -352,6 +382,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023017" name="Bronn's Hireling">
  			<property name="House"          value="Lannister."/>
@@ -374,6 +406,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023018" name="Ser Gregor's Band">
  			<property name="House"          value="Lannister."/>
@@ -396,6 +430,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023019" name="Crawn Son of Calor">
  			<property name="House"          value="Lannister."/>
@@ -418,6 +454,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023020" name="Tribes of the Vale">
  			<property name="House"          value="Lannister."/>
@@ -440,6 +478,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023021" name="Ser Amory's Poachers">
  			<property name="House"          value="Lannister."/>
@@ -462,6 +502,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023022" name="Lannisport Moneylender">
  			<property name="House"          value="Lannister."/>
@@ -484,6 +526,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023023" name="The Inn at the Crossroads">
  			<property name="House"          value="Lannister."/>
@@ -506,6 +550,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023024" name="Casterly Rock">
  			<property name="House"          value="Lannister."/>
@@ -528,6 +574,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023025" name="Sunset Sea">
  			<property name="House"          value="Lannister. Greyjoy."/>
@@ -550,6 +598,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023026" name="Queen Cersei's Chambers">
  			<property name="House"          value="Lannister."/>
@@ -572,6 +622,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023027" name="Coin Mint">
  			<property name="House"          value="Lannister."/>
@@ -594,6 +646,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023028" name="Darkened Hallways">
  			<property name="House"          value="Lannister."/>
@@ -616,6 +670,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023029" name="The Goldroad">
  			<property name="House"          value="Lannister."/>
@@ -638,6 +694,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023030" name="Lannisport Treasury">
  			<property name="House"          value="Lannister."/>
@@ -660,6 +718,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023031" name="The Iron Throne">
  			<property name="House"          value="Lannister."/>
@@ -682,6 +742,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023032" name="The Lion's Cunning">
  			<property name="House"          value="Neutral."/>
@@ -704,6 +766,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023033" name="The Wealth of the Rock">
  			<property name="House"          value="Lannister."/>
@@ -726,6 +790,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023034" name="Double Bluff">
  			<property name="House"          value="Lannister."/>
@@ -748,6 +814,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023035" name="Infamous!">
  			<property name="House"          value="Lannister."/>
@@ -770,6 +838,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023036" name="Warrior's Sons">
  			<property name="House"          value="Neutral."/>
@@ -792,6 +862,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023037" name="High Septon">
  			<property name="House"          value="Neutral."/>
@@ -814,6 +886,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023038" name="Feuding Clanswoman">
  			<property name="House"          value="Neutral."/>
@@ -836,6 +910,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023039" name="Bastard">
  			<property name="House"          value="Neutral."/>
@@ -858,6 +934,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023040" name="Street of Silk">
  			<property name="House"          value="Neutral."/>
@@ -880,6 +958,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023041" name="The Only Game that Matters">
  			<property name="House"          value="Neutral."/>
@@ -902,6 +982,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023042" name="Terminal Schemes">
  			<property name="House"          value="Baratheon. Lannister."/>
@@ -924,7 +1006,9 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
- 		</card>
+ 			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
+		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023043" name="Brothel Guard">
  			<property name="House"          value="Lannister. Martell."/>
  			<property name="Type"           value="Character"/>
@@ -946,6 +1030,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023044" name="Arrogant Contender">
  			<property name="House"          value="Baratheon. Lannister."/>
@@ -968,6 +1054,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023045" name="Split Loyalties">
  			<property name="House"          value="Stark. Lannister."/>
@@ -990,6 +1078,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023046" name="Shield Islands Dromon">
  			<property name="House"          value="Greyjoy. Lannister."/>
@@ -1012,6 +1102,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value="Should read: Response: After an opponent plays a location, put Shield Islands Dromon on he bottom of your deck to choose that player.  That player must either place that location on the bottom of his or her deck or discard 2 power from his or her House."/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023047" name="Rich Lands and a Keep">
  			<property name="House"          value="Targaryen. Lannister."/>
@@ -1034,6 +1126,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023048" name="The Power Behind the Throne">
  			<property name="House"          value="Lannister."/>
@@ -1056,6 +1150,8 @@
  			<property name="PlotClaim"      value=""/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023049" name="Frey Hospitality">
  			<property name="House"          value="Neutral."/>
@@ -1078,6 +1174,8 @@
  			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023050" name="All the Gold in Casterly Rock">
  			<property name="House"          value="Lannister."/>
@@ -1100,6 +1198,8 @@
  			<property name="PlotClaim"      value="3"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023051" name="Breaking and Entering">
  			<property name="House"          value="Neutral."/>
@@ -1122,6 +1222,8 @@
  			<property name="PlotClaim"      value="2"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023052" name="The Art of Seduction">
  			<property name="House"          value="Neutral."/>
@@ -1145,6 +1247,8 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Melee."/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023053" name="Game of Thrones">
  			<property name="House"          value="Neutral."/>
@@ -1167,6 +1271,8 @@
  			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023054" name="Edict of the Rock">
  			<property name="House"          value="Lannister."/>
@@ -1189,6 +1295,8 @@
  			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97023055" name="Shadows and Spiders">
  			<property name="House"          value="Neutral."/>
@@ -1211,6 +1319,8 @@
  			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value=""/>
 		</card>
  	</cards>
  </set>
