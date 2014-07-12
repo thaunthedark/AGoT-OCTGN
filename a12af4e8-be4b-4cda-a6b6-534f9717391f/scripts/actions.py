@@ -8,7 +8,7 @@ Burn = ("Burn", "01ecf94f-c408-4e43-8984-211fbdc25004") #The GUID from markers.o
 MilitaryColor = "#ae0603" #A shade of red from the Military Icon
 IntrigueColor = "#006b34" #A shade of green from the Intrigue Icon
 PowerColor = "#1a4d8f" #A shade of blue from the Power Icon
-GameURL = "http://tinyurl.com/aGoT-LCG-OCTGN"
+GameURL = "http://tinyurl.com/op4me9g"
 FAQ_URL = "http://www.fantasyflightgames.com/ffg_content/agotlcg/support/FAQ-TR-updates/AGoT-FAQ.pdf"
 LeagueURL = "http://tinyurl.com/aGoT-OCTGN-League-S1"
 #---------------------------------------------------------------------------
