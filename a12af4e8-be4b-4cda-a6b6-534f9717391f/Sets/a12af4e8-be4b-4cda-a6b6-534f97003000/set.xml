@@ -380,7 +380,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Raven. Creature."/>
- 			<property name="Text"           value="Response: After you win a challenge in which Carrion Bird participated, shuffle any number of Raven cards from your discard pile, or one Raven card from play, back into their owner's decks. (Cannot be canceled.)"/>
+ 			<property name="Text"           value="Response: After you win a challenge in which Carrion Bird participated, shuffle any number of Raven cards from your discard pile, or one card with the printed Raven trait from play, back into their owner's decks. (Cannot be canceled.)"/>
  			<property name="Keywords"       value="Stealth."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -420,7 +420,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: &quot;...to discard 1 power from a non-House card in place...&quot;"/>
+ 			<property name="ErrataText"     value="Should read: &quot;...to discard 1 power from a non-House card in play...&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="17"/>
@@ -855,7 +855,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Raven. Creature."/>
- 			<property name="Text"           value="Response: After you win a challenge in which Carrion Bird participated, shuffle any number of Raven cards from your discard pile, or one Raven card from play, back into their owner's decks. (Cannot be canceled.)"/>
+ 			<property name="Text"           value="Response: After you win a challenge in which Carrion Bird participated, shuffle any number of Raven cards from your discard pile, or one card with the printed Raven trait from play, back into their owner's decks. (Cannot be canceled.)"/>
  			<property name="Keywords"       value="Stealth."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -870,7 +870,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value=""/>
+ 			<property name="ErrataText"     value="Should read: &quot;...one card with the printed Raven trait from play...&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="35"/>
@@ -1606,7 +1606,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally. Mercenary."/>
- 			<property name="Text"           value="Challenges: If it is Summer, choose an opponent's attachment in play. Pay that attachment's printed gold cost to take control of that attachment, and attach it to a card of your choice."/>
+ 			<property name="Text"           value="Challenges: If it is Summer, choose an opponent's attachment in play. Pay that attachment's printed gold cost to take control of that attachment, and attach it to a card of your choice. (Limit once per attachment per phase.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -2206,7 +2206,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Queen. House Harlaw."/>
- 			<property name="Text"           value="If there is another Queen character in play, Alannys Greyjoy cannot attack, defend, or trigger her character ability. Any Phase: Kneel Alannys Greyjoy to choose an opponent. If that opponent does not kneel a character with higher STR than Alannys Greyjoy, discard a card at random from his or her hand."/>
+ 			<property name="Text"           value="If there is another Queen character in play, Alannys Greyjoy cannot attack, defend, or trigger her character ability. Any Phase: Kneel Alannys Greyjoy to choose an opponent. If that opponent does not kneel a character he or she controls with higher STR than than Alannys Greyjoy, discard a card at random from his or her hand."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -2457,7 +2457,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="Epic Battle."/>
- 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase in which each player may initiate an additional challenge of his or her choice. Instead of the normal claim effects, any player who loses one of these challenges as the defender must select his or her next plot card at random. (Place this card next to your plot deck until the end of the epic phase.)"/>
+ 			<property name="Text"           value="Plot: After the dominance phase this round, there is an epic phase in which each player may initiate a single challenge of his or her choice. Instead of the normal claim effects, any player who loses one of these challenges as the defender must select his or her next plot card at random. (Place this card next to your plot deck until the end of the epic phase.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>

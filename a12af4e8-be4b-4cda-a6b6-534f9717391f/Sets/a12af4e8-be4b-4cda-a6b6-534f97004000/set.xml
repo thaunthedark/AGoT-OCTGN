@@ -1131,7 +1131,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. King."/>
- 			<property name="Text"           value="Any Phase: Stand Robert Baratheon. Use this ability only if there are no cards in Shadows."/>
+ 			<property name="Text"           value="Any Phase: Stand Robert Baratheon. Use this ability only if there are no cards in Shadows. (Limit 3 times per phase.)"/>
  			<property name="Keywords"       value="Renown."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
@@ -2557,7 +2557,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="King's Landing."/>
- 			<property name="Text"           value="Response: After a card comes out of Shadows, kneel Alchemist's Guild Hall to choose and kneel a character or location that does not have the [Shadow] crest."/>
+ 			<property name="Text"           value="Limited response: After a card comes out of Shadows, kneel Alchemist's Guild Hall to choose and kneel a character or location that does not have the [Shadow] crest. (Limit 1 limited response per round.)"/>
  			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s1"/>
@@ -2783,7 +2783,7 @@
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="King's Landing."/>
  			<property name="Text"           value="Any Phase: Kneel and discard Rhaenys's Hill from play to put all characters in a single opponent's dead pile into play under your control until the end of the phase. At the end of the phase, return those characters to their owner's dead pile."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
  			<property name="Strength"       value=""/>
@@ -2797,7 +2797,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value=""/>
+ 			<property name="ErrataText"     value="Should have the text: &quot;House Targaryen only.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="112"/>

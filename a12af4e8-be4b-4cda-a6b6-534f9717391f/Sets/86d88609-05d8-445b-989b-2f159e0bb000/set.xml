@@ -412,6 +412,7 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
+			<property name="ErrataText"     value="The Hold is open information to its owner, but can only be looked at by opponents when a card effect specifically allows them to do so."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="18"/>
 			<property name="Format"		    value="LCG"/>
@@ -895,6 +896,7 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
+			<property name="ErrataText"     value="Should read: &quot;...controlled by the losing opponent.&quot;"/>
 			<property name="Restricted"     value="Melee."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="39"/>
@@ -1366,7 +1368,7 @@
 			<property name="Type"           value="Agenda"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Your minimum deck size is 85 cards.  When you draw during the draw phase, draw 1 additional card."/>
-			<property name="Keywords"       value=""/>
+			<property name="Keywords"       value="Neutral Faction House card only."/>
 			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -1380,6 +1382,7 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
+			<property name="ErrataText"     value="Should have the text: &quot;Neutral Faction House card only.&quot;"/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="60"/>
 			<property name="Format"		    value="LCG"/>
@@ -1710,7 +1713,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. Dothraki."/>
-			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Braided Screamers gain: &quot;Response: After you play a Dothraki character of cost 3 or more, search the top 5 cards of your deck for a Dothraki character.  reveal it, and add it to your hand.  Then, shuffle your deck.&quot;"/>
+			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Braided Screamers gain: &quot;Response: After you play a Dothraki character of cost 3 or more, search the top 5 cards of your deck for a Dothraki character, reveal it, and add it to your hand.  Then, shuffle your deck. (limit once per round.)&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="4"/>
@@ -1725,6 +1728,7 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
+			<property name="ErrataText"     value="The Response effect should have the text: &quot;limit once per round.&quot;"/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="75"/>
 			<property name="Format"		    value="LCG"/>
@@ -1756,7 +1760,7 @@
 			<property name="House"          value="Baratheon. Lannister."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lady. Queen. House Tyrell."/>
-			<property name="Text"           value="While any opponent controls a Lady or Queen character, Margaery Tyrell gains melee. Response: After Margaery Tyrell is knelt as an attacker, choose and kneel a character controlled by the defending player.  Then, that character is participating in this challenge as a defender. (Limit once per phase.)"/>
+			<property name="Text"           value="While any opponent controls a Lady or Queen character, Margaery Tyrell gains melee. Response: After Margaery Tyrell is knelt as an attacker, choose and kneel a character controlled by the defending player. Then, that character is participating in this challenge as a defender. (Limit once per phase.)"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -1771,6 +1775,7 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
+			<property name="ErrataText"     value="The title referenced in the text should read: &quot;Margaery Tyrell.&quot;"/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="77"/>
 			<property name="Format"		    value="LCG"/>
@@ -2098,7 +2103,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Knight."/>
-			<property name="Text"           value="If you are running a non-character agenda, treat Ser Cletus Yronwood's printed text box as if it were blank.&#10;&#10;Response: After Ser Cletus Yronwood is killed, draw 2 cards."/>
+			<property name="Text"           value="If you are running a non-character agenda, treat the rest of Ser Cletus Yronwood's printed text box (apart from this ability) as if it were blank.&#10;&#10;Response: After Ser Cletus Yronwood is killed, draw 2 cards."/>
 			<property name="Keywords"       value="Melee. Renown."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -2113,7 +2118,7 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
-			<property name="ErrataText"     value=""/>
+			<property name="ErrataText"     value="The text blanking effect should read: &quot;...treat the rest of Ser Cletus Yronwood's printed text box (apart from this ability) as if it were blank.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="91"/>
@@ -2148,7 +2153,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: After Blood Magic Ritual comes out of Shadows, choose a non-Army character in your dead pile and put it into play.  Attach Blood Magic Ritual to it.  If Blood Magic Ritual leaves play kill attached character."/>
+			<property name="Text"           value="Response: After Blood Magic Ritual comes out of Shadows, choose a non-Army character in your dead pile and put it into play.  Attach Blood Magic Ritual to it.  If Blood Magic Ritual is discarded or leaves play, kill that character."/>
 			<property name="Keywords"       value="House Targaryen only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="s1"/>
@@ -2163,7 +2168,7 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
-			<property name="ErrataText"     value=""/>
+			<property name="ErrataText"     value="The final sentence of the effect should read: &quot;If Blood Magic Ritual is discarded or leaves play, kill that character.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="93"/>

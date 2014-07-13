@@ -658,7 +658,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="Power Struggle."/>
- 			<property name="Text"           value="After you win a [POW] challenge against an opponent with a Targareyn or a [Martell] House card, choose a character controlled by that opponent. Take control of that character."/>
+ 			<property name="Text"           value="After you win a [POW] challenge against an opponent with a Targareyn or a [Martell] House card, choose a character controlled by that opponent. Take control of that character until the end of the phase."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value=""/>
@@ -827,7 +827,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: &quot;Challenges: Kneel Toll Gate to choose a non-unique, participating character.  Stand that character, and remove it from the challenge.&quot;"/>
+ 			<property name="ErrataText"     value="Should read: &quot;Challenges: Kneel Toll Gate to choose a non-unique, participating character. Stand that character, and remove it from the challenge.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="33"/>
@@ -1062,8 +1062,8 @@
  			<property name="House"          value="Stark. Lannister. Baratheon. Greyjoy. Targaryen. Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally."/>
- 			<property name="Text"           value="Jaqen H'ghar gets +1 STR for each power on him."/>
- 			<property name="Keywords"       value="Ambush. Stalwart. Intimidate. Infamy. Vigilant. Vengeful."/>
+ 			<property name="Text"           value="Any Phase: Discard 1 power from your House to give Jaqen H'ghar a keyword of your choice until the end of the phase."/>
+ 			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="5"/>
  			<property name="Strength"       value="3"/>
@@ -1077,7 +1077,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value=""/>
+ 			<property name="ErrataText"     value="Should read: &quot;Any Phase: Discard 1 power from your House to give Jaqen H'ghar a keyword of your choice until the end of the phase.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="43"/>
@@ -2638,7 +2638,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Marshalling: Choose two characters. Move an attachment from one of those characters to the other. You may take control of the attachment when it is moved."/>
+ 			<property name="Text"           value="Marshalling: Choose an attachment attached to a card you control. Move that attachment to another card you control."/>
  			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -2653,7 +2653,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value=""/>
+ 			<property name="ErrataText"     value="Should read: &quot;House Lannister only. Marshalling: Choose an attachment attached to a card you control. Move that attachment to another card you control.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="106"/>

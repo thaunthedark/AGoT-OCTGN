@@ -295,7 +295,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value=""/>
+ 			<property name="ErrataText"     value="Should be titled: &quot;Thundering Cavalry&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="12"/>
@@ -395,7 +395,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should have the text: (Limit 3 times a round.)"/>
+ 			<property name="ErrataText"     value="Should have the text: &quot;(Limit 3 times a round.)&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="16"/>
@@ -1170,7 +1170,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: Ignore the out-of-House gold penalty to place or play cards from that House."/>
+ 			<property name="ErrataText"     value="Should read: &quot;Ignore the out-of-House gold penalty to place or play cards from that House.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="47"/>
@@ -1195,7 +1195,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should be: House Targaryen only."/>
+ 			<property name="ErrataText"     value="Should be: &quot;House Targaryen only.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="48"/>
@@ -1370,7 +1370,7 @@
  			<property name="PlotGoldIncome" value="4"/>
  			<property name="PlotInitiative" value="6"/>
  			<property name="PlotClaim"      value="1"/>
- 			<property name="ErrataText"     value="Should read: When revealed, you choose one: 1-Each player draws 3 cards.  Each player that drew 3 cards discards 3 random cards from hand. 2-Each player discards 3 random cards from hand.  Each player that discarded 3 cards draws 3 cards."/>
+ 			<property name="ErrataText"     value="Should read: &quot;When revealed, you choose one:&#10;&#10;-Each player draws 3 cards. Each player that drew 3 cards discards 3 random cards from hand.&#10;&#10;-Each player discards 3 random cards from hand. Each player that discarded 3 cards draws 3 cards.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>

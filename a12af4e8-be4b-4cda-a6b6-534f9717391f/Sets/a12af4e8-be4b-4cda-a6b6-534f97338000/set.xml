@@ -446,7 +446,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value=""/>
+ 			<property name="ErrataText"     value="Its traits should read: &quot;Wildling. Refugee.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="18"/>
@@ -1056,7 +1056,7 @@
  			<property name="House"          value="Lannister. Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lady."/>
- 			<property name="Text"           value="If you have more than 1 opponent, Myrcella Lannister gains: &quot;Any Phase: Kneel Myrcella Lannister to choose an opponent.  Exchange Titles with that player.&quot;"/>
+ 			<property name="Text"           value="If you have more than 1 opponent, Myrcella Lannister gains: &quot;Any Phase: Kneel Myrcella Lannister to choose an opponent.  Exchange Titles with that player. This effect cannot be triggered during a challenge.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -2148,7 +2148,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value=""/>
+ 			<property name="ErrataText"     value="His trait should read &quot;Ironborn.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="86"/>
@@ -2260,7 +2260,7 @@
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Warship."/>
  			<property name="Text"           value="Meraxes counts as 4 STR during the dominance phase. Dominance: Kneel Meraxes to draw 1 card. Then, each opponent who did not attack you this round draws 1 card."/>
- 			<property name="Keywords"       value=""/>
+ 			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
  			<property name="Strength"       value=""/>
@@ -2274,7 +2274,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value=""/>
+ 			<property name="ErrataText"     value="Should have the text: &quot;House Targaryen only.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="91"/>
@@ -2734,7 +2734,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally."/>
- 			<property name="Text"           value="Response: After an opponent's character enters play, kneel 2 influence to bring Sorrowful Man out of Shadows and into play. Then, that character's controller must choose to either play you 1 gold or kill that character."/>
+ 			<property name="Text"           value="Response: After an opponent's character enters play, kneel 2 influence to bring Sorrowful Man out of Shadows and into play. Then, that character's controller must either pay you 1 gold or kill that character."/>
  			<property name="Keywords"       value="House Targaryen only. Deadly."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="s0"/>

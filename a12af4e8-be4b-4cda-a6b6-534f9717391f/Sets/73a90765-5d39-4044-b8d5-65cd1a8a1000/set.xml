@@ -2459,7 +2459,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Type"           value="Agenda"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="After a challenge resolves, the player who counted the lowest total STR must choose and kill a participating character he or she controls."/>
-			<property name="Keywords"       value="House Greyjoy only."/>
+			<property name="Keywords"       value="House Greyjoy only. Joust format only"/>
 			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -2473,7 +2473,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
-			<property name="ErrataText"     value=""/>
+			<property name="ErrataText"     value="Should have the text: &quot;Joust format only.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="99"/>

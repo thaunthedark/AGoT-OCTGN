@@ -570,7 +570,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: Attached location is immune to other non-plot card effects. (The attached location does not gain immunity to Castle Battlements.)"/>
+ 			<property name="ErrataText"     value="Should read: &quot;Attached location is immune to other non-plot card effects.&quot; (The attached location does not gain immunity to Castle Battlements.)"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="23"/>
@@ -1281,7 +1281,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. Knight."/>
- 			<property name="Text"           value="If you are running a non-character agenda, treat Ser Archibald Yronwood's printed text box as if it were blank.&#10;Response: After Ser Archibald Yronwood is declared as a defender, choose and kneel a location."/>
+ 			<property name="Text"           value="If you are running a non-character agenda, treat the rest of Ser Archibald Yronwood's printed text box (apart from this ability) as if it were blank.&#10;Response: After Ser Archibald Yronwood is declared as a defender, choose and kneel a location."/>
  			<property name="Keywords"       value="Deadly. Renown."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -1296,7 +1296,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value=""/>
+ 			<property name="ErrataText"     value="The text blanking effect should read: &quot;...treat the rest of Ser Archibald Yronwood's printed text box (apart from this ability) as if it were blank.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="52"/>
@@ -1306,7 +1306,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. Knight."/>
- 			<property name="Text"           value="If you are running a non-character agenda, treat Ser Gerris Drinkwater's printed text box as if it were blank.&#10;Response: After Ser Gerris Drinkwater is knelt as a defender, choose and stand another [Martell] character."/>
+ 			<property name="Text"           value="If you are running a non-character agenda, treat the rest of Ser Gerris Drinkwater's printed text box (apart from this ability) as if it were blank.&#10;Response: After Ser Gerris Drinkwater is knelt as a defender, choose and stand another [Martell] character."/>
  			<property name="Keywords"       value="Stealth. Renown."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -1321,7 +1321,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value=""/>
+ 			<property name="ErrataText"     value="The text blanking effect should read: &quot;...treat the rest of Ser Gerris Drinkwater's printed text box (apart from this ability) as if it were blank.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="53"/>
@@ -1356,7 +1356,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Maester."/>
- 			<property name="Text"           value="Dominance: Kneel Archmaester Marwyn to choose 3 cards in your discard pile. Your opponent places one on the bottom of your deck, adds one to your hand, and returns the last to the top of your discard pile."/>
+ 			<property name="Text"           value="Dominance: Kneel Archmaester Marwyn to choose 3 cards in your discard pile. The opponent to your left places one on the bottom of your deck, adds one to your hand, and returns the last to the top of your discard pile."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -1406,7 +1406,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Knight. Lord."/>
- 			<property name="Text"           value="If Griff would be killed, instead attach him to your House card as your only agenda with the text: &quot;If you do not control more attachments that each opponent, unattach Griff and return him to play. Response: After a [Targaryen] attachment you control is discarded from play, kneel 1 influence to return it to your hand.&quot;"/>
+ 			<property name="Text"           value="If Griff would be killed, instead attach him to your House Card as your only agenda with the text: &quot;If you control fewer attachments than each opponent, unattach Griff and return him to play.&#10;&#10;Response: After a [Targaryen] attachment you control is discarded from play, kneel 1 influenece to return it to your hand instead.&quot;"/>
  			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -1421,7 +1421,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: House Targaryen only.  If Griff would be killed, instead attach him to your House Card as your only agenda with the text: &quot;If you control fewer attachments than each opponent, unattach Griff and return him to play.&quot; Response: After a [Targaryen] attachment you control is discarded from play, kneel 1 influenece to return it to your hand instead."/>
+ 			<property name="ErrataText"     value="Should read: &quot;House Targaryen only.  If Griff would be killed, instead attach him to your House Card as your only agenda with the text: &quot;If you control fewer attachments than each opponent, unattach Griff and return him to play.&#10;&#10;Response: After a [Targaryen] attachment you control is discarded from play, kneel 1 influenece to return it to your hand instead.&quot;&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="57"/>
@@ -1773,7 +1773,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value=""/>
+ 			<property name="ErrataText"     value="Should read: &quot;...the next challenge this phase for which it is eligible...&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="71"/>
@@ -2108,7 +2108,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="The East."/>
- 			<property name="Text"           value="Limited Response: After an opponent's character is knelt by a card effect, kneel Dockside Brothel to have a unique [Lannister] character claim 1 power."/>
+ 			<property name="Text"           value="Limited Response: After an opponent's character is knelt by a card effect, kneel Dockside Brothel to have a unique [Lannister] character claim 1 power. (Limit 1 limited response per round.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="0"/>
@@ -2123,7 +2123,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value=""/>
+ 			<property name="ErrataText"     value="Should have the text: &quot;(Limit 1 limited response per round.)&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="85"/>
@@ -2684,7 +2684,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition."/>
- 			<property name="Text"           value="Attach to a Warship location you control. Attached location is immune to non-plot card effects.&#10;Add 3 to your total STR during any [MIL] challenge in which you control at least 1 attacking character."/>
+ 			<property name="Text"           value="Attach to a Warship location you control. Attached location is immune to other non-plot card effects.&#10;Add 3 to your total STR during any [MIL] challenge in which you control at least 1 attacking character."/>
  			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>

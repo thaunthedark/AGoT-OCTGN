@@ -180,7 +180,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition."/>
- 			<property name="Text"           value="Response: After 1 or more cards are discarded from an opponent's deck, stand attached character."/>
+ 			<property name="Text"           value="Response: After 1 or more cards are discarded from an opponent's deck, stand attached character. (Limit 3 times per round.)"/>
  			<property name="Keywords"       value="Ironborn character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -455,7 +455,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Agenda"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Before shiffling your deck during setup, remove up to 12 Chain attachments with different titles from your deck and place them on The Maester's Path. You cannot win the game if there are any Chain attachments on this card. Response: After you win a challenge, attach 1 Chain from this card to a character you control."/>
+ 			<property name="Text"           value="Before shiffling your deck during setup, remove up to 12 Chain attachments with different titles from your deck and place them on The Maester's Path. You cannot win the game if there are any Chain attachments on this card. Response: After you win a challenge, attach 1 Chain from this card to a printed Maester character you control."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value=""/>
  			<property name="Cost"           value=""/>
@@ -481,7 +481,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value="City."/>
- 			<property name="Text"           value="When revealed, if you have no City plot cards in your used pile, search your deck for a Maester character of printed cost 3 or lower, and put it into play. Then, shuffle your deck."/>
+ 			<property name="Text"           value="When revealed, if you have no City plot cards in your used pile, search your deck for a neutral or in-House Maester character of printed cost 3 or lower, and put it into play. Then, shuffle your deck."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value=""/>
  			<property name="Cost"           value=""/>
@@ -831,7 +831,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Challenges: Return a [Martell] [Noble] character you own and control to your hand to choose an opponent's character. Return that character to its owner's hand"/>
+ 			<property name="Text"           value="Challenges: Return a [Martell] [Noble] character you own and control to your hand to choose an opponent's character of equal or lower printed cost. Return that character to its owner's hand"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -1306,7 +1306,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally."/>
- 			<property name="Text"           value="Response: After an opponent kneels a location, choose and stand a location you control."/>
+ 			<property name="Text"           value="Response: After an opponent kneels a location, choose and stand a location you control. (Limit 3 times per round.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -1321,7 +1321,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value=""/>
+ 			<property name="ErrataText"     value="The ability should be, &quot;Limit 3 times per round.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Melee."/>
 			<property name="Rarity"		    value="F"/>
@@ -1347,7 +1347,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value=""/>
+ 			<property name="ErrataText"     value="Should read: &quot;Sand Snake character only.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="54"/>
@@ -1834,8 +1834,8 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Any Phase: Kneel 4 influence to return the top 4 cards of your discard pile to your hand."/>
- 			<property name="Keywords"       value="House Martell only. Deathbound."/>
+ 			<property name="Text"           value="Any Phase: Kneel 4 influence to return the top 4 cards of your discard pile to your hand. After this effect resolves, remove The Prince's Plans from the game."/>
+ 			<property name="Keywords"       value="House Martell only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
  			<property name="Strength"       value=""/>
@@ -1849,7 +1849,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should have the keyword: Deathbound."/>
+ 			<property name="ErrataText"     value="Should have the text: &quot;.... After this effect resolves, remove The Prince's Plans from the game.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>

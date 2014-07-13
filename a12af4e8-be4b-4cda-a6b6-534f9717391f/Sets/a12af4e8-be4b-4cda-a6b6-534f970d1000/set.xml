@@ -1101,7 +1101,7 @@
 			<property name="CardNumber"	    value="44"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1051" name="Randyl Tarly">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f970d1051" name="Randyll Tarly">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. House Tarly."/>
@@ -1120,7 +1120,7 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
-			<property name="ErrataText"     value=""/>
+			<property name="ErrataText"     value="The title should read: &quot;Randyll Tarly&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="45"/>

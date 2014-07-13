@@ -620,7 +620,7 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
-			<property name="ErrataText"     value=""/>
+			<property name="ErrataText"     value="The effect should have the text: &quot;...(Limit 3 times per round.)&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="S"/>
 			<property name="CardNumber"	    value="13"/>
@@ -1920,7 +1920,7 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
-			<property name="ErrataText"     value=""/>
+			<property name="ErrataText"     value="Robert Baratheon appears twice in the Core Set by design. The second copy of Robert Baratheon should be numbered &quot;B90.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="B"/>
 			<property name="CardNumber"	    value="71/90"/>
@@ -2070,13 +2070,13 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
-			<property name="ErrataText"     value=""/>
+			<property name="ErrataText"     value="The title should read Maester Cressen."/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="B"/>
 			<property name="CardNumber"	    value="77"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="a12af4e8-be4b-4cda-a6b6-534f97001084" name="Ser Axel Florent">
+		<card id="a12af4e8-be4b-4cda-a6b6-534f97001084" name="Ser Axell Florent">
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Knight."/>
@@ -2095,7 +2095,7 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
-			<property name="ErrataText"     value=""/>
+			<property name="ErrataText"     value="The title and text should state the name as: &quot;Ser Axell Florent.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="B"/>
 			<property name="CardNumber"	    value="78"/>

@@ -180,7 +180,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Response: If an opponent would win initiative, cancel the initiative count. You win initiative instead."/>
+ 			<property name="Text"           value="Response: If an opponent would win initiative, cancel the determination of initiative winner. You win initiative instead."/>
  			<property name="Keywords"       value="House Greyjoy only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -455,7 +455,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Agenda"/>
  			<property name="Traits"         value="The North."/>
- 			<property name="Text"           value="You may run any number of The North agendas. You need 2 additional power to win the game.Night's Watch characters you control gain a [MIL] icon."/>
+ 			<property name="Text"           value="You may run any number of The North agendas that have the words Night's Watch in their text. You need 2 additional power to win the game. Night's Watch characters you control gain a [MIL] icon."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -630,7 +630,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Response: If an opponent would win dominance, cancel the dominance count. You automatically win dominance this phase."/>
+ 			<property name="Text"           value="Response: If an opponent would win dominance, cancel the determination of dominance winner. You win dominance instead."/>
  			<property name="Keywords"       value="House Baratheon only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -955,7 +955,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Agenda"/>
  			<property name="Traits"         value="The North."/>
- 			<property name="Text"           value="You may run any number of The North agendas. You need 2 additional power to win the game. Wildling characters you control gain stealth."/>
+ 			<property name="Text"           value="You may run any number of The North agendas that have the words Wilding in their text. You need 2 additional power to win the game. Wildling characters you control gain stealth."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -1457,7 +1457,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Agenda"/>
  			<property name="Traits"         value="The North."/>
- 			<property name="Text"           value="You may run any number of The North agendas. You need 2 additional power to win the game.  Night's Watch characters you control gain a [POW] icon."/>
+ 			<property name="Text"           value="You may run any number of The North agendas that have the words Night's Watch in their text. You need 2 additional power to win the game. Night's Watch characters you control gain a [POW] icon."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -1957,7 +1957,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Agenda"/>
  			<property name="Traits"         value="The North."/>
- 			<property name="Text"           value="You may run any number of The North agendas. You need 2 additional power to win the game.  Wildling characters you control get +1 STR."/>
+ 			<property name="Text"           value="You may run any number of The North agendas that have the words Wilding in their text. You need 2 additional power to win the game. Wildling characters you control get +1 STR."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -2457,7 +2457,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Agenda"/>
  			<property name="Traits"         value="The North."/>
- 			<property name="Text"           value="You may run any number of The North agendas. You need 2 additional power to win the game.  Night's Watch characters you control gain an [INT] icon."/>
+ 			<property name="Text"           value="You may run any number of The North agendas that have the words Night's Watch in their text. You need 2 additional power to win the game. Night's Watch characters you control gain an [INT] icon."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
@@ -2959,7 +2959,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Agenda"/>
  			<property name="Traits"         value="The North."/>
- 			<property name="Text"           value="You may run any number of The North agendas. You need 2 additional power to win the game.  Reduce the cost of the first Wildling character you play from your hand each round by 2."/>
+ 			<property name="Text"           value="You may run any number of The North agendas that have the words Wilding in their text. You need 2 additional power to win the game. Reduce the cost of the first unique Wildling character you play from your hand each round by 1."/>
  			<property name="Crest"          value=""/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>

@@ -370,7 +370,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should have the trait: Septon"/>
+ 			<property name="ErrataText"     value="Should have the trait: &quot;Septon.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="15"/>
@@ -1145,7 +1145,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: Response: After an opponent plays a location, put Shield Islands Dromon on he bottom of your deck to choose that player.  That player must either place that location on the bottom of his or her deck or discard 2 power from his or her House."/>
+ 			<property name="ErrataText"     value="Should read: &quot;Response: After an opponent plays a location, put Shield Islands Dromon on he bottom of your deck to choose that player.  That player must either place that location on the bottom of his or her deck or discard 2 power from his or her House.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="46"/>
