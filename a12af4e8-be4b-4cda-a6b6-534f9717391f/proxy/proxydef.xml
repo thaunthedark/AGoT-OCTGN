@@ -845,23 +845,23 @@
 			
 			<!-- Crests -->
 			<conditional>
-				<if property="Crest" value="Holy">
+				<if property="Crest" value="Holy.">
 					<link block="holy" /> </if>
 			</conditional>
 			<conditional>
-				<if property="Crest" value="Learned">
+				<if property="Crest" value="Learned.">
 					<link block="learned" /> </if>
 			</conditional>
 			<conditional>
-				<if property="Crest" value="Noble">
+				<if property="Crest" value="Noble.">
 					<link block="noble" /> </if>
 			</conditional>
 			<conditional>
-				<if property="Crest" value="Shadow">
+				<if property="Crest" value="Shadow.">
 					<link block="shadow" /> </if>
 			</conditional>
 			<conditional>
-				<if property="Crest" value="War">
+				<if property="Crest" value="War.">
 					<link block="war" /> </if>
 			</conditional>
 			
