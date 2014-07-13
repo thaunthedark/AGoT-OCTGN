@@ -21,7 +21,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="1"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb002" name="Blackwater Bay Veteran">
@@ -44,7 +44,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="2"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb003" name="Fleet from The Arbor">
@@ -67,7 +67,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="3"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb004" name="Apostle of The Drowned God">
@@ -90,7 +90,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="4"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb005" name="Fleet from Pyke">
@@ -113,7 +113,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="5"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb006" name="Victarion Greyjoy">
@@ -136,7 +136,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="6"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb007" name="Lady Olenna's Guard">
@@ -159,7 +159,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="7"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb008" name="Fleet from Lys">
@@ -182,7 +182,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="8"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb009" name="Melisandre's Scheme">
@@ -206,7 +206,7 @@
 			<property name="PlotClaim"      value="1"/>
 			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="9"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb010" name="Wyman Manderly">
@@ -229,7 +229,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="10"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb011" name="Fleet from Wolf's Den">
@@ -252,7 +252,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="11"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb012" name="Areo Hotah">
@@ -275,7 +275,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="12"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb013" name="Lady Nym's Guard">
@@ -298,7 +298,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="13"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb014" name="Missandei">
@@ -321,7 +321,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="14"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb015" name="Captain Groleo">
@@ -344,7 +344,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="15"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb016" name="Fleet from Volantis">
@@ -367,7 +367,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="16"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb017" name="Summer Sea Corsair">
@@ -390,7 +390,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="17"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb018" name="Black Sails">
@@ -413,7 +413,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="18"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb019" name="Naval Reinforcements">
@@ -436,7 +436,7 @@
 			<property name="PlotInitiative" value="5"/>
 			<property name="PlotClaim"      value="1"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="19"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb020" name="Crossing the Ruby Ford">
@@ -459,7 +459,7 @@
 			<property name="PlotInitiative" value="3"/>
 			<property name="PlotClaim"      value="1"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="20"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb021" name="Paxter Redwyne">
@@ -482,7 +482,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="21"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb022" name="Arbor Queen">
@@ -505,7 +505,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="22"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb023" name="Lionstar">
@@ -528,7 +528,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="23"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb024" name="Ironborn Marauder">
@@ -551,7 +551,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="24"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb025" name="The Reader">
@@ -574,7 +574,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="25"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb026" name="Longship Golden Storm">
@@ -597,7 +597,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="26"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb027" name="River Runner">
@@ -620,7 +620,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="27"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb028" name="Ser Davos Seaworth">
@@ -643,7 +643,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="28"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb029" name="Black Betha">
@@ -666,7 +666,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="29"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb030" name="Northern Sailor">
@@ -689,7 +689,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="30"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb031" name="White Harbor Captain">
@@ -712,7 +712,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="31"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb032" name="White Arbor Dromon">
@@ -735,7 +735,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="32"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb033" name="Quentyn Martell">
@@ -758,7 +758,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="33"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb034" name="Meadowlark">
@@ -781,7 +781,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="34"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb035" name="Doran's Scheme">
@@ -804,7 +804,7 @@
 			<property name="PlotInitiative" value="4"/>
 			<property name="PlotClaim"      value="1"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="35"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb036" name="Pentoshi Deckland">
@@ -827,7 +827,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="36"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb037" name="Vhagar">
@@ -850,7 +850,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="37"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb038" name="Selmy's Scheme">
@@ -873,7 +873,7 @@
 			<property name="PlotInitiative" value="2"/>
 			<property name="PlotClaim"      value="1"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="38"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb039" name="Battle for the Shield Islands">
@@ -897,7 +897,7 @@
 			<property name="PlotClaim"      value=""/>
 			<property name="Restricted"     value="Melee."/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="39"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb040" name="Naval Superiority">
@@ -920,7 +920,7 @@
 			<property name="PlotInitiative" value="3"/>
 			<property name="PlotClaim"      value="1"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="40"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb041" name="Ser Lancel Lannister">
@@ -943,7 +943,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="41"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb042" name="The Bear and the Maiden Fair">
@@ -966,7 +966,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="42"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb043" name="Cersei's Scheme">
@@ -989,7 +989,7 @@
 			<property name="PlotInitiative" value="6"/>
 			<property name="PlotClaim"      value="1"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="43"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb044" name="Andrik the Unsmiling">
@@ -1012,7 +1012,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="44"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb045" name="We Do Not Sow">
@@ -1035,7 +1035,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="45"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb046" name="Victarion's Scheme">
@@ -1058,7 +1058,7 @@
 			<property name="PlotInitiative" value="7"/>
 			<property name="PlotClaim"      value="1"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="46"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb047" name="Salladhor Saan">
@@ -1081,7 +1081,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="47"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb048" name="Oakenshield Port">
@@ -1104,7 +1104,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="48"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb049" name="Ours is the Fury">
@@ -1127,7 +1127,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="49"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb050" name="Moreo Tumitis">
@@ -1150,7 +1150,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="50"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb051" name="Swamps of the Neck">
@@ -1173,7 +1173,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="51"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb052" name="Titan's Daughter">
@@ -1196,7 +1196,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="52"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb053" name="Hellholt Docks">
@@ -1219,7 +1219,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="53"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb054" name="Unbowed, Unbent, Unbroken">
@@ -1242,7 +1242,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="54"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb055" name="House Targaryen Loyalist">
@@ -1265,7 +1265,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="55"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb056" name="Balerion">
@@ -1288,7 +1288,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="56"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb057" name="Fire and Blood">
@@ -1311,7 +1311,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="57"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb058" name="Torrhen's Square">
@@ -1334,7 +1334,7 @@
 			<property name="PlotInitiative" value="4"/>
 			<property name="PlotClaim"      value="1"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="58"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb059" name="Negotiations at the Great Sept">
@@ -1358,7 +1358,7 @@
 			<property name="PlotClaim"      value="2"/>
 			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="59"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb060" name="The Long Voyage">
@@ -1381,7 +1381,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="60"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb061" name="House Clegane Brigands">
@@ -1404,7 +1404,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="61"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb062" name="Sitting the Iron Throne">
@@ -1427,7 +1427,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="62"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb063" name="Raiders of Orkmont">
@@ -1450,7 +1450,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="63"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb064" name="Deepwood Motte">
@@ -1473,7 +1473,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="64"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb065" name="Seized">
@@ -1496,7 +1496,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="65"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb066" name="Blackcrown Knights">
@@ -1519,7 +1519,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="66"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb067" name="Dale Seaworth">
@@ -1542,7 +1542,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="67"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb068" name="Shores of the Blackwater">
@@ -1565,7 +1565,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="68"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb069" name="Riders of Karhold">
@@ -1588,7 +1588,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="69"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb070" name="Passing the Wall">
@@ -1611,7 +1611,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="70"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb071" name="Host of the Boneway">
@@ -1634,7 +1634,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="71"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb072" name="Greenblood Vessel">
@@ -1657,7 +1657,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="72"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb073" name="Shores of the Summer Sea">
@@ -1680,7 +1680,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="73"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb074" name="Dothraki Outrider">
@@ -1703,7 +1703,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="74"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb075" name="Braided Screamers">
@@ -1726,7 +1726,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="75"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb076" name="Port at Slaver's Bay">
@@ -1749,7 +1749,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="76"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb077" name="Margaery Tyrell">
@@ -1772,7 +1772,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="77"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb078" name="Blazewater Bay">
@@ -1795,7 +1795,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="78"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb079" name="Blackwater Rush">
@@ -1818,7 +1818,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="79"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb080" name="King's Landing Coup">
@@ -1841,7 +1841,7 @@
 			<property name="PlotInitiative" value="8"/>
 			<property name="PlotClaim"      value="1"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="80"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb081" name="Arbor Guardsman">
@@ -1866,7 +1866,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value="Naval-Military"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="81"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb082" name="Iron Islands Brigand">
@@ -1891,7 +1891,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value="Naval-Military"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="82"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb083" name="Iron Fleet Scout">
@@ -1916,7 +1916,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="83"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb084" name="Lyseni Pirate">
@@ -1941,7 +1941,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value="Naval-Military"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="84"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb085" name="Khorane Sathmantes">
@@ -1966,7 +1966,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value="Naval-Intrigue"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="85"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb086" name="Wylla Manderly">
@@ -1991,7 +1991,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value="Naval-Power"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="86"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb087" name="White Harbor">
@@ -2016,7 +2016,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="87"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb088" name="Manderly's Scheme">
@@ -2041,10 +2041,10 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="88"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="86d88609-05d8-445b-989b-2f159e0bb089" name="Planky town Orphan">
+		<card id="86d88609-05d8-445b-989b-2f159e0bb089" name="Planky Town Orphan">
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Ally."/>
@@ -2066,7 +2066,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="89"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb090" name="Salty Dornishman">
@@ -2091,7 +2091,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="90"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb091" name="Ser Cletus Yronwood">
@@ -2116,7 +2116,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="91"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb092" name="Ser Rolly Duckfield">
@@ -2141,7 +2141,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value="Naval-Power"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="92"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb093" name="Blood Magic Ritual">
@@ -2166,7 +2166,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="93"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb094" name="Guided by Quaithe">
@@ -2191,7 +2191,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="94"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb095" name="Dagger Lake Galley">
@@ -2216,7 +2216,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="95"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb096" name="Anointed by the Mother">
@@ -2241,7 +2241,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="96"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb097" name="Judged by the Father">
@@ -2266,7 +2266,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="97"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb098" name="Nurtured by the Crone">
@@ -2291,7 +2291,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="98"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb099" name="Desperate Measures">
@@ -2316,7 +2316,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="99"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb100" name="Aurane Waters">
@@ -2341,7 +2341,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value="Naval-Intrigue, Naval-Power"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="100"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb101" name="King's Landing Dromon">
@@ -2366,7 +2366,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="101"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb102" name="Qarl the Maid">
@@ -2391,7 +2391,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value="Naval-Intrigue"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="102"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb103" name="Ten Towers Longship">
@@ -2416,7 +2416,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="103"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb104" name="Longship Nightflyer">
@@ -2441,7 +2441,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="104"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb105" name="Arms of the Kraken">
@@ -2466,7 +2466,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="105"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb106" name="Shores of the Mander">
@@ -2491,7 +2491,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="106"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb107" name="Huntress">
@@ -2516,7 +2516,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="107"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb108" name="Fury">
@@ -2541,7 +2541,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="108"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb109" name="House Manderly Escort">
@@ -2566,7 +2566,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value="Naval-Power"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="109"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb110" name="Trident Guard">
@@ -2591,7 +2591,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="110"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb111" name="Call of the Three-Eyed Crow">
@@ -2616,7 +2616,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="111"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb112" name="Starfall Skirmisher">
@@ -2641,7 +2641,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="112"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb113" name="Choosing the Spear">
@@ -2666,7 +2666,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="113"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb114" name="Venomous Manticore">
@@ -2691,7 +2691,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="114"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb115" name="Randyll Tarly">
@@ -2716,7 +2716,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="115"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb116" name="Cape Wrath">
@@ -2741,7 +2741,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="116"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb117" name="The Tattered Prince">
@@ -2766,7 +2766,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="117"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb118" name="Blessed by the Maiden">
@@ -2791,7 +2791,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="118"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb119" name="Supported by the Smith">
@@ -2816,7 +2816,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="119"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="86d88609-05d8-445b-989b-2f159e0bb120" name="Favored by the Warrior">
@@ -2841,7 +2841,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="120"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 	</cards>
