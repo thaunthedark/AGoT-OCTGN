@@ -865,8 +865,8 @@
  			<property name="Power"          value=""/>
  			<property name="Crest"          value=""/>
  			<property name="GoldIncome"     value=""/>
- 			<property name="Influence"      value=""/>
- 			<property name="Initiative"     value="1"/>
+ 			<property name="Influence"      value="1"/>
+ 			<property name="Initiative"     value=""/>
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
