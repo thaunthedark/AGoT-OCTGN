@@ -1268,7 +1268,7 @@
  			<property name="Influence"      value=""/>
  			<property name="Initiative"     value=""/>
  			<property name="PlotGoldIncome" value="4"/>
- 			<property name="PlotInitiative" value="3"/>
+ 			<property name="PlotInitiative" value="4"/>
  			<property name="PlotClaim"      value="3"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
@@ -1343,7 +1343,7 @@
  			<property name="Influence"      value=""/>
  			<property name="Initiative"     value=""/>
  			<property name="PlotGoldIncome" value="5"/>
- 			<property name="PlotInitiative" value="5"/>
+ 			<property name="PlotInitiative" value="2"/>
  			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>

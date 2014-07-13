@@ -1244,7 +1244,7 @@
  			<property name="Initiative"     value=""/>
  			<property name="PlotGoldIncome" value="3"/>
  			<property name="PlotInitiative" value="3"/>
- 			<property name="PlotClaim"      value="3"/>
+ 			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
