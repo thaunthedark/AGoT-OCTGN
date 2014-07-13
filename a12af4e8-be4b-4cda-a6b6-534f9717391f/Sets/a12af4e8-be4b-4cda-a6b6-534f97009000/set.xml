@@ -188,7 +188,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: 'Response: If an opponent would win initiative, cancel the determination of initiative winner.  You win initiative instead.'"/>
+ 			<property name="ErrataText"     value="Should read: &quot;Response: If an opponent would win initiative, cancel the determination of initiative winner.  You win initiative instead.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -452,7 +452,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: '...You may run any number of The North agendas that have the words Night's Watch in their text."/>
+ 			<property name="ErrataText"     value="Should read: &quot;...You may run any number of The North agendas that have the words Night's Watch in their text.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -620,7 +620,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: 'Response: If an opponent would win dominance, cancel the determination of dominance winner.  You win dominance instead.'"/>
+ 			<property name="ErrataText"     value="Should read: &quot;Response: If an opponent would win dominance, cancel the determination of dominance winner.  You win dominance instead.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -932,7 +932,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: '...You may run any number of The North agendas that have the words Wilding in their text."/>
+ 			<property name="ErrataText"     value="Should read: &quot;...You may run any number of The North agendas that have the words Wilding in their text.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -1414,7 +1414,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: '...You may run any number of The North agendas that have the words Night's Watch in their text."/>
+ 			<property name="ErrataText"     value="Should read: &quot;...You may run any number of The North agendas that have the words Night's Watch in their text.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -1894,7 +1894,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: '...You may run any number of The North agendas that have the words Wilding in their text."/>
+ 			<property name="ErrataText"     value="Should read: &quot;...You may run any number of The North agendas that have the words Wilding in their text.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -2374,7 +2374,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: '...You may run any number of The North agendas that have the words Night's Watch in their text."/>
+ 			<property name="ErrataText"     value="Should read: &quot;...You may run any number of The North agendas that have the words Night's Watch in their text.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -2566,7 +2566,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: '...3 or more power...'"/>
+ 			<property name="ErrataText"     value="Should read: &quot;...3 or more power...&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -2856,7 +2856,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: '...You may run any number of The North agendas that have the words Wilding in their text.'  Should read: 'Reduce the cost of the first unique Wildling character you play from your hand each round by 1."/>
+ 			<property name="ErrataText"     value="Should read: &quot;...You may run any number of The North agendas that have the words Wilding in their text.&quot;  Should read: &quot;Reduce the cost of the first unique Wildling character you play from your hand each round by 1.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>

@@ -424,7 +424,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value="River."/>
-			<property name="Text"           value="When revealed, each opponent must discard 1 power from a card he or she controls, if able. Then, if this your revealed plot card, trigger the 'when revealed' effect on the top River plot card in your used pile."/>
+			<property name="Text"           value="When revealed, each opponent must discard 1 power from a card he or she controls, if able. Then, if this your revealed plot card, trigger the &quot;when revealed&quot; effect on the top River plot card in your used pile."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value=""/>
 			<property name="Cost"           value=""/>
@@ -1239,7 +1239,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Challenges: Choose a [Targaryen] character.  That character gets +2 STR until the end of the phase.  Then, attach Fire and Blood to that character (counts as a Boon attachment with the text, 'Attached character gains cannot be discarded from play')."/>
+			<property name="Text"           value="Challenges: Choose a [Targaryen] character.  That character gets +2 STR until the end of the phase.  Then, attach Fire and Blood to that character (counts as a Boon attachment with the text, &quot;Attached character gains cannot be discarded from play&quot;)."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -1328,7 +1328,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. House Clegane."/>
-			<property name="Text"           value="If you are running a character agenda or are not running an agenda, House Clegane Brigands gains: 'Response: After you win an [INT] challenge, stand House Clegane Brigands.'"/>
+			<property name="Text"           value="If you are running a character agenda or are not running an agenda, House Clegane Brigands gains: &quot;Response: After you win an [INT] challenge, stand House Clegane Brigands.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="4"/>
@@ -1372,7 +1372,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. Raider."/>
-			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Raiders of Orkmont gains: 'Response: After you win a [MIL] challenge, look at the top 3 cards of the losing opponent's deck.  Discard up to 2 of those cards.  Put the remaining cards back on the top of the deck in any order.'"/>
+			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Raiders of Orkmont gains: &quot;Response: After you win a [MIL] challenge, look at the top 3 cards of the losing opponent's deck.  Discard up to 2 of those cards.  Put the remaining cards back on the top of the deck in any order.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="4"/>
@@ -1438,7 +1438,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. Knight. House Tyrell."/>
-			<property name="Text"           value="If ou are running a character agenda or are not running an agenda, Blackcrown Knights gains: 'Response: After you win a [POW] challenge in which Blackcrown Knights participated, discard 1 card from your hand to have Blackcrown Knights claim 2 power.'"/>
+			<property name="Text"           value="If ou are running a character agenda or are not running an agenda, Blackcrown Knights gains: &quot;Response: After you win a [POW] challenge in which Blackcrown Knights participated, discard 1 card from your hand to have Blackcrown Knights claim 2 power.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="4"/>
@@ -1504,7 +1504,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. Traitor. House Karstark."/>
-			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Riders of Karhold gains: 'Response: After you win a [MIL] challenge, reveal the top card of your deck.  If it is a character add it to your hand, otherwise return it to the top of your deck.'"/>
+			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Riders of Karhold gains: &quot;Response: After you win a [MIL] challenge, reveal the top card of your deck.  If it is a character add it to your hand, otherwise return it to the top of your deck.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="4"/>
@@ -1548,7 +1548,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. House Uller."/>
-			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Host of the Boneway gains: 'Response: After you win an [INT] challenge, reveal the top card of your deck.  If it is an event card add it to your hand, otherwise return it to the top of your deck.'"/>
+			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Host of the Boneway gains: &quot;Response: After you win an [INT] challenge, reveal the top card of your deck.  If it is an event card add it to your hand, otherwise return it to the top of your deck.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="4"/>
@@ -1636,7 +1636,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Army. Dothraki."/>
-			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Braided Screamers gain: 'Response: After you play a Dothraki character of cost 3 or more, search the top 5 cards of your deck for a Dothraki character.  reveal it, and add it to your hand.  Then, shuffle your deck."/>
+			<property name="Text"           value="If you are running a character agenda or are not running an agenda, Braided Screamers gain: &quot;Response: After you play a Dothraki character of cost 3 or more, search the top 5 cards of your deck for a Dothraki character.  reveal it, and add it to your hand.  Then, shuffle your deck.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="4"/>
@@ -1912,7 +1912,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="The North."/>
-			<property name="Text"           value="Challenges: Kneel White Harbor to choose a character controlled by an opponent with 6 or more power on his or her House card.  Until the end of the phase, that caracter cannot be saved and ignores any effect that would make it 'cannot be killed.'"/>
+			<property name="Text"           value="Challenges: Kneel White Harbor to choose a character controlled by an opponent with 6 or more power on his or her House card.  Until the end of the phase, that caracter cannot be saved and ignores any effect that would make it &quot;cannot be killed.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -2080,7 +2080,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Any Phase: Put a character or location card from your hand into Shadows as if it had the [Shadow] crest.  Then, attach Guided by Quaithe to it.  (Counts as a Condition attachment with the text, 'Pay the printed gold cost of the attached card to put it into play as your Shadows action. If Guided by Quaithe becomes unattached, return attached card to it's owners hand if it is still in Shadows.'"/>
+			<property name="Text"           value="Any Phase: Put a character or location card from your hand into Shadows as if it had the [Shadow] crest.  Then, attach Guided by Quaithe to it.  (Counts as a Condition attachment with the text, &quot;Pay the printed gold cost of the attached card to put it into play as your Shadows action. If Guided by Quaithe becomes unattached, return attached card to it's owners hand if it is still in Shadows.&quot;"/>
 			<property name="Keywords"       value="House Targaryen only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value=""/>
@@ -2224,7 +2224,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Master of Ships."/>
-			<property name="Text"           value="If you have more than 1 opponent and Aurane Waters would be killed or discarded from play, instead Aurane Waters is added to the title pool (limit 1 per title pool).  As a Title, Aurane Waters gains: 'Once per round name a challenge icon.  Until the end of the phase, unique characters you control gain a Naval enhancement on that icon, if able.'"/>
+			<property name="Text"           value="If you have more than 1 opponent and Aurane Waters would be killed or discarded from play, instead Aurane Waters is added to the title pool (limit 1 per title pool).  As a Title, Aurane Waters gains: &quot;Once per round name a challenge icon.  Until the end of the phase, unique characters you control gain a Naval enhancement on that icon, if able.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -2560,7 +2560,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Creature."/>
-			<property name="Text"           value="Any Phase: Kneel 1 influence to attach Venomous Manticore to a character (counts as a Creature attachment with the text 'Attached character gets -1 STR. Any Phase: Kneel 1 influence to attach Venomous Manticore to another eligible character')."/>
+			<property name="Text"           value="Any Phase: Kneel 1 influence to attach Venomous Manticore to a character (counts as a Creature attachment with the text &quot;Attached character gets -1 STR. Any Phase: Kneel 1 influence to attach Venomous Manticore to another eligible character&quot;)."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
@@ -2632,7 +2632,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Mercenary. Traitor."/>
-			<property name="Text"           value="If The Tattered Prince would be killed, instead attach him to your House card as your only agenda with the text, 'Ignore all gold penalties when playing out-of-House Mercenary characters.  Lower the cost of the first Mercenary character you play each round by 1."/>
+			<property name="Text"           value="If The Tattered Prince would be killed, instead attach him to your House card as your only agenda with the text, &quot;Ignore all gold penalties when playing out-of-House Mercenary characters.  Lower the cost of the first Mercenary character you play each round by 1."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>

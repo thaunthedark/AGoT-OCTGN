@@ -677,7 +677,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="The East."/>
- 			<property name="Text"           value="Challenges: Kneel Mereen to choose 1 participating Dragon character you control. Until the end of the phase, that character gains 'Immune to opponents' triggered effects.' If you win the challenge draw 1 card for each participating Dragon character you control."/>
+ 			<property name="Text"           value="Challenges: Kneel Mereen to choose 1 participating Dragon character you control. Until the end of the phase, that character gains &quot;Immune to opponents' triggered effects.&quot; If you win the challenge draw 1 card for each participating Dragon character you control."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -773,7 +773,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="The East."/>
- 			<property name="Text"           value="You may choose to play Khal Drogo's Tent as an attachment on your House card. [[+1 GOLD]] [[+1 INFLUENCE]]"/>
+ 			<property name="Text"           value="You may choose to play Khal Drogo's Tent as an attachment on your House card."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -1109,7 +1109,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Agenda"/>
  			<property name="Traits"         value="Treaty."/>
- 			<property name="Text"           value="Before drawing your setup hand, name a House. Ignore the out-of-House gold penalty to play cards from that House. The House card of each opponent without a Treaty agenda gains: 'Marshalling: Kneel this card to (choose 1): draw 1 card. or add 2 gold from the treasury to your gold pool'."/>
+ 			<property name="Text"           value="Before drawing your setup hand, name a House. Ignore the out-of-House gold penalty to play cards from that House. The House card of each opponent without a Treaty agenda gains: &quot;Marshalling: Kneel this card to (choose 1): draw 1 card. or add 2 gold from the treasury to your gold pool&quot;."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value=""/>
  			<property name="Cost"           value=""/>

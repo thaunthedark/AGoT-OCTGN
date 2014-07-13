@@ -294,7 +294,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bastard. Sand Snake."/>
- 			<property name="Text"           value="Response: After you lose a challenge as the defender, Sand Snake characters you control gain: 'This character does not kneel to attack' until the end of the phase"/>
+ 			<property name="Text"           value="Response: After you lose a challenge as the defender, Sand Snake characters you control gain: &quot;This character does not kneel to attack&quot; until the end of the phase"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="1"/>
@@ -534,7 +534,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition."/>
- 			<property name="Text"           value="Attach to an opponent's House Card.&#10;Attached House card gains: 'Characters you control get +2 STR during [MIL] challenges.'&#10;After the owner of attached House Card wins a [MIL] challenge, claim 1 power for your House if you have more than 1 opponent."/>
+ 			<property name="Text"           value="Attach to an opponent's House Card.&#10;Attached House card gains: &quot;Characters you control get +2 STR during [MIL] challenges.&quot;&#10;After the owner of attached House Card wins a [MIL] challenge, claim 1 power for your House if you have more than 1 opponent."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -558,7 +558,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally."/>
- 			<property name="Text"           value="If you have more than one opponent Varys gains: 'Response: After an opponent declares a challenge, put Varys into Shadows to redirect the challenge against an eligible opponent of your choice, ignoring any Title restrictions.'"/>
+ 			<property name="Text"           value="If you have more than one opponent Varys gains: &quot;Response: After an opponent declares a challenge, put Varys into Shadows to redirect the challenge against an eligible opponent of your choice, ignoring any Title restrictions.&quot;"/>
  			<property name="Keywords"       value="House Lannister only. Stealth."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="s2"/>
@@ -750,7 +750,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Dothraki. Army."/>
- 			<property name="Text"           value="If you have more than 1 opponent, Khaleesi's Faithful gains: 'Limited Response: afer Khaleesi's Faithful is declared as a defender, move 1 power from a card controlled by the attacking player to your House card. (Limit 1 Limited Response per round.)'"/>
+ 			<property name="Text"           value="If you have more than 1 opponent, Khaleesi's Faithful gains: &quot;Limited Response: afer Khaleesi's Faithful is declared as a defender, move 1 power from a card controlled by the attacking player to your House card. (Limit 1 Limited Response per round.)&quot;"/>
  			<property name="Keywords"       value="No attachments."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="4"/>
@@ -846,7 +846,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Asshai. Brotherhood."/>
- 			<property name="Text"           value="If you have more than 1 opponent Thoros of Myr gains: 'While Thoros of Myr is attacking, non-unique characters cannot defend alone."/>
+ 			<property name="Text"           value="If you have more than 1 opponent Thoros of Myr gains: &quot;While Thoros of Myr is attacking, non-unique characters cannot defend alone.&quot;"/>
  			<property name="Keywords"       value="Melee. Renown."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
@@ -1014,7 +1014,7 @@
  			<property name="House"          value="Lannister. Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lady."/>
- 			<property name="Text"           value="If you have more than 1 opponent, Myrcella Lannister gains: 'Any Phase: Kneel Myrcella Lannister to choose an opponent.  Exchange Titles with that player.'"/>
+ 			<property name="Text"           value="If you have more than 1 opponent, Myrcella Lannister gains: &quot;Any Phase: Kneel Myrcella Lannister to choose an opponent.  Exchange Titles with that player.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -1029,7 +1029,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="The Any Phase ability should have the text: 'This effect cannot be triggered during a challenge.'"/>
+ 			<property name="ErrataText"     value="The Any Phase ability should have the text: &quot;This effect cannot be triggered during a challenge.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -1471,7 +1471,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. House Karstark."/>
- 			<property name="Text"           value="Rickard Karstark does not kneel to attack during [MIL] challenges.&#10;If you are not running an agenda, Rickard Karstark gains: 'Response: After 1 or more of an opponent's characters are killed for [MIL] claim, Rickard Karstark claims 1 power.'"/>
+ 			<property name="Text"           value="Rickard Karstark does not kneel to attack during [MIL] challenges.&#10;If you are not running an agenda, Rickard Karstark gains: &quot;Response: After 1 or more of an opponent's characters are killed for [MIL] claim, Rickard Karstark claims 1 power.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
@@ -1639,7 +1639,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. Ironborn."/>
- 			<property name="Text"           value="While Theon Greyjoy is in your dead pile, he gains: 'At the beginning of the dominance phase, discard the top card of each opponent's deck.&#10;Response: After a unique character is discarded from the top of an opponent's deck, put Theon Greyjoy into play from your dead pile.'"/>
+ 			<property name="Text"           value="While Theon Greyjoy is in your dead pile, he gains: &quot;At the beginning of the dominance phase, discard the top card of each opponent's deck.&#10;Response: After a unique character is discarded from the top of an opponent's deck, put Theon Greyjoy into play from your dead pile.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Infinity. Yes."/>
  			<property name="Cost"           value="2"/>
@@ -2640,7 +2640,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: '...Then, that character's controller must either pay you 1 gold or kill that character.'"/>
+ 			<property name="ErrataText"     value="Should read: &quot;...Then, that character's controller must either pay you 1 gold or kill that character.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>

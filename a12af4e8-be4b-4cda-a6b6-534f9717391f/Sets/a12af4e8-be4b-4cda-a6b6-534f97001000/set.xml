@@ -749,7 +749,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Ally."/>
-			<property name="Text"           value="Kennel Master gets +1 STR for each Direwolf in play.  While you control 3 or more Direwolf cards, Kennel Master gains: 'Response: Save Kennel Master from being killed or discarded, and return him to his owner's hand.'"/>
+			<property name="Text"           value="Kennel Master gets +1 STR for each Direwolf in play.  While you control 3 or more Direwolf cards, Kennel Master gains: &quot;Response: Save Kennel Master from being killed or discarded, and return him to his owner's hand.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="2"/>
@@ -3773,7 +3773,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Challenges: Choose a character. Until the end of the phase, that character gains deadly. Then, attach I'm You Writ Small to a [Lannister] character (counts as a Boon attachment with the text ';Attached character gets +2 STR';)."/>
+			<property name="Text"           value="Challenges: Choose a character. Until the end of the phase, that character gains deadly. Then, attach I'm You Writ Small to a [Lannister] character (counts as a Boon attachment with the text &quot;Attached character gets +2 STR&quot;)."/>
 			<property name="Keywords"       value="House Lannister only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -4230,7 +4230,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="When revealed, copy the ';when revealed'; ability of an opponent's revealed plot card."/>
+			<property name="Text"           value="When revealed, copy the &quot;when revealed&quot; ability of an opponent's revealed plot card."/>
 			<property name="Crest"          value=""/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value=""/>

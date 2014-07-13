@@ -380,7 +380,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should Read: '...one card with the printed Raven trait from play..."/>
+ 			<property name="ErrataText"     value="Should Read: &quot;...one card with the printed Raven trait from play...&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -389,7 +389,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="King's Landing."/>
- 			<property name="Text"           value="If it is not Winter, Lion's Gate gains: ';Any Phase: Kneel Lion's Gate to discard 1 power from a non-House card in play. Then, give that card a Trait of your choice until the end of the phase.';"/>
+ 			<property name="Text"           value="If it is not Winter, Lion's Gate gains: &quot;Any Phase: Kneel Lion's Gate to discard 1 power from a non-House card in play. Then, give that card a Trait of your choice until the end of the phase.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="0"/>
@@ -404,7 +404,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: '...to discard 1 power from a non-House card in place...'"/>
+ 			<property name="ErrataText"     value="Should read: &quot;...to discard 1 power from a non-House card in place...&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -677,7 +677,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Conscriptor."/>
- 			<property name="Text"           value="If it is Winter, Ice Fisherman gains a [POW] icon and: 'Marshalling: Kneel Ice Fisherman to take 1 gold token from any opponent's gold pool, and add it to your gold pool.';"/>
+ 			<property name="Text"           value="If it is Winter, Ice Fisherman gains a [POW] icon and: &quot;Marshalling: Kneel Ice Fisherman to take 1 gold token from any opponent's gold pool, and add it to your gold pool.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -773,7 +773,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Wildling. King."/>
- 			<property name="Text"           value="Power on Kingdom locations counts towards their controller's victory total. If it is Winter, Mance Rayder gains: ';Response: After you win a challenge in which Mance Rayder participated, take control of a Kingdom location controlled by the losing opponent. Then, that location claims 1 power.';"/>
+ 			<property name="Text"           value="Power on Kingdom locations counts towards their controller's victory total. If it is Winter, Mance Rayder gains: &quot;Response: After you win a challenge in which Mance Rayder participated, take control of a Kingdom location controlled by the losing opponent. Then, that location claims 1 power.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -1013,7 +1013,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Weapon."/>
- 			<property name="Text"           value="If it is Winter, Burning Sword gains: ';Any Phase: Kneel Burning Sword to give attached character +2 STR and 'immune to card effects' until the end of the phase.';"/>
+ 			<property name="Text"           value="If it is Winter, Burning Sword gains: &quot;Any Phase: Kneel Burning Sword to give attached character +2 STR and &quot;immune to card effects&quot; until the end of the phase.&quot;"/>
  			<property name="Keywords"       value="Unique character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -1172,7 +1172,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="The 'Any Phase' ability should read: 'Response: If it is not...'"/>
+ 			<property name="ErrataText"     value="The &quot;Any Phase&quot; ability should read: &quot;Response: If it is not...&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -1518,7 +1518,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. King."/>
- 			<property name="Text"           value="If Renly Baratheon is the only King in play, he gains: ';After you win a [POW] challenge and there is at least 1 Power Struggle plot card revealed, draw a card.';"/>
+ 			<property name="Text"           value="If Renly Baratheon is the only King in play, he gains: &quot;After you win a [POW] challenge and there is at least 1 Power Struggle plot card revealed, draw a card.&quot;"/>
  			<property name="Keywords"       value="Renown."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -1557,7 +1557,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should be: 'Limit once per attachment per phase.'"/>
+ 			<property name="ErrataText"     value="Should be: &quot;Limit once per attachment per phase.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -2133,7 +2133,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: '...If that opponent does not kneel a character he or she controls with higher STR than...'"/>
+ 			<property name="ErrataText"     value="Should read: &quot;...If that opponent does not kneel a character he or she controls with higher STR than...&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -2238,7 +2238,7 @@
  			<property name="House"          value="Stark. Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally. Traitor."/>
- 			<property name="Text"           value="If it is Winter, Bandit of Winter gains: ';After this card is played from your hand, discard a [Stark] or [Greyjoy] location from play.';"/>
+ 			<property name="Text"           value="If it is Winter, Bandit of Winter gains: &quot;After this card is played from your hand, discard a [Stark] or [Greyjoy] location from play.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -2262,7 +2262,7 @@
  			<property name="House"          value="Lannister. Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally. Traitor."/>
- 			<property name="Text"           value="If it is not Summer or Winter, River Bandit gains: ';After this card is played from your hand, discard a [Baratheon] or [Lannister] location from play.';"/>
+ 			<property name="Text"           value="If it is not Summer or Winter, River Bandit gains: &quot;After this card is played from your hand, discard a [Baratheon] or [Lannister] location from play.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -2286,7 +2286,7 @@
  			<property name="House"          value="Martell. Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Ally. Traitor."/>
- 			<property name="Text"           value="If it is Summer, Bandit of Summer gains: ';After this card is played from your hand, discard a [Targaryen] or [Martell] location from play.';"/>
+ 			<property name="Text"           value="If it is Summer, Bandit of Summer gains: &quot;After this card is played from your hand, discard a [Targaryen] or [Martell] location from play.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -2335,7 +2335,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Wildling. Refugee."/>
- 			<property name="Text"           value="If it is Winter, discard Gilly from play. If it is Summer, Gilly gains +2 STR, a [POW] icon, and ';After you win a challenge in which Gilly participated, draw a card.';"/>
+ 			<property name="Text"           value="If it is Winter, discard Gilly from play. If it is Summer, Gilly gains +2 STR, a [POW] icon, and &quot;After you win a challenge in which Gilly participated, draw a card.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="0"/>
@@ -2374,7 +2374,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: '...a single challenge of his or her choice...'"/>
+ 			<property name="ErrataText"     value="Should read: &quot;...a single challenge of his or her choice...&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Melee."/>
 			<property name="Rarity"		    value="F"/>

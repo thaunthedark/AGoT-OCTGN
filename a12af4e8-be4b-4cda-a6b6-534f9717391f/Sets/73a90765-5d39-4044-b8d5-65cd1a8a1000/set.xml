@@ -221,7 +221,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Bannerman. House Dayne."/>
-			<property name="Text"           value="Any Phase: Discard a card from your hand to choose X characters. Until the end of the phase, those characters gain, 'immune to events.' X is the number of Bannerman characters you control."/>
+			<property name="Text"           value="Any Phase: Discard a card from your hand to choose X characters. Until the end of the phase, those characters gain, &quot;immune to events.&quot; X is the number of Bannerman characters you control."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -582,7 +582,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Warship."/>
-			<property name="Text"           value="If it is not Summer, Longship Great Kraken gains, 'Dominance: Each opponent must discard the top X cards of his or her deck, where X is the number of characters in his or her dead pile. (Limit once per round)'"/>
+			<property name="Text"           value="If it is not Summer, Longship Great Kraken gains, &quot;Dominance: Each opponent must discard the top X cards of his or her deck, where X is the number of characters in his or her dead pile. (Limit once per round)&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
@@ -702,7 +702,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lady. Bastard."/>
-			<property name="Text"           value="While it is Summer, Ellaria Sand gains: 'Response: After an opponent plays or puts a character into play, Ellaria Sand claims 2 power if that player controls more characters than you. (Limit 3 times per phase.)'"/>
+			<property name="Text"           value="While it is Summer, Ellaria Sand gains: &quot;Response: After an opponent plays or puts a character into play, Ellaria Sand claims 2 power if that player controls more characters than you. (Limit 3 times per phase.)&quot;"/>
 			<property name="Keywords"       value="House Martell only. Stealth."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -774,7 +774,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Skinchanger. Lord."/>
-			<property name="Text"           value="If it is Winter, Bran Stark gains, 'Challenges: During a challenge, kneel Bran Stark to choose and kneel a standing, non-participating, non-Army character with higher STR than printed cost.  That character is now participating in the current challenge on your side."/>
+			<property name="Text"           value="If it is Winter, Bran Stark gains, &quot;Challenges: During a challenge, kneel Bran Stark to choose and kneel a standing, non-participating, non-Army character with higher STR than printed cost.  That character is now participating in the current challenge on your side.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -822,7 +822,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Dominance: If you are running a Seasons agenda, search your deck for a non-Raven card with either the work 'Summer' or 'Winter' in its text box, reveal it, and add it to your hand.  Then, shuffle your deck."/>
+			<property name="Text"           value="Dominance: If you are running a Seasons agenda, search your deck for a non-Raven card with either the work &quot;Summer&quot; or &quot;Winter&quot; in its text box, reveal it, and add it to your hand.  Then, shuffle your deck."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -1472,7 +1472,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. King."/>
-			<property name="Text"           value="If it is Winter, Stannis Baratheon gets +1 STR and gains, 'Response: After you play an event card, choose a character without any power on it. That character claims 1 power.'"/>
+			<property name="Text"           value="If it is Winter, Stannis Baratheon gets +1 STR and gains, &quot;Response: After you play an event card, choose a character without any power on it. That character claims 1 power.&quot;"/>
 			<property name="Keywords"       value="House Baratheon only. Renown."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
@@ -1736,7 +1736,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Bastard. Night's Watch. Wildling."/>
-			<property name="Text"           value="Your Wildling characters get +1 STR. Your Night's Watch characters gain 'immune to events'."/>
+			<property name="Text"           value="Your Wildling characters get +1 STR. Your Night's Watch characters gain &quot;immune to events&quot;."/>
 			<property name="Keywords"       value="Deadly."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -2216,7 +2216,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Brotherhood."/>
-			<property name="Text"           value="While any opponent's House card has more power than your House card, Harwin gains, 'Response: After you win a [MIL] challenge, search your deck for a card, shuffle your deck, and then put that card on top of your deck.'"/>
+			<property name="Text"           value="While any opponent's House card has more power than your House card, Harwin gains, &quot;Response: After you win a [MIL] challenge, search your deck for a card, shuffle your deck, and then put that card on top of your deck.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -2288,7 +2288,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Brotherhood. Ally. Bastard."/>
-			<property name="Text"           value="While any opponent's House card has more power than your House card, Gendry gains, 'Response: After you win a challenge in which Gendry participated, move 1 power from the losing player's House card to Gendry'"/>
+			<property name="Text"           value="While any opponent's House card has more power than your House card, Gendry gains, &quot;Response: After you win a challenge in which Gendry participated, move 1 power from the losing player's House card to Gendry&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
@@ -2312,7 +2312,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Brotherhood."/>
-			<property name="Text"           value="While any opponent's House card has more power than your House card, Lady of the Leaves gains, 'Any Phase: Kneel Lady of the Leaves to choose a character. Until the end of the phase, treat that character as if its printed text box were blank.'"/>
+			<property name="Text"           value="While any opponent's House card has more power than your House card, Lady of the Leaves gains, &quot;Any Phase: Kneel Lady of the Leaves to choose a character. Until the end of the phase, treat that character as if its printed text box were blank.&quot;"/>
 			<property name="Keywords"       value="Immune to events."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -2504,7 +2504,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Location"/>
 			<property name="Traits"         value="Warship."/>
-			<property name="Text"           value="Challenges: During a challenge, kneel Longship Mainden's Bane to have it participate in the current challenge on your side as a character with 'cannot be killed' and X STR. X is the number of Warship cards you control."/>
+			<property name="Text"           value="Challenges: During a challenge, kneel Longship Mainden's Bane to have it participate in the current challenge on your side as a character with &quot;cannot be killed&quot; and X STR. X is the number of Warship cards you control."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -2697,7 +2697,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Citadel."/>
-			<property name="Text"           value="If you are not running an agenda, Allerase gains: Response: After an opponent running an agenda wins a challenge as the attacker against you, name a challenge type.  That player cannot declare attackers or defenders during that challenge type until the end of the phase. (Limit once per phase.)"/>
+			<property name="Text"           value="If you are not running an agenda, Allerase gains: &quot;Response: After an opponent running an agenda wins a challenge as the attacker against you, name a challenge type.  That player cannot declare attackers or defenders during that challenge type until the end of the phase. (Limit once per phase.)&quot;"/>
 			<property name="Keywords"       value="No attachments."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>

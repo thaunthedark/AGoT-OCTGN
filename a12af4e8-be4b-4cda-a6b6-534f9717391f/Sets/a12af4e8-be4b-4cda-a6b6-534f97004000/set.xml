@@ -1101,7 +1101,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="The Any Phase ability should have the text: 'Limit 3 times per phase.'"/>
+ 			<property name="ErrataText"     value="The Any Phase ability should have the text: &quot;Limit 3 times per phase.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -2470,7 +2470,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should Read: 'Limited response: After a card comes out of Shadows, kneel Alchemist's Guild Hall to choose and kneel a character or location that does not have the [Shadow] crest. (Limit 1 limited response per round.)'"/>
+ 			<property name="ErrataText"     value="Should Read: &quot;Limited response: After a card comes out of Shadows, kneel Alchemist's Guild Hall to choose and kneel a character or location that does not have the [Shadow] crest. (Limit 1 limited response per round.)&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>

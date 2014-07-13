@@ -461,7 +461,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Response: Save a [Greyjoy] character from being killed. Then attach this card to the saved character (counts as a Condition attachment with the text ';Attached character gets +1 STR.';)"/>
+			<property name="Text"           value="Response: Save a [Greyjoy] character from being killed. Then attach this card to the saved character (counts as a Condition attachment with the text &quot;Attached character gets +1 STR.&quot;)"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -773,7 +773,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. King."/>
-			<property name="Text"           value="If Robb Stark is the only King character in play, he gains: 'Any Phase: Kneel Robb Stark to reduce the cost of the next [Stark] army you play this phase to 0.';"/>
+			<property name="Text"           value="If Robb Stark is the only King character in play, he gains: &quot;Any Phase: Kneel Robb Stark to reduce the cost of the next [Stark] army you play this phase to 0.&quot;"/>
 			<property name="Keywords"       value="Renown."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
@@ -821,7 +821,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. King."/>
-			<property name="Text"           value="If Robert Baratheon is the only King character in play, he gains: ';Any Phase: Kneel Robert Baratheon to play an ';Any Phase'; event card from your discard pile as if you just played it from your hand. Then, shuffle that event card back into your deck.';"/>
+			<property name="Text"           value="If Robert Baratheon is the only King character in play, he gains: &quot;Any Phase: Kneel Robert Baratheon to play an &quot;Any Phase&quot; event card from your discard pile as if you just played it from your hand. Then, shuffle that event card back into your deck.&quot;"/>
 			<property name="Keywords"       value="Renown."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
@@ -845,7 +845,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. King."/>
-			<property name="Text"           value="If Viserys Targaryen is the only King character in play, he gains: 'Each attachment on Viserys Targaryen reduces the amount of power you need to win the game by 1.'"/>
+			<property name="Text"           value="If Viserys Targaryen is the only King character in play, he gains: &quot;Each attachment on Viserys Targaryen reduces the amount of power you need to win the game by 1.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
@@ -869,7 +869,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lady. Queen."/>
-			<property name="Text"           value="If Myrcella Lannister is the only Queen character in play, she gains: 'Any Phase: Kneel Myrcella Lannister to choose a Knight character. Until the end of the phase, that character gains an [INT] icon and stealth.'"/>
+			<property name="Text"           value="If Myrcella Lannister is the only Queen character in play, she gains: &quot;Any Phase: Kneel Myrcella Lannister to choose a Knight character. Until the end of the phase, that character gains an [INT] icon and stealth.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>

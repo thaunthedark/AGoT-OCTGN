@@ -188,7 +188,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="The response effect should be: 'Limit 3 times per round.'"/>
+ 			<property name="ErrataText"     value="The response effect should be: &quot;Limit 3 times per round.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -293,7 +293,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Maester. House Hightower."/>
- 			<property name="Text"           value="If Oldtown Advisor has at least 2 Chain attachments attached, it gains: 'Response: Kneel Oldtown Advisor to cancel the effects of an event card just played'"/>
+ 			<property name="Text"           value="If Oldtown Advisor has at least 2 Chain attachments attached, it gains: &quot;Response: Kneel Oldtown Advisor to cancel the effects of an event card just played&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -317,7 +317,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="House Hightower."/>
- 			<property name="Text"           value="Leyton Hightower cannot be saved. Maester characters you control gain: 'immune to opponents' events and attachments'"/>
+ 			<property name="Text"           value="Leyton Hightower cannot be saved. Maester characters you control gain: &quot;immune to opponents' events and attachments&quot;"/>
  			<property name="Keywords"       value="No attachments. Renown."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
@@ -452,7 +452,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: '...attach 1 Chain from this card to a printed Maester character you control.'"/>
+ 			<property name="ErrataText"     value="Should read: &quot;...attach 1 Chain from this card to a printed Maester character you control.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Joust. Melee."/>
 			<property name="Rarity"		    value="F"/>
@@ -477,7 +477,7 @@
  			<property name="PlotGoldIncome" value="3"/>
  			<property name="PlotInitiative" value="1"/>
  			<property name="PlotClaim"      value="1"/>
- 			<property name="ErrataText"     value="Should read: '...search your deck for a neutral or in-House Maester character of printed cost 3 or lower..."/>
+ 			<property name="ErrataText"     value="Should read: &quot;...search your deck for a neutral or in-House Maester character of printed cost 3 or lower...&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -813,7 +813,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: '...to choose an opponent's character of equal or lower printed cost...'"/>
+ 			<property name="ErrataText"     value="Should read: &quot;...to choose an opponent's character of equal or lower printed cost...&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -1062,7 +1062,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Maester. House Tyrell."/>
- 			<property name="Text"           value="Any Phase: Kneel Maester Lomys and discard 1 power each from any number of characters you control to have each of those characters gain 'cannot be killed' until the end of the phase."/>
+ 			<property name="Text"           value="Any Phase: Kneel Maester Lomys and discard 1 power each from any number of characters you control to have each of those characters gain &quot;cannot be killed&quot; until the end of the phase."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -1134,7 +1134,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Maester. House Goodbrother."/>
- 			<property name="Text"           value="During the marshalling phase, Maester Murenmure gains: 'Response: Kneel Maester Murenmure to cancel a triggered effect.'"/>
+ 			<property name="Text"           value="During the marshalling phase, Maester Murenmure gains: &quot;Response: Kneel Maester Murenmure to cancel a triggered effect.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="2"/>
@@ -1906,7 +1906,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Plot"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Response: Kneel a [Learned] character to cancel the 'when revealed' effects of a plot card just revealed."/>
+ 			<property name="Text"           value="Response: Kneel a [Learned] character to cancel the &quot;when revealed&quot; effects of a plot card just revealed."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value=""/>
  			<property name="Cost"           value=""/>
@@ -2161,7 +2161,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should have the trait: 'The East'"/>
+ 			<property name="ErrataText"     value="Should have the trait: &quot;The East&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -2242,7 +2242,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Maester."/>
- 			<property name="Text"           value="Response: After Archmaester Marwyn is killed, resolve the 'when revealed' effect of any plot card in any player's used pile."/>
+ 			<property name="Text"           value="Response: After Archmaester Marwyn is killed, resolve the &quot;when revealed&quot; effect of any plot card in any player's used pile."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="4"/>
@@ -2410,7 +2410,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Maester. House Humber."/>
- 			<property name="Text"           value="Your creature characters get +1 STR. If it is Winter, Maester of Last Hearth gains: 'Response: Kneel Maester of Last Hearth to save a Creature from being killed or discarded from play.'"/>
+ 			<property name="Text"           value="Your creature characters get +1 STR. If it is Winter, Maester of Last Hearth gains: &quot;Response: Kneel Maester of Last Hearth to save a Creature from being killed or discarded from play.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>

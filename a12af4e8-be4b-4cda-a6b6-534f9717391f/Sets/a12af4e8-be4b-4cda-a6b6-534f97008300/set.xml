@@ -1149,7 +1149,7 @@
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
-			<property name="ErrataText"     value="Should read: '... that were killed or discarded from play this phase. (Limit one per phase.)'"/>
+			<property name="ErrataText"     value="Should read: &quot;... that were killed or discarded from play this phase. (Limit one per phase.)&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Joust. Melee."/>
 			<property name="Rarity"		    value="F"/>

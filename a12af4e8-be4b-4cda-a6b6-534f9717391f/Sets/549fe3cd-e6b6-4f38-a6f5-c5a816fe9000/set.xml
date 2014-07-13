@@ -5,7 +5,7 @@
 			<property name="House" 			value="Neutral."/>
 			<property name="Type" 			value="Agenda"/>
 			<property name="Traits" 		value="Agenda."/>
-			<property name="Text" 			value="When you announce your agenda, name a House.  Ignore the out-of-House gold penalty when playing cards or placing setup cards with that affiliation.&#10;&#10;Your out-of-House character and attachment cards gain 'prized 1' while leaving play.  Your out-of-House location cards with that affiliation gain 'prized 2' while leaving play."/>
+			<property name="Text" 			value="When you announce your agenda, name a House.  Ignore the out-of-House gold penalty when playing cards or placing setup cards with that affiliation.&#10;&#10;Your out-of-House character and attachment cards gain &quot;prized 1&quot; while leaving play.  Your out-of-House location cards with that affiliation gain &quot;prized 2&quot; while leaving play."/>
 			<property name="Keywords" 		value=""/>
 			<property name="Unique" 		value=""/>
 			<property name="Cost" 			value=""/>
@@ -29,7 +29,7 @@
 			<property name="House" 			value="Neutral."/>
 			<property name="Type" 			value="Agenda"/>
 			<property name="Traits" 		value="Agenda."/>
-			<property name="Text" 			value="Your plot deck must contain exactly 10 plot cards.&#10;&#10;Each of your plot cards gain 'prized 1' while moving to your used pile."/>
+			<property name="Text" 			value="Your plot deck must contain exactly 10 plot cards.&#10;&#10;Each of your plot cards gain &quot;prized 1&quot; while moving to your used pile."/>
 			<property name="Keywords" 		value=""/>
 			<property name="Unique" 		value=""/>
 			<property name="Cost" 			value=""/>
@@ -893,7 +893,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Fool. Mercenary."/>
-			<property name="Text"           value="If you are running the Neutral Faction House card, Shagwell gains, 'Response: After you play a Mercenary character, choose and kneel a non-Army character. (Limit once per round.)'"/>
+			<property name="Text"           value="If you are running the Neutral Faction House card, Shagwell gains, &quot;Response: After you play a Mercenary character, choose and kneel a non-Army character. (Limit once per round.)&quot;"/>
 			<property name="Keywords"       value="Prized 1. Deadly."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -1157,7 +1157,7 @@
 			<property name="House"          value="Martell."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Knight. Bastard."/>
-			<property name="Text"           value="The first event card played by an opponent each round gains 'prized 1' if The Bastard of Godsgrace is standing."/>
+			<property name="Text"           value="The first event card played by an opponent each round gains &quot;prized 1&quot; if The Bastard of Godsgrace is standing."/>
 			<property name="Keywords"       value="Stealth."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -1541,7 +1541,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Title."/>
-			<property name="Text"           value="Attach to your House card.&#10;&#10;Response: After you play a prized card, kneel King of the Isles. Then, until the end of the round King of the Isles gains: 'Response: Kneel attached House card to cancel a triggered effect.'"/>
+			<property name="Text"           value="Attach to your House card.&#10;&#10;Response: After you play a prized card, kneel King of the Isles. Then, until the end of the round King of the Isles gains: &quot;Response: Kneel attached House card to cancel a triggered effect.&quot;"/>
 			<property name="Keywords"       value="Prized 3."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
@@ -1733,7 +1733,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Lord. Knight. House Tully."/>
-			<property name="Text"           value="While The Blackfish is attacking, each character that dies for [MIL] claim gains 'prized 1.'"/>
+			<property name="Text"           value="While The Blackfish is attacking, each character that dies for [MIL] claim gains &quot;prized 1.&quot;"/>
 			<property name="Keywords"       value="Prized 2. Renown."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
@@ -1757,7 +1757,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Title."/>
-			<property name="Text"           value="Attach to your House card.&#10;&#10;Response: After you play a prized card, kneel attached House card to choose a character. That character gains stealth and 'does not kneel to defend' until the end of the round."/>
+			<property name="Text"           value="Attach to your House card.&#10;&#10;Response: After you play a prized card, kneel attached House card to choose a character. That character gains stealth and &quot;does not kneel to defend&quot; until the end of the round."/>
 			<property name="Keywords"       value="Prized 2."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
@@ -1829,7 +1829,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Title."/>
-			<property name="Text"           value="Attach to your House card.&#10;&#10;Response: After you play a prized card, kneel attached House card to choose a character. That character gains deadly and 'Does not kneel to attack or defend during [POW] challenges' until the end of the round."/>
+			<property name="Text"           value="Attach to your House card.&#10;&#10;Response: After you play a prized card, kneel attached House card to choose a character. That character gains deadly and &quot;Does not kneel to attack or defend during [POW] challenges&quot; until the end of the round."/>
 			<property name="Keywords"       value="Prized 2."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>

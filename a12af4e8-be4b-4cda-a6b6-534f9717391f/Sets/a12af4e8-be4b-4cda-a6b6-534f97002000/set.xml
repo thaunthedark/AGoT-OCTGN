@@ -121,11 +121,11 @@
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97002006" name="Longship 'Foamdrinker'">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97002006" name="Longship &quot;Foamdrinker&quot;">
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Warship."/>
- 			<property name="Text"           value="Limited Response: After you win a challenge, kneel Longship 'Foamdrinker'; to choose and kill a participating character. (Limit 1 Limited Response per round.)"/>
+ 			<property name="Text"           value="Limited Response: After you win a challenge, kneel Longship &quot;Foamdrinker&quot; to choose and kill a participating character. (Limit 1 Limited Response per round.)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -647,7 +647,7 @@
  			<property name="PlotGoldIncome" value="5"/>
  			<property name="PlotInitiative" value="7"/>
  			<property name="PlotClaim"      value="1"/>
- 			<property name="ErrataText"     value="Should read: '...Take control of that character until the end of the phase.'"/>
+ 			<property name="ErrataText"     value="Should read: &quot;...Take control of that character until the end of the phase.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Joust. Melee."/>
 			<property name="Rarity"		    value="F"/>
@@ -795,7 +795,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="Should read: 'Challenges: Kneel Toll Gate to choose a non-unique, participating character.  Stand that character, and remove it from the challenge.'"/>
+ 			<property name="ErrataText"     value="Should read: &quot;Challenges: Kneel Toll Gate to choose a non-unique, participating character.  Stand that character, and remove it from the challenge.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -972,7 +972,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Creature. Direwolf."/>
- 			<property name="Text"           value="While every character you control has the [Stark] affiliation, Feral Pack gains: 'All Direwolf characters gain deadly, and all non-Direwolf characters lose deadly.'"/>
+ 			<property name="Text"           value="While every character you control has the [Stark] affiliation, Feral Pack gains: &quot;All Direwolf characters gain deadly, and all non-Direwolf characters lose deadly.&quot;"/>
  			<property name="Keywords"       value="No attachments."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -1875,7 +1875,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="A card of the specified type must first be played at a reduced cost for the 'then' effect to occur."/>
+ 			<property name="ErrataText"     value="A card of the specified type must first be played at a reduced cost for the &quot;then&quot; effect to occur."/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -1899,7 +1899,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="A card of the specified type must first be played at a reduced cost for the 'then' effect to occur."/>
+ 			<property name="ErrataText"     value="A card of the specified type must first be played at a reduced cost for the &quot;then&quot; effect to occur."/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -1923,7 +1923,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="A card of the specified type must first be played at a reduced cost for the 'then' effect to occur."/>
+ 			<property name="ErrataText"     value="A card of the specified type must first be played at a reduced cost for the &quot;then&quot; effect to occur."/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -2653,7 +2653,7 @@
  			<property name="House"          value="Stark."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bannerman."/>
- 			<property name="Text"           value="Response: After you win a [MIL] challenge, you may attach Banner for the North (from play or from your hand) to a [Stark] character as a Banner attachment with the text: 'Attached character gains stalwart.'"/>
+ 			<property name="Text"           value="Response: After you win a [MIL] challenge, you may attach Banner for the North (from play or from your hand) to a [Stark] character as a Banner attachment with the text: &quot;Attached character gains stalwart.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -2725,7 +2725,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bannerman."/>
- 			<property name="Text"           value="Response: After you win a [POW] challenge, you may attach Banner for the Storm (from play or from your hand) to a [Baratheon] character as a Banner attachment with the text: 'Attached character gains vigilant.'"/>
+ 			<property name="Text"           value="Response: After you win a [POW] challenge, you may attach Banner for the Storm (from play or from your hand) to a [Baratheon] character as a Banner attachment with the text: &quot;Attached character gains vigilant.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -2773,7 +2773,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bannerman."/>
- 			<property name="Text"           value="Response: After you win a [MIL] challenge, you may attach Banner for the Kraken (from play or from your hand) to a [Greyjoy] character as a Banner attachment with the text: 'Attached character gains Intimidate.'"/>
+ 			<property name="Text"           value="Response: After you win a [MIL] challenge, you may attach Banner for the Kraken (from play or from your hand) to a [Greyjoy] character as a Banner attachment with the text: &quot;Attached character gains Intimidate.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>
@@ -2821,7 +2821,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bannerman."/>
- 			<property name="Text"           value="Response: After a character with ambush enters play, attach Banner for the Dragon to that character, if able. (Counts as a Banner attachment with the text: 'Any Phase: Discard Banner for the Dragon from play to return attached character to its owner's hand.')"/>
+ 			<property name="Text"           value="Response: After a character with ambush enters play, attach Banner for the Dragon to that character, if able. (Counts as a Banner attachment with the text: &quot;Any Phase: Discard Banner for the Dragon from play to return attached character to its owner's hand.&quot;)"/>
  			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
@@ -2845,7 +2845,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Bannerman."/>
- 			<property name="Text"           value="Response: After you win an [INT] challenge, you may attach Banner for the South (from play or from your hand) to a [Martell] character as a Banner attachment with the text: 'Attached character gains vengeful.'"/>
+ 			<property name="Text"           value="Response: After you win an [INT] challenge, you may attach Banner for the South (from play or from your hand) to a [Martell] character as a Banner attachment with the text: &quot;Attached character gains vengeful.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="3"/>

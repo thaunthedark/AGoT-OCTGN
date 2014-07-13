@@ -1268,7 +1268,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="The Blood Crazed Screamer must be eligible to participate as an attacker to declare a second [MIL] challenge using its card ability. Once this effect initiates when the Blood Crazed Screamer's controller wins his first [MIL] challenge as an attacker, the 'to a maximum of 2' card text applies to any additional [MIL] challenge that player would initiate."/>
+ 			<property name="ErrataText"     value="The Blood Crazed Screamer must be eligible to participate as an attacker to declare a second [MIL] challenge using its card ability. Once this effect initiates when the Blood Crazed Screamer's controller wins his first [MIL] challenge as an attacker, the &quot;to a maximum of 2&quot; card text applies to any additional [MIL] challenge that player would initiate."/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -1412,7 +1412,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="The 'Other cards you control do not provide a gold bonus' text does not apply to the +2 gold gained by your House card from this agenda."/>
+ 			<property name="ErrataText"     value="The &quot;Other cards you control do not provide a gold bonus&quot; text does not apply to the +2 gold gained by your House card from this agenda."/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -1868,7 +1868,7 @@
  			<property name="PlotGoldIncome" value=""/>
  			<property name="PlotInitiative" value=""/>
  			<property name="PlotClaim"      value=""/>
- 			<property name="ErrataText"     value="The Any Phase effect should read: 'Response:'"/>
+ 			<property name="ErrataText"     value="The Any Phase effect should read: &quot;Response:&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
@@ -2237,7 +2237,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Condition."/>
- 			<property name="Text"           value="Attached character gains the Sand Snake trait and 'Sand Snake characters you control get +1 STR'"/>
+ 			<property name="Text"           value="Attached character gains the Sand Snake trait and &quot;Sand Snake characters you control get +1 STR&quot;"/>
  			<property name="Keywords"       value="[Martell] character only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -2838,7 +2838,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item. Weapon."/>
- 			<property name="Text"           value="Limit 1 per character. Attached character gets +1 STR and cannot have its STR lowered by card effects. If attached character is Beric Dondarrion, he gains: 'After Beric Dondarrion claims power for renown, he claims 1 additional power.'"/>
+ 			<property name="Text"           value="Limit 1 per character. Attached character gets +1 STR and cannot have its STR lowered by card effects. If attached character is Beric Dondarrion, he gains: &quot;After Beric Dondarrion claims power for renown, he claims 1 additional power.&quot;"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
