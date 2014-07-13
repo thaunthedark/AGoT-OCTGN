@@ -1747,7 +1747,7 @@
 			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
-			<property name="Rarity"		    value="L/>
+			<property name="Rarity"		    value="L"/>
 			<property name="CardNumber"	    value="64"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
