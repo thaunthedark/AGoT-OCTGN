@@ -23,7 +23,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="1"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008207" name="Grey Wind">
 			<property name="House"          value="Stark."/>
@@ -47,7 +47,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="2"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008242" name="Shaggydog">
 			<property name="House"          value="Stark."/>
@@ -71,7 +71,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="3"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008220" name="Frozen Solid">
 			<property name="House"          value="Stark."/>
@@ -95,7 +95,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="4"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008208" name="Jojen Reed">
 			<property name="House"          value="Stark."/>
@@ -119,7 +119,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="5"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008213" name="Eddard Stark">
 			<property name="House"          value="Stark."/>
@@ -143,7 +143,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="6"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008205" name="Catelyn Stark">
 			<property name="House"          value="Stark."/>
@@ -167,7 +167,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="7"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008239" name="Robb Stark">
 			<property name="House"          value="Stark."/>
@@ -191,7 +191,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="8"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008245" name="Summer">
 			<property name="House"          value="Stark."/>
@@ -215,7 +215,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="9"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008201" name="Bran Stark">
 			<property name="House"          value="Stark."/>
@@ -239,7 +239,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="10"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008209" name="Deepwood Mercenary">
 			<property name="House"          value="Stark."/>
@@ -263,7 +263,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="11"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008226" name="House Tully Septon">
 			<property name="House"          value="Stark."/>
@@ -287,7 +287,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="12"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008238" name="Riverrun Messenger">
 			<property name="House"          value="Stark."/>
@@ -311,7 +311,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="13"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008255" name="Wolf Pack">
 			<property name="House"          value="Stark."/>
@@ -335,7 +335,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="14"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008225" name="Host of the Bear">
 			<property name="House"          value="Stark."/>
@@ -359,7 +359,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="15"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008204" name="King Robb's Companions">
 			<property name="House"          value="Stark."/>
@@ -383,7 +383,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="16"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008227" name="Knight of the Red Fork">
 			<property name="House"          value="Stark."/>
@@ -407,7 +407,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="17"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008223" name="Guard at Riverrun">
 			<property name="House"          value="Stark."/>
@@ -431,7 +431,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="18"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008214" name="Edmure's Host">
 			<property name="House"          value="Stark."/>
@@ -455,7 +455,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="19"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008241" name="Ser Edmure Tully">
 			<property name="House"          value="Stark."/>
@@ -479,7 +479,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="20"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008224" name="Hoster Tully">
 			<property name="House"          value="Stark."/>
@@ -503,7 +503,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="21"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008247" name="The Blackfish">
 			<property name="House"          value="Stark."/>
@@ -527,7 +527,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="22"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008251" name="Winterfell">
 			<property name="House"          value="Stark."/>
@@ -551,7 +551,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="23"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008237" name="Riverrun">
 			<property name="House"          value="Stark."/>
@@ -575,7 +575,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="24"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008231" name="Mole Town Brothel">
 			<property name="House"          value="Stark."/>
@@ -599,7 +599,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="25"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008256" name="Frozen Outpost">
 			<property name="House"          value="Stark."/>
@@ -623,7 +623,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="26"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008254" name="Wolfswood">
 			<property name="House"          value="Stark."/>
@@ -647,7 +647,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="27"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008228" name="Lord Eddard's Chambers">
 			<property name="House"          value="Stark."/>
@@ -671,7 +671,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="28"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008221" name="Godswood">
 			<property name="House"          value="Stark."/>
@@ -695,7 +695,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="29"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008222" name="Great Keep">
 			<property name="House"          value="Stark."/>
@@ -719,7 +719,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="30"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008234" name="Northern Fiefdoms">
 			<property name="House"          value="Stark."/>
@@ -743,7 +743,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="31"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008232" name="Narrow Sea">
 			<property name="House"          value="Stark. Baratheon."/>
@@ -767,7 +767,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="32"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008240" name="Routing the Charge">
 			<property name="House"          value="Stark."/>
@@ -791,7 +791,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="33"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008248" name="They Shall Not Cross">
 			<property name="House"          value="Stark."/>
@@ -815,7 +815,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="34"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008253" name="Wolf Dreams">
 			<property name="House"          value="Neutral."/>
@@ -839,7 +839,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="35"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008217" name="Fear Cuts Deeper than Swords">
 			<property name="House"          value="Stark."/>
@@ -863,7 +863,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="36"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008215" name="Endless Endurance">
 			<property name="House"          value="Stark."/>
@@ -887,7 +887,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="37"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008236" name="At Night They Howl">
 			<property name="House"          value="Neutral."/>
@@ -911,7 +911,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="38"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008235" name="Qhorin Halfhand">
 			<property name="House"          value="Neutral."/>
@@ -935,7 +935,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="39"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008229" name="Mance's Men">
 			<property name="House"          value="Neutral."/>
@@ -959,7 +959,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="40"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008210" name="Rorge">
 			<property name="House"          value="Neutral."/>
@@ -983,7 +983,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="41"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008202" name="Bowl of Brown">
 			<property name="House"          value="Neutral."/>
@@ -1007,7 +1007,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="42"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008249" name="Training Grounds">
 			<property name="House"          value="Neutral."/>
@@ -1031,7 +1031,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="43"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008244" name="Street of Steel">
 			<property name="House"          value="Neutral."/>
@@ -1055,7 +1055,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="44"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008233" name="Nightmares">
 			<property name="House"          value="Neutral."/>
@@ -1079,7 +1079,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="45"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008212" name="Die by the Sword">
 			<property name="House"          value="Neutral."/>
@@ -1103,7 +1103,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="46"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008250" name="Treaty with the North">
 			<property name="House"          value="Neutral."/>
@@ -1127,7 +1127,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="47"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008211" name="The Siege of Winterfell">
 			<property name="House"          value="Stark."/>
@@ -1151,7 +1151,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="48"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008230" name="Marched to the Wall">
 			<property name="House"          value="Neutral."/>
@@ -1175,7 +1175,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="49"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008218" name="Fortified Position">
 			<property name="House"          value="Neutral."/>
@@ -1199,7 +1199,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="50"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008203" name="Calm Before the Storm">
 			<property name="House"          value="Neutral."/>
@@ -1223,7 +1223,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="51"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008246" name="Take Them by Surprise">
 			<property name="House"          value="Neutral."/>
@@ -1247,7 +1247,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="52"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008243" name="Storm of Swords">
 			<property name="House"          value="Neutral."/>
@@ -1271,7 +1271,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="53"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008216" name="Family, Duty, Honor">
 			<property name="House"          value="Neutral."/>
@@ -1295,7 +1295,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="54"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97008252" name="Respect of the Old Gods">
 			<property name="House"          value="Stark."/>
@@ -1319,7 +1319,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="55"/>
 		</card>
 	</cards>
 </set>
