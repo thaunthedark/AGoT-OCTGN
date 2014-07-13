@@ -23,7 +23,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="1"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3002" name="Turncloak">
@@ -48,7 +48,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="2"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3003" name="Ward">
@@ -73,7 +73,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="3"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3004" name="Hugor Hill">
@@ -98,7 +98,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="4"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3005" name="Ser Kevan Lannister">
@@ -123,7 +123,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="5"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3006" name="Futile Gestures">
@@ -148,7 +148,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="6"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3007" name="Stannis Baratheon">
@@ -173,7 +173,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="7"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3008" name="The Bastard of Nightsong">
@@ -198,7 +198,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="8"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3009" name="Willas Tyrell">
@@ -223,7 +223,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="9"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3010" name="Aeron Damphair">
@@ -248,7 +248,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="10"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3011" name="Maester Kerwin">
@@ -273,7 +273,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="11"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3012" name="Thirst for Vengeance">
@@ -298,7 +298,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="12"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3013" name="Playing the Part">
@@ -323,7 +323,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="13"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3014" name="Harried by Dragons">
@@ -348,7 +348,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="14"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3015" name="Incinerate">
@@ -373,7 +373,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="15"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3016" name="Magister Illyrio">
@@ -398,7 +398,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="16"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3017" name="Volantis">
@@ -423,7 +423,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="17"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3018" name="Above the Sorrows">
@@ -448,7 +448,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="18"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3019" name="Shores of Ny Sar">
@@ -473,7 +473,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="19"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3020" name="At the Palace of Sorrows">
@@ -498,7 +498,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="20"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3021" name="Damon Dance-For-Me">
@@ -523,7 +523,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="21"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3022" name="Bran Stark">
@@ -548,7 +548,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="22"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3023" name="Castle Battlements">
@@ -573,7 +573,7 @@
  			<property name="ErrataText"     value="Should read: Attached location is immune to other non-plot card effects. (The attached location does not gain immunity to Castle Battlements.)"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="23"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3024" name="Penny">
@@ -598,7 +598,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="24"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3025" name="Merchant's Widow">
@@ -623,7 +623,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="25"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3026" name="Shireen Baratheon">
@@ -648,7 +648,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="26"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3027" name="Dragonstone Bannerman">
@@ -673,7 +673,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="27"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3028" name="Victarion Greyjoy">
@@ -698,7 +698,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="28"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3029" name="Moqorro">
@@ -723,7 +723,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="29"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3030" name="Quentyn Martell">
@@ -748,7 +748,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="30"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3031" name="Spiteful Bastard">
@@ -773,7 +773,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="31"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3032" name="Recruitment">
@@ -798,7 +798,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="32"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3033" name="Young Griff">
@@ -823,7 +823,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="33"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3034" name="Strong Belwas">
@@ -848,7 +848,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="34"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3035" name="Braavos">
@@ -873,7 +873,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="35"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3036" name="Norvos">
@@ -898,7 +898,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="36"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3037" name="Pulled from the Rhoyne">
@@ -923,7 +923,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="37"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3038" name="Under the Bridge of Dream">
@@ -948,7 +948,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="38"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3039" name="On Dagger Lake">
@@ -973,7 +973,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="39"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3040" name="Before the Black Walls">
@@ -998,7 +998,7 @@
  			<property name="ErrataText"     value="&quot;When revealed, name a challenge type.  In order to declare an characters to attack or defend during challenges of that type, a player must declare all of his or her eligible character.&quot; is considered part of the &quot;When revealed&quot; effect and is active while that plot is revealed or when the &quot;When revealed&quot; effect has been triggered by another River plot card."/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="40"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3041" name="Follower of the Many-Faced God">
@@ -1023,7 +1023,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="41"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3042" name="Abel's Washerwoman">
@@ -1048,7 +1048,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="42"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3043" name="Yezzan's Grotesquerie">
@@ -1073,7 +1073,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="43"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3044" name="Selhorys Customs Officer">
@@ -1098,7 +1098,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="44"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3045" name="Wildling Bard">
@@ -1123,7 +1123,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="45"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3046" name="The Red Queen's Faithful">
@@ -1149,7 +1149,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="46"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3047" name="Follower of Two Gods">
@@ -1174,7 +1174,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="47"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3048" name="Thrall">
@@ -1199,7 +1199,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="48"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3049" name="Iron Fleet Captain">
@@ -1224,7 +1224,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="49"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3050" name="Victarion's Reavers">
@@ -1249,7 +1249,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="50"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3051" name="Longship Grief">
@@ -1274,7 +1274,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="51"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3052" name="Ser Archibald Yronwood">
@@ -1299,7 +1299,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="52"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3053" name="Ser Gerris Drinkwater">
@@ -1324,7 +1324,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="53"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3054" name="Watchful Servant">
@@ -1349,7 +1349,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="54"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3055" name="Archmaester Marwyn">
@@ -1374,7 +1374,7 @@
  			<property name="ErrataText"     value="Should read: &quot;The opponent to your left&quot; instead of &quot;Your opponent...&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="55"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3056" name="Sellsword Deserter">
@@ -1399,7 +1399,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="56"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3057" name="Griff">
@@ -1424,7 +1424,7 @@
  			<property name="ErrataText"     value="Should read: House Targaryen only.  If Griff would be killed, instead attach him to your House Card as your only agenda with the text: &quot;If you control fewer attachments than each opponent, unattach Griff and return him to play.&quot; Response: After a [Targaryen] attachment you control is discarded from play, kneel 1 influenece to return it to your hand instead."/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="57"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3058" name="Pentos">
@@ -1449,7 +1449,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="58"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3059" name="A City Besieged">
@@ -1474,7 +1474,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="59"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3060" name="Manning the City Walls">
@@ -1500,7 +1500,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="60"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3061" name="Maege Mormont">
@@ -1525,7 +1525,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="61"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3062" name="Hall of Dragons">
@@ -1550,7 +1550,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="62"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3063" name="Volantis Inn">
@@ -1575,7 +1575,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="63"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3064" name="Pentoshi Manor">
@@ -1601,7 +1601,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="64"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3065" name="Watcher of the Nightfire">
@@ -1626,7 +1626,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="65"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3066" name="The Nightfort">
@@ -1651,7 +1651,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="66"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3067" name="Ghost of Winterfell">
@@ -1676,7 +1676,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="67"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3068" name="Longship Red Jester">
@@ -1701,7 +1701,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="68"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3069" name="Captured Cog">
@@ -1726,7 +1726,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="69"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3070" name="Maester Myles">
@@ -1751,7 +1751,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="70"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3071" name="Rhoynar Emissary">
@@ -1776,7 +1776,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="71"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3072" name="The Windblown">
@@ -1801,7 +1801,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="72"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3073" name="The Golden Company">
@@ -1826,7 +1826,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="73"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3074" name="Dragon Egg">
@@ -1851,7 +1851,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="74"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3075" name="Great Pyramid of Meereen">
@@ -1876,7 +1876,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="75"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3076" name="Myr">
@@ -1901,7 +1901,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="76"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3077" name="Tyrosh">
@@ -1926,7 +1926,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="77"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3078" name="Much and More">
@@ -1951,7 +1951,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="78"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3079" name="Men of Honor">
@@ -1976,7 +1976,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="79"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3080" name="Men of Duty">
@@ -2001,7 +2001,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="80"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3081" name="Arya Stark">
@@ -2026,7 +2026,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="81"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3082" name="The House of Black and White">
@@ -2051,7 +2051,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="82"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3083" name="Poisoned Coin">
@@ -2076,7 +2076,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="83"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3084" name="I Am No One">
@@ -2101,7 +2101,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="84"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3085" name="Dockside Brothel">
@@ -2126,7 +2126,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="85"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3086" name="Dragonbone Dagger">
@@ -2151,7 +2151,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="86"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3087" name="Enslaved">
@@ -2176,7 +2176,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="87"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3088" name="Northern Encampment">
@@ -2201,7 +2201,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="88"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3089" name="Banner Bearer">
@@ -2226,7 +2226,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="89"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3090" name="Freed Galley">
@@ -2251,7 +2251,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="90"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3091" name="Cowed">
@@ -2276,7 +2276,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="91"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3092" name="Noyne">
@@ -2301,7 +2301,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="92"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3093" name="Qhoyne">
@@ -2326,7 +2326,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="93"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3094" name="Lhorulu">
@@ -2351,7 +2351,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="94"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3095" name="Company of the Cat">
@@ -2376,7 +2376,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="95"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3096" name="Long Lances">
@@ -2402,7 +2402,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="96"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3097" name="Greyscale">
@@ -2427,7 +2427,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="97"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3098" name="Execution">
@@ -2452,7 +2452,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="98"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3099" name="Men of Pride">
@@ -2477,7 +2477,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="99"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3100" name="The Pale Mare">
@@ -2502,7 +2502,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="100"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3101" name="The Bastard's Boys">
@@ -2527,7 +2527,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="101"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3102" name="Ramsay's Hunting Dogs">
@@ -2552,7 +2552,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="102"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3103" name="Rhymes with Meek">
@@ -2577,7 +2577,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="103"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3104" name="Walk of Shame">
@@ -2602,7 +2602,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="104"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3105" name="The Second Sons">
@@ -2627,7 +2627,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="105"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3106" name="Snowed In">
@@ -2652,7 +2652,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="106"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3107" name="Glamor of Fire">
@@ -2677,7 +2677,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="107"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3108" name="Outfitted for War">
@@ -2702,7 +2702,7 @@
  			<property name="ErrataText"     value="Should read: &quot;Attached location is immune to other non-plot card effects.&quot;"/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="108"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3109" name="Sacrificed to Two Gods">
@@ -2727,7 +2727,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="109"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3110" name="Flood Waters">
@@ -2752,7 +2752,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="110"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3111" name="Old Bill Bone">
@@ -2777,7 +2777,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="111"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3112" name="Greenblood Merchant">
@@ -2802,7 +2802,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="112"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3113" name="Outthought">
@@ -2827,7 +2827,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="113"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3114" name="Deceit">
@@ -2852,7 +2852,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="114"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3115" name="The Brazen Beasts">
@@ -2877,7 +2877,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="115"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3116" name="Meereenese Fighting Pit">
@@ -2902,7 +2902,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="116"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3117" name="Dragonbone Bow">
@@ -2927,7 +2927,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="117"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3118" name="Little and Less">
@@ -2952,7 +2952,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="118"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3119" name="House of Dreams">
@@ -2977,7 +2977,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="119"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3120" name="Lead by Example">
@@ -3002,7 +3002,7 @@
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="120"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
  	</cards>
