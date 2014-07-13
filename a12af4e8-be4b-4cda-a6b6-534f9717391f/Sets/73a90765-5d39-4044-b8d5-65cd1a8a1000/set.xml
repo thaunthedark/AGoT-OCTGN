@@ -23,7 +23,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="1"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1002" name="Brightwater Keep">
@@ -48,7 +48,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="2"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1003" name="Into the Breach">
@@ -73,7 +73,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="3"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1004" name="Gorold Goodbrother">
@@ -98,7 +98,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="4"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1005" name="Hammerhorn">
@@ -123,7 +123,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="5"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1006" name="Scaling Ladder">
@@ -148,7 +148,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="6"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1007" name="Damon Marbrand">
@@ -173,7 +173,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="7"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1008" name="Ashemark">
@@ -198,7 +198,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="8"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1009" name="Trebuchet">
@@ -223,7 +223,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="9"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1010" name="Edric Dayne">
@@ -248,7 +248,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="10"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1011" name="Southron Stronghold">
@@ -273,7 +273,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="11"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1012" name="Poisoned Well">
@@ -298,7 +298,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="12"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1013" name="Mors Umber">
@@ -323,7 +323,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="13"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1014" name="Northland Keep">
@@ -348,7 +348,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="14"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1015" name="Breaching the Wall">
@@ -373,7 +373,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="15"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1016" name="Ser Raymun Darry">
@@ -398,7 +398,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="16"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1017" name="Castle Darry">
@@ -423,7 +423,7 @@
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="17"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1018" name="Rain of Fire">
@@ -449,7 +449,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="18"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1019" name="Storm the Gate">
@@ -474,7 +474,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="19"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1020" name="Rally Cry">
@@ -499,7 +499,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="20"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1021" name="Ser Imry Florent">
@@ -524,7 +524,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="21"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1022" name="Ser Garlan Tyrell">
@@ -549,7 +549,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="22"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1023" name="The Kingsroad">
@@ -574,7 +574,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="23"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1024" name="Balon Greyjoy">
@@ -599,7 +599,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="24"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1025" name="Longship Great Kraken">
@@ -624,7 +624,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="25"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1026" name="Damphair's Drowned">
@@ -649,7 +649,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="26"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1027" name="King's Landing Guard">
@@ -674,7 +674,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="27"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1028" name="Tommen Baratheon">
@@ -699,7 +699,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="28"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1029" name="The Kingsroad">
@@ -724,7 +724,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="29"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1030" name="Ellaria Sand">
@@ -749,7 +749,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="30"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1031" name="Oberyn's Shield Bearer">
@@ -774,7 +774,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="31"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1032" name="The Long Plan">
@@ -799,7 +799,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="32"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1033" name="Bran Stark">
@@ -824,7 +824,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="33"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1034" name="Winterfell">
@@ -849,7 +849,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="34"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1035" name="Green Dream">
@@ -874,7 +874,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="35"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1036" name="Khal Drogo">
@@ -899,7 +899,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="36"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1037" name="Slaver's Bay">
@@ -924,7 +924,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="37"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1038" name="Dothraki Vanguard">
@@ -949,7 +949,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="38"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1039" name="A Song of Fire">
@@ -974,7 +974,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="39"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1040" name="A Song of Ice">
@@ -999,7 +999,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="40"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1041" name="Shadow Killer">
@@ -1024,7 +1024,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="41"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1042" name="Melisandre">
@@ -1049,7 +1049,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="42"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1043" name="Greydon Goodbrother">
@@ -1074,7 +1074,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="43"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1044" name="Longship Grey Ghost">
@@ -1099,7 +1099,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="44"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1045" name="Tywin Lannister">
@@ -1124,7 +1124,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="45"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1046" name="The Hound">
@@ -1149,7 +1149,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="46"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1047" name="Arianne Martell">
@@ -1174,7 +1174,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="47"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1048" name="Palestone Sword Guard">
@@ -1199,7 +1199,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="48"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1049" name="Umber Champion">
@@ -1224,7 +1224,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="49"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1050" name="Moat Cailin">
@@ -1249,7 +1249,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="50"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1051" name="Ser Jorah Mormont">
@@ -1274,7 +1274,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="51"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1052" name="Harpy's Scourge">
@@ -1299,7 +1299,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="52"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1053" name="Ser Barristan Selmy">
@@ -1324,7 +1324,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="53"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1054" name="Ser Jaime Lannister">
@@ -1349,7 +1349,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="54"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1055" name="Ser Meryn Trant">
@@ -1374,7 +1374,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="55"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1056" name="Ser Mandon Moore">
@@ -1399,7 +1399,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="56"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1057" name="Ser Preston Greenfield">
@@ -1425,7 +1425,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="57"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1058" name="Ser Arys Oakheart">
@@ -1450,7 +1450,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="58"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1059" name="Ser Boros Blount">
@@ -1475,7 +1475,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="59"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1060" name="On My Oath">
@@ -1500,7 +1500,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="60"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1061" name="Coldhands">
@@ -1526,7 +1526,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Melee."/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="61"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1062" name="Stannis Baratheon">
@@ -1551,7 +1551,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="62"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1063" name="Melisandre's Favor">
@@ -1576,7 +1576,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="63"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1064" name="Gormond Goodbrother">
@@ -1601,7 +1601,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="64"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1065" name="Hammerhorn Raiders">
@@ -1626,7 +1626,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="65"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1066" name="Plunder">
@@ -1651,7 +1651,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="66"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1067" name="Janos Slynt">
@@ -1676,7 +1676,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="67"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1068" name="Janos's Conspirator">
@@ -1701,7 +1701,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="68"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1069" name="Secret Orders">
@@ -1726,7 +1726,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="69"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1070" name="Viper's Paramour">
@@ -1751,7 +1751,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="70"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1071" name="Dayne Spearman">
@@ -1776,7 +1776,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="71"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1072" name="Dornish Hermitage">
@@ -1801,7 +1801,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="72"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1073" name="Jon Snow">
@@ -1826,7 +1826,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="73"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1074" name="Yoren">
@@ -1851,7 +1851,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="74"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1075" name="Aegon's Favor">
@@ -1876,7 +1876,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="75"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1076" name="Loyal to the Last">
@@ -1901,7 +1901,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="76"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1077" name="Eastwatch Envoy">
@@ -1926,7 +1926,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value="Naval-Power"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="77"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1078" name="Ygritte">
@@ -1951,7 +1951,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="78"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1079" name="Betrayal at the Wall">
@@ -1976,7 +1976,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="79"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1080" name="Befouled River">
@@ -2001,7 +2001,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="80"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1081" name="Brightwater Man-at-Arms">
@@ -2026,7 +2026,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="81"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1082" name="Forced March">
@@ -2051,7 +2051,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="82"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1083" name="Asha Greyjoy">
@@ -2076,7 +2076,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value="Naval-Military,Naval-Intrigue,Naval-Power"/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="83"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1084" name="Pyke">
@@ -2101,7 +2101,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="84"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1085" name="Storming the Shore">
@@ -2126,7 +2126,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="85"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1086" name="Ashemark Knight">
@@ -2151,7 +2151,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="86"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1087" name="Ser Gregor's Dog">
@@ -2176,7 +2176,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="87"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1088" name="Harry the Riverlands">
@@ -2201,7 +2201,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="88"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1089" name="Obara Sand">
@@ -2226,7 +2226,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="89"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1090" name="Doran's Favor">
@@ -2251,7 +2251,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="90"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1091" name="Prepare for War">
@@ -2276,7 +2276,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="91"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1092" name="Robb Stark">
@@ -2301,7 +2301,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="92"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1093" name="Harwin">
@@ -2326,7 +2326,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="93"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1094" name="Griffin's Roost">
@@ -2351,7 +2351,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="94"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1095" name="Daenerys's Favor">
@@ -2376,7 +2376,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="95"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1096" name="Gendry">
@@ -2401,7 +2401,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="96"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1097" name="Lady of the Leaves">
@@ -2426,7 +2426,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="97"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1098" name="A Noble Cause">
@@ -2451,7 +2451,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="98"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1099" name="The Old Way">
@@ -2476,7 +2476,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="99"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1100" name="Redwyne Straits">
@@ -2501,7 +2501,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="100"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1101" name="Maester Cressen">
@@ -2526,7 +2526,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="101"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1102" name="Mace Tyrell">
@@ -2551,7 +2551,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="102"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1103" name="Riches of the Reach">
@@ -2576,7 +2576,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="103"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1104" name="Gran Goodbrother">
@@ -2601,7 +2601,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="104"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1105" name="Longship Maiden's Bane">
@@ -2627,7 +2627,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="105"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1106" name="Euron's Favor">
@@ -2652,7 +2652,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="106"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1107" name="Grand Maester Pycelle">
@@ -2677,7 +2677,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="107"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1108" name="Tywin's Favor">
@@ -2702,7 +2702,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="108"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1109" name="Lashing Out">
@@ -2727,7 +2727,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="109"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1110" name="Southron Heiress">
@@ -2752,7 +2752,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="110"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1111" name="Sercet Schemes">
@@ -2777,7 +2777,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="111"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1112" name="Littlefinger">
@@ -2802,7 +2802,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="112"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1113" name="Alleras">
@@ -2827,7 +2827,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="113"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1114" name="Sansa Stark">
@@ -2852,7 +2852,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="114"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1115" name="Robb's Favor">
@@ -2877,7 +2877,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="115"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1116" name="Viserion">
@@ -2902,7 +2902,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="116"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1117" name="Drogon">
@@ -2927,7 +2927,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="117"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1118" name="Rhaegal">
@@ -2952,7 +2952,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="118"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1119" name="Bloodthirst">
@@ -2977,7 +2977,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="119"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1120" name="Summoned by the Conclave">
@@ -3002,7 +3002,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
-			<property name="CardNumber"	    value=""/>
+			<property name="CardNumber"	    value="120"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
 	</cards>
