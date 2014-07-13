@@ -25,6 +25,7 @@
 			<property name="Restricted"     value="Melee."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="1"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009209" name="Arianne Martell">
 			<property name="House"          value="Martell."/>
@@ -49,6 +50,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="2"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009210" name="Doran Martell">
 			<property name="House"          value="Martell."/>
@@ -73,6 +75,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="3"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009211" name="Darkstar">
 			<property name="House"          value="Martell."/>
@@ -97,6 +100,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="4"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009212" name="Areo Hotah">
 			<property name="House"          value="Martell."/>
@@ -121,6 +125,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="5"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009213" name="Sarella Sand">
 			<property name="House"          value="Martell."/>
@@ -145,6 +150,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="6"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009214" name="Ellaria Sand">
 			<property name="House"          value="Martell."/>
@@ -169,6 +175,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="7"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009215" name="Harmen Uller">
 			<property name="House"          value="Martell."/>
@@ -193,6 +200,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="8"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009216" name="Ser Arys Oakheart ">
 			<property name="House"          value="Lannister. Martell."/>
@@ -217,6 +225,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="9"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009217" name="House Messenger">
 			<property name="House"          value="Martell."/>
@@ -241,6 +250,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="10"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009218" name="House Dayne Knight">
 			<property name="House"          value="Martell."/>
@@ -265,6 +275,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="11"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009219" name="Paramour">
 			<property name="House"          value="Martell."/>
@@ -289,6 +300,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="12"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009220" name="Lord Edric's Knight">
 			<property name="House"          value="Martell."/>
@@ -313,6 +325,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="13"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009221" name="House Dayne Skirmisher">
 			<property name="House"          value="Martell."/>
@@ -337,6 +350,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="14"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009222" name="Orphan of the Greenblood">
 			<property name="House"          value="Martell."/>
@@ -362,6 +376,7 @@
 			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="15"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009223" name="The Viper's Bannermen">
 			<property name="House"          value="Martell."/>
@@ -387,6 +402,7 @@
 			<property name="Restricted"     value="Joust. Melee."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="16"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009224" name="House Dayne Reserves">
 			<property name="House"          value="Martell."/>
@@ -411,6 +427,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="17"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009201" name="Taste for Blood">
 			<property name="House"          value="Martell."/>
@@ -435,6 +452,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="18"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009202" name="Locked Away">
 			<property name="House"          value="Martell."/>
@@ -459,6 +477,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="19"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009243" name="Blood for Blood">
 			<property name="House"          value="Martell."/>
@@ -483,6 +502,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="20"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009244" name="He Calls It Thinking">
 			<property name="House"          value="Martell."/>
@@ -507,6 +527,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="21"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009245" name="The Prince's Wrath">
 			<property name="House"          value="Martell."/>
@@ -531,6 +552,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="22"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009246" name="Someone Always Tells">
 			<property name="House"          value="Martell."/>
@@ -555,6 +577,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="23"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009247" name="Scheming on the Sand">
 			<property name="House"          value="Martell."/>
@@ -579,6 +602,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="24"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009248" name="Red Vengeance">
 			<property name="House"          value="Martell."/>
@@ -603,6 +627,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="25"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009234" name="Dornish Fiefdoms">
 			<property name="House"          value="Martell."/>
@@ -627,6 +652,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="26"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009235" name="Lord Doran's Chambers">
 			<property name="House"          value="Martell."/>
@@ -651,6 +677,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="27"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009236" name="Summer Sea">
 			<property name="House"          value="Martell. Targaryen."/>
@@ -675,6 +702,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="28"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009237" name="Palace Fountains">
 			<property name="House"          value="Martell."/>
@@ -699,6 +727,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="29"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009238" name="Water Garden">
 			<property name="House"          value="Martell."/>
@@ -723,6 +752,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="30"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009239" name="Dorne">
 			<property name="House"          value="Martell."/>
@@ -747,6 +777,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="31"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009240" name="The Old Palace">
 			<property name="House"          value="Martell."/>
@@ -771,6 +802,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="32"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009241" name="The Spear Tower">
 			<property name="House"          value="Martell."/>
@@ -795,6 +827,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="33"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009242" name="Tower of the Sun">
 			<property name="House"          value="Martell."/>
@@ -819,6 +852,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="34"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009225" name="The Hound">
 			<property name="House"          value="Stark. Lannister."/>
@@ -843,6 +877,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="35"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009226" name="Joffrey Baratheon">
 			<property name="House"          value="Lannister. Baratheon."/>
@@ -867,6 +902,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="36"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009227" name="Brienne of Tarth">
 			<property name="House"          value="Stark. Baratheon."/>
@@ -891,6 +927,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="37"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009228" name="Theon Greyjoy">
 			<property name="House"          value="Stark. Greyjoy."/>
@@ -915,6 +952,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="38"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009229" name="Ser Jorah Mormont">
 			<property name="House"          value="Stark. Targaryen."/>
@@ -939,6 +977,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="39"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009249" name="Parting Blow">
 			<property name="House"          value="Neutral."/>
@@ -963,6 +1002,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="40"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009250" name="Wars Are Won with Quills">
 			<property name="House"          value="Neutral."/>
@@ -987,6 +1027,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="41"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009251" name="Make an Example">
 			<property name="House"          value="Neutral."/>
@@ -1012,6 +1053,7 @@
 			<property name="Restricted"     value="Melee."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="42"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009252" name="The Dragon's Tail">
 			<property name="House"          value="Neutral."/>
@@ -1036,6 +1078,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="43"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009203" name="Formal Petition">
 			<property name="House"          value="Neutral."/>
@@ -1060,6 +1103,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="44"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009204" name="Court Advisor">
 			<property name="House"          value="Neutral."/>
@@ -1084,6 +1128,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="45"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009205" name="The Art of Diplomacy">
 			<property name="House"          value="Neutral."/>
@@ -1108,6 +1153,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="46"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009206" name="Rusted Sword">
 			<property name="House"          value="Neutral."/>
@@ -1132,6 +1178,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="47"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009230" name="Denys Mallister">
 			<property name="House"          value="Neutral."/>
@@ -1156,6 +1203,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="48"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009231" name="Mag the Mighty">
 			<property name="House"          value="Neutral."/>
@@ -1180,6 +1228,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="49"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009232" name="Kingsguard Squire">
 			<property name="House"          value="Neutral."/>
@@ -1204,6 +1253,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="50"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009253" name="When I Woke...">
 			<property name="House"          value="Neutral."/>
@@ -1228,6 +1278,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="51"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009233" name="Former Champion">
 			<property name="House"          value="Neutral."/>
@@ -1252,6 +1303,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="52"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009207" name="A Pinch of Powder">
 			<property name="House"          value="Neutral."/>
@@ -1276,6 +1328,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="53"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009254" name="Battle of Oxcross">
 			<property name="House"          value="Neutral."/>
@@ -1300,6 +1353,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="54"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009255" name="Let My Porridge Fly">
 			<property name="House"          value="Neutral."/>
@@ -1324,6 +1378,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="55"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009256" name="Threat from the North">
 			<property name="House"          value="Neutral."/>
@@ -1348,6 +1403,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="56"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009257" name="The Red Wedding">
 			<property name="House"          value="Neutral."/>
@@ -1372,6 +1428,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="57"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009258" name="Attack from the Sea">
 			<property name="House"          value="Neutral."/>
@@ -1396,6 +1453,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="58"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009259" name="Alliance">
 			<property name="House"          value="Neutral."/>
@@ -1420,6 +1478,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="59"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009260" name="To the Spears!">
 			<property name="House"          value="Neutral."/>
@@ -1444,6 +1503,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="60"/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 	</cards>
 </set>

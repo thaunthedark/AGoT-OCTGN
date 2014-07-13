@@ -24,6 +24,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1002" name="Brightwater Keep">
 			<property name="House"          value="Baratheon."/>
@@ -48,6 +49,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1003" name="Into the Breach">
 			<property name="House"          value="Neutral."/>
@@ -72,6 +74,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1004" name="Gorold Goodbrother">
 			<property name="House"          value="Greyjoy."/>
@@ -96,6 +99,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1005" name="Hammerhorn">
 			<property name="House"          value="Greyjoy."/>
@@ -120,6 +124,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1006" name="Scaling Ladder">
 			<property name="House"          value="Greyjoy."/>
@@ -144,6 +149,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1007" name="Damon Marbrand">
 			<property name="House"          value="Lannister."/>
@@ -168,6 +174,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1008" name="Ashemark">
 			<property name="House"          value="Lannister."/>
@@ -192,6 +199,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1009" name="Trebuchet">
 			<property name="House"          value="Lannister."/>
@@ -216,6 +224,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1010" name="Edric Dayne">
 			<property name="House"          value="Martell."/>
@@ -240,6 +249,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1011" name="Southron Stronghold">
 			<property name="House"          value="Martell."/>
@@ -264,6 +274,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1012" name="Poisoned Well">
 			<property name="House"          value="Martell."/>
@@ -288,6 +299,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1013" name="Mors Umber">
 			<property name="House"          value="Stark."/>
@@ -312,6 +324,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1014" name="Northland Keep">
 			<property name="House"          value="Stark."/>
@@ -336,6 +349,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1015" name="Breaching the Wall">
 			<property name="House"          value="Neutral."/>
@@ -360,6 +374,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1016" name="Ser Raymun Darry">
 			<property name="House"          value="Targaryen."/>
@@ -384,6 +399,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1017" name="Castle Darry">
 			<property name="House"          value="Targaryen."/>
@@ -408,6 +424,7 @@
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1018" name="Rain of Fire">
 			<property name="House"          value="Targaryen."/>
@@ -433,6 +450,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1019" name="Storm the Gate">
 			<property name="House"          value="Baratheon. Greyjoy."/>
@@ -457,6 +475,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1020" name="Rally Cry">
 			<property name="House"          value="Neutral."/>
@@ -481,6 +500,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1021" name="Ser Imry Florent">
 			<property name="House"          value="Baratheon."/>
@@ -505,6 +525,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1022" name="Ser Garlan Tyrell">
 			<property name="House"          value="Baratheon."/>
@@ -529,6 +550,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1023" name="The Kingsroad">
 			<property name="House"          value="Neutral."/>
@@ -553,6 +575,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1024" name="Balon Greyjoy">
 			<property name="House"          value="Greyjoy."/>
@@ -577,6 +600,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1025" name="Longship Great Kraken">
 			<property name="House"          value="Greyjoy."/>
@@ -601,6 +625,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1026" name="Damphair's Drowned">
 			<property name="House"          value="Greyjoy."/>
@@ -625,6 +650,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1027" name="King's Landing Guard">
 			<property name="House"          value="Lannister."/>
@@ -649,6 +675,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1028" name="Tommen Baratheon">
 			<property name="House"          value="Lannister."/>
@@ -673,6 +700,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1029" name="The Kingsroad">
 			<property name="House"          value="Neutral."/>
@@ -697,6 +725,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1030" name="Ellaria Sand">
 			<property name="House"          value="Martell."/>
@@ -721,6 +750,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1031" name="Oberyn's Shield Bearer">
 			<property name="House"          value="Martell."/>
@@ -745,6 +775,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1032" name="The Long Plan">
 			<property name="House"          value="Martell."/>
@@ -769,6 +800,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1033" name="Bran Stark">
 			<property name="House"          value="Stark."/>
@@ -793,6 +825,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1034" name="Winterfell">
 			<property name="House"          value="Stark."/>
@@ -817,6 +850,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1035" name="Green Dream">
 			<property name="House"          value="Neutral."/>
@@ -841,6 +875,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1036" name="Khal Drogo">
 			<property name="House"          value="Targaryen."/>
@@ -865,6 +900,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1037" name="Slaver's Bay">
 			<property name="House"          value="Targaryen."/>
@@ -889,6 +925,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1038" name="Dothraki Vanguard">
 			<property name="House"          value="Targaryen."/>
@@ -913,6 +950,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1039" name="A Song of Fire">
 			<property name="House"          value="Neutral."/>
@@ -937,6 +975,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1040" name="A Song of Ice">
 			<property name="House"          value="Neutral."/>
@@ -961,6 +1000,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1041" name="Shadow Killer">
 			<property name="House"          value="Baratheon."/>
@@ -985,6 +1025,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1042" name="Melisandre">
 			<property name="House"          value="Baratheon."/>
@@ -1009,6 +1050,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1043" name="Greydon Goodbrother">
 			<property name="House"          value="Greyjoy."/>
@@ -1033,6 +1075,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1044" name="Longship Grey Ghost">
 			<property name="House"          value="Greyjoy."/>
@@ -1057,6 +1100,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1045" name="Tywin Lannister">
 			<property name="House"          value="Lannister."/>
@@ -1081,6 +1125,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1046" name="The Hound">
 			<property name="House"          value="Lannister."/>
@@ -1105,6 +1150,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1047" name="Arianne Martell">
 			<property name="House"          value="Martell."/>
@@ -1129,6 +1175,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1048" name="Palestone Sword Guard">
 			<property name="House"          value="Martell."/>
@@ -1153,6 +1200,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1049" name="Umber Champion">
 			<property name="House"          value="Stark."/>
@@ -1177,6 +1225,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1050" name="Moat Cailin">
 			<property name="House"          value="Stark."/>
@@ -1201,6 +1250,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1051" name="Ser Jorah Mormont">
 			<property name="House"          value="Targaryen."/>
@@ -1225,6 +1275,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1052" name="Harpy's Scourge">
 			<property name="House"          value="Targaryen."/>
@@ -1249,6 +1300,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1053" name="Ser Barristan Selmy">
 			<property name="House"          value="Neutral."/>
@@ -1273,6 +1325,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1054" name="Ser Jaime Lannister">
 			<property name="House"          value="Neutral."/>
@@ -1297,6 +1350,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1055" name="Ser Meryn Trant">
 			<property name="House"          value="Neutral."/>
@@ -1321,6 +1375,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1056" name="Ser Mandon Moore">
 			<property name="House"          value="Neutral."/>
@@ -1345,6 +1400,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1057" name="Ser Preston Greenfield">
 			<property name="House"          value="Neutral."/>
@@ -1370,6 +1426,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1058" name="Ser Arys Oakheart">
 			<property name="House"          value="Neutral."/>
@@ -1394,6 +1451,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1059" name="Ser Boros Blount">
 			<property name="House"          value="Neutral."/>
@@ -1418,6 +1476,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1060" name="On My Oath">
 			<property name="House"          value="Neutral."/>
@@ -1442,6 +1501,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1061" name="Coldhands">
 			<property name="House"          value="Neutral."/>
@@ -1467,6 +1527,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Restricted"     value="Melee."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1062" name="Stannis Baratheon">
 			<property name="House"          value="Baratheon."/>
@@ -1491,6 +1552,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1063" name="Melisandre's Favor">
 			<property name="House"          value="Baratheon."/>
@@ -1515,6 +1577,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1064" name="Gormond Goodbrother">
 			<property name="House"          value="Greyjoy."/>
@@ -1539,6 +1602,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1065" name="Hammerhorn Raiders">
 			<property name="House"          value="Greyjoy."/>
@@ -1563,6 +1627,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1066" name="Plunder">
 			<property name="House"          value="Greyjoy."/>
@@ -1587,6 +1652,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1067" name="Janos Slynt">
 			<property name="House"          value="Lannister."/>
@@ -1611,6 +1677,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1068" name="Janos's Conspirator">
 			<property name="House"          value="Lannister."/>
@@ -1635,6 +1702,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1069" name="Secret Orders">
 			<property name="House"          value="Neutral."/>
@@ -1659,6 +1727,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1070" name="Viper's Paramour">
 			<property name="House"          value="Martell."/>
@@ -1683,6 +1752,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1071" name="Dayne Spearman">
 			<property name="House"          value="Martell."/>
@@ -1707,6 +1777,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1072" name="Dornish Hermitage">
 			<property name="House"          value="Martell."/>
@@ -1731,6 +1802,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1073" name="Jon Snow">
 			<property name="House"          value="Stark."/>
@@ -1755,6 +1827,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1074" name="Yoren">
 			<property name="House"          value="Stark."/>
@@ -1779,6 +1852,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1075" name="Aegon's Favor">
 			<property name="House"          value="Targaryen."/>
@@ -1803,6 +1877,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1076" name="Loyal to the Last">
 			<property name="House"          value="Neutral."/>
@@ -1827,6 +1902,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1077" name="Eastwatch Envoy">
 			<property name="House"          value="Neutral."/>
@@ -1851,6 +1927,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value="Naval-Power"/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1078" name="Ygritte">
 			<property name="House"          value="Neutral."/>
@@ -1875,6 +1952,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1079" name="Betrayal at the Wall">
 			<property name="House"          value="Neutral."/>
@@ -1899,6 +1977,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1080" name="Befouled River">
 			<property name="House"          value="Neutral."/>
@@ -1923,6 +2002,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1081" name="Brightwater Man-at-Arms">
 			<property name="House"          value="Baratheon."/>
@@ -1947,6 +2027,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1082" name="Forced March">
 			<property name="House"          value="Baratheon."/>
@@ -1971,6 +2052,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1083" name="Asha Greyjoy">
 			<property name="House"          value="Greyjoy."/>
@@ -1995,6 +2077,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value="Naval-Military,Naval-Intrigue,Naval-Power"/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1084" name="Pyke">
 			<property name="House"          value="Greyjoy."/>
@@ -2019,6 +2102,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1085" name="Storming the Shore">
 			<property name="House"          value="Greyjoy."/>
@@ -2043,6 +2127,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1086" name="Ashemark Knight">
 			<property name="House"          value="Lannister."/>
@@ -2067,6 +2152,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1087" name="Ser Gregor's Dog">
 			<property name="House"          value="Lannister."/>
@@ -2091,6 +2177,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1088" name="Harry the Riverlands">
 			<property name="House"          value="Lannister."/>
@@ -2115,6 +2202,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1089" name="Obara Sand">
 			<property name="House"          value="Martell."/>
@@ -2139,6 +2227,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1090" name="Doran's Favor">
 			<property name="House"          value="Martell."/>
@@ -2163,6 +2252,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1091" name="Prepare for War">
 			<property name="House"          value="Martell."/>
@@ -2187,6 +2277,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1092" name="Robb Stark">
 			<property name="House"          value="Stark."/>
@@ -2211,6 +2302,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1093" name="Harwin">
 			<property name="House"          value="Stark."/>
@@ -2235,6 +2327,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1094" name="Griffin's Roost">
 			<property name="House"          value="Targaryen."/>
@@ -2259,6 +2352,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1095" name="Daenerys's Favor">
 			<property name="House"          value="Targaryen."/>
@@ -2283,6 +2377,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1096" name="Gendry">
 			<property name="House"          value="Neutral."/>
@@ -2307,6 +2402,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1097" name="Lady of the Leaves">
 			<property name="House"          value="Neutral."/>
@@ -2331,6 +2427,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1098" name="A Noble Cause">
 			<property name="House"          value="Baratheon."/>
@@ -2355,6 +2452,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1099" name="The Old Way">
 			<property name="House"          value="Greyjoy."/>
@@ -2379,6 +2477,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1100" name="Redwyne Straits">
 			<property name="House"          value="Neutral."/>
@@ -2403,6 +2502,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1101" name="Maester Cressen">
 			<property name="House"          value="Baratheon."/>
@@ -2427,6 +2527,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1102" name="Mace Tyrell">
 			<property name="House"          value="Baratheon."/>
@@ -2451,6 +2552,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1103" name="Riches of the Reach">
 			<property name="House"          value="Baratheon."/>
@@ -2475,6 +2577,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1104" name="Gran Goodbrother">
 			<property name="House"          value="Greyjoy."/>
@@ -2499,6 +2602,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1105" name="Longship Maiden's Bane">
 			<property name="House"          value="Greyjoy."/>
@@ -2524,6 +2628,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1106" name="Euron's Favor">
 			<property name="House"          value="Greyjoy."/>
@@ -2548,6 +2653,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1107" name="Grand Maester Pycelle">
 			<property name="House"          value="Lannister."/>
@@ -2572,6 +2678,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1108" name="Tywin's Favor">
 			<property name="House"          value="Lannister."/>
@@ -2596,6 +2703,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1109" name="Lashing Out">
 			<property name="House"          value="Neutral."/>
@@ -2620,6 +2728,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1110" name="Southron Heiress">
 			<property name="House"          value="Martell."/>
@@ -2644,6 +2753,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1111" name="Sercet Schemes">
 			<property name="House"          value="Martell."/>
@@ -2668,6 +2778,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1112" name="Littlefinger">
 			<property name="House"          value="Neutral."/>
@@ -2692,6 +2803,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1113" name="Alleras">
 			<property name="House"          value="Neutral."/>
@@ -2716,6 +2828,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1114" name="Sansa Stark">
 			<property name="House"          value="Stark."/>
@@ -2740,6 +2853,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1115" name="Robb's Favor">
 			<property name="House"          value="Stark."/>
@@ -2764,6 +2878,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1116" name="Viserion">
 			<property name="House"          value="Targaryen."/>
@@ -2788,6 +2903,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1117" name="Drogon">
 			<property name="House"          value="Targaryen."/>
@@ -2812,6 +2928,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1118" name="Rhaegal">
 			<property name="House"          value="Targaryen."/>
@@ -2836,6 +2953,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1119" name="Bloodthirst">
 			<property name="House"          value="Martell."/>
@@ -2860,6 +2978,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1120" name="Summoned by the Conclave">
 			<property name="House"          value="Neutral."/>
@@ -2884,6 +3003,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value=""/>
+			<property name="Format"		    value="LCG"/>
 		</card>
 	</cards>
 </set>

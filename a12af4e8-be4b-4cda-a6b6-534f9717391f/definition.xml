@@ -38,6 +38,7 @@
 		<property name="Restricted"    	type="String"/>
 		<property name="Rarity"			type="String"/>
 		<property name="CardNumber"   	type="String"/>
+		<property name="Format"		   	type="String"/>
 		<property name="ErrataText"     type="String"/>
 	</card>
 
