@@ -33,7 +33,7 @@
  			<property name="Text"           value="If there is at least 1 Dragon character in play, attached character must be chosen to satisfy [MIL] claim, if able."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
- 			<property name="Cost"           value="1"/>
+ 			<property name="Cost"           value="0"/>
  			<property name="Strength"       value=""/>
  			<property name="Military"       value=""/>
  			<property name="Intrigue"       value=""/>
@@ -108,7 +108,7 @@
  			<property name="Text"           value="Attached character cannot be saved. Response: After you lose a challenge by 4 or more total STR, until the end of the phase, attached character gets -4 STR and is killed if its STR is 0."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
- 			<property name="Cost"           value="0"/>
+ 			<property name="Cost"           value="1"/>
  			<property name="Strength"       value=""/>
  			<property name="Military"       value=""/>
  			<property name="Intrigue"       value=""/>
