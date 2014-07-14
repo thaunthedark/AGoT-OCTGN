@@ -1132,7 +1132,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Kingsguard."/>
 			<property name="Text"           value="The Hound gets +1 STR for each card in shadows."/>
-			<property name="Keywords"       value="House Lannister Only. No attachments except Weapon."/>
+			<property name="Keywords"       value="House Lannister only. No attachments except Weapon."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="s0"/>
 			<property name="Strength"       value="4"/>
