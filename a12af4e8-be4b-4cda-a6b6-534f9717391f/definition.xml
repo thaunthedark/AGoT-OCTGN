@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
-<game name="A Game of Thrones LCG" id="a12af4e8-be4b-4cda-a6b6-534f9717391f" octgnVersion="3.1.0.0" version="3.1.0.44" scriptVersion="3.1.0.0" markersize="16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tags="OCTGN aGoT LCG" description="When you play a Game of Thrones you win or you die.&#10;&#10;A deadly medieval fantasy living card game based on the world renown A Game of Thrones novels by George R.R. Martin.  Ideal for 1-on-1 play, or grab a group and play the melee variant." setsurl="http://tinyurl.com/op4me9g" gameurl="http://tinyurl.com/l53qvl7" authors="TassLehoff, Hedjman, Gualdo" iconurl="http://store.fantasyflightgames.com/client/Products/ProdimageLg/GOT36.jpg">
+<game name="A Game of Thrones LCG" id="a12af4e8-be4b-4cda-a6b6-534f9717391f" octgnVersion="3.1.0.0" version="3.2.0.0" scriptVersion="3.1.0.0" markersize="16" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" tags="OCTGN aGoT LCG" description="When you play a Game of Thrones you win or you die.&#10;&#10;A deadly medieval fantasy living card game based on the world renown A Game of Thrones novels by George R.R. Martin.  Ideal for 1-on-1 play, or grab a group and play the melee variant." setsurl="http://tinyurl.com/op4me9g" gameurl="http://tinyurl.com/l53qvl7" authors="TassLehoff, Hedjman, Gualdo" iconurl="http://store.fantasyflightgames.com/client/Products/ProdimageLg/GOT36.jpg">
 
 	<scripts>
 		<script src="scripts/actions.py"/>
