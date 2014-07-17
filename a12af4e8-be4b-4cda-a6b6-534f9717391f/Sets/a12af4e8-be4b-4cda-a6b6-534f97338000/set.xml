@@ -405,7 +405,7 @@
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97338017" name="Shadow Tower Knight">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
- 			<property name="Traits"         value="Knight. Night's Watch."/>
+ 			<property name="Traits"         value="Knight. Night's Watch."/>
  			<property name="Text"           value="Cards you control cannot gain Traits through card effects."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
@@ -702,7 +702,7 @@
 			<property name="CardNumber"	    value="28"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338029" name="Euron Crow's Eye">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338029" name="Euron Crow's Eye">
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="King. Ironborn. Lord. Raider."/>
@@ -777,7 +777,7 @@
 			<property name="CardNumber"	    value="31"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338032" name="Khaleesi's Faithful">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338032" name="Khaleesi's Faithful">
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Dothraki. Army."/>
@@ -902,7 +902,7 @@
 			<property name="CardNumber"	    value="36"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338037" name="Old Bear's Crow">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338037" name="Old Bear's Crow">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Creature. Raven."/>
@@ -1202,7 +1202,7 @@
 			<property name="CardNumber"	    value="48"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338049" name="Nagga's Hill">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338049" name="Nagga's Hill">
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Iron Islands."/>
@@ -1428,7 +1428,7 @@
 			<property name="CardNumber"	    value="57"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
- 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338058" name="Champion's Favour">
+ 		<card id="a12af4e8-be4b-4cda-a6b6-534f97338058" name="Champion's Favour">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Attachment"/>
  			<property name="Traits"         value="Item."/>
