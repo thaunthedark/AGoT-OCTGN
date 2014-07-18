@@ -2133,7 +2133,7 @@
 			<property name="Text"           value="Challenges: Kneel Longship Iron Wind to put a character with printed cost 2 or lower into play from your hand."/>
 			<property name="Keywords"       value="Prized 1."/>
 			<property name="Unique"         value="Yes"/>
-			<property name="Cost"           value=""/>
+			<property name="Cost"           value="2"/>
 			<property name="Strength"       value=""/>
 			<property name="Military"       value=""/>
 			<property name="Intrigue"       value=""/>
@@ -2176,7 +2176,7 @@
 			<property name="CardNumber"	    value="87"/>
 			<property name="Format"		    value="LCG"/>
 		</card>
-		<card id="549fe3cd-e6b6-4f38-a6f5-c5a816fe9068" name="Marbrand Outrider">
+		<card id="549fe3cd-e6b6-4f38-a6f5-c5a816fe9088" name="Marbrand Outrider">
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="House Marbrand. Ally."/>
