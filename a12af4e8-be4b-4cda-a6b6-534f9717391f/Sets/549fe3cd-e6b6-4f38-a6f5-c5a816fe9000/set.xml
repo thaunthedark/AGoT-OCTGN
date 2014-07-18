@@ -2278,7 +2278,7 @@
 		</card>
 		<card id="549fe3cd-e6b6-4f38-a6f5-c5a816fe9092" name="Riverlands Hunter">
 			<property name="House"          value="Stark."/>
-			<property name="Type"           value="Location"/>
+			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="House Tully."/>
 			<property name="Text"           value="While Riverlands Hunter is participating in a challenge, characters with more than 1 icon do not count their STR."/>
 			<property name="Keywords"       value="Prized 1."/>
