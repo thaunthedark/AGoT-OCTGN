@@ -1705,7 +1705,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1069" name="Secret Orders">
-			<property name="House"          value="Neutral."/>
+			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Any Phase: Choose a character. Until the end of the phase, that character's base STR is X. X is the amount of gold in it's controller's gold pool when this effect resolves."/>
