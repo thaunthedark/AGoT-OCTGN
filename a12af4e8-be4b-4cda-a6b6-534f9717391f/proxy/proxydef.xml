@@ -69,29 +69,32 @@
 			<text color="#000000" size="35" font="fonts/cost_str.ttf"/>
 		</block>
 		<block type="text" id="cardName">
-			<location x="103" y="28"/>
+			<location x="112" y="28"/>
 			<text color="#000000" size="20" font="fonts/name.ttf"/>
 		</block>
 		<block type="text" id="cardTraits">
-			<location x="75" y="150"/>
-			<text color="#000000" size="16" font="fonts/traits.ttf"/>
+			<location x="100" y="310"/>
+			<text color="#000000" size="17" font="fonts/traits.ttf"/>
 			<wordwrap height="34" width="270"/>
 		</block>
 		<block type="text" id="cardKeywords">
-			<location x="75" y="201"/>
-			<text color="#000000" size="17" font="fonts/text.ttf"/>
-			<wordwrap height="34" width="270"/>
+			<location x="100" y="340"/>
+			<text color="#000000" size="16" font="fonts/text.ttf"/>
+			<wordwrap height="34" width="290"/>
 		</block>
 		<block type="text" id="cardText">
-			<location x="75" y="252"/>
+			<location x="100" y="380"/>
 			<text color="#000000" size="16" font="fonts/text.ttf"/>
 			<wordwrap height="200" width="270"/>
 		</block>
 		<block type="overlay" id="uniqueYes" src="proxy/proxyImages/uniqueYes.png">
-			<location x="82" y="32"/>
+			<location x="86" y="34"/>
 		</block>
 		<block type="overlay" id="uniqueInfinity" src="proxy/proxyImages/uniqueInfinity.png">
-			<location x="82" y="36"/>
+			<location x="82" y="34"/>
+		</block>
+		<block type="overlay" id="uniqueInfinityUnique" src="proxy/proxyImages/uniqueInfinityUnique.png">
+			<location x="74" y="34"/>
 		</block>
 		<block type="overlay" id="cardGold" src="proxy/proxyImages/income.png">
 			<location x="100" y="500"/>
@@ -103,19 +106,26 @@
 			<location x="249" y="500"/>
 		</block>
 		<block type="text" id="textGold">
-			<location x="106" y="513"/>
+			<location x="118" y="513"/>
 			<text color="#000000" size="35" font="fonts/cost_str.ttf"/>
 		</block>
 		<block type="text" id="textInfluence">
-			<location x="183" y="513"/>
+			<location x="192" y="513"/>
 			<text color="#000000" size="35" font="fonts/cost_str.ttf"/>
 		</block>
 		<block type="text" id="textInitiative">
-			<location x="253" y="513"/>
+			<location x="267" y="513"/>
 			<text color="#000000" size="35" font="fonts/cost_str.ttf"/>
 		</block>
 		
-		<!-- Attachment specific blocks -->
+		<!-- Location specific blocks -->
+		<block type="text" id="LocationCardName">
+			<location x="112" y="25"/>
+			<text color="#000000" size="20" font="fonts/name.ttf"/>
+		</block>
+		<block type="overlay" id="LocationUniqueYes" src="proxy/proxyImages/uniqueYes.png">
+			<location x="86" y="32"/>
+		</block>
 		
 		<!-- Character specific blocks -->
 		<block type="overlay" id="starkChar" src="proxy/proxyImages/titleBars/starkChar.png">
@@ -233,23 +243,37 @@
 		
 		<!-- Event secific blocks -->
 		<block type="text" id="eventCardTitle">
-			<location x="105" y="26"/>
+			<location x="95" y="26"/>
 			<text color="#000000" size="23" font="fonts/name.ttf"/>
 		</block>
+		<block type="overlay" id="EventUniqueYes" src="proxy/proxyImages/uniqueYes.png">
+			<location x="75" y="34"/>
+		</block>
+		<block type="overlay" id="EventUniqueInfinity" src="proxy/proxyImages/uniqueInfinity.png">
+			<location x="70" y="37"/>
+		</block>
 		<block type="text" id="eventTraits">
-			<location x="90" y="100"/>
-			<text color="#000000" size="16" font="fonts/traits.ttf"/>
+			<location x="100" y="310"/>
+			<text color="#000000" size="17" font="fonts/traits.ttf"/>
 			<wordwrap height="34" width="270"/>
 		</block>
 		<block type="text" id="eventCardKeywords">
-			<location x="90" y="151"/>
+			<location x="100" y="340"/>
 			<text color="#000000" size="16" font="fonts/text.ttf"/>
-			<wordwrap height="34" width="270"/>
+			<wordwrap height="34" width="290"/>
 		</block>
 		<block type="text" id="eventCardText">
-			<location x="90" y="201"/>
+			<location x="100" y="380"/>
 			<text color="#000000" size="16" font="fonts/text.ttf"/>
-			<wordwrap height="250" width="270"/>
+			<wordwrap height="200" width="270"/>
+		</block>
+		<!-- Attachment secific blocks -->
+		<block type="text" id="AttachmentCardName">
+			<location x="112" y="25"/>
+			<text color="#000000" size="20" font="fonts/name.ttf"/>
+		</block>
+		<block type="overlay" id="AttachmentUniqueYes" src="proxy/proxyImages/uniqueYes.png">
+			<location x="86" y="31"/>
 		</block>
 		
 		<!-- Help secific blocks -->
@@ -338,11 +362,15 @@
 			<!-- Unique test -->
 			<conditional>
 				<if property="Unique" value="Yes">
-					<link block="uniqueYes"/> </if>
+					<link block="AttachmentUniqueYes"/> </if>
 			</conditional>
 			<conditional>
 				<if property="Unique" value="Infinity">
 					<link block="uniqueInfinity"/> </if>
+			</conditional>
+			<conditional>
+				<if property="Unique" value="Infinity. Yes.">
+					<link block="uniqueInfinityUnique"/> </if>
 			</conditional>
 			
 			<!-- House affiliation selection -->
@@ -436,7 +464,7 @@
 			</conditional>
 			
 			<link block="dummyOverlay"/>
-			<link block="cardName">
+			<link block="AttachmentCardName">
 				<property name="Name"/>
 			</link>
 			<link block="cardTraits">
@@ -563,11 +591,15 @@
 			<!-- Unique test -->
 			<conditional>
 				<if property="Unique" value="Yes">
-					<link block="uniqueYes"/> </if>
+					<link block="EventUniqueYes"/> </if>
 			</conditional>
 			<conditional>
 				<if property="Unique" value="Infinity">
-					<link block="uniqueInfinity"/> </if>
+					<link block="EventUniqueInfinity"/> </if>
+			</conditional>
+			<conditional>
+				<if property="Unique" value="Infinity. Yes.">
+					<link block="UniqueInfinityUnique"/> </if>
 			</conditional>
 			<link block="dummyOverlay"/>
 		</overlayblocks>
@@ -593,7 +625,7 @@
 		<matches>
 			<match name="Type" value="Location"/>
 		</matches>
-		
+	
 		<overlayblocks>
 			<!-- Title Bar selection -->
 			<conditional>
@@ -624,11 +656,15 @@
 			<!-- Unique test -->
 			<conditional>
 				<if property="Unique" value="Yes">
-					<link block="uniqueYes"/> </if>
+					<link block="LocationUniqueYes"/> </if>
 			</conditional>
 			<conditional>
 				<if property="Unique" value="Infinity">
 					<link block="uniqueInfinity"/> </if>
+			</conditional>
+			<conditional>
+				<if property="Unique" value="Infinity. Yes.">
+					<link block="uniqueInfinityUnique"/> </if>
 			</conditional>
 			
 			<!-- House affiliation selection -->
@@ -721,7 +757,7 @@
 					</link> </else>
 			</conditional>
 			
-			<link block="cardName">
+			<link block="LocationCardName">
 				<property name="Name"/>
 			</link>
 			<link block="cardTraits">
@@ -777,6 +813,10 @@
 			<conditional>
 				<if property="Unique" value="Infinity">
 					<link block="uniqueInfinity"/> </if>
+			</conditional>
+			<conditional>
+				<if property="Unique" value="Infinity. Yes.">
+					<link block="uniqueInfinityUnique"/> </if>
 			</conditional>
 			
 			<!-- House affiliation selection -->
