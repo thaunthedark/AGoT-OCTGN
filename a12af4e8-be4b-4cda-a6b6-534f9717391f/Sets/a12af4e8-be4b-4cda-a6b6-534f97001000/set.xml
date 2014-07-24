@@ -3702,7 +3702,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97001149" name="Winter is Coming">
-			<property name="House"          value="Stark."/>
+			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Challenges: Raise the Claim value on each [Stark] player's revealed plot card by 1 for the duration of the challenge.  Limit 1 per round."/>
@@ -3727,7 +3727,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97001150" name="Kings in the North">
-			<property name="House"          value="Stark."/>
+			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Response: Play after you win dominance. Kneel 2 of your [Stark] characters to have them claim 1 power each."/>
@@ -3752,7 +3752,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97001151" name="Lethal Counterattack">
-			<property name="House"          value="Stark."/>
+			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Challenges: During a M challenge, kneel 2 of your [Stark] characters to kill all attacking characters.  Limit 1 per challenge."/>
@@ -3952,7 +3952,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97001159" name="A Lannister Pays His Debts">
-			<property name="House"          value="Lannister."/>
+			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Response: After you lose a challenge, kneel one of your [Lannister] characters to choose and kill a participating character controlled by the winning opponent."/>
@@ -4127,7 +4127,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97001166" name="Dance With Dragons">
-			<property name="House"          value="Targaryen."/>
+			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Any Phase: Kneel 1 influence to search your deck for a Dragon card, reveal it to all players, and put it into your hand. Then shuffle your deck."/>

@@ -331,7 +331,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Response: Play after you win a [MIL] challenge as the defender.  Immediately after the resolution of the current challenge, a [MIL] challenge is initiated against the losing opponent with you as the attacking player and your currently defending characters as your only attacking characters."/>
-			<property name="Keywords"       value=""/>
+			<property name="Keywords"       value="House Stark only. Prized 2."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -871,7 +871,7 @@
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
-			<property name="Enhancement"    value="Naval-Intrigue Naval-Power"/>
+			<property name="Enhancement"    value="Naval-Intrigue, Naval-Power"/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="35"/>
 			<property name="Format"		    value="LCG"/>

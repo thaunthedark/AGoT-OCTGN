@@ -480,7 +480,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="a12af4e8-be4b-4cda-a6b6-534f97009243" name="Blood for Blood">
-			<property name="House"          value="Martell."/>
+			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Response: After 1 of your [Martell] characters is killed, choose and kill 1 character with equal or lower STR. (Limit 1 per phase.)"/>

@@ -352,7 +352,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1015" name="Breaching the Wall">
-			<property name="House"          value="Neutral."/>
+			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value="Siege. Tactic."/>
 		    <property name="Text"           value="Limited Response: After you win a [MIL] challenge, choose and kill any number of characters with a higher STR than printed cost that are controlled by the losing opponent. (Limit 1 limited response per round.)"/>
@@ -427,7 +427,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
 		<card id="73a90765-5d39-4044-b8d5-65cd1a8a1018" name="Rain of Fire">
-			<property name="House"          value="Targaryen."/>
+			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Play only if you control at least 1 printed Dragon character.
@@ -2074,7 +2074,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
-			<property name="Enhancement"    value="Naval-Military,Naval-Intrigue,Naval-Power"/>
+			<property name="Enhancement"    value="Naval-Military, Naval-Intrigue, Naval-Power"/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="83"/>
 			<property name="Format"		    value="LCG"/>

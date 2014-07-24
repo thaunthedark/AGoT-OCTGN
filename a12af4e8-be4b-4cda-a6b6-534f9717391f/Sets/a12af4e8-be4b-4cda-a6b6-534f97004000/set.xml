@@ -77,7 +77,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97004004" name="Bound by Duty">
- 			<property name="House"          value="Stark."/>
+ 			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Challenges: Choose a kneeling [Stark] character. Until the end of the phase, that character is eligible, while kneeling, to be declared as a defender for any challenge in which it could normally participate."/>

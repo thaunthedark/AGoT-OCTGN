@@ -127,7 +127,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3006" name="Futile Gestures">
- 			<property name="House"          value="Lannister."/>
+ 			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Response: Discard 1 power from a [Lannister] character you control to cancel a triggered effect that chooses that character as its only target. Then, draw a card."/>

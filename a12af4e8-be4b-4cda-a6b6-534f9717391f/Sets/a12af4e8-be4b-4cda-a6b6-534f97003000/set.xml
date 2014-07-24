@@ -1327,7 +1327,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97003054" name="Vigilant Stag">
- 			<property name="House"          value="Baratheon."/>
+ 			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Challenges: Kneel 2 influence to choose a unique [Baratheon] character. Until the end of the phase, that character gains vigilant."/>
@@ -1352,7 +1352,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97003055" name="Thuggish Tactics">
- 			<property name="House"          value="Greyjoy."/>
+ 			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Challenges: Choose a participating Ironborn character. Until the end of the challenge, that character gains intimidate."/>
@@ -1377,7 +1377,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="a12af4e8-be4b-4cda-a6b6-534f97003056" name="Dragon Attack">
- 			<property name="House"          value="Targaryen."/>
+ 			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Any Phase: Kneel a Dragon character to choose a character. Until the end of the phase, that character gets -2 STR and is killed if its STR is 0."/>

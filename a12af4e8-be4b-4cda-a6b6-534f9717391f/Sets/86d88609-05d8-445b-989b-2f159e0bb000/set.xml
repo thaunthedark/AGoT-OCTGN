@@ -1022,7 +1022,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Challenges: Kneel 2 influence or kneel a character with 1 or more Naval enhancement to turn all Warship locations you control into characters with STR equal to their printed cost, a [MIL] icon, and a [POW] icon, until end of the phase."/>
-			<property name="Keywords"       value=""/>
+			<property name="Keywords"       value="House Greyjoy only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -1066,7 +1066,7 @@
 		<card id="86d88609-05d8-445b-989b-2f159e0bb047" name="Salladhor Saan">
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Smuggler. Captain. Traitor"/>
+			<property name="Traits"         value="Smuggler. Captain. Traitor."/>
 			<property name="Text"           value="Response: After you play a Smuggler character, pay 2 gold to choose and discard from play 1 non-limited location with printed cost 3 or lower."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
@@ -1114,7 +1114,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Response: After you win a [POW] challenge by 4 or more total STR, stand all participating unique characters you control."/>
-			<property name="Keywords"       value=""/>
+			<property name="Keywords"       value="House Baratheon only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -1229,7 +1229,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Response: After you lose a challenge, discard your hand of at least 1 card to reveal the same number of cards from the top of your deck, and put them into your hand."/>
-			<property name="Keywords"       value=""/>
+			<property name="Keywords"       value="House Martell only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -1298,7 +1298,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Challenges: Choose a [Targaryen] character.  That character gets +2 STR until the end of the phase.  Then, attach Fire and Blood to that character (counts as a Boon attachment with the text, &quot;Attached character gains cannot be discarded from play&quot;)."/>
-			<property name="Keywords"       value=""/>
+			<property name="Keywords"       value="House Targaryen only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -2779,7 +2779,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value="Prayer."/>
 			<property name="Text"           value="Any Phase: Kneel 2 influence or kneel a [Holy] character to choose up to 3 cards in any player's discard and dead piles and shuffle them into his or her deck."/>
-			<property name="Keywords"       value=""/>
+			<property name="Keywords"       value="Any House except Baratheon."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -2804,7 +2804,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value="Prayer."/>
 			<property name="Text"           value="Any Phase: Kneel 2 influence or kneel a [Holy] character to choose up to 2 locations with a total printed cost of 2 or less in your discard pile and put them into play."/>
-			<property name="Keywords"       value=""/>
+			<property name="Keywords"       value="Any House except Greyjoy."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>
@@ -2829,7 +2829,7 @@
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value="Prayer."/>
 			<property name="Text"           value="Response: Kneel 2 influence or kneel a [Holy] character to save a unique character you control from being killed (any player may discard 3 power from his or her House to cancel this effect).  Then, search your deck for a copy of that character and attach it as a duplicate and shuffle your deck."/>
-			<property name="Keywords"       value=""/>
+			<property name="Keywords"       value="Any House except Stark."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
 			<property name="Strength"       value=""/>

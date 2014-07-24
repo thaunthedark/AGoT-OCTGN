@@ -1228,7 +1228,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="4c40a080-f988-4112-99bb-3ec446024050" name="Called to Arms">
- 			<property name="House"          value="Greyjoy."/>
+ 			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
  			<property name="Text"           value="Challenges: Choose an opponent who must choose and discard 1, 2, or 3 cards from the top of his deck. If he chooses to discard 1 card, stand all Raider characters you control. If he chooses to discard 2 cards, claim 1 power for each Raider character you control. If he chooses to discard 3 cards, each Raider character you control gets +1 STR and gains deadly until the end of the phase."/>
@@ -2532,7 +2532,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="4c40a080-f988-4112-99bb-3ec446024102" name="Ser Brynden's Guile">
- 			<property name="House"          value="Stark."/>
+ 			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value="House Tully."/>
  			<property name="Text"           value="Challenges: Choose a [Stark] character to get +1 STR until the end of the challenge. Then, search the top 4 cards of your deck for a House Tully card, reveal it, and add it to your hand. Shuffle the others cards back into your deck."/>
