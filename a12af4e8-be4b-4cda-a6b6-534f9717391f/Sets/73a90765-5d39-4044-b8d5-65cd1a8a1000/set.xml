@@ -387,7 +387,7 @@
 			<property name="Strength"       value="3"/>
 			<property name="Military"       value="1"/>
 			<property name="Intrigue"       value=""/>
-			<property name="Power"          value="3"/>
+			<property name="Power"          value="1"/>
 			<property name="Crest"          value=""/>
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>

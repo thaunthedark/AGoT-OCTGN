@@ -1582,7 +1582,7 @@
 			<property name="Strength"       value="5"/>
 			<property name="Military"       value="1"/>
 			<property name="Intrigue"       value=""/>
-			<property name="Power"          value="2"/>
+			<property name="Power"          value="1"/>
 			<property name="Crest"          value="War."/>
 			<property name="GoldIncome"     value=""/>
 			<property name="Influence"      value=""/>

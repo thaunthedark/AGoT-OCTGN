@@ -852,7 +852,7 @@
 			<property name="Format"		    value="LCG"/>
 		</card>
  		<card id="ba96d075-e916-4194-9f27-63b1b9ab3035" name="Braavos">
- 			<property name="House"          value="Stark. Lannister. Greyjoy. Baratheon. Targaryen. Martell."/>
+ 			<property name="House"          value="Stark. Lannister. Baratheon. Greyjoy. Targaryen. Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Free Cities. Kingdom."/>
  			<property name="Text"           value="Lower the cost of the first out-of-House [Stark] card you play each round by 1.&#10;Lower the cost of the first Lady character you play each round by 1."/>

@@ -2454,7 +2454,7 @@
 		<card id="549fe3cd-e6b6-4f38-a6f5-c5a816fe9099" name="Heads on Pikes">
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Event"/>
-			<property name="Traits"         value=""/>
+			<property name="Traits"         value="No"/>
 			<property name="Text"           value="Any Phase: Each opponent discards the top 2 cards from his or her deck for each character in his or her dead pile. (Limit 1 per round.)"/>
 			<property name="Keywords"       value="Prized 1."/>
 			<property name="Unique"         value=""/>

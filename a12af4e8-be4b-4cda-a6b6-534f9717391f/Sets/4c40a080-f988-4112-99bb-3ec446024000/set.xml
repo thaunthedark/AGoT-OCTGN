@@ -1609,7 +1609,7 @@
  			<property name="House"          value="Baratheon."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Lord. Bastard. Ally."/>
- 			<property name="Text"           value="Challenges: Kneel Stormlands Bastard to choose a unique BARATHEON character. Until the end of the challenge, that character gains renown."/>
+ 			<property name="Text"           value="Challenges: Kneel Stormlands Bastard to choose a unique [Baratheon] character. Until the end of the challenge, that character gains renown."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -1759,7 +1759,7 @@
  			<property name="House"          value="Targaryen."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Challenges: Choose a unique TARGARYEN character. Until the end of the phase, that character does not kneel to attack or defend during [POW] challenges."/>
+ 			<property name="Text"           value="Challenges: Choose a unique [Targaryen] character. Until the end of the phase, that character does not kneel to attack or defend during [POW] challenges."/>
  			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
@@ -1809,7 +1809,7 @@
  			<property name="House"          value="Martell."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Dorne."/>
- 			<property name="Text"           value="Response: After an opponent triggers a cost reducing effect, kneel Streets of Hellholt to reduce the cost of the next MARTELL card you play this phase by 1."/>
+ 			<property name="Text"           value="Response: After an opponent triggers a cost reducing effect, kneel Streets of Hellholt to reduce the cost of the next [Martell] card you play this phase by 1."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="0"/>
@@ -2214,7 +2214,7 @@
  			<property name="Keywords"       value="House Targaryen only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="2"/>
- 			<property name="Strength"       value=""/>
+ 			<property name="Strength"       value="2"/>
  			<property name="Military"       value=""/>
  			<property name="Intrigue"       value=""/>
  			<property name="Power"          value=""/>
@@ -2310,7 +2310,7 @@
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Character"/>
  			<property name="Traits"         value="Fugitive."/>
- 			<property name="Text"           value="Response: After you play The Mad Mouse from your hand, choose an opponent's character. If that character dies before the end of the next challenge phase and The Mad Mouse is still in play. The Mad Mouse claims 3 power"/>
+ 			<property name="Text"           value="Response: After you play The Mad Mouse from your hand, choose an opponent's character. If that character dies before the end of the next challenge phase and The Mad Mouse is still in play. The Mad Mouse claims 3 power."/>
  			<property name="Keywords"       value="Deadly."/>
  			<property name="Unique"         value="Yes"/>
  			<property name="Cost"           value="3"/>
@@ -2685,7 +2685,7 @@
  			<property name="House"          value="Greyjoy."/>
  			<property name="Type"           value="Location"/>
  			<property name="Traits"         value="Iron Islands."/>
- 			<property name="Text"           value="After The Iron Cliffs comes into play, place 2 gold tokens from the treasury on it. Response: Discard 1 gold token from The Iron Cliffs to save a GREYJOY character from being killed."/>
+ 			<property name="Text"           value="After The Iron Cliffs comes into play, place 2 gold tokens from the treasury on it. Response: Discard 1 gold token from The Iron Cliffs to save a [Greyjoy] character from being killed."/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="1"/>
@@ -2764,7 +2764,7 @@
  			<property name="Keywords"       value="No attachments. Deadly."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value="5"/>
- 			<property name="Strength"       value=""/>
+ 			<property name="Strength"       value="4"/>
  			<property name="Military"       value=""/>
  			<property name="Intrigue"       value=""/>
  			<property name="Power"          value=""/>
