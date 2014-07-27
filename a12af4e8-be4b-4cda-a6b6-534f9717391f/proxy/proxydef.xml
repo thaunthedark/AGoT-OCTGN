@@ -298,7 +298,7 @@
 	</blocks>
 	
 <!-- DEFAULT TEMPLATE -->
-	<template src="proxy/proxyImages/unknownCard.jpg" default="True">
+	<template src="proxy/proxyImages/unknownCard.png" default="True">
 		<matches>
 			<match name="dummy" value="dummy"/>
 		</matches>
