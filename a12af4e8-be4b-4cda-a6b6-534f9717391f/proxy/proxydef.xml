@@ -3,9 +3,6 @@
 	
 	<blocks>
 		<!-- Dummy blocks used if a template section only looks for conditionals -->
-		<block type="overlay" id="dummyOverlay" src="proxy/proxyImages/dummy.png">
-			<location x="0" y="0"/> 
-		</block>
 		<block type="text" id="dummyText">
 			<location x="0" y="0"/>
 			<text color="#FFFFFF" size="0"/>
@@ -15,49 +12,15 @@
 			<location x="10" y="25"/>
 			<text color="#000000" size="30"/>
 		</block>
+		<block type="overlay" id="dummyOverlay" src="proxy/proxyImages/dummy.png">
+			<location x="0" y="0"/> 
+		</block>
 				
 		<!-- Generic blocks for cards -->
 		<block type="text" id="cardCost">
 			<location x="32" y="28"/>
 			<text color="#000000" size="35" font="fonts/cost_str.ttf"/>
 			<wordwrap height="46" width="46" align="center" valign="center" shrinktofit="True"/>
-		</block>
-		<block type="text" id="cardName">
-			<location x="112" y="45"/>
-			<text color="#000000" size="20" font="fonts/name.ttf"/>
-		</block>
-		<block type="text" id="cardTraits">
-			<location x="78" y="330"/>
-			<text color="#000000" size="17" font="fonts/traits.ttf"/>
-			<wordwrap height="34" width="322" align="center" shrinktofit="True"/>
-		</block>
-		<block type="text" id="cardKeywords">
-			<location x="100" y="360"/>
-			<text color="#000000" size="16" font="fonts/text.ttf"/>
-			<wordwrap height="34" width="290"/>
-		</block>
-		<block type="text" id="cardText">
-			<location x="40" y="400"/>
-			<text color="#000000" size="16" font="fonts/text.ttf"/>
-			<wordwrap height="200" width="350"/>
-		</block>
-		<block type="overlay" id="Unique" src="proxy/proxyImages/uniqueYes.png">
-			<location x="90" y="52"/>
-		</block>
-		<block type="overlay" id="Infinity" src="proxy/proxyImages/uniqueInfinity.png">
-			<location x="86" y="52"/>
-		</block>
-		<block type="overlay" id="InfinityUnique" src="proxy/proxyImages/uniqueInfinityUnique.png">
-			<location x="80" y="52"/>
-		</block>
-		<block type="overlay" id="cardGold" src="proxy/proxyImages/income.png">
-			<location x="100" y="485"/>
-		</block>
-		<block type="overlay" id="cardInfluence" src="proxy/proxyImages/influence.png">
-			<location x="177" y="485"/>
-		</block>
-		<block type="overlay" id="cardInitiative" src="proxy/proxyImages/initiative.png">
-			<location x="249" y="485"/>
 		</block>
 		<block type="text" id="textGold">
 			<location x="118" y="498"/>
@@ -74,6 +37,21 @@
 			<text color="#000000" size="36" font="fonts/cost_str.ttf"/>
 			<wordwrap height="70" width="32" align="center" shrinktofit="True"/>
 		</block>
+		<block type="overlay" id="Infinity" src="proxy/proxyImages/uniqueInfinity.png">
+			<location x="86" y="52"/>
+		</block>
+		<block type="overlay" id="InfinityUnique" src="proxy/proxyImages/uniqueInfinityUnique.png">
+			<location x="80" y="52"/>
+		</block>
+		<block type="overlay" id="cardGold" src="proxy/proxyImages/income.png">
+			<location x="100" y="485"/>
+		</block>
+		<block type="overlay" id="cardInfluence" src="proxy/proxyImages/influence.png">
+			<location x="177" y="485"/>
+		</block>
+		<block type="overlay" id="cardInitiative" src="proxy/proxyImages/initiative.png">
+			<location x="249" y="485"/>
+		</block>
 		
 		<!-- Location specific blocks -->
 		<block type="text" id="LocationCardName">
@@ -85,9 +63,6 @@
 			<location x="114" y="36"/>
 			<text color="#000000" size="20" font="fonts/name.ttf"/>
 			<wordwrap height="32" width="190" align="center" valign="center" shrinktofit="True"/>
-		</block>
-		<block type="overlay" id="LocationUniqueYes" src="proxy/proxyImages/uniqueYes.png">
-			<location x="93" y="42"/>
 		</block>
 		<block type="text" id="LocationCardTraits">
 			<location x="40" y="345"/>
@@ -103,6 +78,9 @@
 			<location x="70" y="412"/>
 			<text color="#000000" size="20" font="fonts/text.ttf"/>
 			<wordwrap height="148" width="290" shrinktofit="True"/>
+		</block>
+		<block type="overlay" id="LocationUniqueYes" src="proxy/proxyImages/uniqueYes.png">
+			<location x="93" y="42"/>
 		</block>
 		
 		<!-- Character specific blocks -->
@@ -129,11 +107,7 @@
 		<block type="text" id="cardSTR">
 			<location x="34" y="290"/>
 			<text color="#000000" size="40" font="fonts/cost_str.ttf"/>
-			<wordwrap height="55" width="40" align="center" shrinktofit="True"/>
-		</block>
-		<block type="text" id="cardSTR_doubleDigit">
-			<location x="30" y="287"/>
-			<text color="#000000" size="40" font="fonts/cost_str.ttf"/>
+			<wordwrap height="65" width="42" align="center" shrinktofit="True"/>
 		</block>
 		<block type="overlay" id="CharacterUnique" src="proxy/proxyImages/uniqueYes.png">
 			<location x="90" y="45"/>
@@ -251,18 +225,6 @@
 			<text color="#000000" size="20" font="fonts/name.ttf"/>
 			<wordwrap height="35" width="260" align="center" valign="center" shrinktofit="True"/>
 		</block>
-		<block type="overlay" id="EventGoldCost" src="proxy/proxyImages/EventGoldCost.png">
-			<location x="30" y="25"/>
-		</block>
-		<block type="overlay" id="EventUniqueYes" src="proxy/proxyImages/uniqueYes.png">
-			<location x="75" y="42"/>
-		</block>
-		<block type="overlay" id="EventUniqueInfinity" src="proxy/proxyImages/uniqueInfinity.png">
-			<location x="70" y="45"/>
-		</block>
-		<block type="overlay" id="EventShadowGold" src="proxy/proxyImages/income.png">
-			<location x="100" y="485"/>
-		</block>
 		<block type="text" id="eventTraits">
 			<location x="40" y="340"/>
 			<text color="#000000" size="21" font="fonts/traits.ttf"/>
@@ -278,6 +240,15 @@
 			<text color="#000000" size="20" font="fonts/text.ttf"/>
 			<wordwrap height="150" width="290" shrinktofit="True"/>
 		</block>
+		<block type="overlay" id="EventGoldCost" src="proxy/proxyImages/EventGoldCost.png">
+			<location x="30" y="25"/>
+		</block>
+		<block type="overlay" id="EventUniqueYes" src="proxy/proxyImages/uniqueYes.png">
+			<location x="75" y="42"/>
+		</block>
+		<block type="overlay" id="EventUniqueInfinity" src="proxy/proxyImages/uniqueInfinity.png">
+			<location x="70" y="45"/>
+		</block>
 		
 		<!-- Attachment secific blocks -->
 		<block type="text" id="AttachmentCardName">
@@ -289,9 +260,6 @@
 			<location x="114" y="34"/>
 			<text color="#000000" size="20" font="fonts/name.ttf"/>
 			<wordwrap height="32" width="190" align="center" valign="center" shrinktofit="True"/>
-		</block>
-		<block type="overlay" id="AttachmentUnique" src="proxy/proxyImages/uniqueYes.png">
-			<location x="93" y="42"/>
 		</block>
 		<block type="text" id="AttachmentCardTraits">
 			<location x="40" y="345"/>
@@ -307,6 +275,9 @@
 			<location x="70" y="412"/>
 			<text color="#000000" size="20" font="fonts/text.ttf"/>
 			<wordwrap height="148" width="290" shrinktofit="True"/>
+		</block>
+		<block type="overlay" id="AttachmentUnique" src="proxy/proxyImages/uniqueYes.png">
+			<location x="93" y="42"/>
 		</block>
 		
 		<!-- Help secific blocks -->
@@ -326,7 +297,7 @@
 		</block>		
 	</blocks>
 	
-<!-- Default template -->
+<!-- DEFAULT TEMPLATE -->
 	<template src="proxy/proxyImages/unknownCard.jpg" default="True">
 		<matches>
 			<match name="dummy" value="dummy"/>
@@ -342,7 +313,7 @@
 		</textblocks>
 	</template>
 	
-<!-- Test Card template -->
+<!-- TEST CARD TEMPLATE -->
 	<template src="proxy/proxyImages/testCard.jpg" default="False">
 		<matches>
 			<match name="Type" value="Test Card"/>
@@ -358,7 +329,7 @@
 		</textblocks>
 	</template>
 	
-<!-- Attachment Card template -->
+<!-- ATTACHMENT CARD TEMPLATE -->
 	<!-- Multi House Attachment Card template -->
 	<template src="proxy/proxyImages/Attachments/attach_NeutralMultiHouse.png" default="False">
 		<matches>
@@ -410,16 +381,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -516,16 +481,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -622,16 +581,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -728,16 +681,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -834,16 +781,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -940,16 +881,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -1046,16 +981,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -1152,16 +1081,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -1256,16 +1179,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -1362,16 +1279,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -1468,16 +1379,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -1574,16 +1479,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -1680,16 +1579,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -1786,16 +1679,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -1890,16 +1777,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -1996,16 +1877,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -2102,16 +1977,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -2208,16 +2077,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -2314,16 +2177,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -2420,16 +2277,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -2524,16 +2375,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -2630,16 +2475,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -2736,16 +2575,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -2842,16 +2675,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -2948,16 +2775,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -3054,16 +2875,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -3158,16 +2973,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -3262,16 +3071,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -3368,16 +3171,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -3474,16 +3271,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -3580,16 +3371,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -3686,16 +3471,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -3792,16 +3571,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -3896,16 +3669,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -4002,16 +3769,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -4108,16 +3869,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -4214,16 +3969,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -4320,16 +4069,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -4451,7 +4194,7 @@
 		</textblocks>
 	</template>
 	
-<!-- Plot Card template -->
+<!-- PLOT CARD TEMPLATE -->
 	<template src="proxy/proxyImages/plotBackground.png" default="False">
 		<matches>
 			<match name="Type" value="Plot"/>
@@ -4481,7 +4224,7 @@
 		</textblocks>
 	</template>
 	
-<!-- Event Card template -->
+<!-- EVENT CARD TEMPLATE -->
 	<template src="proxy/proxyImages/eventBackground.png" default="False">
 		<matches>
 			<match name="Type" value="Event"/>
@@ -4518,16 +4261,10 @@
 		</overlayblocks>
 			
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			<link block="eventCardTitle">
 				<property name="Name"/>
 			</link>
@@ -4543,7 +4280,7 @@
 		</textblocks>
 	</template>
 				
-<!-- Location Card template -->	
+<!-- LOCATION CARD TEMPLATE -->	
 	<!-- Multi House Location Card template -->
 	<template src="proxy/proxyImages/Locations/loc_NeutralMultiHouse.png" default="False">
 		<matches>
@@ -4595,16 +4332,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -4698,16 +4429,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -4801,16 +4526,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -4904,16 +4623,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -5007,16 +4720,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -5110,16 +4817,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -5213,16 +4914,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -5316,16 +5011,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -5419,16 +5108,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -5522,16 +5205,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -5625,16 +5302,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -5728,16 +5399,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -5831,16 +5496,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -5934,16 +5593,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -6037,16 +5690,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -6140,16 +5787,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -6243,16 +5884,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -6346,16 +5981,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -6449,16 +6078,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -6552,16 +6175,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -6655,16 +6272,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -6758,16 +6369,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -6861,16 +6466,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -6964,16 +6563,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -7067,16 +6660,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -7170,16 +6757,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -7273,16 +6854,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -7376,16 +6951,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -7479,16 +7048,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -7582,16 +7145,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -7685,16 +7242,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -7788,16 +7339,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -7891,16 +7436,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -7994,16 +7533,10 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -8046,7 +7579,7 @@
 		</textblocks>
 	</template>	
 	
-<!-- Character Card template -->
+<!-- CHARACTER CARD TEMPLATE -->
 	<!-- Multi House Character Card template -->
 	<template src="proxy/proxyImages/Characters/char_NeutralMultiHouse.png" default="False">
 		<matches>
@@ -8150,90 +7683,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -8379,90 +7837,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -8608,90 +7991,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -8837,90 +8145,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -9066,90 +8299,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -9295,90 +8453,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -9524,90 +8607,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -9753,90 +8761,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -9982,90 +8915,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -10211,90 +9069,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -10440,90 +9223,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -10669,90 +9377,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -10898,90 +9531,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -11127,90 +9685,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -11356,90 +9839,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -11585,90 +9993,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -11814,90 +10147,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -12043,90 +10301,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -12272,90 +10455,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -12501,90 +10609,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -12730,90 +10763,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -12959,90 +10917,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -13188,90 +11071,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -13417,90 +11225,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -13646,90 +11379,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -13875,90 +11533,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -14104,90 +11687,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -14333,90 +11841,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -14562,90 +11995,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -14791,90 +12149,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -15020,90 +12303,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -15249,90 +12457,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -15478,90 +12611,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -15707,90 +12765,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -15936,90 +12919,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -16165,90 +13073,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -16394,90 +13227,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -16623,90 +13381,15 @@
 		</overlayblocks>
 		
 		<textblocks>
-			<conditional>
-				<if property="Cost" contains="s">
-					<link block="cardCost_shadows">
-						<property name="Cost"/>
-					</link> </if>
-				<else>
+			<!-- Card Cost -->
 					<link block="cardCost">
 						<property name="Cost"/>
-					</link> </else>
-			</conditional>
+					</link>
 			
 			<!-- Strength -->
-			<conditional>
-				<if property="Strength" value="11">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="10">
-					<link block="cardSTR_doubleDigit">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="9">
 					<link block="cardSTR">
 						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="8">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="7">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="6">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="5">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="4">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="3">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="2">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="1">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
-			<conditional>
-				<if property="Strength" value="0">
-					<link block="cardSTR">
-						<property name="Strength"/>
-					</link> </if>
-			</conditional>
+					</link>
 			
 			<!-- Gold/Intrigue/Initiative -->
 			<conditional>
@@ -16749,7 +13432,7 @@
 		</textblocks>
 	</template>
 	
-<!-- Help Card template -->
+<!-- HELP CARD TEMPLATE -->
 	<template src="proxy/proxyImages/agendaBackground.png" default="False">
 		<matches>
 			<match name="Type" value="Help"/>

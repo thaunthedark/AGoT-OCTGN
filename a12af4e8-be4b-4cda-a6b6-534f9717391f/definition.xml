@@ -21,7 +21,7 @@
 		<gameMode name="Melee" shortDescription="Use this matchmaking to find Melee players." image="cards/melee.jpg" playerCount="4" />
 	</gameModes>
   
-	<card back="cards/back.jpg" front="cards/front.jpg" width="63" height="88">
+	<card back="cards/back.png" front="cards/front.png" width="63" height="88">
 		<property name="House"          type="String"/>
 		<property name="Type"           type="String"/>
 		<property name="Traits"         type="String"/>
